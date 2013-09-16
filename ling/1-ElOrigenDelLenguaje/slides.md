@@ -90,254 +90,191 @@ No ha sido posible encontrar evidencias directas ni artefactos relacionados con 
 
 ## El cerebro humano
 
-\begin{itemize}
-	\item El cerebro humano es el responsable del control de todos estos componentes físicos disponibles para la potencial producción de sonidos articulados.
-	\item El cerebro de \it{H. sapiens} posee un tamaño inusualmente grande en relación con el tamaño del cuerpo.
-	\item El cerebro está lateralizado: cada hemisferio está especializado en unas tareas determinadas. 
-	\item En la mayoría de los humanos, las áreas encargadas del control de los movimientos motores implicados en el habla y en la manipulación de objetos se encuentran localizadas en el hemisferio izquierdo.
-	\item El hemisferio izquierdo tiene desarrollado en su corteza áreas específicas que posibilitan el lenguaje simbólico basado en significantes acústicos: el área de Wernicke y el área de Broca.
-\end{itemize}
+- El cerebro humano es el responsable del control de todos estos componentes físicos disponibles para la potencial producción de sonidos articulados.
+- El cerebro de *H. sapiens* posee un tamaño inusualmente grande en relación con el tamaño del cuerpo.
+- El cerebro está lateralizado: cada hemisferio está especializado en unas tareas determinadas. 
+- En la mayoría de los humanos, las áreas encargadas del control de los movimientos motores implicados en el habla y en la manipulación de objetos se encuentran localizadas en el hemisferio izquierdo.
+- El hemisferio izquierdo tiene desarrollado en su corteza áreas específicas que posibilitan el lenguaje jdsimbólico basado en significantes acústicos: el área de Wernicke y el área de Broca.
 
-\end{frame}
+--SUBSLIDE--
 
-\begin{frame}{El cerebro humano}
+- Resulta plausible una relación en el desarrollo de ambos tipos de habilidades y podemos hacer una analogía entre construir herramientas y el lenguaje.
+- Para contruir un hacha no basta con agarrar una piedra. Necesitamos agarrar dos piedras y hacerlas chocar.
+- Con el desarrollo del lenguaje, parece que existió una fase en la que los humanos primitivos, de manera rudimientaria, fueron capaces de nombrar los objetos del mundo, produciendo siempre un mismo ruido específico. 
+- Esta fase, crucial en el desarrollo del lenguaje, aún carecía de organización estructural.
+- Después de un determinado tiempo, los seres humanos terminaron perfeccionando esta capacidad de generar mensajes combinando vocalizaciones específicos.
 
-\begin{itemize}
-	\item Resulta plausible una relación en el desarrollo de ambos tipos de habilidades y podemos hacer una analogía entre construir herramientas y el lenguaje.
-	\item Para contruir un hacha no basta con agarrar una piedra. Necesitamos agarrar dos piedras y hacerlas chocar.
-	\item Con el desarrollo del lenguaje, parece que existió una fase en la que los humanos primitivos, de manera rudimientaria, fueron capaces de nombrar los objetos del mundo, produciendo siempre un mismo ruido específico. 
-	\item Esta fase, crucial en el desarrollo del lenguaje, aún carecía de organización estructural.
-	\item Después de un determinado tiempo, los seres humanos terminaron perfeccionando esta capacidad de generar mensajes combinando vocalizaciones específicos.
-\end{itemize}
+--SLIDE--
 
-\end{frame}
+# El origen genético
 
-\begin{frame}{El origen genético}
+- Un bebé humano durante sus primeros años de vida es un ejemplo viviente del desarrollo del lenguaje y de otras habilidades que nos hacen humanos.
+-  En el momento de nacer, el cerebro del bebé pesa 1/4 del peso de un adulto y su laringe se encuentra más elevada.
+- En relativamente poco tiempo, el cerebro se desarrolla, el bebé adopta una postura erguida y aprende a caminar sobre dos piernas. 
+- Y comienza a hablar. Incluso los bebés sordos de nacimiento, en las condiciones apropiadas, son cac de utilizar la lengua de signos con fluidez y en muy poco tiempo.
+- Este conjunto de desarrollos tan complejos y veloces han llevado a hipotizar sobre el origen genético del lenguaje.
+- Chomsky y sus seguidores defiended la capacidad innata de los seres humanos para el lenguaje.
+- Somos los únicos seres capacitados para el **lenguaje**, ¿pero somos los únicos capacitados para la **comunicación**?
 
-\begin{itemize}
-	\item Un bebé humano durante sus primeros años de vida es un ejemplo viviente del desarrollo del lenguaje y de otras habilidades que nos hacen humanos.
-	\item En el momento de nacer, el cerebro del bebé pesa 1/4 del peso de un adulto y su laringe se encuentra más elevada.
-	\item En relativamente poco tiempo, el cerebro se desarrolla, el bebé adopta una postura erguida y aprende a caminar sobre dos piernas. 
-	\item Y comienza a hablar. Incluso los bebés sordos de nacimiento, en las condiciones apropiadas, son capaces de utilizar la lengua de signos con fluidez y en muy poco tiempo.
-	\item Este conjunto de desarrollos tan complejos y veloces han llevado a hipotizar sobre el origen genético del lenguaje.
-	\item Chomsky y sus seguidores defiended la capacidad innata de los seres humanos para el lenguaje.
-%	\item Somos los únicos seres capacitados para el lenguaje, ¿pero somos los únicos capacitados para la comunicación?
-\end{itemize}
+--SLIDE--
 
-\end{frame}
+# Los orígenes del lenguaje: la teoría gradualista
 
-\begin{frame}{}
+--SLIDE--
 
-\begin{center}
-\LARGE Los orígenes del lenguaje: la teoría gradualista
-\end{center}
+# Planteemos el problema
 
-\end{frame}
+- Si existen zonas del cerebro relacionadas con el lenguaje y somos capaces de comprobar si algunas razas de homínidos poseían tales zonas (e incluso, si somos capaces de reconstruir a partir de fósiles la evolución de esas partes del cerebro) podríamos tener una aproximación a algo así como la «evolución de la posibilidad del lenguaje». 
+- Si una especie de homínido resulta tener algo que no tienen otras y sí tenemos nosotros, y este algo está relacionado con el lenguaje, podemos suponer que esta especie podría haber tenido un lenguaje como el nuestro, pero no las otras.
+- Si para la fonación hacen falta determinadas características de la boca, la lengua y la laringe, etc. y determinada especie de homínidos, pero no otras, posee estás características, podemos pensar que dicha especie podría articular sonidos similares a los nuestros.   
 
-\begin{frame}{Planteemos el problema}
+--SLIDE--
+# ¿Surgió el lenguaje por mutación genética?
 
-\begin{itemize}
-	\item Si existen zonas del cerebro relacionadas con el lenguaje y somos capaces de comprobar si algunas razas de homínidos poseían tales zonas (e incluso, si somos capaces de reconstruir a partir de fósiles la evolución de esas partes del cerebro) podríamos tener una aproximación a algo así como la «evolución de la posibilidad del lenguaje».  
-	\item Si una especie de homínido resulta tener algo que no tienen otras y sí tenemos nosotros, y este algo está relacionado con el lenguaje, podemos suponer que esta especie podría haber tenido un lenguaje como el nuestro, pero no las otras.
-	\item Si para la fonación hacen falta determinadas características de la boca, la lengua y la laringe, etc. y determinada especie de homínidos, pero no otras, posee estás características, podemos pensar que dicha especie podría articular sonidos similares a los nuestros.   
-\end{itemize}
-\end{frame}
+- Tal y como explica la teoría de la evolución, cualquier cambio significativo implica mutaciones en una parte considerable del genoma.
+- Las mutaciones aprovechan lo que ya existe y, o bien le añaden nuevas funcionalidades, o bien cambian una función antigua por otra nueva, aunque relacionada.
+- Chomsky y sus seguidores defienden el origen genético e innato del lenguaje. Consideran además que el lenguaje es un módulo cerebral independiente que, en un momento dado de la evolución de los homínidos, surgió con motivo de una mutación radical que implantó los principios de la Gramática Universal en el cerebro. 
+- Pero esta concepción, entendida de manera radical, es problemática. Veamos por qué.
 
-\begin{frame}{¿Surgió el lenguaje por mutación genética?}
+--SUBSLIDE--
 
-\begin{itemize}
-	\item Tal y como explica la teoría de la evolución, cualquier cambio significativo implica mutaciones en una parte considerable del genoma.
-	\item Las mutaciones aprovechan lo que ya existe y, o bien le añaden nuevas funcionalidades, o bien cambian una función antigua por otra nueva, aunque relacionada.
-	\item Chomsky y sus seguidores defienden el origen genético e innato del lenguaje. Consideran además que el lenguaje es un módulo cerebral independiente que, en un momento dado de la evolución de los homínidos, surgió con motivo de una mutación radical que implantó los principios de la Gramática Universal en el cerebro. 
-	\item Pero esta concepción, entendida de manera radical, es problemática. Veamos por qué.
-\end{itemize}
-
-\end{frame}
-
-\begin{frame}{¿Surgió el lenguaje por mutación genética?}
-
-\begin{itemize}
-	\item Para empezar, nada que tenga base genética es exactamente igual en todos los seres humanos. De hecho, se producen continuamente mutaciones por infinidad de motivos. 
+- Para empezar, nada que tenga base genética es exactamente igual en todos los seres humanos. De hecho, se producen continuamente mutaciones por infinidad de motivos. 
 	
-	P. ej., encontramos niños que nacen sordos, ciegos, siameses con dos cabezas, seis dedos, con gigantismo/enanismo, Down, etc.
+P. ej., encontramos niños que nacen sordos, ciegos, siameses con dos cabezas, seis dedos, con gigantismo/enanismo, Down, etc.
 	
-	\item Sin embargo, no encontramos niños que presenten diferencias lingüísticas con respecto a sus padres.
+- Sin embargo, no encontramos niños que presenten diferencias lingüísticas con respecto a sus padres.
 	
-	P. ej., no existen niños que combinen las estructuras sintácticas de manera diferente o enlacen los morfemas de maneras distintas.
+P. ej., no existen niños que combinen las estructuras sintácticas de manera diferente o enlacen los morfemas de maneras distintas.
 	
-	\item El lenguaje sería el único órgano en todos los seres vivos que es igual en todos los casos $\rightarrow$ esta hipótesis es excesiva.
+- El lenguaje sería el único órgano en todos los seres vivos que es igual en todos los casos: esta hipótesis es excesiva.
 	
-	\item Podemos entender el lenguaje no como una mutación completamente nueva y radical, sino como el producto de pequeños cambios paulatinos a lo largo del tiempo. De esta manera es precisamente como actúa la selección natural.
+- Podemos entender el lenguaje no como una mutación completamente nueva y radical, sino como el producto de pequeños cambios paulatinos a lo largo del tiempo. De esta manera es precisamente como actúa la selección natural.
+
+--SLIDE--
+
+# ¿Sirve de algo estudiar a los monos?
+
+- Hace unos 6M años, los homínidos se separaron de los antepasados de nuestros parientes más próximos: los actuales chimpancés.
+- Las comparaciones no son sencillas, principalmente porque los chimpancés también han evolucionado en estos últimos millones de años. 
+- El estudio de los chimpancés en su hábitat natural ha permitido diversos descubrimientos:
+    - son capaces de utilizar herramientas sencillas: ramitas para cazar termitas, piedras para abrir frutos. 
+    - cazan en grupo y comparten el botín.
+    - utilizan piedras para ahuyentar a los depredarores.
+- El uso de herramientas cambia de un grupo a otro: ¿existen diversas culturas?
+
+--SUBSLIDE--
+
+- El estudio de chimpancés en cautividad también ha sido amplio. 
+- Se ha tratado de criar chimpancés (también gorillas y orangutanes) desde el nacimiento dentro de una familia como si fueran bebés humanos, incluso en compañía de estos.
+- La triste realidad es que ninguno de ellos aprendió a hablar (algo comprensible, dado que su aparato fonatorio no es compatible con los sonidos de las lenguas humanas) pero tampoco a utilizar lenguajes gestuales (para los que en principio no tienen ninguna limitación física).
+- El caso más espectacular y famoso es el de una chimpancé bonobo llamada Kanzi que aprendió a reconocer oralmente hasta 125 signos y era capaz de crear `oraciones' sencillas agrupando dos conceptos utilizando un vocabulario de imágenes.
+
+--SUBSLIDE--
+
+- Fue capaz de discriminar oraciones como ``echa la leche en el agua'' y ``echa el agua en la leche'', o ``haz que el perro muerda a la serpiente'' y ``haz que la serpiente muerda al perro''. 
+- Lo llamativo es que aprendió sin instrucción lingüística, cuando los investigadores trataban de enseñar a comunicarse (con éxito nulo) a su madre.
+- Kanzi creció desde recién nacida en un entorno en el que la comunicación y el trato interpersonal estaba muy desarrollado, mucho más que en su entorno natural. Esto posibilitó desarrollar sus capacidades al límite. 
+- Igual que en los niños humanos, la necesidad de comunicarse empujó la actividad simbólica y la secuenciación de símbolos.
+- Kanzi alcanzó un pre-lenguaje rudimentario, pero ni ella ni nungún otro mono antropoide ha sido capaz de alcanzar el desarrollo lingüístico de un niño humano de 2 años.
+
+--SLIDE--
+
+# ¿Cuándo surgió el lenguaje?
+
+- Es una pregunta difícil de responer.
+    - ¿Cuándo hablamos de lenguaje propiamente dicho?
+    - ¿Existen fases intermedias entre la forma de comunicación de los chimpancés y la nuestra?
 	
-\end{itemize}
-
-\end{frame}
-
-\begin{frame}{¿Sirve de algo estudiar a los monos?}
-
-\begin{itemize}
-	\item Hace unos 6M años, los homínidos se separaron de los antepasados de nuestros parientes más próximos: los actuales chimpancés.
-	\item Las comparaciones no son sencillas, principalmente porque los chimpancés también han evolucionado en estos últimos millones de años. 
-	\item El estudio de los chimpancés en su hábitat natural ha permitido diversos descubrimientos:
-	\begin{itemize}
-		\item son capaces de utilizar herramientas sencillas: ramitas para cazar termitas, piedras para abrir frutos. 
-		\item cazan en grupo y comparten el botín.
-		\item utilizan piedras para ahuyentar a los depredarores.
-		\item El uso de herramientas cambia de un grupo a otro: ¿existen diversas culturas?
-	\end{itemize}
-\end{itemize}
-\end{frame}
-
-\begin{frame}{¿Sirve de algo estudiar a los monos?}
-
-	\begin{itemize}
-		\item El estudio de chimpancés en cautividad también ha sido amplio. 
-		\item Se ha tratado de criar chimpancés (también gorillas y orangutanes) desde el nacimiento dentro de una familia como si fueran bebés humanos, incluso en compañía de estos.
-		\item La triste realidad es que ninguno de ellos aprendió a hablar (algo comprensible, dado que su aparato fonatorio no es compatible con los sonidos de las lenguas humanas) pero tampoco a utilizar lenguajes gestuales (para los que en principio no tienen ninguna limitación física).
-		\item El caso más espectacular y famoso es el de una chimpancé bonobo llamada Kanzi que aprendió a reconocer oralmente hasta 125 signos y era capaz de crear `oraciones' sencillas agrupando dos conceptos utilizando un vocabulario de imágenes.
-	\end{itemize}
-\end{frame}
-
-\begin{frame}{¿Sirve de algo estudiar a los monos?}
-
-	\begin{itemize}
-		\item Fue capaz de discriminar oraciones como ``echa la leche en el agua'' y ``echa el agua en la leche'', o ``haz que el perro muerda a la serpiente'' y ``haz que la serpiente muerda al perro''. 
-		\item Lo llamativo es que aprendió sin instrucción lingüística, cuando los investigadores trataban de enseñar a comunicarse (con éxito nulo) a su madre.
-		\item Kanzi creció desde recién nacida en un entorno en el que la comunicación y el trato interpersonal estaba muy desarrollado, mucho más que en su entorno natural. Esto posibilitó desarrollar sus capacidades al límite. 
-		\item Igual que en los niños humanos, la necesidad de comunicarse empujó la actividad simbólica y la secuenciación de símbolos.
-		\item Kanzi alcanzó un pre-lenguaje rudimentario, pero ni ella ni nungún otro mono antropoide ha sido capaz de alcanzar el desarrollo lingüístico de un niño humano de 2 años.
-	\end{itemize}
-
-\end{frame}
-
-\begin{frame}{¿Cuándo surgió el lenguaje?}
-
-\begin{itemize}
-	\item Es una pregunta difícil de responer.
-	\begin{itemize}
-		\item ¿Cuándo hablamos de lenguaje propiamente dicho?
-		\item ¿Existen fases intermedias entre la forma de comunicación de los chimpancés y la nuestra?
-	\end{itemize}
-	\item Algunos investigadores situán los inicios del lenguaje en el \it{H. habilis} (hace 2M años) y el \it{H. erectus} (hace 1,5M años). Estos homínidos podrían tener un pre-lenguaje, un mecanismo de comunicación mínimo sin los principios de la sintaxis.
-	\item Otros investigadores defienden que los orígenes del lenguaje son mucho más recientes, cuando aparció el \it{H. sapiens} (hace 200.000 - 150.000 años).
-	\item Sin embargo, hasta hace 35.000 años no aparecen las primeras representaciones artísticas que dejan translucir ciertas capacidades simbólicas.
-	\item Según el registro fósil, hasta hace 10.000 años los humanos no tenían un riego cerebral similar al nuestro.
-\end{itemize}
-\end{frame}
+- Algunos investigadores situán los inicios del lenguaje en el *H. habilis* (hace 2M años) y el *H. erectus* (hace 1,5M años). Estos homínidos podrían tener un pre-lenguaje, un mecanismo de comunicación mínimo sin los principios de la sintaxis.
+- Otros investigadores defienden que los orígenes del lenguaje son mucho más recientes, cuando aparció el *H. sapiens* (hace 200.000 - 150.000 años).
+- Sin embargo, hasta hace 35.000 años no aparecen las primeras representaciones artísticas que dejan translucir ciertas capacidades simbólicas.
+- Según el registro fósil, hasta hace 10.000 años los humanos no tenían un riego cerebral similar al nuestro.
 
 
-\begin{frame}{Evolución humana}
+--SLIDE--
+# Evolución humana
 
-\begin{center} 
-  \includegraphics[scale=0.4]{img/humanevolutionchart.png} 
-\end{center}
-\end{frame}
+![img/humanevolutionchart.png](Evolución humana)
 
-\begin{frame}{¿Hablaban los Neanderthales?}
+--SLIDE--
+# ¿Hablaban los Neanderthales?
 
-\begin{itemize}
-	\item Si los neanderthales eran una especie distinta a la nuestra, cabe la posibilidad de que su lenguaje nos pareciera tan extraño e inaccesible como el de cualquier otra especie animal.
-	\item Muchos autores coinciden en decir que el aparato fonatorio neanderthal era más limitado que el nuestro. 
-	\begin{itemize}
-		\item Solo podrían articular vocales en el ámbito de \ipa{[e o]}.
-		\item Los sonidos vocálicos serían fuertemente nasalizados.
-		\item Aparentemente, podrían pronunciar la mayoría de nuestros sonidos consonánticos, salvo las velares \ipa{[k g]}
-	\end{itemize}
-	\item A pesar de lo aparentemente limitado de este sistema, si lo comparamos con lenguas modernas, es lo suficientemente rico para permitir la comunicación articulada.
-	\item La única pega es el tamaño y la posición de la lengua neandertal, que sugiere que tenían una expresión lenta y poco eficaz.
-\end{itemize}
+- Si los neanderthales eran una especie distinta a la nuestra, cabe la posibilidad de que su lenguaje nos pareciera tan extraño e inaccesible como el de cualquier otra especie animal.
+- Muchos autores coinciden en decir que el aparato fonatorio neanderthal era más limitado que el nuestro. 
+    - Solo podrían articular vocales en el ámbito de [e] y [o].
+    - Los sonidos vocálicos serían fuertemente nasalizados.
+    - Aparentemente, podrían pronunciar la mayoría de nuestros sonidos consonánticos, salvo las velares [k] y [g].
+- A pesar de lo aparentemente limitado de este sistema, si lo comparamos con lenguas modernas, es lo suficientemente rico para permitir la comunicación articulada.
+- La única pega es el tamaño y la posición de la lengua neandertal, que sugiere que tenían una expresión lenta y poco eficaz.
 
-\end{frame}
+--SLIDE--
 
-\begin{frame}{Hipótesis gradualista del lenguaje}
-\begin{itemize}
-	\item El lenguaje empezó a desarrollarse paulatinamente hace 2M años y la evolución gradual desembocó en algo parecido a nuestra lenguas actuales hace unos 100.000 años.
-	\item Desde ese momento, podemos ver un proceso de aumento de complejidad del lenguaje y una progresiva automatización (paralelo al desarrollo de una sintaxis).
-	\item El origen del lenguaje es un elemento más del conjunto de la vida y la cultura humana: todo debió de evolucionar simultáneamente.
-\end{itemize}
+# Hipótesis gradualista del lenguaje
 
-\begin{enumerate}
-	\item ¿Cómo pasamos a una producción intencional, voluntaria y arbitraria del lenguaje?
-	\item ¿Cómo se crean las palabras y cómo crece el vocabulario?
-	\item ¿Cómo se crean unidades complejas a partir de palabras?
-	\item ¿Cómo se perfecciona el sistema fonatorio?
-\end{enumerate}
+- El lenguaje empezó a desarrollarse paulatinamente hace 2M años y la evolución gradual desembocó en algo parecido a nuestra lenguas actuales hace unos 100.000 años.
+- Desde ese momento, podemos ver un proceso de aumento de complejidad del lenguaje y una progresiva automatización (paralelo al desarrollo de una sintaxis).
+- El origen del lenguaje es un elemento más del conjunto de la vida y la cultura humana: todo debió de evolucionar simultáneamente.
 
-\end{frame}
+1. ¿Cómo pasamos a una producción intencional, voluntaria y arbitraria del lenguaje?
+2. ¿Cómo se crean las palabras y cómo crece el vocabulario?
+3. ¿Cómo se crean unidades complejas a partir de palabras?
+4. ¿Cómo se perfecciona el sistema fonatorio?
 
-\begin{frame}{Producción intencional, voluntaria y arbitraria}
+--SLIDE--
 
-\begin{itemize}
-	\item Partamos de la idea de que los primeros homínidos manejaban un conjunto de gritos y señales básicos para la comunicación (algo similar a los chimpancés actuales): existe un grito para avisar al resto de la manada de la existencia de comida, otro grito para alertar de un depredador, etc.
-	\item Estos gritos o señales son involuntarias, casi automáticos: cuando alguien ve comida o un depredador, produce el grito correspondiente.
-	\item A partir de un determinado momento, alguien aprende a hacer las señales de manera voluntaria y se comienzan a utilizar para otros fines (p. ej., evitar ser atrapado por un depredador, engañar a tus compañeros para quedarte con la comida).
-	\item De esta manera se convierten en signos básicamente arbitrarios, dirigidos a un fin concreto y con una función simbólica.
-\end{itemize}
+# Producción intencional, voluntaria y arbitraria
 
-\end{frame}
+- Partamos de la idea de que los primeros homínidos manejaban un conjunto de gritos y señales básicos para la comunicación (algo similar a los chimpancés actuales): existe un grito para avisar al resto de la manada de la existencia de comida, otro grito para alertar de un depredador, etc.
+- Estos gritos o señales son involuntarias, casi automáticos: cuando alguien ve comida o un depredador, produce el grito correspondiente.
+- A partir de un determinado momento, alguien aprende a hacer las señales de manera voluntaria y se comienzan a utilizar para otros fines (p. ej., evitar ser atrapado por un depredador, engañar a tus compañeros para quedarte con la comida).
+- De esta manera se convierten en signos básicamente arbitrarios, dirigidos a un fin concreto y con una función simbólica.
 
+--SLIDE--
 
-\begin{frame}{Aumento de vocabulario}
+# Aumento de vocabulario
 
-\begin{itemize}
-	\item Las palabras se corresponden con conceptos: es imprescindible que el concepto exista y que alguien empareje el concepto y el símbolo que lo representa.
-	\item Por definición siempre se ha dicho que el signo lingüístico es la unión arbitraria entre un significante y un significado. 
-	
-	No hay nada en la palabra \it{agua} que denote líquido, humedad, bebida\ldots  De hecho, es tan arbitrario que en otras lenguas utilizan otros signos para designar el mismo concepto: \it{water, eau, acqua, Wasser, yaku, ma, shui\ldots} 
-	
-	\item Sin embargo, el signo lingüístico no es tan arbitrario como parece. Existe la fonética expresiva que permite explicar por qué asociamos de manera universal determinados sonidos a significados concretos.
-	
-	\ipa{[i]} se asocia con objetos pequeños, \ipa{[o]} e \ipa{[u]} se asocia con objetos grandes o pesados, \ipa{[S]} se asocia con cosas que fluyen, \ipa{[k]} con cosas que se rompen\ldots     
-\end{itemize}
+- Las palabras se corresponden con conceptos: es imprescindible que el concepto exista y que alguien empareje el concepto y el símbolo que lo representa.
+- Por definición siempre se ha dicho que el signo lingüístico es la unión arbitraria entre un significante y un significado. 
+- No hay nada en la palabra *agua* que denote líquido, humedad, bebida\ldots  De hecho, es tan arbitrario que en otras lenguas utilizan otros signos para designar el mismo concepto: *water, eau, acqua, Wasser, yaku, ma, shui...* 
 
-\end{frame}
+- Sin embargo, el signo lingüístico no es tan arbitrario como parece. Existe la fonética expresiva que permite explicar por qué asociamos de manera universal determinados sonidos a significados concretos.
+- el sonido [i]} se asocia con objetos pequeños; los sonidos [o] y [u] se asocia con objetos grandes o pesados; [*sh*] se asocia con cosas que fluyen; [k] con cosas que se rompen...
 
+*-*CORRECION*-*
 
-\begin{frame}{Palabras y gestos}
+--SLIDE--
 
-\begin{itemize}
-	\item Imagínese que producimos una vocalización que signifique ``objeto largo y estrecho''. 
-	\item En este ejemplo, vamos a llamarla \it{ded}. Ya tenemos una palabra. 
-	\item La podemos utilizar para designar muchísimas cosas: una rama de árbol, el brazo, la pierna, los dedos de la mano, un sendero, la cola de un animal, una serpiente.
-	\item Podemos hacer variaciones de las palabras para distinguir estos sonidos (alargar más o menos la vocal, cambiar el tono, etc.) o podemos acompañar la pronunciación con gestos.
-	\item No hay razón para pensar que los homínidos primitivos no utilizaban combinaciones de vocalizaciones y lenguaje gestual (de hecho, estas combinaciones existen en lenguas actuales).
-\end{itemize}
+# Palabras y gestos
 
-\end{frame}
+- Imagínese que producimos una vocalización que signifique *objeto largo y estrecho*. 
+- En este ejemplo, vamos a llamarla *ded*. Ya tenemos una palabra. 
+- La podemos utilizar para designar muchísimas cosas: una rama de árbol, el brazo, la pierna, los dedos de la mano, un sendero, la cola de un animal, una serpiente.
+- Podemos hacer variaciones de las palabras para distinguir estos sonidos (alargar más o menos la vocal, cambiar el tono, etc.) o podemos acompañar la pronunciación con gestos.
+- No hay razón para pensar que los homínidos primitivos no utilizaban combinaciones de vocalizaciones y lenguaje gestual (de hecho, estas combinaciones existen en lenguas actuales).
 
+--SUBSLIDE--
 
-\begin{frame}{Palabras y gestos}
+- Una hipótesis plausible para explicar el origen del vocabulario es pensar en combinaciones de vocalizaciones con sentidos generales y especificaciones a través de gestos. Es un mecanismo muy productivo. 
+- Nuestros homínidos primitivos podrían incorporar también gestos que incluyeran movimientos con la lengua y los labios. De esta manera, la boca quedaba configurada con determinadas características acústicas. 
+- ¿Qué pasa si nuestro homínido expulsa aire de los pulmones en ese momento? Obtendría un sonido directamente relacionado con el gesto inicial.
+- Ya tenemos algo parecido a un lenguaje primitivo: vocalizaciones, combinaciones de vocalizaciones y gestos con las manos, gestos de la cara, etc. Quizá no es mucho, pero es más sofisticado que el lenguaje de los chimpancés.
+- El uso de todos estos mecanismos podría favorecer el desarrollo de otras capacidades del cerebro.
 
-\begin{itemize}
-	\item Una hipótesis plausible para explicar el origen del vocabulario es pensar en combinaciones de vocalizaciones con sentidos generales y especificaciones a través de gestos. Es un mecanismo muy productivo. 
-	\item Nuestros homínidos primitivos podrían incorporar también gestos que incluyeran movimientos con la lengua y los labios. De esta manera, la boca quedaba configurada con determinadas características acústicas. 
-	\item ¿Qué pasa si nuestro homínido expulsa aire de los pulmones en ese momento? Obtendría un sonido directamente relacionado con el gesto inicial.
-	\item Ya tenemos algo parecido a un lenguaje primitivo: vocalizaciones, combinaciones de vocalizaciones y gestos con las manos, gestos de la cara, etc. Quizá no es mucho, pero es más sofisticado que el lenguaje de los chimpancés.
-	\item El uso de todos estos mecanismos podría favorecer el desarrollo de otras capacidades del cerebro.
-\end{itemize}
+--SLIDE--
 
-\end{frame}
+# ¿Qué es la sintaxis?
 
-\begin{frame}{¿Qué es la sintaxis?}
+- Las frases y oraciones no son una mera sucesión de palabras, sino que poseen una estructura jerárquica. Unas palabras ``dependen de'' o ``están relacionadas con'' otras.
+- Cuanto más frecuente y simple sea una actividad, tanto más automatizada llegará a hacerse, hasta el punto de que no necesitemos planificarla ni seremos conscientes de cómo la realizamos.
+- Con el lenguaje pasa algo parecido. Al preparar un discurso, necesitamos planificar qué queremos decir y cómo queremos trasmitirlo. Al hablar con un amigo en la calle, habitualmente, no pensamos en cómo estructuramos los elementos de nuestro discurso. 
 
-\begin{itemize}
-	\item Las frases y oraciones no son una mera sucesión de palabras, sino que poseen una estructura jerárquica. Unas palabras ``dependen de'' o ``están relacionadas con'' otras.
-	\item Cuanto más frecuente y simple sea una actividad, tanto más automatizada llegará a hacerse, hasta el punto de que no necesitemos planificarla ni seremos conscientes de cómo la realizamos.
-	\item Con el lenguaje pasa algo parecido. Al preparar un discurso, necesitamos planificar qué queremos decir y cómo queremos trasmitirlo. Al hablar con un amigo en la calle, habitualmente, no pensamos en cómo estructuramos los elementos de nuestro discurso. 
-\end{itemize}
+--SUBSLIDE--
 
-\end{frame}
-
-\begin{frame}{¿Qué es la sintaxis?}
-
-\begin{itemize}
-	\item Por el momento, y sin necesidad de profundizar más, podemos entender la sintaxis como la automatización de procesos lingüísticos.
-	\item El hemisferio cerebral derecho se especializa en realizar actividades globales y creativas en estrecha dependencia del contecto concreto. 
-	\item En el hemisferio izquierdo (donde residen las áreas del lenguaje) se realizan las tareas frecuentes y rutinarias qe exigen precisión pero que ya están automatizadas.
-\end{itemize}
+- Por el momento, y sin necesidad de profundizar más, podemos entender la sintaxis como la automatización de procesos lingüísticos.
+- El hemisferio cerebral derecho se especializa en realizar actividades globales y creativas en estrecha dependencia del contecto concreto. 
+- En el hemisferio izquierdo (donde residen las áreas del lenguaje) se realizan las tareas frecuentes y rutinarias qe exigen precisión pero que ya están automatizadas.
 
 
-\end{frame}
 
 \begin{frame}{Gestos, verbos y sintaxis}
 
