@@ -113,150 +113,174 @@ Los ingredientes imprescindibles de cualquier proceso de comunicación son seis:
 Uno de los requisitos en cualquier proceso de comunicación es que exista una señal entre el emisor y el receptor. 
 
 
-- [señal] elemento material, cuya percepción nos informa de la existencia de otra realidad.  
+- La **señal** es un elemento material, cuya percepción nos informa de la existencia de otra realidad.  
+
+--SUBSLIDE--
+
+![Señales](img/senales.png) 
 
 
-\vspace{-1cm}
+--SUBSLIDE--
 
-\begin{center} 
-  \includegraphics[angle=270,width=1\textwidth]{img/senales.pdf} 
-\end{center} 
+### Indicios
+
+- Relación de **contigüidad**.
+  
+- Existe un vínculo natural entre la señal y lo señalado, habitualmente es relación causa-efecto. 
+  
+- Esta vinculación estricta justifica el poder informativo de la señal. Se interpretan a partir de la experiencia humana. 
+  
+- P. ej., humo, charcos en la calle, fiebre.  
+
+
+--SUBSLIDE--
+
+### Iconos
+
+- Relación de **semejanza**
+
+- La señal representa lo señalado de manera figurativa y funciona dentro de un determinado marco cultural. 
+  
+- P. ej., iconos del ordenador, señales en las puertas del WC, señales de tráfico.  
+
+
+--SUBSLIDE--
+
+### Símbolos
+
+- Relación **convencional**.
+  
+- Existe un mero pacto arbitrario, el significado se ha establecido de forma convencional. 
+  
+- Solo son efectivos si el grupo conoce las convenciones adoptadas. 
+  
+- P. ej., colores del semáforo, símbolos químicos, la mayoría de las señales lingüísticas.
 
 
 --SLIDE--
 
+## Los signos lingüísticos
 
-## Tipos de señales}
+- El hecho de que entre los signos no exista vinculación natural o figurativa permite expresar cualquier tipo de idea concreta o abstracta.
+
+- Ferdinand de Saussure incorporó la idea de **arbitrariedad** del signo lingüístico en su *Curso de Lingüística General* (1916). Para Saussure el signo lingüístico es una entidad formada por dos elementos indisolubles:
 
 
-- [indicios] (relación de contigüidad): existe un vínculo natural entre la señal y lo señalado, habitualmente es relación causa-efecto. Esta vinculación estricta justifica el poder informativo de la señal. Se interpretan a partir de la experiencia humana. P. ej., humo, charcos en la calle, fiebre.  
+--SUBSLIDE--
 
-- [iconos] (relación de semejanza): la señal representa lo señalado de manera figurativa y funciona dentro de un determinado marco cultural. P. ej., iconos del ordenador, señales en las puertas del WC, señales de tráfico.  
+## El signo lingüístico
 
-- [símbolos] (relación convencional): existe un mero pacto arbitrario, el significado se ha establecido de forma convencional. Solo son efectivos si el grupo conoce las convenciones adoptadas. P. ej., colores del semáforo, símbolos químicos, la mayoría de las señales lingüísticas.  
+- **significante** es la forma de la señal *manzana*, entendida no solo como secuencia de sonidos, sino como *imagen acústica*.
+
+- **significado** es el equivalente del concepto, la noción o idea de "manzana".
+
+![Una manzana](img/apple.jpg)
 
 
 --SLIDE--
 
-## Los signos lingüísticos}
-El hecho de que entre los signos no exista vinculación natural o figurativa permite expresar cualquier tipo de idea concreta o abstracta.
+## Los signos lingüísticos dentro de un sistema
 
-Ferdinand de Saussure incorporó la idea de **arbitrariedad} del signo lingüístico en su \textit{Curso de Lingüística General} (1916). Para Saussure el signo lingüístico es una entidad formada por dos elementos indisolubles:
+- Los signos lingüísticos no suelen aparecer aislados, sino que funcionan dentro de sistemas. 
 
-
-
-
-- [significante] es la forma de la señal **manzana}, entendida no solo como secuencia de sonidos, sino como \textit{imagen acústica}.
-
-- [significado] es el equivalente del concepto, la noción o idea de ``manzana''.
+- **sistema** es un tipo de estructura formado por dos o más entidades que mantienen entre sí algún tipo de relación, normalmente de oposición.
 
 
-\begin{center} 
-  \includegraphics[width=0.3\textwidth]{img/apple.jpg} 
-\end{center} 
+--SUBSLIDE--
+
+### Relaciones sistemáticas de oposición:
+
+- A nivel de léxico: bonito/feo, bueno/malo, abrir/cerrar, nacer/morir 
+- A nivel de morfológico: niño/niña, doctor/doctora, amo/amas 
+- A nivel de fonológico: caja/baja, bar/mar, sabios/labios 
+
+- Las lenguas son sistemas *económicos* porque un simple cambio de unidad permite designar significados nuevos.
+
 
 --SLIDE--
 
-## Los signos lingüísticos dentro de un sistema}
-Los signos lingüísticos no suelen aparecer aislados, sino que funcionan dentro de sistemas. 
+## Las lenguas como sistema
 
+- Una lengua ideal sería un sistema de signos (arbitrarios o convencionales) en el que cada signo tuviera un único significado y referente.
 
-- [sistema] es un tipo de estructura formado por dos o más entidades que mantienen entre sí algún tipo de relación, normalmente de oposición.
+- Esta situación la encontramos en las lenguas artificiales y en el vocabulario científico o técnico. Pero las lenguas naturales, en su registro común, suele presentar ambigüedad.
 
+- sinonimia: *carro*, *coche*, *automóvil*
 
-Relaciones sistemáticas de oposición:
+- polisemia: *banco* (oficina bancaria, conjunto de peces, asiento)
 
+- Las lenguas son sistemas efectivos y polivalentes, y en el uso ordinario existen suficientes mecanismos lingüísticos para aclarar con precisión los significados y eliminar la ambigüedad.
 
-	- A nivel de léxico: bonito/feo, bueno/malo, abrir/cerrar, nacer/morir 
-	- A nivel de morfológico: niño/niña, doctor/doctora, amo/amas 
-	- A nivel de fonológico: caja/baja, bar/mar, sabios/labios 
-
-
-Las lenguas son sistemas ``económicos'' porque un simple cambio de unidad permite designar significados nuevos.
 
 --SLIDE--
 
-
-## Las lenguas como sistema}
-
-Una lengua ideal sería un sistema de signos (arbitrarios o convencionales) en el que cada signo tuviera un único significado y referente.
-
-Esta situación la encontramos en las lenguas artificiales y en el vocabulario científico o técnico. Pero las lenguas naturales, en su registro común, suele presentar ambigüedad.
-
-
-	- sinonimia: ``carro'', ``coche'', ``automóvil''
-	- polisemia: ``banco'' (oficina bancaria, conjunto de peces, asiento)
-
-
-Las lenguas son sistemas efectivos y polivalentes, y en el uso ordinario existen suficientes mecanismos lingüísticos para aclarar con precisión los significados y eliminar la ambigüedad.
-
---SLIDE--
-
-
-## Concatenación de señales lingüísticas}
+## Concatenación de señales lingüísticas
 	
-Podemos combinar distintos signos lingüísticos concatenándolos para formar mensajes complejos. 
+- Podemos combinar distintos signos lingüísticos concatenándolos para formar mensajes complejos. 
 
-\begin{enumerate}
-	- El sol se pone cada día.
-	- El sol cada día se pone.
-	- Cada día se pone el sol.
-	- Cada día el sol se pone.
-	- Se pone el sol cada día.
-	- Se pone cada día el sol.
+1. El sol se pone cada día.
+
+2. El sol cada día se pone.
+
+3. Cada día se pone el sol.
+
+4. Cada día el sol se pone.
+
+5. Se pone el sol cada día.
+
+6. Se pone cada día el sol.
+
+7. \* El sol se cada día pone.
 	
-	- * El sol se cada día pone.
-	- * Cada sol el pone se día.
-\end{enumerate}
+8. \* Cada sol el pone se día.
+
+
+--SUBSLIDE--
+
+## Concatenación de señales lingüísticas
+
+
+- Las frases anteriores se pueden descomponer en elementos (o sintagmas): \[el sol\], \[se pone\] y \[cada día\]. 
+
+- Las posibilidades combinatorias nos permiten cierta libertad pero nos obligan a mantener estos sintagmas unidos.
+
+- La concatenación de los signos lingüísticos está regulada por factores como el orden de aparición de los elementos, las concordancias, las relaciones entre núcleo y complementos, etc.
+
+- Sin embargo, existen estructuras sintáticas que en determinadas circunstancias pueden interpretarse de dos formas distintas (ambigüedad estructural).
 
 
 --SLIDE--
 
-## Concatenación de señales lingüísticas}
-
-
-	- Las frases anteriores se pueden descomponer en elementos (o sintagmas): [el sol], [se pone] y [cada día]. 
-	- Las posibilidades combinatorias nos permiten cierta libertad pero nos obligan a mantener estos sintagmas unidos.
-	- La concatenación de los signos lingüísticos está regulada por factores como el orden de aparición de los elementos, las concordancias, las relaciones entre núcleo y complementos, etc.
-	- Sin embargo, existen estructuras sintáticas que en determinadas circunstancias pueden interpretarse de dos formas distintas (ambigüedad estructural).
-
-
---SLIDE--
-
-## Ambigüedad sintática}
+## Ambigüedad sintática
 	
-\begin{enumerate}
-	- Ayer me encontré con tu padre corriendo.
-	- El hijo del librero que vive en Manresa es muy joven.
-	- Juan y María se han comprado un libro.
-\end{enumerate}
+1. Ayer me encontré con tu padre corriendo.
 
-\pause
+2. El hijo del librero que vive en Manresa es muy joven.
 
-\begin{enumerate}
-	- Mientras corría ayer, me encontré con tu padre.
-	- El librero que vive en Manresa tiene un hijo muy joven.
-	- Juan se ha comprado un libro y María también.
-\end{enumerate}
+3. Juan y María se han comprado un libro.
 
 
-	- La ambigüedad sintática es poco frecuente en la práctica, porque el contexto permite aclarar con precisión. 
-	- Posiblemente sea en la escritura donde debemos poner más empeño en evitar este tipo de construcciones.
+--SUBSLIDE--
+
+1. Mientras corría ayer, me encontré con tu padre.
+
+2. El librero que vive en Manresa tiene un hijo muy joven.
+
+3. Juan se ha comprado un libro y María también.
 
 
+--SUBSLIDE--
 
+- La ambigüedad sintática es poco frecuente en la práctica, porque el contexto permite aclarar con precisión. 
 
---SLIDE--
+- Posiblemente sea en la escritura donde debemos poner más empeño en evitar este tipo de construcciones.
 
-%
-%	- Ejercicios 5, 6 y 8 de Tusón Valls, J. \textit{Introducción al lenguaje}. UOC. 2003. p. 61-62.
 
 --SLIDE--
 
 ## Referencias
 
+- Tusón Valls, J. *Introducción al lenguaje*. UOC. 2003.
 
-    - Tusón Valls, J. *Introducción al lenguaje*. UOC. 2003.
-
-    - Yule, G. *El lenguaje*. Ediciones AKAL. 2007. 
+- Yule, G. *El lenguaje*. Ediciones AKAL. 2007. 
 
