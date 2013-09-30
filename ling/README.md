@@ -1,5 +1,5 @@
 # vitojph.github.io/ling
 
 
-# My personal pages on Linguistics.
+My personal pages on Linguistics.
 
