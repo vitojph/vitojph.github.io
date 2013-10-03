@@ -10,25 +10,56 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 
 --SLIDE--
-## La lingüística: objeto de estudio
+### La lingüística: objeto de estudio
 
 - La Lingüística es la ciencia que se encarga del estudio de las lenguas.
 
 - Es difícil establecer el número de lenguas que existen en el mundo pero se suele hablar de entre 3.000 y 7.000.
 
-- Los estudios lingüísticos se suelen dividir en subdisciplinas según qué lenguas o qué partes de la lengua se consideran:
+- Los estudios lingüísticos se suelen dividir en subdisciplinas según qué lenguas o qué partes de la lengua se consideran.
 
 --SUBSLIDE--
 
-- centrados en una lengua o conjunto de lenguas: estudios hispánicos, estudios germánicos, estudios indoeuropeos, filología románica, filología eslava...
+- centrados en una lengua o conjunto de lenguas:
+  
+    - estudios hispánicos
+    
+    - estudios germánicos, 
+    
+    - estudios indoeuropeos
+    
+    - filología románica, 
+    
+    - filología eslava...
 
-- centrados en una subdisciplina o en las conexciones entre lingüística y otras disciplinas: fonética y fonología, morfología, lexicología y lexicografía, sintaxis, semántica, pragmática, dialectología, sociolingüística, neurolingüística, lingüística computacional\ldots
-	
+--SUBSLIDE--
+
+- centrados en una subdisciplina o en las conexciones entre lingüística y otras disciplinas: 
+  
+    - fonética y fonología
+    
+    - morfología
+    
+    - lexicología y lexicografía
+      
+    - sintaxis
+      
+    - semántica
+      
+    - pragmática
+      
+    - dialectología
+      
+    - sociolingüística, 
+    
+    - neurolingüística
+      
+    - lingüística computacional...
 
 
 --SLIDE--
 
-## Subdisciplinas lingüísticas
+### Subdisciplinas lingüísticas
 
 
 - la **fonética** y **fonología** se ocupan de los sonidos.
@@ -48,7 +79,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## Métodos de investigación en Lingüística
+### Métodos de investigación en Lingüística
 
 - Las lenguas están vivas: cambian, evolucionan a lo largo del tiempo y, en ocasiones, mueren y desaparecen.
 
@@ -70,7 +101,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## Lingüística General
+### Lingüística General
 
 - Resume y generaliza conocimientos obtenidos del estudio de lenguas particulares.
 
@@ -81,7 +112,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## Universales lingüísticos
+### Universales lingüísticos
 
 - A pesar de la gran cantidad y variedad de lenguas que existen en el mundo hay dos factores que llaman poderosamente la atención:
 
@@ -93,7 +124,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## Tipos de universales lingüísticos
+### Tipos de universales lingüísticos
 
 1. los **universales de tipo general**, que se corresponden con las características del lenguaje propuestas por Hockett:
 
@@ -116,7 +147,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
-## Universales lingüísticos
+### Universales lingüísticos
 
 - Nivel fonético-fonológico: 
 	
@@ -127,9 +158,6 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 
 --SUBSLIDE--
-
-## Tipos de universales lingüísticos
-
 
 - Nivel morfo-sintáctico: 
 	
@@ -156,7 +184,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## Relaciones de la lingüística con otras ciencias
+### Relaciones de la lingüística con otras ciencias
 
 - la lingüística forma parte de lo que se conoce como ciencias sociales. 
 
@@ -175,7 +203,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## Lenguaje, lengua, habla
+### Lenguaje, lengua, habla
 
 - Hasta ahora hemos hablado principalmente de **lenguaje** y lo podemos definir como la capacidad humana de comunicarse y hacerse entender con ayuda de un conjunto de señales.
 	
@@ -193,7 +221,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## Lengua
+### Lengua
 
 - La función fundamental de la lengua es comunicar (función comunicativa).
 
@@ -208,9 +236,9 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## Referencias
+### Referencias
 
-- Bernárdez, E. *¿Qué son las lenguas* Alianza Ensayo. 2004.
+- Bernárdez, E. *¿Qué son las lenguas?* Alianza Ensayo. 2004.
 
 - Tusón Valls, J. *Introducción al lenguaje*. UOC. 2003.
 
