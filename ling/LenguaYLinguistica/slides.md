@@ -20,6 +20,8 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
+### Estudios lingüísticos 
+
 - centrados en una lengua o conjunto de lenguas:
   
     - estudios hispánicos
@@ -33,6 +35,8 @@ Víctor Peinado | v.peinado@filol.ucm.es
     - filología eslava...
 
 --SUBSLIDE--
+
+### Estudios lingüísticos 
 
 - centrados en una subdisciplina o en las conexciones entre lingüística y otras disciplinas: 
   
@@ -93,11 +97,11 @@ Víctor Peinado | v.peinado@filol.ucm.es
 --SUBSLIDE--
 	
 - Las lenguas se pueden agrupar en familias lingüísticas y esto permite dos tipos de estudios:
-	
-	- **comparativo**: estudia una familia de lenguas atendiendo a su parentesco.
 
-	- **tipológico**: estudia un conjunto de lenguas sin atender a su parentesco, sino a sus características estructurales.
-	
+    - **comparativo**: estudia una familia de lenguas atendiendo a su parentesco.
+
+    - **tipológico**: estudia un conjunto de lenguas sin atender a su parentesco, sino a sus características estructurales.
+
 
 --SLIDE--
 
@@ -126,7 +130,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ### Tipos de universales lingüísticos
 
-1. los **universales de tipo general**, que se corresponden con las características del lenguaje propuestas por Hockett:
+1. los **universales de tipo general**, que se corresponden con las características del lenguaje propuestas por Hockett.
 
 	- semanticidad
 
@@ -142,7 +146,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 	- reflexividad.
 
-2. los **universales de tipo estructural** que afectan a diferentes niveles de estudio lingüístico:
+2. los **universales de tipo estructural** que afectan a diferentes niveles de estudio lingüístico.
 
 
 --SUBSLIDE--
@@ -167,7 +171,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 	- Todas las lenguas presentan construcciones basadas en núcleo + complemento.
 
-	- Todas las lenguas tienen oraciones aseverativas e interrogativas, construcciones afirmativas y negativas. 
+	- Todas las lenguas tienen oraciones enunciativas e interrogativas, construcciones afirmativas y negativas. 
 	
 	- Todas las lenguas tienen marcas temporales.
 	 
@@ -218,6 +222,13 @@ Víctor Peinado | v.peinado@filol.ucm.es
 	
 - Otros autores hablan incluso de **idiolecto** para referirse a la lengua del individuo.
 
+--SUBSLIDE--
+
+### Ferdinand de Saussure
+
+![Ferdinand de Saussure](img/Saussure.png)
+
+[Wikipedia: Ferdinand de Saussure](http://en.wikipedia.org/wiki/Ferdinand_de_Saussure)
 
 --SLIDE--
 
@@ -240,7 +251,10 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Bernárdez, E. *¿Qué son las lenguas?* Alianza Ensayo. 2004.
 
+- Pinker, S. *The language Instinct*. Monrow. 1994.
+
 - Tusón Valls, J. *Introducción al lenguaje*. UOC. 2003.
 
 - Yule, G. *El lenguaje*. Ediciones AKAL. 2007. 
+
 
