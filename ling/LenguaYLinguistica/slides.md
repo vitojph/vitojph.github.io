@@ -4,7 +4,7 @@
 
 ## Introducción a la Lingüística.
 
-Área de Lingüística, Fac. de Filología, UCM | 3/10/2013
+Área de Lingüística, Fac. de Filología, UCM | 4/10/2013
 
 Víctor Peinado | v.peinado@filol.ucm.es  
 
