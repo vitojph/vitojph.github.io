@@ -90,7 +90,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ![palabras icónicas](img/palabras-iconicas.png) 
 
--  Como hemos visto ya, en todas las lenguas hay palabras que tratan de imitar los sonidos de la naturaleza: *cucú, ronrorear, tartamudear...* 
+-  Como hemos visto ya, en todas las lenguas hay palabras que tratan de imitar los sonidos de la naturaleza: *cucú, ronronear, tartamudear...* 
 
 -  Esos ejemplos son escasos en todas las lenguas del mundo.
 
