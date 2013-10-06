@@ -23,6 +23,7 @@ body {
 	padding: 0;
 	float: none !important;
 	overflow: visible;
+    background: #fff;
 }
 
 html {
@@ -32,7 +33,7 @@ html {
 }
 
 @page {
-	size: letter landscape;
+	size: A4 landscape;
 	margin: 0;
 }
 
