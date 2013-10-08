@@ -2,7 +2,7 @@
 
 # El origen del lenguaje
 
-## Introducción a la Lingüística.
+### Introducción a la Lingüística.
 
 Área de Lingüística, Fac. de Filología, UCM | 3/10/2013
 
@@ -11,7 +11,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## Los orígenes del lenguaje
+### Los orígenes del lenguaje
 
 *Masticar, lamer y absorber son actos extremadamente comunes entre los mamíferos los cuales, si se observan sin más, presentan similitudes obvias con el habla.* (MacNeilage, 1998)
 
@@ -25,7 +25,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## El origen divino
+### El origen divino
 
 - Para la mayoría de las religiones el lenguaje parece tener un origen divino.
 
@@ -36,7 +36,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 - Según la tradición hindú, el lenguaje es obra de la diosa Sarasvati, esposa de Brahma, creador del universo. 
 
 --SUBSLIDE--
-## El origen divino
+### El origen divino
 
 - A lo largo de la historia se han realizado distintos experimentos para intentar descubrir esta lengua divina original. 
 
@@ -45,7 +45,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 - La hipótesis de partida es que si se permitía a unos niños crecer sin contacto de ninguna lengua, estos terminarían por usar espontáneamente la lengua originaria dada por Dios. (??)
 
 --SLIDE--
-## La hipótesis de los sonidos naturales (guau-guau)
+### La hipótesis de los sonidos naturales (guau-guau)
 
 - Esta hipótesis se basa en la idea de que las palabras primitivas serían imitaciones de los sonidos de la naturaleza que los hombres primitivos escuchabn a su alrededor.
 
@@ -61,7 +61,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## La adaptación física
+### La adaptación física
 
 - En lugar de centrarnos en los tipos de sonidos como posible origen del lenguaje, podemos examinar los rasgos físicos que poseemos los seres humanos y compararlos con los de otras especies, asumiendo que estas diferencias son las responsables de la generación de los sonidos del habla.
 	
@@ -83,7 +83,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
-- La laringe tiene una posición más baja y crea una cavidad amplia llamada **faringe**. Esto tiene sus pros y sus contras:  
+- La laringe tiene una posición más baja y crea una cavidad amplia llamada **faringe**. Esto tiene sus pros y sus contras:
   
     - permite que las cuerdas vocales produzcan sonidos más claramente diferenciados y variados, pero;
 
@@ -95,7 +95,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## El cerebro humano
+### El cerebro humano
 
 - El cerebro humano es el responsable del control de todos estos componentes físicos disponibles para la potencial producción de sonidos articulados.
 
@@ -121,7 +121,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## El origen genético
+### El origen genético
 
 - Un bebé humano durante sus primeros años de vida es un ejemplo viviente del desarrollo del lenguaje y de otras habilidades que nos hacen humanos.
 
@@ -145,17 +145,17 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-## Planteemos el problema
+### Planteemos el problema
 
 - Si existen zonas del cerebro relacionadas con el lenguaje y somos capaces de comprobar si algunas razas de homínidos poseían tales zonas (e incluso, si somos capaces de reconstruir a partir de fósiles la evolución de esas partes del cerebro) podríamos tener una aproximación a algo así como la «evolución de la posibilidad del lenguaje». 
 
 - Si una especie de homínido resulta tener algo que no tienen otras y sí tenemos nosotros, y este algo está relacionado con el lenguaje, podemos suponer que esta especie podría haber tenido un lenguaje como 
 el nuestro, pero no las otras.
 
-- Si para la fonación hacen falta determinadas características de la boca, la lengua y la laringe, etc. y determinada especie de homínidos, pero no otras, posee estás características, podemos pensar que dicha especie podría articular sonidos similares a los nuestros.   
+- Si para la fonación hacen falta determinadas características de la boca, la lengua y la laringe, etc. y determinada especie de homínidos, pero no otras, posee estás características, podemos pensar que dicha especie podría articular sonidos similares a los nuestros.
 
 --SLIDE--
-## ¿Surgió el lenguaje por mutación genética?
+### ¿Surgió el lenguaje por mutación genética?
 
 - Tal y como explica la teoría de la evolución, cualquier cambio significativo implica mutaciones en una parte considerable del genoma.
 
@@ -181,7 +181,7 @@ P. ej., no existen niños que combinen las estructuras sintácticas de manera di
 
 --SLIDE--
 
-## ¿Sirve de algo estudiar a los monos?
+### ¿Sirve de algo estudiar a los monos?
 
 - Hace unos 6M años, los homínidos se separaron de los antepasados de nuestros parientes más próximos: los actuales chimpancés.
 
@@ -222,13 +222,13 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
 --SUBSLIDE--
 
-## Comparación tracto vocal mono-humano
+### Comparación tracto vocal mono-humano
 
 ![Tracto vocal mono-humano](img/ApeHumanVocalTract.jpg)
 
 --SLIDE--
 
-## ¿Cuándo surgió el lenguaje?
+### ¿Cuándo surgió el lenguaje?
 
 - Es una pregunta difícil de responer.
 
@@ -250,17 +250,17 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
 
 --SLIDE--
-## Evolución humana
+### Evolución humana
 
 ![Evolución humana](img/humanevolutionchart.png)
 
 --SLIDE--
-## ¿Hablaban los Neanderthales?
+### ¿Hablaban los Neanderthales?
 
 ![H. neanderthal](img/neanderthal.jpg)
 
 --SUBSLIDE--
-## ¿Hablaban los Neanderthales?
+### ¿Hablaban los Neanderthales?
 
 - Si los neanderthales eran una especie distinta a la nuestra, cabe la posibilidad de que su lenguaje nos pareciera tan extraño e inaccesible como el de cualquier otra especie animal.
 
@@ -280,7 +280,7 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
 --SLIDE--
 
-## Hipótesis gradualista del lenguaje
+### Hipótesis gradualista del lenguaje
 
 - El lenguaje empezó a desarrollarse paulatinamente hace 2M años y la evolución gradual desembocó en algo parecido a nuestra lenguas actuales hace unos 100.000 años.
 
@@ -300,7 +300,7 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
 --SLIDE--
 
-## Producción intencional, voluntaria y arbitraria
+### Producción intencional, voluntaria y arbitraria
 
 - Partamos de la idea de que los primeros homínidos manejaban un conjunto de gritos y señales básicos para la comunicación (algo similar a los chimpancés actuales): existe un grito para avisar al resto de la manada de la existencia de comida, otro grito para alertar de un depredador, etc.
 
@@ -314,7 +314,7 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
 --SLIDE--
 
-## Aumento de vocabulario
+### Aumento de vocabulario
 
 - Las palabras se corresponden con conceptos: es imprescindible que el concepto exista y que alguien empareje el concepto y el símbolo que lo representa.
 
@@ -340,7 +340,7 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
 --SLIDE--
 
-## Palabras y gestos
+### Palabras y gestos
 
 - Imagínese que producimos una vocalización que signifique *objeto largo y estrecho*. 
 
@@ -368,7 +368,7 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
 --SLIDE--
 
-## ¿Qué es la sintaxis?
+### ¿Qué es la sintaxis?
 
 - Las frases y oraciones no son una mera sucesión de palabras, sino que poseen una estructura jerárquica. Unas palabras *dependen de* o *están relacionadas con* otras.
 
@@ -386,7 +386,7 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
 --SLIDE--
 
-## Gestos, verbos y sintaxis
+### Gestos, verbos y sintaxis
 
 -  ¿Cómo nos comunicamos cuando intentamos hablar con un extranjero? (ej. viaje de Colón)
 
@@ -403,7 +403,7 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
 --SLIDE--
 
-## ¡Ya tenemos pre-lenguaje!
+### ¡Ya tenemos pre-lenguaje!
 
 -  Una lengua que utilizara estos procedimientos estaría prácticamente al mismo nivel que las nuestras. 
 
@@ -424,7 +424,7 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
 --SLIDE--
 
-## Resumen
+### Resumen
 
 -  El origen del lenguaje ha sido durante mucho tiempo un tema casi tabú. Aquí presentamos distintas hipótesis que se han manejado:
 	
@@ -449,12 +449,13 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
 --SLIDE--
 
-## Mapa de las migraciones humanas
+### Mapa de las migraciones humanas
 
 ![Migraciones humanas](img/Migraciones_humanas.png)
 
 --SLIDE--
-## Referencias
+
+### Referencias
 
 - Bernárdez, E. *¿Qué son las lenguas?* Alianza Ensayo. 2004.
 
