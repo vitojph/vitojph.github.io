@@ -4,9 +4,9 @@
 
 ### Introducción a la Lingüística.
 
-Área de Lingüística, Fac. de Filología, UCM | 3/10/2013
+Área de Lingüística, Fac. de Filología, UCM | 10/10/2013
 
-Víctor Peinado | v.peinado@filol.ucm.es  
+Víctor Peinado | v.peinado@filol.ucm.es
 
 
 --SLIDE--
@@ -21,7 +21,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Lo cierto es que desconocemos cuál es el origen del lenguaje. Se sospecha que el lenguaje hablado pudo desarrollarse hace entre 100.000 y 50.000 años (hace 3000-1500 generaciones).
 
-- No ha sido posible encontrar evidencias directas ni artefactos relacionados con el habla de nuestros antepasados, de manera que no podemos conocer el aspecto del lenguaje en las primeras estapas de la historia evolutiva.
+- No ha sido posible encontrar evidencias directas ni artefactos relacionados con el habla de nuestros antepasados, de manera que no podemos conocer el aspecto del lenguaje en las primeras etapas de la historia evolutiva.
 
 --SLIDE--
 
@@ -40,14 +40,16 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - A lo largo de la historia se han realizado distintos experimentos para intentar descubrir esta lengua divina original. 
 
-    *-* EJEMPLO *-*
+    - Emperador de Egipto (s. V aC).
+    - Rey James IV de Escocia (s. XVI).
+    - Otras salvajadas posteriores.
 
 - La hipótesis de partida es que si se permitía a unos niños crecer sin contacto de ninguna lengua, estos terminarían por usar espontáneamente la lengua originaria dada por Dios. (??)
 
 --SLIDE--
 ### La hipótesis de los sonidos naturales (guau-guau)
 
-- Esta hipótesis se basa en la idea de que las palabras primitivas serían imitaciones de los sonidos de la naturaleza que los hombres primitivos escuchabn a su alrededor.
+- Esta hipótesis se basa en la idea de que las palabras primitivas serían imitaciones de los sonidos de la naturaleza que los hombres primitivos escuchaban a su alrededor.
 
     - P. ej. un ave volando y que emite un sonido similar a *gra-gra*, o un pájaro que canta emitiendo algo similar a *cu-cu*, pueden terminar utilizándose para designar a estos animales.
 
@@ -65,19 +67,25 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - En lugar de centrarnos en los tipos de sonidos como posible origen del lenguaje, podemos examinar los rasgos físicos que poseemos los seres humanos y compararlos con los de otras especies, asumiendo que estas diferencias son las responsables de la generación de los sonidos del habla.
 	
-- P. ej., en determinado momento de nuesta evolución, nuestros antepasados homínidos abandonaron la postura cuadrúpeda y comenzaron a caminar sobre dos patas. Al quedar libres las extremidades anteriores, se reajustaron sus funciones y se emplearon para otros fines (p.ej., agarrar objetos, construir herramientas).
+- En determinado momento de nuesta evolución, nuestros antepasados homínidos abandonaron la postura cuadrúpeda y comenzaron a caminar sobre dos patas. 
+  
+- Al quedar libres las extremidades anteriores, se reajustaron sus funciones y se emplearon para otros fines (p.ej., agarrar objetos, construir herramientas).
 
 --SUBSLIDE--
 
-- Si examinamos esqueletos del tracto vocal de hombres del Neanderthal de hace unos 60.000 años, podemos sugerir que eran capaces de producir de manera diferenciada sonidos consonánticos. Pero es necesario acercarnos más en el tiempo (hasta hace 35.000 años) para encontrar restos fósiles con semejanzas evidentes con los hombres modernos.
+- Si examinamos esqueletos del tracto vocal de hombres del Neanderthal de hace unos 60.000 años, podemos sugerir que eran capaces de producir de manera diferenciada sonidos consonánticos. 
+  
+- Pero es necesario acercarnos más en el tiempo (hasta hace 35.000 años) para encontrar restos fósiles con semejanzas evidentes con los hombres modernos.
 
-- Por si solos, estos rasgos nos tendrían por qué dar lugar necesariamente al lenguaje. Pero sí constituyen indicios de que una criatura que los poseyera probablemente sería capaz de hablar.
-
-- En los *H. sapiens* modernos, los dientes no están inclinados (como lo están en algunos simios) sino que son rectos y todos de un tamaño parecido. Esta caraterístisca no resulta útil para cortar comida, pero sí para producir de manera diferenciada sonidos como [d], [t], [f], [&theta;]. 
+- Por si solos, estos rasgos no tendrían por qué dar lugar necesariamente al lenguaje. Pero sí constituyen indicios de que una criatura que los poseyera probablemente sería capaz de hablar.
 
 --SUBSLIDE--
 
-- Los labios humanos están conectados con una musculatura mucho más compleja que en otros animales, lo que peemite producir sonidos como [p] y [b].
+- En los *H. sapiens* modernos, los dientes no están inclinados (como lo están en algunos simios) sino que son rectos y todos de un tamaño parecido. 
+  
+    - Esta caraterístisca no resulta útil para cortar comida, pero sí para producir de manera diferenciada sonidos como [d], [t], [f], [&theta;]. 
+
+- Los labios humanos están conectados con una musculatura mucho más compleja que en otros animales, lo que permite producir sonidos como [p] y [b].
 
 - La lengua es más pequeña, gruesa y musculosa que en otros animales, lo que permite generar una amplia variedad de sonidos dentro de la cavidad oral.
 
@@ -105,9 +113,9 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - En la mayoría de los humanos, las áreas encargadas del control de los movimientos motores implicados en el habla y en la manipulación de objetos se encuentran localizadas en el hemisferio izquierdo.
 
-- El hemisferio izquierdo tiene desarrollado en su corteza áreas específicas que posibilitan el lenguaje jdsimbólico basado en significantes acústicos: el área de Wernicke y el área de Broca.
-
 --SUBSLIDE--
+
+- El hemisferio izquierdo tiene desarrollado en su corteza áreas específicas que posibilitan el lenguaje jdsimbólico basado en significantes acústicos: el área de Wernicke y el área de Broca.
 
 - Resulta plausible una relación en el desarrollo de ambos tipos de habilidades y podemos hacer una analogía entre construir herramientas y el lenguaje.
 
@@ -115,9 +123,11 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Con el desarrollo del lenguaje, parece que existió una fase en la que los humanos primitivos, de manera rudimientaria, fueron capaces de nombrar los objetos del mundo, produciendo siempre un mismo ruido específico. 
 
+--SUBSLIDE--
+
 - Esta fase, crucial en el desarrollo del lenguaje, aún carecía de organización estructural.
 
-- Después de un determinado tiempo, los seres humanos terminaron perfeccionando esta capacidad de generar mensajes combinando vocalizaciones específicos.
+- Después de un determinado tiempo, los seres humanos terminaron perfeccionando esta capacidad de generar mensajes combinando vocalizaciones específicas.
 
 --SLIDE--
 
@@ -129,7 +139,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - En relativamente poco tiempo, el cerebro se desarrolla, el bebé adopta una postura erguida y aprende a caminar sobre dos piernas. 
 
-- Y comienza a hablar. Incluso los bebés sordos de nacimiento, en las condiciones apropiadas, son cac de utilizar la lengua de signos con fluidez y en muy poco tiempo.
+- Y comienza a hablar. Incluso los bebés sordos de nacimiento, en las condiciones apropiadas, son capaces de utilizar la lengua de signos con fluidez y en muy poco tiempo.
 
 --SUBSLIDE--
 
@@ -152,6 +162,8 @@ Víctor Peinado | v.peinado@filol.ucm.es
 - Si una especie de homínido resulta tener algo que no tienen otras y sí tenemos nosotros, y este algo está relacionado con el lenguaje, podemos suponer que esta especie podría haber tenido un lenguaje como 
 el nuestro, pero no las otras.
 
+--SUBSLIDE--
+
 - Si para la fonación hacen falta determinadas características de la boca, la lengua y la laringe, etc. y determinada especie de homínidos, pero no otras, posee estás características, podemos pensar que dicha especie podría articular sonidos similares a los nuestros.
 
 --SLIDE--
@@ -167,17 +179,23 @@ el nuestro, pero no las otras.
 
 --SUBSLIDE--
 
-- Para empezar, nada que tenga base genética es exactamente igual en todos los seres humanos. De hecho, se producen continuamente mutaciones por infinidad de motivos. 
-	
-P. ej., encontramos niños que nacen sordos, ciegos, siameses con dos cabezas, seis dedos, con gigantismo/enanismo, Down, etc.
-	
+- Para empezar, nada que tenga base genética es exactamente igual en todos los seres humanos. 
+  
+- De hecho, se producen continuamente mutaciones por infinidad de motivos. 
+
+    - P. ej., encontramos niños que nacen sordos, ciegos, siameses con dos cabezas, seis dedos, con gigantismo/enanismo, Down, etc.
+
 - Sin embargo, no encontramos niños que presenten diferencias lingüísticas con respecto a sus padres.
 	
-P. ej., no existen niños que combinen las estructuras sintácticas de manera diferente o enlacen los morfemas de maneras distintas.
-	
+    - P. ej., no existen niños que combinen las estructuras sintácticas de manera diferente o enlacen los morfemas de maneras distintas.
+
+--SUBSLIDE--
+
 - El lenguaje sería el único órgano en todos los seres vivos que es igual en todos los casos: esta hipótesis es excesiva.
 	
-- Podemos entender el lenguaje no como una mutación completamente nueva y radical, sino como el producto de pequeños cambios paulatinos a lo largo del tiempo. De esta manera es precisamente como actúa la selección natural.
+- Podemos entender el lenguaje no como una mutación completamente nueva y radical, sino como el producto de pequeños cambios paulatinos a lo largo del tiempo. 
+  
+- De esta manera es precisamente como actúa la selección natural.
 
 --SLIDE--
 
@@ -195,24 +213,25 @@ P. ej., no existen niños que combinen las estructuras sintácticas de manera di
 
     - utilizan piedras para ahuyentar a los depredarores.
 
-- El uso de herramientas cambia de un grupo a otro: ¿existen diversas culturas?
-
 --SUBSLIDE--
+
+- El uso de herramientas cambia de un grupo a otro: ¿existen diversas culturas?
 
 - El estudio de chimpancés en cautividad también ha sido amplio. 
 
-- Se ha tratado de criar chimpancés (también gorillas y orangutanes) desde el nacimiento dentro de una familia como si fueran bebés humanos, incluso en compañía de estos.
+- Se ha tratado de criar chimpancés, gorillas y orangutanes desde el nacimiento dentro de una familia como si fueran bebés humanos, incluso en compañía de estos.
 
-- La triste realidad es que ninguno de ellos aprendió a hablar (algo comprensible, dado que su aparato fonatorio no es compatible con los sonidos de las lenguas humanas) pero tampoco a utilizar lenguajes 
-gestuales (para los que en principio no tienen ninguna limitación física).
-
-- El caso más espectacular y famoso es el de una chimpancé bonobo llamada Kanzi que aprendió a reconocer oralmente hasta 125 signos y era capaz de crear *oraciones* sencillas agrupando dos conceptos utilizando un vocabulario de imágenes.
+- La triste realidad es que ninguno de ellos aprendió a hablar (algo comprensible, dado que su aparato fonatorio no es compatible con los sonidos de las lenguas humanas) pero tampoco a utilizar lenguajes gestuales (para los que en principio no tienen ninguna limitación física).
 
 --SUBSLIDE--
+
+- El caso más espectacular y famoso es el de una chimpancé bonobo llamada Kanzi que aprendió a reconocer oralmente hasta 125 signos y era capaz de crear *oraciones* sencillas agrupando dos conceptos utilizando un vocabulario de imágenes.
 
 - Fue capaz de discriminar oraciones como *echa la leche en el agua* y *echa el agua en la leche*, o *haz que el perro muerda a la serpiente* y *haz que la serpiente muerda al perro*. 
 
 - Lo llamativo es que aprendió sin instrucción lingüística, cuando los investigadores trataban de enseñar a comunicarse (con éxito nulo) a su madre.
+
+--SUBSLIDE--
 
 - Kanzi creció desde recién nacida en un entorno en el que la comunicación y el trato interpersonal estaba muy desarrollado, mucho más que en su entorno natural. Esto posibilitó desarrollar sus capacidades al límite. 
 
@@ -332,7 +351,6 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
     - los sonidos [o] y [u] se asocia con objetos grandes o pesados.
 
-
     - el sonido [&#643;] se asocia con cosas que fluyen.
 
     - el sonido [k] con cosas que se rompen
@@ -350,9 +368,9 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
 - Podemos hacer variaciones de las palabras para distinguir estos sonidos (alargar más o menos la vocal, cambiar el tono, etc.) o podemos acompañar la pronunciación con gestos.
 
-- No hay razón para pensar que los homínidos primitivos no utilizaban combinaciones de vocalizaciones y lenguaje gestual (de hecho, estas combinaciones existen en lenguas actuales).
-
 --SUBSLIDE--
+
+- No hay razón para pensar que los homínidos primitivos no utilizaban combinaciones de vocalizaciones y lenguaje gestual (de hecho, estas combinaciones existen en lenguas actuales).
 
 - Una hipótesis plausible para explicar el origen del vocabulario es pensar en combinaciones de vocalizaciones con sentidos generales y especificaciones a través de gestos. Es un mecanismo muy productivo. 
 
@@ -414,12 +432,12 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 --SUBSLIDE--
 
 -  Paralelamente, se desarrollan distintas funciones del lenguaje:
-	
-	-  Fase referencial: usamos palabras para referirnos a objetos de la realidad.
 
-	-  Fase pragmática: los enunciados se vuelven más complejos, p. ej., al relatar algo como una sucesión de palabras en un orden icónico.
+    - Fase referencial: usamos palabras para referirnos a objetos de la realidad.
 
-	-  Fase sintáctica: automatizamos los procesos lingüísticos.
+    -  Fase pragmática: los enunciados se vuelven más complejos, p. ej., al relatar algo como una sucesión de palabras en un orden icónico.
+
+    -  Fase sintáctica: automatizamos los procesos lingüísticos.
 	
 
 --SLIDE--
@@ -438,7 +456,7 @@ gestuales (para los que en principio no tienen ninguna limitación física).
 
 --SUBSLIDE--
 
-- A continuación, presentamos en profundidad una **hipótesis gradualista** del origen y desarrollo del lenguaje contraria al innatismo (lingüística cognitiva).		
+- A continuación, presentamos en profundidad una **hipótesis gradualista** del origen y desarrollo del lenguaje contraria al innatismo (lingüística cognitiva).
 
 - Esta hipótesis gradualista defiende el lenguaje, no como una mutación nueva y radical, sino como fruto de las capacidades del cerebro que se han desarrollado paulatinamente. 
 
