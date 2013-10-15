@@ -1,14 +1,14 @@
 # Las Lenguas
 
-## Introducción a la Lingüística.
+### Introducción a la Lingüística.
 
-Área de Lingüística, Fac. de Filología, UCM | 3/10/2013
+Área de Lingüística, Fac. de Filología, UCM | 17/10/2013
 
-Víctor Peinado | v.peinado@filol.ucm.es  
+Víctor Peinado | v.peinado@filol.ucm.es
 
 
 --SLIDE--
-## ¿Cuántas lenguas hay?
+### ¿Cuántas lenguas hay?
 
 - Es una de las primeras preguntas que siempre hacen los no lingüistas.
 
@@ -24,11 +24,15 @@ Víctor Peinado | v.peinado@filol.ucm.es
 --SUBSLIDE--
 
 
-- Por si esto fuera poco, dentro de cada lengua existe mucha diversidad. A menudo se dice que determinadas personas «hablan mal», «se comen letras», «tienen acento» o «no se les entiende».
+- Por si esto fuera poco, dentro de cada lengua existe mucha diversidad. 
+
+- A menudo se dice que determinadas personas «hablan mal», «se comen letras», «tienen acento» o «no se les entiende».
 
 - Todo ello conduce siempre al mismo punto de partida: **la única lengua de verdad es la mía**.
 
-- Suele existir una identificación entre grupo étnico y lengua. Esta identificación, como veremos más adelante, puede ser correcta, aunque no siempre lo es. Hay que ser cuidadosos.
+- Suele existir una identificación entre grupo étnico y lengua.
+
+	- ¡OJO! Esta identificación puede ser correcta, aunque no siempre lo es.
 
 - Aprender una lengua extranjera es una tarea ardua y difícil: es casi imposible dejar de hablar con acento extranjero.
 
@@ -44,18 +48,20 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Habitualmente se habla de entre 3.000 y 6.000 lenguas. 
 
-- Los recuentos más amplios (véase el catálogo de [Ethnologue](http://www.ethnologue.com) llegan casi a 7.000, pero incluyen lenguas extintas.
+- Los recuentos más amplios (véase el catálogo de [Ethnologue](http://www.ethnologue.com) llegan a 7.105 lenguas.
 
 - Estos números no nos dicen gran cosa. Nos dicen que hay muchas lenguas, pero no tantas como podría haber. 
 
 - Somos 7.000.000.000 personas en el mundo, salimos a casi 1 millón de habitantes por lengua.
 
-- Sin embargo, el reparto es desigual: hay lenguas (unas pocas) con muchos millones de hablantes y muchas lenguas (la gran mayoría) con pocos hablantes, algunas incluso con menos de un centenar.
+- Sin embargo, el reparto es desigual:
+
+	- **Hay lenguas (unas pocas) con muchos millones de hablantes** y **muchas lenguas (la gran mayoría) con pocos hablantes**, algunas incluso con menos de un centenar.
 
 
 --SUBSLIDE--
 
-### Reparto de lenguas por continentes
+#### Reparto de lenguas por continentes
 
 -  Hay 194 estados reconocidos internacionalmente: nos toca a unas 33 lenguas por país.
 
@@ -73,7 +79,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 	
 --SUBSLIDE--
 
-### Reparto de lenguas por países
+#### Reparto de lenguas por países
 	
 -  El reparto de lenguas por países es todavía más curiosa:
 
@@ -88,7 +94,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
-### Reparto geográfico de las lenguas
+#### Reparto geográfico de las lenguas
 
 Cada punto representa el centro geográfico aproximado de una lengua.
 
@@ -99,112 +105,146 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SUBSLIDE--
 
+- Si atendemos al número de hablantes, solo hay unas 600 lenguas que tengan más de 100.000 hablantes
 
--  Si atendemos al número de hablantes, solo hay unas 600 lenguas que tengan más de 100.000 hablantes
+- 100.000 hablantes es la cifra que se suele mencionar como el umbral mínimo a partir del cual se considera que una lengua no está en peligro de desaparición a medio plazo.
 
--  100.000 hablantes es la cifra que se suele mencionar como el umbral mínimo a partir del cual se considera que una lengua no está en peligro de desaparición a medio plazo.
-
--  Y solo 250 lenguas tienen más de 1M hablantes, son las grandes lenguas del mundo: 
+- Y solo 250 lenguas tienen más de 1M hablantes, son las grandes lenguas del mundo: 
 	
-    -  chino mandarín, español, inglés, hindi, bengalí, portugués, ruso, árabe, japonés y francés son las 10 primeras por número de hablantes nativos.
+    - chino mandarín, español, inglés, hindi, bengalí, portugués, ruso, árabe, japonés y francés son las 10 primeras por número de hablantes nativos.
 	
 -  Véase la [tabla de lenguas por número de hablantes](http://es.wikipedia.org/wiki/Anexo:Lenguas_por_número_de_hablantes).
 
 --SUBSLIDE--
 
-## ¿Cuántas lenguas hay?}
-\begin{enumerate}
-	-  ¿Qué es una lengua? (y un dialecto, y todo eso)
-	-  ¿Por qué hay tantas? (o tan pocas)
-	-  ¿De dónde han salido? ¿Cómo se relacionan unas con otras? (si es que se relacionan)
-	-  ¿Qué sucede con las lenguas al pasar el tiempo? ¿Desaparecen?
-	-  ¿Hay más lenguas ahora que en épocas anteriores o menos?
-	-  ¿Hay lenguas mejores o peores, más o menos primitivas, más o menos perfectas, más o menos puras?
-	-  ¿Cómo cambian las lenguas?
-\end{enumerate}
---SLIDE--
+### ¿Cuántas lenguas hay?
 
+1. ¿Qué es una lengua? (y un dialecto, y todo eso)
 
+2. ¿Por qué hay tantas? (o tan pocas)
 
-## ¿Qué es una lengua?}
+3. ¿De dónde han salido? ¿Cómo se relacionan unas con otras? (si es que se relacionan)
 
+4. ¿Qué sucede con las lenguas al pasar el tiempo? ¿Desaparecen?
 
-	-  Las lenguas que podemos observar varían enormemente.
-	-  El español y el chino son muy distintas entre sí. 
-	-  El español y el inglés son distintas también, pero las diferencias son menores.
-	-  Aún menor es la diferencia que percibimos con el italiano o con el gallego. 
-	-  Mi primo de Ciudad Real y mi suegra de Sevilla no hablan igual que yo, pero las diferencias, aunque existen, son mínimas.
-	-  No hay dos personas que hablan igual. Una misma persona habla de manera diferente a lo largo de su vida, incluso en distintos momentos a lo largo de un mismo día.
-	-  No hablamos igual que escribimos.
+5. ¿Hay más lenguas ahora que en épocas anteriores o menos?
 
---SLIDE--
+6. ¿Hay lenguas mejores o peores, más o menos primitivas, más o menos perfectas, más o menos puras?
 
-## ¿Qué es una lengua?}
-
-
-	-  Si no sabemos definir de manera clara qué es una lengua difícilmente podremos contarlas. O los distintos intentos de catalogar las lenguas del mundo darán números dispares.
-	-  La dificultad para enumerar las lenguas del mundo radica en que \textcolor{blue}{existe un continuo, una diferenciación gradual}, entre las distintas variedades de lengua que utiliza una misma persona a lo largo de un día (p. ej., cuando habla entre amigos y cuando declara ante un juez) y las diferencias radicales que existen entre el chino y el español.
-	-  Sin embargo, por muy diferentes que sean dos lenguas, algo de común permanece. De manera que nunca confundimos dos lenguas humanas con cualquier mecanismo de comunicación animal.
-	-  Las lenguas humanas, a pesar de sus diferencias, son básicamente distintas variantes de una misma cosa. Si las comparamos con el lenguaje de las abejas o los bonobos, las lenguas humanas se parecen bastante entre sí.
-
---SLIDE--
-
-## ¿Cuántas lenguas hay en España?}
-
-	-  En España hay cuatro lenguas oficiales: castellano, catalán, gallego y vasco.
-	-  Sin embargo, \href{http://www.ethnologue.com/show_country.asp?name=ES}{Ethnologue enumera hasta 14 lenguas para España}.
-	\pause
-	
-		-  castellano, catalán/valenciano/balear, gallego, vasco, aragonés, bable, caló, extremeño, chapurreau, gascón/aranés, y tres lenguas de señas (española, catalana y valenciana). 
-	
-	-  ¿En qué podemos basarnos para contar las lenguas? ¿En la capacidad para entendernos?
+7. ¿Cómo cambian las lenguas?
 
 
 --SLIDE--
 
-## ¿Cuántas lenguas hay en España?}
+### ¿Qué es una lengua?
 
-	-  Utilizar el criterio de la \textcolor{blue}{inteligibilidad} no siempre es sencillo.
-	-  Los castellano-hablantes, por regla general, podemos entender sin mucha dificultad el gallego normativo, no así el gallego hablado en determinadas zonas rurales.
-	-  Entendemos con menor frecuencia el catalán. 
-	-  Nunca entendemos el vasco.
-	-  A veces es más sencillo entender a un valenciano (hablando otra lengua) que a un gaditano (oficialmente, habla nuestra misma lengua).
-	-  En la \textcolor{blue}{capacidad de comprensión también existe un continuo}.
-	-  No hay duda de que los castellano-hablantes no comprenden a los hablantes de inglés, chino o !kung $\rightarrow$ son lenguas distintas.
 
---SLIDE--
+-  Las lenguas que podemos observar varían enormemente.
 
-## Lenguas de los países escandinavos}
+-  El español y el chino son muy distintas entre sí. 
 
-	-  Si salimos de España, sucede lo mismo: ¿Cuántas lenguas hay en Escandinavia? 
+-  El español y el inglés son distintas también, pero las diferencias son menores.
 
-	\begin{center} 
-	  \includegraphics[scale=1]{img/scandinavia.jpg} 
-	\end{center}
---SLIDE--
+-  Aún menor es la diferencia que percibimos con el italiano o con el gallego. 
 
-## Lenguas de los países escandinavos}
+-  Mi primo de Ciudad Real y mi suegra de Sevilla no hablan igual que yo, pero las diferencias, aunque existen, son mínimas.
 
-	-  Simplificando un poco, oficialmente, hay cuatro lenguas: danés, noruego, sueco y finés.
-	-  El finés es de la famila ugro-fínica y resulta incomprensible para el resto. Nos olvidamos de él por el momento.
-	-  Las otras tres lenguas son de la familia germánica: genéticamente están emparentadas y por razones históricas y culturales, han tenido contacto continuo durante siglos.
-	-  El danés es difícil de comprender por el resto, salvo por los suecos del sur, que lo entiende bastante bien. 
-	-  Suecos y noruegos, por lo general, se entienden aunque hablan oficialmente lenguas distintas. 
-	-  Algunos noruegos del este comprenden mejor a los suecos del oeste que a algunas variedades del noruego.
-	-  Hay un \textcolor{blue}{continuo} en la inteligibilidad de estas lenguas.
+-  No hay dos personas que hablan igual. Una misma persona habla de manera diferente a lo largo de su vida, incluso en distintos momentos a lo largo de un mismo día.
+
+-  No hablamos igual que escribimos.
+
 
 --SLIDE--
 
-## Lenguas de la ex-Yugoslavia}
+### ¿Qué es una lengua?
 
-	-  ¿Cuál es la situación lingüística de los países de la ex-Yugoslavia? 
+- Si no sabemos definir de manera clara qué es una lengua difícilmente podremos contarlas. O los distintos intentos de catalogar las lenguas del mundo darán números dispares.
 
-	\begin{center} 
-	  \includegraphics[scale=0.35]{img/yugoslavia.png} 
-	\end{center}
+- La dificultad para enumerar las lenguas del mundo radica en que **existe un continuo, una diferenciación gradual**, entre las distintas variedades de lengua que utiliza una misma persona a lo largo de un día (p. ej., cuando habla entre amigos y cuando declara ante un juez) y las diferencias radicales que existen entre el chino y el español.
+
+--SUBSLIDE--
+
+- Sin embargo, por muy diferentes que sean dos lenguas, algo de común permanece. De manera que nunca confundimos dos lenguas humanas con cualquier mecanismo de comunicación animal.
+
+- Las lenguas humanas, a pesar de sus diferencias, son básicamente distintas variantes de una misma cosa. Si las comparamos con el lenguaje de las abejas o los bonobos, las lenguas humanas se parecen bastante entre sí.
+
 --SLIDE--
 
-## Lenguas de la ex-Yugoslavia}
+### ¿Cuántas lenguas hay en España?
+
+- En España hay cuatro lenguas oficiales: castellano, catalán, gallego y vasco.
+
+- Sin embargo, [Ethnologue enumera hasta 14 lenguas para España](http://www.ethnologue.com/show_country.asp?name=ES}).
+
+- castellano, catalán/valenciano/balear, gallego, vasco, aragonés, bable, caló, extremeño, chapurreau, gascón/aranés, y tres lenguas de señas (española, catalana y valenciana). 
+
+-  ¿En qué podemos basarnos para contar las lenguas? ¿En la capacidad para entendernos?
+
+
+--SLIDE--
+
+### ¿Cuántas lenguas hay en España?
+
+-  Utilizar el **criterio de la inteligibilidad** no siempre es sencillo.
+
+-  Los castellano-hablantes, por regla general, podemos entender sin mucha dificultad el gallego normativo, no así el gallego hablado en determinadas zonas rurales.
+
+-  Entendemos con menor frecuencia el catalán. 
+
+-  Nunca entendemos el vasco.
+
+--SUBSLIDE--
+
+-  A veces nos resulta más sencillo entender a un valenciano (hablando otra lengua) que a un gaditano (oficialmente, habla nuestra misma lengua).
+
+-  En la **capacidad de comprensión también existe un continuo**.
+
+-  No hay duda de que los castellano-hablantes no comprenden a los hablantes de inglés, chino o !kung &rarr; son lenguas distintas.
+
+--SLIDE--
+
+
+### Lenguas de los países escandinavos
+
+- Si salimos de España, sucede lo mismo.
+   
+- ¿Cuántas lenguas hay en Escandinavia? 
+
+
+![Escandinavia](img/scandinavia.jpg)
+
+
+--SUBSLIDE--
+
+### Lenguas de los países escandinavos
+
+-  Simplificando un poco, oficialmente, hay cuatro lenguas: danés, noruego, sueco y finés.
+
+-  El finés es de la famila ugro-fínica y resulta incomprensible para el resto. Nos olvidamos de él por el momento.
+
+-  Las otras tres lenguas son de la familia germánica: genéticamente están emparentadas y por razones históricas y culturales, han tenido contacto continuo durante siglos.
+
+-  El danés es difícil de comprender por el resto, salvo por los suecos del sur, que lo entiende bastante bien. 
+
+-  Suecos y noruegos, por lo general, se entienden aunque hablan oficialmente lenguas distintas. 
+
+-  Algunos noruegos del este comprenden mejor a los suecos del oeste que a algunas variedades del noruego.
+
+-  Hay un *continuo* en la inteligibilidad de estas lenguas.
+
+--SUBSLIDE--
+
+### Lenguas de la ex-Yugoslavia
+
+-  ¿Cuál es la situación lingüística de los países de la ex-Yugoslavia? 
+
+
+![Antigua Yugoslavia](img/yugoslavia.png)
+
+
+--SUBSLIDE--
+
+### Lenguas de la ex-Yugoslavia}
 
 
 	-  Antes de la guerra se hablaban oficialmente tres lenguas:
@@ -232,7 +272,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 	
 --SLIDE--
 
-## Situación del ebónico}
+### Situación del ebónico}
 
 	-  A finales de los 1990s, hubo mucha polémica en EEUU acerca de si el ebónico era un dialecto del inglés o una lengua diferente.
 	-  Ebónico es la denominación, políticamente correcta, para llamar al *black english} o *African American Vernacular English}: la variante del inglés que utilizan mayoritariamente los negros de EEUU.
@@ -246,14 +286,14 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## }
+### }
 \begin{center}
 \LARGE Lenguas, dialectos, hablas, jergas
 \end{center}
 --SLIDE--
 
 
-## Lenguas, dialectos, hablas, jergas}
+### Lenguas, dialectos, hablas, jergas}
 
 	-  Estos términos para los lingüistas no tienen ningún tipo de connotación. Se utilizan de manera neutra.
 	-  Sin embargo, cotidianamente palabras como dialecto y jerga se suele utilizar de manera peyorativa.
@@ -266,7 +306,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Lenguas, dialectos, hablas, jergas}
+### Lenguas, dialectos, hablas, jergas}
 
 	-  Algunas escuelas lingüísticas han intentado eliminar este sentido peyorativo proponiendo otros términos.
 	-  las \textcolor{blue}{variantes diatópicas} son las formas particulares que adopta una lengua en las diferentes regiones o áreas geográficas.
@@ -276,7 +316,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Lenguaje}
+### Lenguaje}
 
 	-  Utilizaremos este término para lo que es común a todas las lenguas humanas, incluso lo podemos ampliar a las formas de comunicación animal.
 	-  Fundamentalmente, se trata de la capacidad que poseemos los seres humanos para hacer ciertas cosas por medio de señales sonoras o visuales.
@@ -284,7 +324,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 --SLIDE--
 
 
-## Lengua}
+### Lengua}
 
 	-  Sigue siendo complicado definir qué es una lengua.
 	-  No es posible dar una definición puramente lingüística.
@@ -299,7 +339,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 --SLIDE--
 
 
-## Lengua estándar o norma culta}
+### Lengua estándar o norma culta}
 
 	-  Normalmente, cuando pensamos en lengua nos referimos (casi siempre sin saberlo) a la \textcolor{blue}{lengua estándar}.
 	-  La lengua estándar es lo que se aprende en las escuelas y se enseña a los extranjeros.
@@ -311,7 +351,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Lengua estándar}
+### Lengua estándar}
 
 	-  El estándar nos permite dirigirnos a cualquier hispanohablante o a cualquier persona que haya aprendido español sin problemas graves de comunicación. 	
 	-  El estándar no es la consagración del hablar bien.
@@ -323,7 +363,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Hablar bien o hablar mal}
+### Hablar bien o hablar mal}
 
 	-  Es habitual escuchar cosas como «los leistas hablan mal», «decir treceavo para indicar el ordinal es incorrecto», «la expresión ``las tareas a realizar'' es un calco del francés y es incorrecta en castellano».
 	-  \textcolor{blue}{La Lingüística describe, no prescribe}. 
@@ -335,7 +375,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Hablar bien o hablar mal}
+### Hablar bien o hablar mal}
 
 	-  La lengua es de los hablantes, no de una institución artificial y anticuada encargada de «limpiar, fijar y dar esplendor».
 	-  Los hablantes son los únicos que pueden establecer el estándar. 
@@ -345,7 +385,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Habla}
+### Habla}
 
 	-  Es un término ideal porque sirve para casi cualquier cosa. Y esta es su mayor pega, que es demasiado vago.
 	-  En la lengua cotidiana, «habla» tiene connotaciones peyorativas: las «hablas locales» no llegan ni siquiera a la altura del dialecto.
@@ -355,7 +395,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Dialecto}
+### Dialecto}
 
 	-  Para un lingüista, con el término \textcolor{blue}{dialecto} suele referirse a dos cosas:
 
@@ -373,7 +413,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Bilingüismo y diglosia}
+### Bilingüismo y diglosia}
 
 
 	-  el \textcolor{blue}{bilingüismo} es la situación de convivencia de dos lenguas en una misma población o territorio donde ambas gozan del mismo estatus, prestigio y usos sociales. Es indiferente utilizar una u otra.
@@ -389,7 +429,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Normalización y Normativización}
+### Normalización y Normativización}
 
 
 	-  La \textcolor{blue}{normalización} es:
@@ -407,13 +447,13 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 --SLIDE--
 
 
-## }
+### }
 \begin{center}
 \LARGE Clasificación genética: las familias lingüísticas
 \end{center}
 --SLIDE--
 
-## ¿Por qué hay tantas lenguas en el mundo (o tan pocas)?}
+### ¿Por qué hay tantas lenguas en el mundo (o tan pocas)?}
 
 	-  ¿De dónde han salido las lenguas actuales? ¿Cómo se relacionan unas con otras?
 	-  Las lenguas que existen actualmente proceden de lenguas anteriores, y éstas de otras, y así sucesivamente.
@@ -423,7 +463,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Diversidad lingüística}
+### Diversidad lingüística}
 
 	-  El proceso de aparición de las lenguas romances es paralelo al que podemos encontrar en otras zonas. 
 	-  Las lenguas germánicas proceden de un «proto-germánico» que en determinado momento se dividió en lenguas distintas.
@@ -434,7 +474,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Evolución de la diversidad lingüística}
+### Evolución de la diversidad lingüística}
 
 \begin{center} 
   \includegraphics[scale=0.5]{img/diversidad-ling.png} 
@@ -442,7 +482,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Diversidad lingüística: aumento de población}
+### Diversidad lingüística: aumento de población}
 
 	-  No es ningún mérito que ahora haya más lenguas en el mundo que en épocas anteriores: nunca ha habido tanta población. 
 	-  Acabamos de rebasar la cifra de 7.000M de habitantes. No rebasamos los 1.000M hasta principios del s. XIX. A principios del S. XX la población total era de 1.800M. 
@@ -457,7 +497,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Las familias lingüísticas}
+### Las familias lingüísticas}
 
 	-  Si las lenguas de hoy en día son divisiones de lenguas anteriores (y éstas, a su vez, divisiones de lenguas previas\ldots), ¿podemos llegar a la lengua de Adán y Eva?
 	-  ¿Existió alguna vez una lengua única de la que se fueron separando todas las demás?
@@ -468,7 +508,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## El reparto de lenguas por el mundo}
+### El reparto de lenguas por el mundo}
 
 	-  Ya hemos visto que el reparto de lenguas por el mundo es desigual.
 	-  La mayor diversidad lingüística se encuentra en África y en el Pacífico.
@@ -484,7 +524,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Origen africano}
+### Origen africano}
 
 	-  Si es cierta la correlación entre antigüedad y diversidad, África (el continente con mayor diversidad lingüística del mundo), tendrá también las lenguas más antiguas.
 	-  Y si nos fijamos, dentro de África, en la zona geográfica con mayor concentración de lenguas distintas (actuales Camerún y Nigeria) haremos bien en poner el foco para tratar de buscar las lenguas más antiguas.
@@ -498,7 +538,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SLIDE--
 
-## Familias lingüísticas de África}
+### Familias lingüísticas de África}
 
 \begin{center} 
   \includegraphics[scale=0.5]{img/lenguas-africa.png} 
@@ -506,7 +546,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 --SLIDE--
 
 
-## Familias lingüísticas de África}
+### Familias lingüísticas de África}
 
 \begin{center}
 \begin{tabular}{ l l l l l l l }
@@ -524,7 +564,7 @@ sol & \ipa{\textpipe am} & \ipa{\textpipe am} & rana & \ipa{olong} & \ipa{langa}
 --SLIDE--
 
 
-## Las lenguas khoisan: hotentotes y bosquimanos}
+### Las lenguas khoisan: hotentotes y bosquimanos}
 
 	-  Las lenguas de la familia khoisan son las lenguas de los pueblos tradicionalmente conocidos como hotentotes y bosquimanos.
 	-  Geográficamente se extienden por las actuales Angola, Namibia, centro de Sudáfrica, Botswana y Zimbabwe, y un pequeño reducto en la actual Tanzania.
@@ -544,7 +584,7 @@ sol & \ipa{\textpipe am} & \ipa{\textpipe am} & rana & \ipa{olong} & \ipa{langa}
 
 --SLIDE--
 
-## Los clicks de las lenguas khoisan}
+### Los clicks de las lenguas khoisan}
 
 	-  Más allá de la coincidencia superficial de los clicks, hay tanta diversidad entre las lenguas khoisan que sus hablantes no se entienden entre sí.
 	-  Son lenguas habladas por pequeños grupos que han residido durante milenios en zonas colindantes.
@@ -555,7 +595,7 @@ sol & \ipa{\textpipe am} & \ipa{\textpipe am} & rana & \ipa{olong} & \ipa{langa}
 
 --SLIDE--
 
-## Tabla comparativa de distintas lenguas khoisan}
+### Tabla comparativa de distintas lenguas khoisan}
 
 \begin{center}
 \begin{tabular}{ l l l l l }
@@ -573,7 +613,7 @@ sol & \ipa{\textpipe am} & \ipa{\textpipe \textpipe 'an} & \ipa{\textpipe amSa} 
 --SLIDE--
 
 
-## Diversidad lingüísitca en otras zonas del mundo}
+### Diversidad lingüísitca en otras zonas del mundo}
 
 	-  Recapitulando, podemos demostrar desde un punto de vista genético y arqueológico que el lugar con la población más antigua es África.
 	-  El lugar con mayor diversidad lingüística es África.
@@ -585,13 +625,13 @@ sol & \ipa{\textpipe am} & \ipa{\textpipe \textpipe 'an} & \ipa{\textpipe amSa} 
 --SLIDE--
 
 
-## Migraciones humanas}
+### Migraciones humanas}
 \begin{center} 
   \includegraphics[scale=0.35]{img/Migraciones_humanas.png} 
 \end{center}--SLIDE--
 
 
-## Lenguas de América}
+### Lenguas de América}
 
 	-  La ocupación de América es posterior al de otras zonas del mundo, sin embargo, la diversidad lingüística parece indicar que se ocupó en diversas oleadas.
 	-  Si comenzamos por el final, los inuit (esquimales) fueron la última migración hace unos pocos milenios. Se encontraron todo el continene ocupado y, en consecuencia, decidieron quedarse en el extremo norte, desde Alaska hasta Groenlandia (familia esquimo-aleutiana).
@@ -602,7 +642,7 @@ sol & \ipa{\textpipe am} & \ipa{\textpipe \textpipe 'an} & \ipa{\textpipe amSa} 
 --SLIDE--
 
 
-## Lenguas indoeuropeas}
+### Lenguas indoeuropeas}
 
 	-  Dejando aparte la reciente expansión del francés, inglés, portugués, neerlandés u español existe un grupo de lenguas que ha ocupado un extenso territorio desde hace mucho tiempo: las \textcolor{blue}{lenguas indoeuropeas}.
 	-  El parentesco de estas lenguas se estableció desde finales del s. XVIII. Véase el \href{http://upload.wikimedia.org/wikipedia/commons/4/4f/IndoEuropeanTree.svg}{árbol genealógico}.
@@ -612,7 +652,7 @@ sol & \ipa{\textpipe am} & \ipa{\textpipe \textpipe 'an} & \ipa{\textpipe amSa} 
 --SLIDE--
 
 
-## Tabla comparativa de diversas lenguas indoeuropeas}
+### Tabla comparativa de diversas lenguas indoeuropeas}
 \begin{center}
 \begin{footnotesize}
 \begin{tabular}{ l l l l l l l l }
@@ -632,7 +672,7 @@ hitita & uk & - & kuis & watar & laman & merta & twi \\
 --SLIDE--
 
 
-## Los pueblos indoeuropeos}
+### Los pueblos indoeuropeos}
 
 	-  ¿De dónde y cuándo salió esta familia? Existen varias teorías.
 	-  Lo que se conoce como la hipótesis estándar defiende que los indoeuropeos serían un pueblo de la edad de cobre dedicado al pastoreo que había domesticado el caballo.
@@ -648,7 +688,7 @@ hitita & uk & - & kuis & watar & laman & merta & twi \\
 --SLIDE--
 
 
-## Agrupación de lenguas en el mundo}
+### Agrupación de lenguas en el mundo}
 
 A continuación se detalla una hipótesis atrevida sobre la agrupación de las lenguas del mundo, con «solo» 12 grandes familias.
 
@@ -662,7 +702,7 @@ A continuación se detalla una hipótesis atrevida sobre la agrupación de las l
 
 --SLIDE--
 
-## Agrupación de lenguas en el mundo: hipótesis atrevida}
+### Agrupación de lenguas en el mundo: hipótesis atrevida}
 
 	-  \textcolor{blue}{áustrica}: lenguas de Indochina, Taiwán, Madagascar, Filipinas, Indonesia y Polinesia.
 	-  \textcolor{blue}{dravídica}: mitad sur de India, norte de Sri Lanka y zona oeste de Pakistán.
@@ -673,14 +713,14 @@ A continuación se detalla una hipótesis atrevida sobre la agrupación de las l
 
 --SLIDE--
 
-## Familias lingüísticas del mundo}
+### Familias lingüísticas del mundo}
 \begin{center} 
   \includegraphics[scale=0.25]{img/lenguas-mundo.png} 
 \end{center}
 
 --SLIDE--
 
-## Tres escenarios para una primera lengua}
+### Tres escenarios para una primera lengua}
 
 
 	-  Es imposible saber si alguna vez existió una única lengua. Pero podemos presentar tres escenarios distintos.
@@ -696,7 +736,7 @@ A continuación se detalla una hipótesis atrevida sobre la agrupación de las l
 --SLIDE--
 
 
-## En busca de la «lengua madre»}
+### En busca de la «lengua madre»}
 
 	-  Ha habido diferentes intentos de encontrar la lengua madre o el ancestro común mas antiguo.
 	-  Las lenguas que conocemos actualmente no son demasiado antiguas: el chino, el sumerio, el hitita, no tienen más de 5.000 años.
@@ -707,13 +747,13 @@ A continuación se detalla una hipótesis atrevida sobre la agrupación de las l
 
 --SLIDE--
 
-## }
+### }
 \begin{center}
 \LARGE Clasificación tipológica de las lenguas 
 \end{center}
 --SLIDE--
 
-## Clasificación tipológica de las lenguas}
+### Clasificación tipológica de las lenguas}
 
 	-  La clasificación genética no es la única forma de comparar y relacionar las lenguas del mundo.
 	-  Existe la posibilidad de agrupar las lenguas en base a determinadas características estructurales y sin antender a su parentesco. 
@@ -727,7 +767,7 @@ A continuación se detalla una hipótesis atrevida sobre la agrupación de las l
 
 --SLIDE--
 
-## Estructura de la palabra: lenguas sintéticas vs. lenguas analíticas}
+### Estructura de la palabra: lenguas sintéticas vs. lenguas analíticas}
 
 Atendiendo a la estructura habitual de las palabras, la clasificación tipológica suele dividir las lenguas del mundo bajo dos categorías distintas: 
 
@@ -743,7 +783,7 @@ Atendiendo a la estructura habitual de las palabras, la clasificación tipológi
 
 --SLIDE--
 
-## Tipos de lenguas sintéticas}
+### Tipos de lenguas sintéticas}
 
 Las lenguas sintéticas, a su vez, suelen dividirse en dos grandes grupos, dependiendo del mecanismo de creación de palabras más frecuente.
 
@@ -759,7 +799,7 @@ Las lenguas sintéticas, a su vez, suelen dividirse en dos grandes grupos, depen
 
 --SLIDE--
 
-## Estructura de palabras en español}
+### Estructura de palabras en español}
 
 Anque el español es mayoritariamente una lengua sintética de tipo flexivo, podemos encontrar ejemplos de palabras típicos de otros tipos de lenguas.
 
@@ -771,7 +811,7 @@ Anque el español es mayoritariamente una lengua sintética de tipo flexivo, pod
 
 --SLIDE--
 
-## Estructura de palabras en español}
+### Estructura de palabras en español}
 
 
 	-  \textit{rompe-cabezas} tiene dos constituyentes. Dos elementos independientes se han unido para formar una palabra compuesta. Es un ejemplo típico de las \textcolor{blue}{lenguas analíticas}.
@@ -779,7 +819,7 @@ Anque el español es mayoritariamente una lengua sintética de tipo flexivo, pod
 
 --SLIDE--
 
-## Orden oracional}
+### Orden oracional}
 
 
 	-  La clasificación tipológica también se aplica a la investigación del orden canónico de los elementos oracionales en las distintas lenguas.
@@ -794,7 +834,7 @@ Anque el español es mayoritariamente una lengua sintética de tipo flexivo, pod
 
 --SLIDE--
 
-## Orden oracional}
+### Orden oracional}
 
 	-  Las lenguas SOV y SVO representan alrededor del 75\% de las lenguas del mundo. 
 	-  Las lenguas SOV comparten las siguientes características:
@@ -814,13 +854,13 @@ Anque el español es mayoritariamente una lengua sintética de tipo flexivo, pod
 	
 
 
-## }
+### }
 \begin{center}
 \LARGE El paso del tiempo y el cambio lingüístico 
 \end{center}
 --SLIDE--
 
-## Desaparición de una lengua}
+### Desaparición de una lengua}
 
 	-  Las lenguas pueden desaparecer. No tiene que pasar necesariamente, hay lenguas que existen (con muchos cambios, eso sí) dede hace miles de años.
 	
@@ -836,7 +876,7 @@ Anque el español es mayoritariamente una lengua sintética de tipo flexivo, pod
 
 --SLIDE--
 
-## Desaparición de una lengua}
+### Desaparición de una lengua}
 
 
 	-  Existe constancia de la desaparición de lenguas en muchos países y en todas las épocas: 
@@ -851,7 +891,7 @@ Anque el español es mayoritariamente una lengua sintética de tipo flexivo, pod
 
 --SLIDE--
 
-## La muerte de lenguas en EEUU}
+### La muerte de lenguas en EEUU}
 
 	-  Conocemos bastante bien la reciente y continuada desaparición de lengua indias en EEUU.
 	-  Las poblaciones indias fueron reducidas en número, desplazadas de su lugar de origen y relegadas en reservas.
@@ -878,7 +918,7 @@ navajo & 150.000 & 220.000 \\
 
 --SLIDE--
 
-## La muerte de lenguas en EEUU}
+### La muerte de lenguas en EEUU}
 
 	-  De las 159 lenguas indias de EEUU, solo 36 tienen más de 1.000 hablantes nativos.
 	-  La inmensa mayoría de estas lenguas no se ha usado nunca en la escritura, o solo desde hace poco tiempo.
@@ -889,7 +929,7 @@ navajo & 150.000 & 220.000 \\
 
 --SLIDE-- 
 
-## En todas partes mueren lenguas}
+### En todas partes mueren lenguas}
 
 
 	-  No solo en los países de habla inglesa desaparecen lenguas.
@@ -916,7 +956,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Lenguas que resucitan}
+### Lenguas que resucitan}
 
 	-  Pero las lenguas pueden resucitar.
 	-  El hebreo dejó de ser una lengua hablada y quedó limitada a su uso en ritos religioso durante siglos. 
@@ -928,13 +968,13 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 --SLIDE--
 
 
-## }
+### }
 \begin{center}
 \LARGE ¿Hay lenguas mejores y peores? ¿Más o menos primitivas? 
 \end{center}
 --SLIDE--
 
-## }
+### }
 
 	-  Los no lingüistas (y a veces, algunos lingüista también) hablan a menudo de «lenguas primitivas» y las clasifican en mejores y peores $\rightarrow$ volvemos a la distinción entre lengua y dialecto.
 	-  Se suele hablar de «lenguas con gramática» y «lenguas sin gramática». Esto es un sinsentido, la gramática es un componente esencial del lenguaje humano.
@@ -946,7 +986,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 --SLIDE--
 
 
-## Breve inmersión en las lenguas khoisan}
+### Breve inmersión en las lenguas khoisan}
 
 	-  Ya hemos visto que las lenguas khoisan están probablemente entre las lenguas más antiguas del mundo. 
 	-  ¿Son lenguas primitivas o inferiores? ¿Comparadas con qué? Echemos un vistazo al vocabulario para ver qué significados son capaces de trasmitir.
@@ -967,7 +1007,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 --SLIDE--
 
 
-## Breve inmersión en las lenguas khoisan}
+### Breve inmersión en las lenguas khoisan}
 
 	-  Los san tienen muchas palabras distintas para indicar cosas que nosotros entendemos como unitarias.
 	
@@ -981,7 +1021,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Breve inmersión en las lenguas khoisan}
+### Breve inmersión en las lenguas khoisan}
 
 	-  Los san que viven aún a la manera tradicional tienen pocos temas de conversación comparados con los nuestros, pero cuando les conviene son muy precisos.
 	-  Primitivismo no, especialización sí, aunque sus campos de especialización nos parezcan poco tecnológicos.
@@ -993,7 +1033,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## El progreso lingüístico}
+### El progreso lingüístico}
 
 	-  Durante parte del s. XIX se creía en un proceso que conducía de lo simple a lo complejo.
 	-  Se tomaba como lenguas cercanas a la perfección el latín, el griego y el sánscrito porque tenían casos, numerosísimas formas verbales.
@@ -1005,7 +1045,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## La complejidad estructural de las lenguas}
+### La complejidad estructural de las lenguas}
 
 
 	-  La única forma de medir la complejidad estructural de las lenguas es teniendo en cuenta el esfuerzo mental implicado en el procesamiento es esas estructuras.
@@ -1023,14 +1063,14 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 --SLIDE--
 
 
-## }
+### }
 \begin{center}
 \LARGE Lenguas pidgin y lenguas criollas 
 \end{center}
 --SLIDE--
 
 
-## Contexto histórico}
+### Contexto histórico}
 
 	-  Durante la epoca colonial, comerciantes de esclavos europeos se reúnen en la costa de África occidental.
 	-  Los esclavos proceden de distintas zonas y hablan lenguas distintas. No se pueden comunicar en sus lenguas nativas.
@@ -1045,7 +1085,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Los pidgin}
+### Los pidgin}
 
 	-  En una situación como la descrita, basta con tener un «pedacito de lengua»: el vocabulario imprescindible para tratar los temas necesarios, una gramática mínima que sea fácil de aprender, una pronunciación simplificada.
 	-  La palabra *pidgin} (hispanizada como piyin) proviene de la pronunciación china de *business}.  
@@ -1056,7 +1096,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Los pidgin}
+### Los pidgin}
 
 	-  Se aprenden fácilmente y sirven para salir del paso y solucionar las necesidades de comunicación más cotidianas.
 	-  ¿Cómo son estos pidgin? 
@@ -1072,7 +1112,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Criollización de los pidgin}
+### Criollización de los pidgin}
 
 
 	-  Pasa el tiempo y nacen niños, inmersos en una comunidad sin lengua propia.
@@ -1087,7 +1127,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Criollización de los pidgin}
+### Criollización de los pidgin}
 
 
 	-  En un plazo relativamente corto aquel pidgin se ha convertido en una lengua completa a todos los efectos: un criollo.
@@ -1101,7 +1141,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Pidgin y criollos en el mundo}
+### Pidgin y criollos en el mundo}
 
 
 	-  No todos los pidgin ni todos los criollos tienen como base el inglés. 
@@ -1118,7 +1158,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Características de los criollos}
+### Características de los criollos}
 
 	-  El orden de los elementos oracionales tiende a fijarse. El oyente agradecerá no tener que preocuparse por el orden de palabras.
 	
@@ -1137,7 +1177,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Características de los criollos}
+### Características de los criollos}
 
 	-  Los tiempos se limitan en número y, a veces, se transforman en aspectos (en lugar de indicar el tiempo en el que transcurre la acción se indica la forma en la que sucede). 
 	-  Estas variaciones de tiempo se expresan como partículas o verbos auxilires. 
@@ -1150,7 +1190,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Características de los criollos}
+### Características de los criollos}
 
 	-  Las diferencias entre géneros desaparecen, salvo que sea imprescindible marcar la distinción.
 	
@@ -1167,7 +1207,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Resumen}
+### Resumen}
 
 	-  No sabemos cuántas lenguas hay en el mundo: se estima que existen entre 3.000 - 7.000.
 	-  El reparto geográfico de las lenguas (por continentes y por países) es desigual: las zonas con mayor diversidad lingüística se sitúan en África, el sureste asiático y Centroamérica.
@@ -1177,7 +1217,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Resumen}
+### Resumen}
 
 	-  La inteligibilidad no es siempre un criterio válido para marcar los límites entre lenguas $\rightarrow$ en la capacidad de comprensión también existe un continuo.
 	-  Desde el pdv lingüístico no hay una definición clara para lengua y dialecto: ambos son términos neutros.
@@ -1188,7 +1228,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Resumen}
+### Resumen}
 
 	-  Hablar bien o mal nada tien que ver utilizar una variante de la lengua u otra, sino más bien con se capaces de adaptar nuestra lengua al contexto y a nuestro interlocutor.
 	-  Bilingüismo es la situacón de convivencia de dos lenguas en un mismo territorio donde ambas gozan del mismo estatus, prestigio y usos: es una situación ideal, pocas veces conseguida.
@@ -1196,7 +1236,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Resumen}
+### Resumen}
 
 	-  Aunque todas las lenguas son iguales en sus capacidades, no todas las lenguas tienen el mismo prestigio ni fuerza económica.
 	-  Normalización es el proceso por que el que pasan las lenguas minorizadas para recuperar su estatus y prestigio social.
@@ -1204,7 +1244,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Resumen}
+### Resumen}
 
 	-  La clasificación genética nos permite analizar las lenguas del mundo atendiendo a las semejanzas que encontramos entre ellas y que se justifican por razones de parentesco.
 	-  Una familia lingüística es un conjunto de lenguas emparentadas que proceden de un ancestro común.
@@ -1214,7 +1254,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Resumen}
+### Resumen}
 
 	-  La clasificación tipológica nos permite analizar las lenguas del mundo atendiendo a las características estructurales.
 	-  Si analizamos la estructura de las palabras, podemos distinguir lenguas sintéticas (que a su vez pueden ser flexivas o aglutinantes) y analíticas.
@@ -1224,7 +1264,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 --SLIDE--
 
-## Resumen}
+### Resumen}
 
 	-  Las lenguas pidgin son «medias lenguas» que surgen cuando gente de diverso origen y sin lengua común necesita un medio para comunicarse.
 	-  Las pidgin mejor estudiadas mezclan una base de le origen europeo con vocabulario de origen africano y sintaxis simplificada.
@@ -1235,7 +1275,7 @@ quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
 
 
 
-## Referencias}
+### Referencias}
 
 
    -  Bernárdez, E. \textit{¿Qué son las lenguas?} Alianza Ensayo. 2004.
