@@ -32,8 +32,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Suele existir una identificación entre grupo étnico y lengua.
 
-	
-	- ¡OJO! Esta identificación puede ser correcta, aunque no siempre lo es.
+    - ¡OJO! Esta identificación puede ser correcta, aunque no siempre lo es.
 
 - Aprender una lengua extranjera es una tarea ardua y difícil: es casi imposible dejar de hablar con acento extranjero.
 
@@ -155,36 +154,36 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 - No hablamos igual que escribimos.
 
 
---SLIDE--
-
-### ¿Qué es una lengua?
+--SUBSLIDE--
 
 - Si no sabemos definir de manera clara qué es una lengua difícilmente podremos contarlas. O los distintos intentos de catalogar las lenguas del mundo darán números dispares.
 
-- La dificultad para enumerar las lenguas del mundo radica en que **existe un continuo, una diferenciación gradual**, entre las distintas variedades de lengua que utiliza una misma persona a lo largo de un día (p. ej., cuando habla entre amigos y cuando declara ante un juez) y las diferencias radicales que existen entre el chino y el español.
+- La dificultad para enumerar las lenguas del mundo radica en que **existe un continuo, una diferenciación gradual**, entre las distintas variedades de lengua que utiliza una misma persona a lo largo de un día (cuando habla entre amigos y cuando declara ante un juez) y las diferencias radicales que existen entre el chino y el español.
 
 --SUBSLIDE--
 
 - Sin embargo, por muy diferentes que sean dos lenguas, algo de común permanece. De manera que nunca confundimos dos lenguas humanas con cualquier mecanismo de comunicación animal.
 
-- Las lenguas humanas, a pesar de sus diferencias, son básicamente distintas variantes de una misma cosa. Si las comparamos con el lenguaje de las abejas o los bonobos, las lenguas humanas se parecen bastante entre sí.
+- Las lenguas humanas, a pesar de sus diferencias, son básicamente distintas variantes de una misma cosa. 
+
+- Si las comparamos con el lenguaje de las abejas o los bonobos, las lenguas humanas se parecen bastante entre sí.
 
 --SLIDE--
 
 ### ¿Cuántas lenguas hay en España?
 
+--SUBSLIDE--
+
 - En España hay cuatro lenguas oficiales: castellano, catalán, gallego y vasco.
 
-- Sin embargo, [Ethnologue enumera hasta 14 lenguas para España](http://www.ethnologue.com/show_country.asp?name=ES}).
+- Sin embargo, [Ethnologue](http://www.ethnologue.com) enumera hasta [14 lenguas para España](http://www.ethnologue.com/show_country.asp?name=ES}):
 
-- castellano, catalán/valenciano/balear, gallego, vasco, aragonés, bable, caló, extremeño, chapurreau, gascón/aranés, y tres lenguas de señas (española, catalana y valenciana). 
+    - castellano, catalán/valenciano/balear, gallego, vasco, aragonés, bable, caló, extremeño, chapurreau, gascón/aranés, y tres lenguas de señas (española, catalana y valenciana). 
 
 - ¿En qué podemos basarnos para contar las lenguas? ¿En la capacidad para entendernos?
 
 
---SLIDE--
-
-### ¿Cuántas lenguas hay en España?
+--SUBSLIDE--
 
 - Utilizar el **criterio de la inteligibilidad** no siempre es sencillo.
 
@@ -233,7 +232,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Hay un *continuo* en la inteligibilidad de estas lenguas.
 
---SUBSLIDE--
+--SLIDE--
 
 ### Lenguas de la ex-Yugoslavia
 
@@ -255,16 +254,17 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - El serbo-croata estaba formado por dos *variantes/dialectos* mutuamente inteligibles, aunque utilizaban alfabetos diferentes:
 	
-	- los croatas utilizaban el alfabeto latino.
-	- los serbios utilizaban el alfabeto cirílico.
+	- los croatas utilizaban el alfabeto latino: zdravo!
+	- los serbios utilizaban el alfabeto cirílico:  здраво! 
 	
 --SUBSLIDE--
 
-- Tras la guerra, se habla no de dos lenguas, sino de tres: 
+- Tras la guerra, se habla no de dos lenguas, sino de tres o cuatro: 
 	
 	- croata
 	- serbio
 	- bosnio
+	- montenegrino
 	
 - ¿Acaso han nacido de un día para otro una, dos o tres lenguas nuevas? Lingüísticamente, tras la guerra nada ha cambiado. 
 - La definición de **lenguas distintas** casi nunca es una cuestión lingüística. 
@@ -293,7 +293,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 ## Lenguas, dialectos, hablas, jergas
 
---SLIDE--
+--SUBSLIDE--
 
 
 ### Lenguas, dialectos, hablas, jergas
@@ -313,7 +313,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
     - Los dialectos son cosas menores, patrimonio cultural, sí, pero de estar en casa. Cosa de canciones populares y bailes regionales.
 	
 
---SLIDE--
+--SUBSLIDE--
 
 ### Lenguas, dialectos, hablas, jergas
 
@@ -327,6 +327,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Estas denominaciones, frecuentes en sociolingüística, no se utilizan en la vida cotidiana.
 
+
 --SLIDE--
 
 ### Lenguaje
@@ -336,7 +337,6 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 - Fundamentalmente, se trata de la capacidad que poseemos los seres humanos para hacer ciertas cosas por medio de señales sonoras o visuales.
 
 --SLIDE--
-
 
 ### Lengua
 
@@ -356,9 +356,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Véase el vídeo [Moreno Cabrera: el español estándar](http://www.youtube.com/watch?v=sBiM3ELPjXs).
 
-
 --SLIDE--
-
 
 ### Lengua estándar o norma culta
 
@@ -378,7 +376,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - En ello no hay nada de malo o incorrecto.
 
-- El estándar nos permite dirigirnos a cualquier hispanohablante o a cualquier persona que haya aprendido español sin problemas graves de comunicación. 	
+- El estándar nos permite dirigirnos a cualquier hispanohablante o a cualquier persona que haya aprendido español sin problemas graves de comunicación.
 
 --SUBSLIDE--
 
