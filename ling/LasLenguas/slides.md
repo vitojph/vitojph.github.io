@@ -52,7 +52,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Estos números no nos dicen gran cosa. Nos dicen que hay muchas lenguas, pero no tantas como podría haber. 
 
-- Somos 7.000.000.000 personas en el mundo, salimos a casi 1 millón de habitantes por lengua.
+- Somos [unos 7.186M de habitantes](http://www.worldometers.info/world-population/) en el mundo, salimos a casi 1 millón de habitantes por lengua.
 
 - Sin embargo, el reparto es desigual:
 
@@ -100,14 +100,11 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 ![Reparto geográfico de las lenguas](img/wrld_eth.jpg) 
 
-
-*-*-*-*
-
 --SUBSLIDE--
 
-- Si atendemos al número de hablantes, solo hay unas 600 lenguas que tengan más de 100.000 hablantes
-
 - 100.000 hablantes es la cifra que se suele mencionar como el umbral mínimo a partir del cual se considera que una lengua no está en peligro de desaparición a medio plazo.
+
+- Si atendemos al número de hablantes, solo hay unas 600 lenguas que tengan más de 100.000 hablantes
 
 - Y solo 250 lenguas tienen más de 1M hablantes, son las grandes lenguas del mundo: 
 	
@@ -370,7 +367,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SUBSLIDE--
 
-- El castellano, el catalán, el inglés, el alemán, todas las lenguas occidentales tienen una variante estándar que se utiliza en estos contexto anteriores.
+- El castellano, el catalán, el inglés, el alemán, todas las lenguas occidentales tienen una variante estándar que se utiliza en estos contextos anteriores.
 
 - Hay bastante gente que, en el ámbito privado, puede usar otras formas de «lengua española»: p. ej., hay gente que en casa habla el «granadino cerrado», es decir, el dialecto o variante diatópica de Granada.
 
@@ -523,7 +520,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Lo mismo ocurrió con las lenguas semíticas: árabe, hebreo, lenguas de Etiopía.
 
-- Si seguimos viajando atrás en el tiempo, veremos cómo el latín, el proto-germánico, el proto-eslavo, el sánscrito\ldots aparecieron con la desmembración de una lengua anterior: el indoeuropeo.
+- Si seguimos viajando atrás en el tiempo, veremos cómo el latín, el proto-germánico, el proto-eslavo, el sánscrito... aparecieron con la desmembración de una lengua anterior: el indoeuropeo.
 
 - Si seguimos así podemos llegar a la siguiente conclusión: ¡hoy existen más lenguas que nunca!
 
@@ -551,7 +548,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - De hecho, lo que ha ocurrido es que en un cortísimo espacio de tiempo:
 
-    1. han desaparecido centenares de lenguas: especialmente en América, Australia y Oceanía.
+    1. han desaparecido centenares de lenguas: especialmente en América, África y Oceanía.
     
     2. algunas lenguas han aumentado mucho su número de hablantes.
 
@@ -615,19 +612,19 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 ![Familinas lingüísticas en África](img/lenguas-africa.png)
 
 
---SLIDE--
+
+--SUBSLIDE--
+
+|         | **!kung** | **nama** | **hausa** | **maasai** | **zulú** | **swahili** |
+|---------|:---------:|:--------:|:---------:|:----------:|:--------:|:-----------:|
+| *yo*    |     mi    |    ti    |    ni     |    nanu    |    ami   |     mimi    |
+| *tú*    |      i    |    tsa   |   kai     |    inyi    |   akhu   |     ako     |
+|*hablar* |   okx'ui  |  kx'ui   |  fada     |    iro     |    amb   |     amb     |
+| *beber* |    k''a   |   kx'a   |&#643;&atilde;| mat     |  phuza   |     nyw     |
+| *ojo*   |  &#124;ga |  mus     |id&otilde; |    ongu    |    so    |     cho     |
+| *sol*   |  &#124;am | &#124;am |   rana    |   olong    |   langa  |     jua     |
 
 
-### Familias lingüísticas de África
-
-   & \textbf{!kung} & \textbf{nama} & \textbf{hausa} & \textbf{maasai} & \textbf{zulú} & \textbf{swahili} \\
-\hline
-yo & mi & ti & ni & nanu & ami & mimi \\
-tú & i & tsa & kai & inyi & akhu & ako \\
-hablar & okx'ui & kx'ui & fada & iro & amb & amb \\
-beber & k''a & kx'a & \ipa{\textesh\=a} & mat & phuza & nyw \\
-ojo & \ipa{\textpipe ga} & mus & id\ipa{\=o} & \ipa{ongu} & so & cho \\
-sol & \ipa{\textpipe am} & \ipa{\textpipe am} & rana & \ipa{olong} & \ipa{langa} & jua \\
 
 --SLIDE--
 
@@ -658,23 +655,23 @@ sol & \ipa{\textpipe am} & \ipa{\textpipe am} & rana & \ipa{olong} & \ipa{langa}
 
 ### Los clicks de las lenguas khoisan
 
-	- Más allá de la coincidencia superficial de los clicks, hay tanta diversidad entre las lenguas khoisan que sus hablantes no se entienden entre sí.
-	- Son lenguas habladas por pequeños grupos que han residido durante milenios en zonas colindantes.
-	- Es una familia lingüística bien reconocida que ha ocupado desde siempre el sur de África.
-	- Sus únicos familiares son otro par de lenguas de Tanzania, que también tiene clicks. 
-	- No sería extraño que la patria originaria estuviera precisamente en esa zona: los movimientos migratorios de los khoisan y los restos originarios del hombre moderno concuerdan con esta hipótesis.
-	- Los estudios genéticos y lingüísticos apuntan a la idea de que estos pueblos (y estas lenguas) están entre los descendients directos de los humanos modernos más antiguos.
+- Más allá de la coincidencia superficial de los clicks, hay tanta diversidad entre las lenguas khoisan que sus hablantes no se entienden entre sí.
+
+- Son lenguas habladas por pequeños grupos que han residido durante milenios en zonas colindantes.
+
+- Es una familia lingüística bien reconocida que ha ocupado desde siempre el sur de África.
+
+--SUBSLIDE--
+
+- Sus únicos familiares son otro par de lenguas de Tanzania, que también tiene clicks. 
+
+- No sería extraño que la patria originaria estuviera precisamente en esa zona: los movimientos migratorios de los khoisan y los restos originarios del hombre moderno concuerdan con esta hipótesis.
+
+- Los estudios genéticos y lingüísticos apuntan a la idea de que estos pueblos (y estas lenguas) están entre los descendients directos de los humanos modernos más antiguos.
 
 --SLIDE--
 
 ### Tabla comparativa de distintas lenguas khoisan
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 
 
    & \textbf{\ipa{!kung}} & \textbf{\ipa{!xó\~o}} & \textbf{naron} & \textbf{nama} \\
@@ -708,7 +705,7 @@ sol & \ipa{\textpipe am} & \ipa{\textpipe \textpipe 'an} & \ipa{\textpipe amSa} 
 
 ### Migraciones humanas
 
-![Migraciones humanas](img/Migraciones_humanas.png})
+![Migraciones humanas](img/Migraciones_humanas.png)
 
 
 --SLIDE--
@@ -1068,7 +1065,7 @@ náhuatl & 1.380.000 & México \\
 aymara & 2.200.000 & Bolivia, Perú, Chile\\
 lenguas mayas & 3.000.000 & Guatemala, México, Belize \\
 guaraní & 4.650.000 & Paraguay \\
-quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia\ldots \\
+quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia... \\
 
 --SLIDE--
 
