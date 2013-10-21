@@ -620,10 +620,9 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 | *yo*    |     mi    |    ti    |    ni     |    nanu    |    ami   |     mimi    |
 | *tú*    |      i    |    tsa   |   kai     |    inyi    |   akhu   |     ako     |
 |*hablar* |   okx'ui  |  kx'ui   |  fada     |    iro     |    amb   |     amb     |
-| *beber* |    k''a   |   kx'a   |&#643;&atilde;| mat     |  phuza   |     nyw     |
-| *ojo*   |  &#124;ga |  mus     |id&otilde; |    ongu    |    so    |     cho     |
+| *beber* |    k''a   |   kx'a   |&#643;&#257;|   mat     |  phuza   |     nyw     |
+| *ojo*   |  &#124;ga | &uacute;s|  id&#333; |    ongu    |    so    |     cho     |
 | *sol*   |  &#124;am | &#124;am |   rana    |   olong    |   langa  |     jua     |
-
 
 
 --SLIDE--
@@ -673,15 +672,15 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 ### Tabla comparativa de distintas lenguas khoisan
 
+|      |  !kung  | !xó&otilde;      |     naron     |   nama   |
+|------|:-------:|:----------------:|:-------------:|:--------:|
+|yo    |   mi    |  &#626;'&#626;   |      ti       |     ti   |
+|tú    |    i    |     &#257;h      |  sat&#643;a   |    tsa   |
+|hablar|  okx'ui |       tana       |     !gava     |   kx'ui  |
+|beber |  k''a   |kx'&#257;h&atilde;|     k''a      |   kx'a   |
+|ojo   |&#124;ga | &#124;'u&itilde; |      mùs      | m&uacute;|
+|sol   |&#124;am | &#124;&#124;'an  |&#124;am&#643;a| &#124;am |
 
-   & \textbf{\ipa{!kung}} & \textbf{\ipa{!xó\~o}} & \textbf{naron} & \textbf{nama} \\
-\hline
-yo & \ipa{mi} & \ipa{\textltailn'\textltailn} & \ipa{ti} & \ipa{ti} \\
-tú & \ipa{i} & \ipa{\=ah} & \ipa{satSa} & \ipa{tsa} \\
-hablar & \ipa{okx'ui} & \ipa{tana} & \ipa{!gava} & \ipa{kx'ui} \\
-beber & \ipa{k''a} & \ipa{kx'\=ah\~a} & \ipa{k''a} & \ipa{kx'a} \\
-ojo & \ipa{\textpipe ga} & \ipa{\textpipe 'u\~i} & \ipa{mùs} & \ipa{m\~us} \\
-sol & \ipa{\textpipe am} & \ipa{\textpipe \textpipe 'an} & \ipa{\textpipe amSa} & \ipa{\textpipe am} \\
 
 --SLIDE--
 
@@ -737,22 +736,21 @@ sol & \ipa{\textpipe am} & \ipa{\textpipe \textpipe 'an} & \ipa{\textpipe amSa} 
 
 - Posteriormente, se han ido uniendo otras lenguas cuyo parentesco no resultaba tan evidente: albanés, armenio, lenguas desaparecidas de la península itálica (osco-umbro, etrusco) y los Balcanes (tracio, ilirio), lenguas de China (tocario) y de Anatolia (hitita). 
 
---SLIDE--
+--SUBSLIDE--
 
 
 ### Tabla comparativa de diversas lenguas indoeuropeas
 
-\begin{tabular}{ l l l l l l l l }
- & \textbf{yo} & \textbf{tú} & \textbf{¿quién?} & \textbf{agua} & \textbf{nombre} & \textbf{muerte} & \textbf{dos} \\
-\hline
-latín & ego & tu & quis & - & nomen & mortuus & duo \\
-griego & ego & su & tis & hudor & onoma & ambrotos & duo \\
-gótico & ik & \ipa{\th u} & hwas & wato & namo & \ipa{mor\th r} & twe \\
-lituano & \ipa{aS} & tu & kas & vanduo & emmens & mirti & du \\
-eslavo & azu & ty & kuto & voda & ime & mrto & duo \\
-sánscrito & ahám & tuvám & kas & udakám & naman & mrtá & duv \\
-tocario & - & twe & kuse & war & \ipa{\textltailn em} & - & wi \\
-hitita & uk & - & kuis & watar & laman & merta & twi \\
+
+|         | yo | tú | ¿quién? | agua | nombre | muerte | dos |
+|latín    | ego | tu | quis | - | nomen | mortuus | duo |
+|griego   | ego | su | tis | hudor | onoma | ambrotos | duo |
+|gótico   | ik | &thorn;u | hwas | wato | namo | | mor&thorn;r | twe |
+|lituano  | a&#643; | tu | kas | vanduo | emmens | mirti | du |
+|eslavo   | azu | ty | kuto | voda | ime | mrto | duo |
+|sánscrito| ahám | tuvám | kas | udakám | naman | mrtá | duv |
+|tocario  | - | twe | kuse | war | &#626;em | - | wi |
+|hitita   | uk | - | kuis | watar | laman | merta | twi |
 
 --SLIDE--
 
@@ -1053,19 +1051,21 @@ navajo & 150.000 & 220.000 \\
 
 - Con expeción del guaraní (lengua co-oficial en Paraguay), el resto de lenguas suelen ser despreciadas por ser «cosa de indios».
 
+
 --SUBSLIDE--
 
 
-\textbf{lengua} & \textbf{hablantes} & \textbf{país} \\
-\hline
-cayapa & 5.000 & Ecuador\\
-yanomami & 15.000 & Venezuela, Brasil \\
-mapuche & 400.000 & Chile\\
-náhuatl & 1.380.000 & México \\
-aymara & 2.200.000 & Bolivia, Perú, Chile\\
-lenguas mayas & 3.000.000 & Guatemala, México, Belize \\
-guaraní & 4.650.000 & Paraguay \\
-quechua & 8.000.000 & Bolivia, Perú, Ecuador, Colombia... \\
+| **lengua** | **hablantes** | **país** |
+
+| cayapa | 5.000 | Ecuador |
+| yanomami | 15.000 | Venezuela, Brasil |
+| mapuche | 400.000 | Chile |
+| náhuatl | 1.380.000 | México |
+| aymara | 2.200.000 | Bolivia, Perú, Chile |
+| lenguas mayas | 3.000.000 | Guatemala, México, Belize |
+| guaraní | 4.650.000 | Paraguay |
+| quechua | 8.000.000 | Bolivia, Perú, Ecuador, Colombia...  |
+
 
 --SLIDE--
 
