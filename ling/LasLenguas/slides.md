@@ -500,13 +500,13 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SUBSLIDE--
 
-- En el antiguo imperio romano había una única lengua, el latín. 
+- En el antiguo imperio romano había una única lengua: el latín. 
 
 - La falta de comunicación suficiente entre los hablantes de distintas regiones del imperio (unido a otros factores como las invasiones bárbaras, la influencia de lenguas nativas anteriores, etc.) provocó la desmembración del latín y la aparición de las lenguas romances.
 
 - En realidad, la situación era más compleja. Recuerden el continuo lingüístico, el estándar, etc.
 
---SLIDE--
+--SUBSLIDE--
 
 ### Diversidad lingüística
 
@@ -524,13 +524,13 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Si seguimos así podemos llegar a la siguiente conclusión: ¡hoy existen más lenguas que nunca!
 
---SLIDE--
+--SUBSLIDE--
 
 ### Evolución de la diversidad lingüística
 
 ![Diversidad Lingüística](img/diversidad-ling.png)
 
---SLIDE--
+--SUBSLIDE--
 
 ### Diversidad lingüística: aumento de población
 
@@ -567,7 +567,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 - Una **familia lingüística** es un conjunto de lenguas genéticamente emparentadas que proceden de un ancestro común.
 
 
---SLIDE--
+--SUBSLIDE--
 
 ### El reparto de lenguas por el mundo
 
@@ -577,7 +577,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - A principios del s. XX, el ligüístia norteamericano Edward Sapir propuso la siguiente hipótesis:
 	
-    - es de esperar que encontremos mayor diversidad lingüística en los emplazamientos más antiguos porque, lógicamente, ha habido más tiempo para la diversificación. 
+    > es de esperar que encontremos mayor diversidad lingüística en los emplazamientos más antiguos porque, lógicamente, ha habido más tiempo para la diversificación. 
 
 --SUBSLIDE--
 
@@ -638,17 +638,20 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 	
 	- [Trabalenguas en xhosa](http://www.youtube.com/watch?v=pGUzL2DVblc).
 
-	- [Clicks en xhosa](http://www.youtube.com/watch?v=gytCi5a7AJg)
-	
+	- [Clicks en xhosa](http://www.youtube.com/watch?v=31zzMb3U0iY)
+
+	- [Clicks en zulú](http://www.youtube.com/watch?v=MXroTDm55C8)
+
+
 --SUBSLIDE--
 
 - Estos clicks, por muy extraños que parezcan, los usamos nosotros continuamente.
 	
-	- click labial: es el sonido de un beso fuerte.
-	- click lateral: es el sonido para arrear a un caballo.
-	- click alveolar: es el sonido de descorchar una botella.
-	- click dental: es el sonido de un chasquido de disgusto.
-	
+	- /&#664;/ click labial: es el sonido de un beso fuerte.
+	- /&#449;/ click lateral: es el sonido para arrear a un caballo.
+	- /!/ click alveolar: es el sonido de descorchar una botella.
+	- /&#448;/ click dental: es el sonido de un chasquido de disgusto.
+
 
 --SUBSLIDE--
 
@@ -678,7 +681,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 |tú    |    i    |     &#257;h      |  sat&#643;a   |    tsa   |
 |hablar|  okx'ui |       tana       |     !gava     |   kx'ui  |
 |beber |  k''a   |kx'&#257;h&atilde;|     k''a      |   kx'a   |
-|ojo   |&#124;ga | &#124;'u&itilde; |      mùs      | m&uacute;|
+|ojo   |&#124;ga | &#124;'u&itilde; |      mùs      | m&utilde;|
 |sol   |&#124;am | &#124;&#124;'an  |&#124;am&#643;a| &#124;am |
 
 
@@ -699,7 +702,8 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - La ocupación de Asia, Europa y América sería más reciente, y eso se refleja en la menor diversidad lingüística.
 
---SLIDE--
+
+--SUBSLIDE--
 
 
 ### Migraciones humanas
@@ -734,25 +738,23 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Al principio, se consideraban integrantes de esta familia las lenguas románicas («hijas del latín») el griego, las germánicas, las eslavas, las bálticas (lituano y letón), célticas, iranias e indias (como el sánscrito).
 
-- Posteriormente, se han ido uniendo otras lenguas cuyo parentesco no resultaba tan evidente: albanés, armenio, lenguas desaparecidas de la península itálica (osco-umbro, etrusco) y los Balcanes (tracio, ilirio), lenguas de China (tocario) y de Anatolia (hitita). 
+- Posteriormente, se han ido uniendo otras lenguas cuyo parentesco no resultaba tan evidente: albanés, armenio, lenguas desaparecidas de la península itálica (osco-umbro, etrusco) y los Balcanes (tracio, ilirio), lenguas de China (tocario) y de Anatolia (hitita).
 
 --SUBSLIDE--
 
+|         | *yo*    | *tú*     | *quién* | *agua* | *nombre* | *muerte* | *dos* |
+|---------|:-----:|:------:|:-----:|:----:|:------:|:---------:|:---:|
+|latín    | ego   | tu     | quis  | -    | nomen  | mortuus   | duo |
+|griego   | ego   | su     | tis   | hudor| onoma  |ambrotos   | duo |
+|gótico   | ik    |&thorn;u| hwas  | wato | namo   |mor&thorn;r| twe |
+|lituano  |a&#643;| tu     | kas   |vanduo| emmens | mirti     | du  |
+|eslavo   | azu   | ty     | kuto  | voda | ime    | mrto      | duo |
+|sánscrito| ahám  | tuvám  | kas   |udakám| naman  | mrtá      | duv |
+|tocario  | -     | twe    | kuse  | war  |&#626;em| -         | wi  |
+|hitita   | uk    | -      | kuis  | watar| laman  | merta     | twi |
 
-### Tabla comparativa de diversas lenguas indoeuropeas
 
-
-|         | yo | tú | ¿quién? | agua | nombre | muerte | dos |
-|latín    | ego | tu | quis | - | nomen | mortuus | duo |
-|griego   | ego | su | tis | hudor | onoma | ambrotos | duo |
-|gótico   | ik | &thorn;u | hwas | wato | namo | | mor&thorn;r | twe |
-|lituano  | a&#643; | tu | kas | vanduo | emmens | mirti | du |
-|eslavo   | azu | ty | kuto | voda | ime | mrto | duo |
-|sánscrito| ahám | tuvám | kas | udakám | naman | mrtá | duv |
-|tocario  | - | twe | kuse | war | &#626;em | - | wi |
-|hitita   | uk | - | kuis | watar | laman | merta | twi |
-
---SLIDE--
+--SUBSLIDE--
 
 
 ### Los pueblos indoeuropeos
@@ -786,7 +788,6 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - **níger-cordofán**: centro de África, de costa a costa. 
 
-
 - **nilo-sahariana**: sur de Sudán y centro-este de África.
 
 - **afro-asiática**: norte de África, Etiopía, península arábiga.
@@ -809,16 +810,16 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - **dene-caucásica**: lenguas sino-tibetanas (variantes del Chino), lenguas del Caúcaso, lenguas na-dene de Norteamérica, lenguas del Yenisei y el euskera.
 
---SLIDE--
+--SUBSLIDE--
 
 ### Familias lingüísticas del mundo
 
 ![Familias lingüísticas del mundo](img/lenguas-mundo.png)
 
+
 --SLIDE--
 
 ### Tres escenarios para una primera lengua
-
 
 - Es imposible saber si alguna vez existió una única lengua. Pero podemos presentar tres escenarios distintos.
 
@@ -831,7 +832,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 - Los tres escenarios permitirían el mismo resultado final: la actual diversificación de lenguas.
 
 
---SLIDE--
+--SUBSLIDE--
 
 
 ### En busca de la «lengua madre»
@@ -1010,17 +1011,24 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Se calcula que el 80% de las lenguas de EEUU y Canadá desaparecerán en breve plazo.
 
+--SUBSLIDE--
 
-\textbf{lengua} & \textbf{hablantes} & \textbf{población} \\
-\hline
-powahatan & 0 & 3.500 \\
-comanche & 854 & 6.000 \\
-cheyenne & 1.721 & 5.000 \\
-hopi & 5.265 & 6.500\\
-apache & 15.333 & 20.000\\
-sioux dakota & 16.000 & 100.000\\
-cherokee & 23.000 & 300.000 \\
-navajo & 150.000 & 220.000 \\
+### Lenguas nativas de América del Norte
+
+
+
+| **lengua** | **hablantes** | **población total** |
+|------------|--------------:|--------------------:|
+| powahatan | 0 | 3.500 |
+| comanche | 854 | 6.000 |
+| cheyenne | 1.721 | 5.000 | 
+| hopi | 5.265 | 6.500 |
+| apache | 15.333 | 20.000 |
+| sioux dakota | 16.000 | 100.000 |
+| cherokee | 23.000 | 300.000 |
+| navajo | 150.000 | 220.000 |
+
+
 
 --SUBSLIDE--
 
@@ -1032,7 +1040,9 @@ navajo & 150.000 & 220.000 \\
 
 --SUBSLIDE--
 
-- En EEUU hay otras lenguas minoritarias no indias que no corren ningún peligro: el *canjun french* de Luisiana o el *pennsylvania dutch* de los amish &rarr; dos poblaciones con una clara identidad étnico-cultural o religiosa.
+- En EEUU hay otras lenguas minoritarias no indias que no corren ningún peligro: 
+
+    - el *canjun french* de Luisiana o el *pennsylvania dutch* de los amish &rarr; dos poblaciones con una clara identidad étnico-cultural o religiosa.
 
 - El desarraigo de los indios les ha hecho perder gran parte de su cultura tradicional.
 
@@ -1054,9 +1064,10 @@ navajo & 150.000 & 220.000 \\
 
 --SUBSLIDE--
 
+### Lenguas nativas de América Central y del Sur
 
 | **lengua** | **hablantes** | **país** |
-
+|------------|---------------|----------|
 | cayapa | 5.000 | Ecuador |
 | yanomami | 15.000 | Venezuela, Brasil |
 | mapuche | 400.000 | Chile |
@@ -1115,9 +1126,9 @@ navajo & 150.000 & 220.000 \\
 
 - ¿Son lenguas primitivas o inferiores? ¿Comparadas con qué? Echemos un vistazo al vocabulario para ver qué significados son capaces de trasmitir.
 	
-	- \ipa{[g\!ohx'ó\~o]}: mosca
+	- /g&#664;hx'ó&otilde;/: *mosca*
 	
-	- \ipa{[dts'kx'\=ala]}: olor a pradera quemada
+	- /dts'kx'&#257;la/: *olor a pradera quemada*
 
 --SUBSLIDE--
 	
@@ -1140,9 +1151,9 @@ navajo & 150.000 & 220.000 \\
 
 - Los san tienen muchas palabras distintas para indicar cosas que nosotros entendemos como unitarias.
 	
-- llevar: llevar a un niño en la cadera \ipa{[|gâm]}; llevar apretado contra el pecho \ipa{[gàh'o]}; llevar colgado de un palo al hombro \ipa{[||gàlo]}; llevar apoyado contra el hombro \ipa{[!án]}; llevar sobre la cabeza \ipa{[!ú\~u //àm]}; llevar un contenedor de líquido \ipa{[//nùh\~a]}.
+- llevar: llevar a un niño en la cadera /&#124;gâm/; llevar apretado contra el pecho /gàh'o/; llevar colgado de un palo al hombro /&#449;gàlo/; llevar apoyado contra el hombro /!án/; llevar sobre la cabeza /!ú&utilde;&#449;àm/; llevar un contenedor de líquido /&#449;nùh&atilde;/.
 
-- beber: beber un líquido caliente \ipa{[sàm]}; beber un líquido frío \ipa{[qôm]}; arrodillarse para coger el agua \ipa{[//qàm]}; beber sorbiendo de un huevo de avestruz \ipa{[\!ogùmi]}; beber hasta quedar satisfecho \ipa{[d\=oh'o]}
+- beber: beber un líquido caliente /sàm/; beber un líquido frío /qôm/; arrodillarse para coger el agua /&#449;qàm/; beber sorbiendo de un huevo de avestruz /&#664;gùmi/; beber hasta quedar satisfecho /d&#333;h'o/
 
 --SUBSLIDE--
 
@@ -1232,7 +1243,7 @@ navajo & 150.000 & 220.000 \\
 	- Los esclavos necesitan comunicarse entre ellos y entender a los negreros.
 		
 
---SLIDE--
+--SUBSLIDE--
 
 ### Los pidgin
 
@@ -1277,7 +1288,7 @@ navajo & 150.000 & 220.000 \\
 - Con el paso del tiempo, este pidgin va enriqueciendo su vocabulario con palabras de las lenguas de los señores.
 
 
---SLIDE--
+--SUBSLIDE--
 
 ### Criollización de los pidgin
 
@@ -1297,7 +1308,7 @@ navajo & 150.000 & 220.000 \\
 	
 - Ese pidgin que escuchan a los adultos es bastante más rico que el que se originó en África. Los niños van añadiendo poco a poco nuevo vocabulario de aquí de allá y crean reglas sintácticas que se adaptan a sus necesidades.
 
---SLIDE--
+--SUBSLIDE--
 
 ### Criollización de los pidgin
 
@@ -1314,7 +1325,7 @@ navajo & 150.000 & 220.000 \\
 	- Sus hijos, una generación después, crearon un criollo con base en inglés: el sranan tongo (*surinam tongue*).
 	
 
---SLIDE--
+--SUBSLIDE--
 
 ### Pidgin y criollos en el mundo
 
@@ -1338,7 +1349,7 @@ navajo & 150.000 & 220.000 \\
 
 	4. La pronunciación se simplifica: *mi wan go it, yu kam tu?}
 
---SLIDE--
+--SUBSLIDE--
 
 ### Características de los criollos
 
@@ -1487,28 +1498,28 @@ mayor diversidad lingüística (y genética).
 
 ### Referencias
 
-- Bernárdez, E. *¿Qué son las lenguas?} Alianza Ensayo. 2004.
+- Bernárdez, E. *¿Qué son las lenguas?* Alianza Ensayo. 2004.
 
-- Tusón Valls, J. *Introducción al lenguaje}. UOC. 2003.
+- O'Grady, W., Archivals, J., Aronoff, M., Rees-Miller, J. *Contemporary Linguistics*. Bedford/St. Martin's. 2001. 
 
-- \href{http://en.wikipedia.org/wiki/African\_American\_Vernacular\_English}{Wikipedia: African American Vernacular English}
+- Tusón Valls, J. *Introducción al lenguaje*. UOC. 2003.
 
-- \href{http://medina-psicologia.ugr.es/cienciacognitiva/?p=329}{¿Son más eficaces unas lenguas que otras?}
+- [Wikipedia: African American Vernacular English](http://en.wikipedia.org/wiki/African\_American\_Vernacular\_English})
 
-- \href{http://www.ethnologue.com/show_country.asp?name=ES}{Ethnologue: Lenguas de España}
+- [¿Son más eficaces unas lenguas que otras?](http://medina-psicologia.ugr.es/cienciacognitiva/?p=329)
+
+- [Ethnologue: Lenguas de España](http://www.ethnologue.com/show_country.asp?name=ES)
 
 
 --SUBSLIDE--
 
 
-- \href{http://es.wikipedia.org/wiki/Anexo:Lenguas_por_n\%C3\%BAmero_de_hablantes}{Wikipedia: Lenguas por número de hablantes}
+- [Wikipedia: Lenguas por número de hablantes](http://es.wikipedia.org/wiki/Anexo:Lenguas_por_n\%C3\%BAmero_de_hablantes)
 
-- \href{http://es.wikipedia.org/wiki/Anexo:Pa\%C3\%ADses_del_mundo}{Wikipedia: Países del mundo}
+- [Wikipedia: Países del mundo](http://es.wikipedia.org/wiki/Anexo:Pa\%C3\%ADses_del_mundo)
 
-- \href{http://www.youtube.com/watch?v=c9_9K-9wI9U}{Vídeo: Significados trasnochados en Cifras y Letras}
+- [Vídeo de Moreno Cabrera: el español estándar](http://www.youtube.com/watch?v=sBiM3ELPjXs)
 
-- \href{http://www.youtube.com/watch?v=sBiM3ELPjXs}{Video de Moreno Cabrera: el español estándar}
-
-- \href{http://www.jarique.com/lengua_normativizacion1.htm}{Ejemplos de normativización y normalización lingüística en España}
+- [Ejemplos de normativización y normalización lingüística en España](http://www.jarique.com/lengua_normativizacion1.htm)
 
 
