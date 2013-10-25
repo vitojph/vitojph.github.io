@@ -671,7 +671,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Los estudios genéticos y lingüísticos apuntan a la idea de que estos pueblos (y estas lenguas) están entre los descendients directos de los humanos modernos más antiguos.
 
---SLIDE--
+--SUBSLIDE--
 
 ### Tabla comparativa de distintas lenguas khoisan
 
@@ -763,7 +763,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Lo que se conoce como la hipótesis estándar defiende que los indoeuropeos serían un pueblo de la edad de cobre dedicado al pastoreo que había domesticado el caballo.
 
-- Habitaron las estepas del Cáucaso, el sur de Rusia y Ucrania entorno al año 3.000 aC. Desde ahí se fueron extendiendo-
+- Habitaron las estepas del Cáucaso, el sur de Rusia y Ucrania entorno al año 3.000 aC. Desde ahí se fueron extendiendo.
 
 --SUBSLIDE--
 	
@@ -841,7 +841,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Las lenguas que conocemos actualmente no son demasiado antiguas: el chino, el sumerio, el hitita, no tienen más de 5.000 años.
 
-- No tenemos registro de lenguas antiguas, Necesitamos recurrir a un método que nos permita reconstruir los restos de esas proto-lenguas.
+- No tenemos registro de lenguas antiguas. Necesitamos recurrir a un método que nos permita reconstruir los restos de esas proto-lenguas.
 
 --SUBSLIDE--
 
@@ -895,7 +895,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 	
     - Ejemplos típicos de lenguas flexivas son el latín, griego, ruso y todas las lenguas romances.
 	
-- las **lenguas aglutinantes** son aquellas cuyas palabras suelen estar formadas por más de un morfema, cada uno de ellos aporta un tipo de significado diferente (léxivo, derivatibavo, gramatical). 
+- las **lenguas aglutinantes** son aquellas cuyas palabras suelen estar formadas por más de un morfema, cada uno de ellos aporta un tipo de significado diferente (léxivo, derivativo, gramatical). 
 
     - Ejemplos típicos de lenguas aglutinantes son el turco, el finés y el euskera.
 
@@ -1055,7 +1055,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - No solo en los países de habla inglesa desaparecen lenguas.
 
-- El 25% de las lenguas indias de Latinoamérica están en peligro de extinción inmediata.
+- El 25% de las lenguas indias de Latinoamérica está en peligro de extinción inmediata.
 
 - Aunque la mayoría de estas lenguas no corre peligro desde el pdv demográfico, sí lo corre por motivos de prestigio social. 
 
@@ -1193,7 +1193,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Por mucho que busquemos, no encontraremos ninguna lengua (viva, muerta o moribunda, moderna o antigua) que no tengan cosas que no existen en otras lenguas.
 
-- Todas las lenguas iguales a sus capacidades de uso.
+- Todas las lenguas son iguales con respecto a sus capacidades de uso.
 
 
 --SLIDE--
