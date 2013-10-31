@@ -894,10 +894,20 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 - las **lenguas flexivas** son aquellas cuyas palabras suelen estar formadas por más de un morfema que, a su vez, es capaz de sintetizar información de distintas categorías. 
 	
     - Ejemplos típicos de lenguas flexivas son el latín, griego, ruso y todas las lenguas romances.
-	
-- las **lenguas aglutinantes** son aquellas cuyas palabras suelen estar formadas por más de un morfema, cada uno de ellos aporta un tipo de significado diferente (léxivo, derivativo, gramatical). 
+
+
+--SUBSLIDE--
+
+- las **lenguas aglutinantes** son aquellas cuyas palabras suelen estar formadas por más de un morfema, cada uno de ellos aporta un tipo de significado diferente (léxico, derivativo, gramatical). 
 
     - Ejemplos típicos de lenguas aglutinantes son el turco, el finés y el euskera.
+
+- la palabra turca *evlerinizden* significa *desde tus casas*
+
+    - tiene cuatro morfemas: ev + ler + iniz + den
+
+    - *casa* + PL + POS 2ª pers. sing + *desde*
+
 
 --SLIDE--
 
@@ -1341,13 +1351,13 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Esta relexificación es muy habitual, cuando las plantaciones cambiaban de manos.
 
-    1. De la frase originaria en español: *Quiero ir a comer, ¿vienes tú también?}
+    1. De la frase originaria en español: *Quiero ir a comer, ¿vienes tú también?*
 
-	2. Se genera un pidgin del estilo: *mi querer comer ¿tú venir también?}
+	2. Se genera un pidgin del estilo: *mi querer comer ¿tú venir también?*
 
-	3. Y se relexifica al inglés: *me want go eat, you come too?}
+	3. Y se relexifica al inglés: *me want go eat, you come too?*
 
-	4. La pronunciación se simplifica: *mi wan go it, yu kam tu?}
+	4. La pronunciación se simplifica: *mi wan go it, yu kam tu?*
 
 --SUBSLIDE--
 
@@ -1357,7 +1367,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 	
 	- El papiamento prefiere el orden SVO. Cuando hay que poner algo en relieve, el papiamento utiliza construcciones extrapuestas.
 	
-	- *El castellano lo hablo bien* sería en papiamento *ta casteyano mi ta papia bene} «es castellano lo que hablo bien».
+	- *El castellano lo hablo bien* sería en papiamento *ta casteyano mi ta papia bene* «es castellano lo que hablo bien».
 
 --SUBSLIDE--
 
@@ -1439,7 +1449,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Hablar bien o mal nada tien que ver utilizar una variante de la lengua u otra, sino más bien con se capaces de adaptar nuestra lengua al contexto y a nuestro interlocutor.
 
-- Bilingüismo es la situacón de convivencia de dos lenguas en un mismo territorio donde ambas gozan del mismo estatus, prestigio y usos: es una situación ideal, pocas veces conseguida.
+- Bilingüismo es la situación de convivencia de dos lenguas en un mismo territorio donde ambas gozan del mismo estatus, prestigio y usos: es una situación ideal, pocas veces conseguida.
 
 - Diglosia es la situacón de convivencia de dos lenguas en un mismo territorio donde una lengua tiene un estatus superior (como lengua de cultura o prestigio) y la otra tiene usos limitados en el entorno familiar.
 
