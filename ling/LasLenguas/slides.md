@@ -2,7 +2,7 @@
 
 ### Introducción a la Lingüística.
 
-Área de Lingüística, Fac. de Filología, UCM | 17/10/2013
+Área de Lingüística, Fac. de Filología, UCM | 17-31/10/2013
 
 Víctor Peinado | v.peinado@filol.ucm.es
 
@@ -953,7 +953,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 	
 --SUBSLIDE--
 
-- lenguas SOV: euskera, latín y griego clásico, árabe, japonés, hindi, sánscrito, turco, alemán (con verbos compuestos), nóstrático
+- lenguas SOV: euskera, latín y griego clásico, árabe, japonés, hindi, sánscrito, turco, nóstrático
 - lenguas SVO: castellano, inglés, francés, italiano, chino mandarín, griego moderno, swahili
 - lenguas VSO: galés, tagalo 
 - También hay lenguas con orden VOS (malgache, javnés, fiyiano) y OVS (interlingua, klingon).
@@ -961,7 +961,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 --SUBSLIDE--
 
-- Las lenguas SOV y SVO representan alrededor del 75\% de las lenguas del mundo. 
+- Las lenguas SOV y SVO representan alrededor del 75% de las lenguas del mundo. 
 - Las lenguas SOV comparten las siguientes características:
 	
 	- Tendencia a las postposiciones frente a las preposiciones.
@@ -1451,7 +1451,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 - Bilingüismo es la situación de convivencia de dos lenguas en un mismo territorio donde ambas gozan del mismo estatus, prestigio y usos: es una situación ideal, pocas veces conseguida.
 
-- Diglosia es la situacón de convivencia de dos lenguas en un mismo territorio donde una lengua tiene un estatus superior (como lengua de cultura o prestigio) y la otra tiene usos limitados en el entorno familiar.
+- Diglosia es la situación de convivencia de dos lenguas en un mismo territorio donde una lengua tiene un estatus superior (como lengua de cultura o prestigio) y la otra tiene usos limitados en el entorno familiar.
 
 --SUBSLIDE--
 
