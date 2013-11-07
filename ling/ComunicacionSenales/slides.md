@@ -40,7 +40,7 @@ La **comunicación** es un proceso para la transmisión de señales entre una fu
 
 - El receptor serían los alumnos que escuchan el mensaje.
 
-- El referente es la información sobre la activida de degustación que se ha preparado en la cafetería.
+- El referente es la información sobre la actividad de degustación que se ha preparado en la cafetería.
 
 - El canal es la instalación de magafonía, el aire y el aparato auditivo de los receptores.
 
@@ -59,11 +59,12 @@ Los ingredientes imprescindibles de cualquier proceso de comunicación son seis:
 ## Funciones del lenguaje
 
 - Roman Jakobson determinó los papeles asociados a los seis elementos del proceso de comunicación. 
-  
-- Los mensajes pueden ser caracterizados por cualquiera de estas funciones, dependiendo de la dominancia de uno de los elementos por encima de los demás.
 
+![Roman Jakobson](img/jakobson.jpg)
 
 --SUBSLIDE--
+
+- Los mensajes pueden ser caracterizados por cualquiera de estas funciones, dependiendo de la dominancia de uno de los elementos por encima de los demás.
 
 ![Las funciones de la comunicación](img/funciones-comunicacion.png)
 
@@ -72,8 +73,9 @@ Los ingredientes imprescindibles de cualquier proceso de comunicación son seis:
 
 
 - función **expresiva** (emisor): mensajes que manifiestan la actitud, la sensibilidad o el estado de ánimo.
-
-    - *¡Por fin llueve!*, *Hoy me siento muy optimista*, interjecciónes como *¡ay!*, *¡vaya!*, etc.
+   
+    - Ejemplos como *¡Por fin llueve!*, *Hoy me siento muy optimista*.
+    - Interjecciónes como *¡ay!*, *¡vaya!*, etc.
 
 
 - función **poética** (mensaje): mensajes que se centran en la forma y no en el contenido. 
@@ -110,9 +112,7 @@ Los ingredientes imprescindibles de cualquier proceso de comunicación son seis:
 
 ## Tipos de señales
 
-Uno de los requisitos en cualquier proceso de comunicación es que exista una señal entre el emisor y el receptor. 
-
-
+- Uno de los requisitos en cualquier proceso de comunicación es que exista una señal entre el emisor y el receptor. 
 - La **señal** es un elemento material, cuya percepción nos informa de la existencia de otra realidad.  
 
 --SUBSLIDE--
@@ -130,7 +130,7 @@ Uno de los requisitos en cualquier proceso de comunicación es que exista una se
   
 - Esta vinculación estricta justifica el poder informativo de la señal. Se interpretan a partir de la experiencia humana. 
   
-- P. ej., humo, charcos en la calle, fiebre.  
+    - P. ej., humo, charcos en la calle, fiebre.  
 
 
 --SUBSLIDE--
@@ -141,7 +141,7 @@ Uno de los requisitos en cualquier proceso de comunicación es que exista una se
 
 - La señal representa lo señalado de manera figurativa y funciona dentro de un determinado marco cultural. 
   
-- P. ej., iconos del ordenador, señales en las puertas del WC, señales de tráfico.  
+    - P. ej., iconos del ordenador, señales en las puertas del WC, señales de tráfico.  
 
 
 --SUBSLIDE--
@@ -154,7 +154,7 @@ Uno de los requisitos en cualquier proceso de comunicación es que exista una se
   
 - Solo son efectivos si el grupo conoce las convenciones adoptadas. 
   
-- P. ej., colores del semáforo, símbolos químicos, la mayoría de las señales lingüísticas.
+    - P. ej., colores del semáforo, símbolos químicos, la mayoría de las señales lingüísticas.
 
 
 --SLIDE--
