@@ -211,7 +211,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Los alfabetos semíticos son **alfabetos consonánticos** ya que solo se representan los sonidos consonánticos y es el contexto que aporta los sonidos vocálicos.
 
---SUBSLIDE--
+--SLIDE--
 
 ### Alfabeto árabe
 
@@ -244,7 +244,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - El [**alfabeto cirílico**](http://en.wikipedia.org/wiki/Cyrillic_alphabets) es el sistema que se utiliza actualmente en parte de las lenguas eslavas y algunas lenguas de Asia.
 
---SUBSLIDE--
+--SLIDE--
 
 ### Runas
 
@@ -298,6 +298,8 @@ Víctor Peinado | v.peinado@filol.ucm.es
 - Se lee de izquierda a derecha.
 
 --SUBSLIDE--
+
+### Devanagari
 
 ![Devanagari](img/devanagari.png)- 
 
