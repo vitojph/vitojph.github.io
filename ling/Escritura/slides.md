@@ -29,10 +29,39 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Encontramos la primera escritura antigua relacionada directamente con nuestro sistema actual hace solo 3.000 años. 
 
+--SLIDE--
+
+## Sistemas de escritura en el mundo
+
+- Del mismo modo que la lengua oral implica una **unión arbitraria** entre sonido y significado, la escritura también muestra una **vinculación arbitraria y convencional** entre símbolo y sonido.
+
+- Todos los sistemas de escritura pueden organizarse dentro de algunos de estos
+  dos grupos:
+  
+    1. Escritura **logográfica**.
+    2. Escritura **fonográfica**.
+
+--SUBSLIDE--
+
+- la escritura logográfica emplea **logogramas** del griego *&lambda;&omicron;&gamma;&omicron;&sigmaf;*
+  (*palabra*).
+  
+    - Cada símbolo representa morfemas o palabras completas.
+
+
+- la escritura fonográfica, del griego *&phi;&omicron;&nu;&omicron;&sigmaf;*
+  (*sonido*) emplea distintos signos para representar distintos aspectos de la
+  pronunciación, sílabas o segmentos:
+
+    - escritura silábica: los símbolos representa sílabas completas.
+
+    - escritura alfabética: los símbolos representan segmentos consonánticos
+      y vocálicos.
+
 
 --SLIDE--
 
-## Pictogramas e ideogramas
+## Sistemas de escritura primitivios
 
 - Se cree que las primeras pinturas rupestres pudieron servir para recordar acontecimientos significativos.
 
@@ -51,7 +80,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Es entonces cuando podemos afirmar que estos símbolos forman parte de un sistema de escritura de ideas, es decir, **ideogramas**.
 
-- En japonés, uno de los sistemas de escritura se base en ideogramas: los *kanji*.
+- En japonés, uno de los sistemas de escritura se basa en ideogramas: los *kanji*.
 
 - Las formas más parecidas a dibujos son pictogramas. Las formas derivadas, más abstractas, son ideogramas.
 
@@ -59,8 +88,13 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ### Ejemplos de pictogramas modernos
 
-
 ![Pictogramas modernos](img/pictogramas.png)
+
+--SUBSLIDE--
+
+### Pictogramas olímpicos
+
+![Pictogramas olímpicos](img/olympics.png)
 
 --SUBSLIDE--
 
@@ -98,6 +132,44 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
+## Caracteres chinos
+
+- Los caracteres chinos han evolucionado a lo largo de la historia.
+
+![Pictogramas chinos](img/chinese-evol.png)
+
+- Los caracteres chinos actuales son de cuatro tipos:
+
+
+--SUBSLIDE--
+
+### Pictogramas chinos
+
+![Pictogramas chinos](img/chinese-pictograms.png)
+
+--SUBSLIDE--
+
+### Ideogramas chinos
+
+![Ideogramas chinos](img/chinese-ideograms.png)
+
+--SUBSLIDE--
+
+### Compuestos chinos
+
+![Compuestos](img/chinese-compounds.png)
+
+--SUBSLIDE--
+
+### Compuestos ideofonéticos chinos
+
+![Pictogramas chinos](img/chinese-ideophonetic.png)
+
+
+
+
+--SLIDE--
+
 ## La escritura jeroglífica
 
 - Una forma de utilizar símbolos ya existentes para representar los sonidos de una lengua consiste en utilizar una **escritura jeroglífica**.
@@ -105,6 +177,12 @@ Víctor Peinado | v.peinado@filol.ucm.es
 - Mediante este sistema, el símbolo que denota determinada entidad pasa a convertirse en el símbolo que denota el sonido de la palabra.
 
 - A partir de ese momento, ese símbolo se comienza a utilizar cada vez que dicho sonido aparezca en una palabra cualquiera.
+
+--SUBSLIDE--
+
+### Jeroglíficos egipcios
+
+![Jeroglíficos egipcios](img/egyptian-hyerogliphics.png)
 
 
 --SLIDE--
@@ -114,7 +192,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Cuando un sistema de escritura hace uso de un conjunto de símbolos que representan la forma en la que se pronuncian las sílabas se le denomina **escritura silábica**.
 
-- Hoy en día ya no se usan sistemas de escritura silábicos puros, pero en japonés moderno se puede escribir a partir de un conjunto de dos silabarios, es decir, símbolos que representa la fonética de las sílabas.
+- Hoy en día ya no se usan sistemas de escritura silábicos puros, pero en japonés moderno se puede escribir a partir de un conjunto de dos silabarios, es decir, símbolos que representan la fonética de las sílabas.
 
 - Wikipedia: silabarios [hiragana](http://es.wikipedia.org/wiki/Hiragana) y [katakana](http://es.wikipedia.org/wiki/Katakana).
 
@@ -129,16 +207,28 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Un alfabeto consiste en un conjunto de símbolos escritos que representa, cada uno, un sonido único.
 
-- El proceso que acabamos de esbozar es el que dio lugar a los sistemas de escritura de las lenguas semíticas: el árabe y el hebreo.
+- El proceso que acabamos de esbozar es el que dio lugar a los sistemas de escritura de las lenguas semíticas: el [árabe](http://en.wikipedia.org/wiki/Arabic_alphabet) y el [hebreo](http://en.wikipedia.org/wiki/Hebrew_alphabet).
 
 - Los alfabetos semíticos son **alfabetos consonánticos** ya que solo se representan los sonidos consonánticos y es el contexto que aporta los sonidos vocálicos.
+
+--SUBSLIDE--
+
+### Alfabeto árabe
+
+- Es un alfabeto consonántico.
+
+- Se lee de derecha a izquierda.
+
+- Cada letra tiene cuatro formas diferentes. 
+
+![Alfabeto árabe](img/arabic.png)
 
 
 --SUBSLIDE--
 
-- Una variante primitiva del alfabeto semítico, que a su vez proviene del fenicio, es el origen de la mayoría de los alfabetos del mundo.
+- Una variante primitiva del [alfabeto semítico](http://en.wikipedia.org/wiki/Hebrew_alphabet), que a su vez proviene del fenicio, es el origen de la mayoría de los alfabetos del mundo.
 
-- Los griegos antiguos dieron un paso más en el proceso de alfabetización al utilizar símbolos adicionales para los sonidos vocálicos.
+- Los [griegos](http://en.wikipedia.org/wiki/Greek_alphabet) antiguos dieron un paso más en el proceso de alfabetización al utilizar símbolos adicionales para los sonidos vocálicos.
 
 - El origen de las formas concretas de los alfabetos europeos actuales se encuentra en los jeroglíficos egipcios, como se muestra en:
 
@@ -148,11 +238,43 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - De los griegos, el alfabeto pasó a Europea occidental gracias a los romanos y, con el paso del tiempo, fue adoptando distintas modificaciones para adaptarse a las lenguas a las que se fue aplicando.
 
-- De hecho, denominamos **alfabeto latino** el sistema que utilizamos para escribir en español.
+- De hecho, denominamos [**alfabeto latino**](http://en.wikipedia.org/wiki/Latin_alphabet) el sistema que utilizamos para escribir en la mayoría de lenguas occidentales.
 
 - Otra línea de evolución que se produjo a partir del alfabeto griego se desarrolló en Europa oriental, donde se hablaban lenguas eslavas. 
 
-- El **alfabeto cirílico** es el sistema que se utiliza actualmente en Rusia.
+- El [**alfabeto cirílico**](http://en.wikipedia.org/wiki/Cyrillic_alphabets) es el sistema que se utiliza actualmente en parte de las lenguas eslavas y algunas lenguas de Asia.
+
+--SUBSLIDE--
+
+### Runas
+
+- Las inscripciones rúnicas o [runas](http://en.wikipedia.org/wiki/Runic) se utilizaron en zonas de dominio
+  germánico desde el fin del imperio romano hasta el s. XVI
+
+- Se lee de derecha a izquierda.
+
+![Runas](img/runics.png)
+
+--SUBSLIDE--
+
+### Escritura cherokee
+
+- La [escritura del cherokee](http://en.wikipedia.org/wiki/Cherokee_script) es un silabario inventado a principios del s. XIX por Sequoia. 
+
+
+![Alfabeto cherokee](img/cherokee.png)
+
+--SUBSLIDE--
+
+### Escritura hangul
+
+- El coreano se escribió durante mucho tiempo con caracteres chinos.
+
+- En el s.XV diseñó un sistema de escritura alfabético específico para el
+  coreano llamado [hangul](http://en.wikipedia.org/wiki/Hangul).
+
+![Hangul coreano](img/hangul.png)- 
+
 
 --SLIDE--
 
