@@ -255,16 +255,15 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ![Runas](img/runics.png)
 
---SUBSLIDE--
+--SLIDE--
 
 ### Escritura cherokee
 
 - La [escritura del cherokee](http://en.wikipedia.org/wiki/Cherokee_script) es un silabario inventado a principios del s. XIX por Sequoia. 
 
-
 ![Alfabeto cherokee](img/cherokee.png)
 
---SUBSLIDE--
+--SLIDE--
 
 ### Escritura hangul
 
@@ -273,7 +272,34 @@ Víctor Peinado | v.peinado@filol.ucm.es
 - En el s.XV diseñó un sistema de escritura alfabético específico para el
   coreano llamado [hangul](http://en.wikipedia.org/wiki/Hangul).
 
+- Tiene 24 símbolos consonánticos y vocálicos.
+
+- Las letras se agrupan en bloques silábicos y estos bloques se organizan horizontalmente de izquierda a derecha, o en vertical de arriba a abajo.
+
+--SUBSLIDE--
+
+### Escritura hangul
+
 ![Hangul coreano](img/hangul.png)- 
+
+
+--SLIDE--
+
+### Devanagari
+
+- El [devanagari](http://en.wikipedia.org/wiki/Devanagari) es un alfabeto usado en la India y Nepal.
+
+- Desde el x. XIX se utiliza para escribir sánscrito, hindi, marathi, nepalí y gujari, entre otras lenguas del norte de la India.
+
+- Es un alfabeto principalmente consonántico. Las vocales se suelen escribir como diacríticos, salvo que aparezcan en sílabas independientes.
+
+- Es habitual hacer ligaduras de letras e incluso 
+
+- Se lee de izquierda a derecha.
+
+--SUBSLIDE--
+
+![Devanagari](img/devanagari.png)- 
 
 
 --SLIDE--
