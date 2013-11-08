@@ -42,7 +42,7 @@ La **comunicación** es un proceso para la transmisión de señales entre una fu
 
 - El referente es la información sobre la actividad de degustación que se ha preparado en la cafetería.
 
-- El canal es la instalación de magafonía, el aire y el aparato auditivo de los receptores.
+- El canal es la instalación de megafonía, el aire y el aparato auditivo de los receptores.
 
 - El código es la lengua castellana, compartida tanto por el emisor como por los receptores.
 
@@ -75,7 +75,7 @@ Los ingredientes imprescindibles de cualquier proceso de comunicación son seis:
 - función **expresiva** (emisor): mensajes que manifiestan la actitud, la sensibilidad o el estado de ánimo.
    
     - Ejemplos como *¡Por fin llueve!*, *Hoy me siento muy optimista*.
-    - Interjecciónes como *¡ay!*, *¡vaya!*, etc.
+    - Interjecciones como *¡ay!*, *¡vaya!*, etc.
 
 
 - función **poética** (mensaje): mensajes que se centran en la forma y no en el contenido. 
