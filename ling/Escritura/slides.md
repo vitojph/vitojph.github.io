@@ -172,7 +172,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ## La escritura jeroglífica
 
-- Una forma de utilizar símbolos ya existentes para representar los sonidos de una lengua consiste en utilizar una **escritura jeroglífica**.
+- Una forma de utilizar símbolos ya existentes para representar los sonidos de una lengua consiste en utilizar una [escritura jeroglífica](http://es.wikipedia.org/wiki/Jeroglífico).
 
 - Mediante este sistema, el símbolo que denota determinada entidad pasa a convertirse en el símbolo que denota el sonido de la palabra.
 
@@ -308,22 +308,15 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ## Referencias
 
+- Hudson, G. *Introductory Linguistics*. Blackwell. 2006.
 
 - Tusón Valls, J. *Introducción al lenguaje*. UOC. 2003.
 
+- O'Grady, W., Dobrovolsky, M., Katmaba, F. *Contemporary Linguistics. An Introduction*. Addison Wesley Longman. 1998.
+
 - Yule, G. *El lenguaje*. Ediciones AKAL. 2007. 
 
-- Wikipedia: [Caracteres chinos o *hànzi*](http://es.wikipedia.org/wiki/Escritura_china). 
 
-- Wikipedia: [Ideogramas japoneses o *kanji*](http://es.wikipedia.org/wiki/Kanji).
-
-- Wikipedia: [Silabario japonés hiragana](http://es.wikipedia.org/wiki/Hiragana). 
-
-- Wikipedia: [Silabario japonés katakana](http://es.wikipedia.org/wiki/Katakana). 
-  
-- Wikipedia: [Jeroglíficos egipcios](http://es.wikipedia.org/wiki/Jeroglífico).
-
-- Wikipedia: [Alfabeto cirílico](http://es.wikipedia.org/wiki/Cirilico).
   
 --SLIDE--
 
