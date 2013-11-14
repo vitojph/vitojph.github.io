@@ -20,11 +20,13 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ### El signo lingüístico
 
-Ferdinand de Saussure definió el signo lingüístico como una entidad formada por dos elementos indisolubles:
+- Ferdinand de Saussure definió el signo lingüístico como una entidad formada por dos elementos indisolubles:
 
-- **significante** es la forma concreta y material de la señal *manzana*, entendida no solo como secuencia de sonidos, sino como *imagen acústica*.
+    - **significante** es la forma concreta y material de la señal *manzana*, entendida no solo como secuencia de sonidos, sino como *imagen acústica*.
 
-- **significado** es el concepto abstracto, sin consistencia material, la noción o idea de 'manzana'.
+    - **significado** es el concepto abstracto, sin consistencia material, la noción o idea de 'manzana'.
+
+--SUBSLIDE--
 
 ![manzana](img/apple.jpg) 
 
@@ -35,11 +37,11 @@ Ferdinand de Saussure definió el signo lingüístico como una entidad formada p
 
 ### Lenguaje, lengua y habla
 
-Saussure distinguió dos aspectos fundamentales del lenguaje:
+- Saussure distinguió dos aspectos fundamentales del lenguaje:
 
-- **lengua**: modelo general y constante que está en la conciencia de todos los miembros de una colectividad lingüística. Es una abstracción que determina el proceso de comunicación humana. Es un fenómeno social. 
+    - **lengua**: modelo general y constante que está en la conciencia de todos los miembros de una colectividad lingüística. Es una abstracción que determina el proceso de comunicación humana. Es un fenómeno social. 
 
-- **habla**: realización concreta de la lengua en un momento y lugar determinados en cada uno de los miembros de una colectividad lingüística. Es un fenómeno individual. 
+    - **habla**: realización concreta de la lengua en un momento y lugar determinados en cada uno de los miembros de una colectividad lingüística. Es un fenómeno individual. 
 
 
 --SLIDE--
@@ -86,61 +88,12 @@ Saussure distinguió dos aspectos fundamentales del lenguaje:
 
 --SLIDE--
 
-### El fonema
+# La producción del sonido
 
-En castellano, el trío de consonantes *b*, *d* y *g*, dependiendo del contexto en el que aparecen, pueden presentar distintas pronunciaciones. 
-
-- *comba*, *dónde*, *manga*
-- *lobo*, *dedo*, *lago*
+--SUBSLIDE--
 
 
-- *comba* [\textipa{"k\~omba}], *dónde* [\textipa{"d\~o\c{n}de}], *manga* [\textipa{"m\~aNga}]
-- *lobo* [\textipa{lóBo}], *dedo* [\textipa{déDo}], *lago* [\textipa{láGo}]
-
-
-Incluso, una misma palabra puede presentar dos realizaciones distintas: *un beso* [\textipa{úm béso}] y *ese beso* [\textipa{ése Béso}]
-
---SLIDE--
-
-### Fonemas y alófonos
-
-
-- Todas las posibles realizaciones de estas consonantes, tanto las oclusivas \textipa{[b], [d], [g]} como las fricativas \textipa{[B], [D], [G]} son percibidas de la misma forma, sin cambio de significado. A efectos comunicativos, lo interesante es una consonante modelo como /b/. Son **alófonos o variantes de un mismo fonema}.	
-
-- Sin embargo, si en palabras como *capa* [\textipa{kápa}] sustituimos la /p/ por /b/ o por /m/, el resultado es bien distinto e implica un cambio de significado: *cava* [\textipa{káBa}] y *cama* [\textipa{káma}]. En este caso decimos que /p/, /b/ y /m/ son **fonemas distintos**.
-
-
---SLIDE--
-
-### El fonema: definición
-
-El fonema es la unidad lingüística más pequeña, desprovista de significado, formada por una haz simultáneo de rasgos distintivos (Quilis, 2005)
-
-- /p/: consonántico, oclusivo, bilabial, sordo
-- /t/: consonántico, oclusivo, dental, sordo
-- /k/: consonántico, oclusivo, velar, sordo
-- /o/: vocálico, medio, posterior
-
-	
---SLIDE--
-
-
-### Algunas convenciones
-
-- Los alófonos, fonos o sonidos y las transcripciones fonéticas se representan siempre entre corchetes: *lago* [\textipa{láGo}], *mamá* [\textipa{ma"m\~a}]
-- Los fonemas y la transcripción fonológica se representan siempre entre barras oblicuas: *lago* /\textipa{lágo}/
-- Siempre se marcan las sílabas acentuadas, aunque en la grafía no lleve tilde: *piso* \textipa{/píso/} [\textipa{"piso}]
-
-
---SLIDE--
-
-
-# La articulación del sonido
-
---SLIDE--
-
-
-### Articulación del sonido
+### Producción del sonido
 
 - La voz humana es una corriente de aire proveniente de los pulmones que se transforma al atravesar el aparato fonador antes de convertirse en sonidos apropiados para la comunicación humana. 
 
@@ -152,24 +105,157 @@ El fonema es la unidad lingüística más pequeña, desprovista de significado, 
 
 	- Los órganos de la articulación (cavidades supraglóticas): paladar, lengua, dientes, labios y glotis.
 
+--SUBSLIDE--
+
+### El sistema de producción de sonidos
+
+![El sistema de producción de sonidos](img/sound-producing-system.png)
+
+--SUBSLIDE--
+
+- La acción del velo del paladar genera una de las principales divisiones de los sonidos articulados:
+
+	- **orales**, si el velo está adherido a la pared faríngea, y el aire pasa por la cavidad bucal.
+
+	- **nasales**, si el velo cierra el paso a la cavidad bucal, y el aire pasa por la cavidad nasal.
+
+	- **oronasales**, si el velo cierra parcialmente la cabidad bucal y el aire sale tanto por la boca como por la nariz.
+
+- El paladar tiene dos zonas:
+
+	- **paladar duro**, subdividido en prepaladar, mediopaladar y postpaladar.
+
+	- **paladar blando** o velo del paladar, subdividido en dos zonas: prevelar y postvelar.
+
+
+--SUBSLIDE--
+
+### La laringe
+
+![La laringe](img/larynx.png)
+
+
+--SUBSLIDE--
+
+### Estados de la glotis
+
+- Las cuerdas vocales se pueden colocar en distintas posiciones para producir cuatro tipos de sonidos diferentes:
+
+![Estados de la glotis](img/glottal-states.png)
+
+--SUBSLIDE--
+
+- Sonidos sordos (*voiceless*)
+
+    - Las cuerdas vocales se mantienen separadas y el aire atraviesa la glotis.
+
+    - Las cuerdas vocales no vibran.
+    
+    - Los sonidos iniciales de *farola*, *sing*, *Toledo*, *house* son sordos.
+
+--SUBSLIDE--
+
+- Sonidos sonoros (*voiced*)
+
+    - Las cuerdas vocales se aproximan, aumenta la presión del aire y ésta provoca una vibración de las cuerdas.
+   
+    - Los sonidos iniciales de *vote* (en inglés), *vamos*, *zip*, *dedo*, *the* son sonoros.
+
+--SUBSLIDE--
+
+- Susurro (*whisper*)
+
+    - Las cuerdas vocales se colocan de manera que la parte anterior están en contacto, mientras que la parte posterior se separan, permitiendo el paso del aire.
+
+    - Los sonidos susurrados son también sordos.
+    
+    - Las cuerdas vocales no vibran. 
+
+    - En todas las lenguas del mundo se pueden producir sonidos susurrados.
+    
+--SUBSLIDE--
+
+- Sonorización aspirada (*murmur*)
+
+    - En algunas lenguas del mundo (familia indoirania, familia bantú, algunas vocales en portugués), existe una cuarta posición de la glotis.
+
+    - Las cuerdas vocales vibran pero se mantienen separadas, permitiendo una gran flujo de aire.
+    
+    - Como resultado, los sonidos son sonoros y parece, a la vez, aspirados.
+
+--SLIDE--
+
+# Clases de sonidos
+
+--SUBSLIDE--
+
+- Teniendo en cuenta las características fonéticas de los sonidos (diferencias articulatorias y acústicas, posibilidad de formar núcleos silábicos), podemos agruparlos en distintas clases.
+
+    - Sonidos vocálicos.
+    
+    - Sonidos consonánticos.
+    
+    - Semiconsonantes/semivocales o *glides*.
+
+
+--SUBSLIDE--
+
+### Diferencias articulatorias
+
+- Los **sonidos consonánticos**, ya sean sordos o sonoros, se producen cuando hay un cierre total o parcial del tracto vocálico.
+
+- El paso del aire es interrumpido momentáneamente o costreñido.
+
+- Los **sonidos vocálicos** son (generalmente) sonoros y se producen sin interrumpción ni cierre del paso del aire.
+
+
+--SUBSLIDE--
+
+### Diferencias acústicas
+
+- Los **sonidos vocálicos** resuenan más que los **sonidos consonánticos** y son percibidas más claras y durante más tiempo.
+
+    - Estas diferencias son fácilmente observables al pronunciar palabras como *más* o *pet*.
+
+--SUBSLIDE--
+
+### Núcleos silábicos
+
+- La mayor sonoridad que encontramos en los **sonidos vocálicos** les permite formar parte del llamado **núcleo de la sílaba**.
+
+- La sílaba se puede definir como un segmento fónico con un pico de sonoridad rodeado por otros segmentos con sonoridad menor.
+
+- Solo las vocales y cierto tipo de consonantes con características especiales (y no en todas las lenguas) pueden formar parte del **núcleo silábico**.
+
+--SUBSLIDE--
+
+### Semiconsonantes/semivocales o *glides*
+
+- Hay un tipo de sonido que presenta características de los sonidos consonánticos y los vocálicos: los ***glides***.
+
+- La impresión auditiva que produce es la de sonidos vocálicos articulados rápidamente. 
+
+- La **semiconsonantes**, en un primer momento, se articulan como una vocal pero se mueven rápidamente a otra articulación.
+
+- Ejemplos de este tipo de sonidos los encontramos en palabras como *tiempo*, *cuánto*, *yet*, *wet*.
+
+--SUBSLIDE--
+
+- Aunque se articulan como vocales, las semiconsonantes funcionan como consonantes.
+
+- No forman parte del núcelo silábico.
+
+
+--SLIDE--
+
+# Articulación de sonido
 
 --SUBSLIDE--
 
 ### Los órganos de la articulación
 
-- La acción del velo del paladar genera una de las principales divisiones de los sonidos articulados:
+![Los órganos de la articulación](img/head-neck.jpg)
 
-	- Orales, si el velo está adherido a la pared faríngea, y el aire pasa por la cavidad bucal.
-
-	- Nasales, si el velo cierra el paso a la cavidad bucal, y el aire pasa por la cavidad nasal.
-
-	- Oronasales, si el velo cierra parcialmente la cabidad bucal y el aire sale tanto por la boca como por la nariz.
-
-- El paladar tiene dos zonas:
-
-	- Paladar duro, subdividido en prepaladar, mediopaladar y postpaladar.
-
-	- Paladar blando o velo del paladar, subdividido en dos zonas: prevelar y postvelar.
 
 --SUBSLIDE--
 
@@ -193,17 +279,122 @@ El fonema es la unidad lingüística más pequeña, desprovista de significado, 
 
 	- Los labios poseen una gran movilidad.
 
+--SLIDE--
+
+# Puntos de artículación
 
 --SUBSLIDE--
 
-### Los órganos de la articulación
+- Cada zona del tracto vocálico en la que el flujo del aire puede sufrir algún tipo de modificación para producir un sonido diferente se denomina **lugar** o **punto de articulación**.
 
-![Los órganos de la articulación](img/head-neck.jpg)
+- Vamos a ver ocho puntos distintos, a saber:
+
+    1. labial
+    2. dental
+    3. alveolar
+    4. palato-alveolar y palatal
+    5. velar
+    6. uvular
+    7. faringal
+    8. glotal
+
+
+--SUBSLIDE--
+
+### Labial
+
+- Cualquier sonido que se articule cerrando o aproximando los labios recibe el nombre de **labial**.
+
+- Los sonidos en los que intervienen ambos labios se denominal **bilabiales**.
+
+    - Encontramos sonidos bilabiales en los primeros sonidos de las palabras *mamá*, *perro*, *vaso*, *mom*, *pit*, *bush*.
+
+- Los sonidos que involucran el labio inferior y los dientes superiores se llaman **labiodentales**.
+
+    - Encontramos sonidos bilabiales en los primeros sonidos de las palabras *farola*, *fan*, *van* (en inglés).
+
+
+--SUBSLIDE--
+
+### Dental
+
+- Los sonidos que se articulan colocando la punta de la lengua en contacto o cerca de los dientes reciben el nombre de **dentales**.
+
+    - Encontramos sonidos dentales en las las palabras *truco*, *dedo*, *trick*, *dumb*.
+
+- Si situamos la lengua entre los dientes, tenemos sonidos **interdentales**.
+
+    - Encontramos sonidos interdentales en las las palabras *dedo*, *zapato* (en Español peninsular), *this*, *thing*.
+
+
+--SUBSLIDE--
+
+### Alveolar
+
+- Los alveolos son las protuberancias que encontramos detrás de la cadena de dientes superiores. Los sonidos que se articulan colocando la punta de la lengua en ese área se denominan **alveolares**.
+
+    - Encontramos sonidos dentales en las palabras *solo, *noche*, *saint*, *zip*, *nap*, *trick*, *dumb*.
+
+--SUBSLIDE--
+
+### Palato-alveolar y palatal
+
+- Justo detrás de los alveolos encontramos el inicio del paladar duro. Los sonidos que se articulan colocando o aproximando la lengua a esa área se denominan **palatales**.
+
+    - Encontramos sonidos **palatales** en las palabras como *ñoño*, *chapata*, *yogurt*, *shoe*, *measure* *chip*, *judge*.
+
+--SUBSLIDE--
+
+### Velar
+
+- La zona del final del paladar recibe el nombre de paladar blando o **velo del paladar**. Los sonidos que se articulan colocando o aproximando la lengua a esa zona se denominan **velares**.
+
+    - Encontramos sonidos **velares** al pronunciar palabras como *camino*, *gallo*, *canguro*, *call*, *go*, *sing*.
+
+
+--SUBSLIDE--
+
+### Uvular
+
+- El velo del paladar da paso a la úvula o *campanilla*. Los sonidos que se articulan colocando o aproximando la lengua a esa zona se denominan **uvulares**.
+
+    - En español e inglés no existen sonidos **uvulares**. 
+    
+    - Podemos encontrar este tipo de sonidos al pronunciar en francés palabras como *Paris*, *garçon*, *republique*.
+
+
+--SUBSLIDE--
+
+### Farinjal
+
+- La zona de la garganta situada entre la úvula y la laringe se denomina *faringe*. 
+
+- Los sonidos que se articulando colocando la langua de manera que el flujo del aire se mopdifica a su paso por esta zona se denominan **farinjales**.
+
+    - En español e inglés no existen sonidos **farinjales**. 
+    
+    - Podemos encontrar este tipo de sonidos en varios dialectos del árabe.
+
+
+--SUBSLIDE--
+
+### Glotal
+
+- Los sonidos que se producen utilizando las cuerdas vocales como principal punto de articulación se denominan **glotales**.
+    
+    - Este tipo de sonidos es típico de las lenguas semíticas y polinesias.
+
+    - En inglés, encontramos un sonido glotal cuando pronuncian *uh-oh!* o en palabras como *button* o *mountain*.
+    
+    
+--SLIDE--
+
+# Modos de artículación
 
 
 --SLIDE--
 
-# Fonemas vocálicos
+# Sonidos vocálicos
 
 --SUBSLIDE--
 
