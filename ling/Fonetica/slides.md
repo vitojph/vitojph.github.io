@@ -333,7 +333,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Los alveolos son las protuberancias que encontramos detrás de la cadena de dientes superiores. Los sonidos que se articulan colocando la punta de la lengua en ese área se denominan **alveolares**.
 
-    - Encontramos sonidos dentales en las palabras *solo, *noche*, *saint*, *zip*, *nap*, *trick*, *dumb*.
+    - Encontramos sonidos dentales en las palabras *solo*, *noche*, *saint*, *zip*, *nap*, *trick*, *dumb*.
 
 --SUBSLIDE--
 
