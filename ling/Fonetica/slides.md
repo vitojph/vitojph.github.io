@@ -243,7 +243,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Aunque se articulan como vocales, las semiconsonantes funcionan como consonantes.
 
-- No forman parte del núcelo silábico.
+- No forman parte del núcleo silábico.
 
 
 --SLIDE--
@@ -287,7 +287,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Cada zona del tracto vocálico en la que el flujo del aire puede sufrir algún tipo de modificación para producir un sonido diferente se denomina **lugar** o **punto de articulación**.
 
-- Vamos a ver ocho puntos distintos, a saber:
+- Vamos a ver ocho puntos distintos que encontramos en la articulación de los sonidos consonánticos, a saber:
 
     1. labial
     2. dental
@@ -365,13 +365,13 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
-### Farinjal
+### Faringal
 
 - La zona de la garganta situada entre la úvula y la laringe se denomina *faringe*. 
 
-- Los sonidos que se articulando colocando la langua de manera que el flujo del aire se mopdifica a su paso por esta zona se denominan **farinjales**.
+- Los sonidos que se articulando colocando la langua de manera que el flujo del aire se mopdifica a su paso por esta zona se denominan **faringales**.
 
-    - En español e inglés no existen sonidos **farinjales**. 
+    - En español e inglés no existen sonidos **faringales**. 
     
     - Podemos encontrar este tipo de sonidos en varios dialectos del árabe.
 
@@ -384,12 +384,217 @@ Víctor Peinado | v.peinado@filol.ucm.es
     
     - Este tipo de sonidos es típico de las lenguas semíticas y polinesias.
 
-    - En inglés, encontramos un sonido glotal cuando pronuncian *uh-oh!* o en palabras como *button* o *mountain*.
+    - En inglés, encontramos sonidos glotales en las aspiradas de inicios de palabras como *heaven* o *hug*.
+
+    - Existe también un sonido oculivo glotal (cierre momentáneo de las cuerdas vocales) cuando pronunciamos expresiones en inglés como *uh-oh!* o, en algunos dialectos americanos, *button* o *mountain*.
     
     
 --SLIDE--
 
 # Modos de artículación
+
+--SUBSLIDE--
+
+### Modos de artículación
+
+- Algunos órganos involucrados en la articulación del sonido como los labios, la lengua, el velo del paladar y la glotis se pueden colocar de distintas maneras para producir distintos tipos de sonidos consonánticos. Estas distintas configuraciones reciben el nombre de  **modos de articulación**.
+
+- Veamos en más detalle los distintos modos de articulación que encontramos en los sonidos consonánticos:
+
+    1. oral-nasal
+    2. oclusivo (*stops*)
+    3. fricativo (*fricatives*)
+    4. africadas (*affricates*)
+    5. aspiradas (*aspirated*)
+    6. líquidas (*liquids*)
+    7. semiconsonantes/semivocales (*glides*)
+
+
+--SUBSLIDE--
+
+### Orales vs. nasales
+
+- Hemos visto anteriormente que una de la distinciones más evidentes en el modo de articulación es entre sonidos orales y nasales.
+
+	- **orales**, si el velo está adherido a la pared faríngea, y el aire pasa por la cavidad bucal.
+
+	- **nasales**, si el velo cierra el paso a la cavidad bucal, y el aire pasa por la cavidad nasal.
+	
+- Podemos encontrar sonidos nasales tanto consonánticos como vocálicos.
+
+    - En español, encontramos sonidos nasales en palabras como *ámbar*, *cantidad*, *niña*.
+    
+    - En inglés, encontramos sonidos nasales en las consonantes finales de palabras como *sum*, *sun*, *sung* y, en algunos dialectos americanos, en vocales como *bank*, *wind*.
+
+
+--SUBSLIDE--
+
+### Oclusivas
+
+- Las consonantes oclusivas (*stops*) se caracterizan por una interrupción en el paso del aire en el tracto vocal, motivada por el cierre completo de los órganos articulatorios. 
+
+    - En español tenemos tres sonidos orales que son también oclusivos sordos, que se oponen entre sí por el lugar de articulación: bilabial [p], dental [t], y velar [k]. 
+    
+    - Existen sus versiones sonoras, los sonidos orales oclusivos sonoros: [b], [d], [g]. 
+    
+    - Tenemos además cuatro sonidos nasales oclusivos sonoros, que se oponen también por el lugar de articulación: bilabial [m], alveolar [n], palatal [&#626;] y velar [&#331;]. 
+    
+--SUBSLIDE--
+
+- En inglés tenemos cuatro sonidos orales oclusivos sordos, que se oponen entre sí por el lugar de articulación: bilabial [p], alveolar [t], velar [k] y glotal [&#660;]. 
+    
+- En los tres primeros puntos de articulación, existen sus versiones sonoras, los sonidos orales oclusivos sonoros: [b], [d], [g]. 
+    
+- Tenemos tres sonidos nasales oclusivos sonoros, que se oponen también por el lugar de articulación: bilabial [m], alveolar [n] y velar [&#331;]. 
+
+
+--SUBSLIDE--
+
+### Fricativas
+
+- La articulación de las consonantes fricativas (*fricatives*) se caracteriza porque existe un estrechamiento o costricción del paso del aire por medio de la acción de dos órganos articulatorios.
+
+- El velo del paladar se adhiere a la pared faríngea impidiendo la salida del aire por las fosas nasales.
+
+    - En español tenemos hasta diez sonidos fricativos que se oponen entre sí por el lugar de articulación: bilabial [&beta;], labiodental [f], dental [&eth;], interdental [&theta;], alveolar [s] y [z], palatal [&#669;], velar [&#611;] y [x], y glotal [h].
+    
+    - En las zonas de seseo, no existe el fonema [&theta;] y se sustituye por [s].
+
+
+--SUBSLIDE--
+
+- En inglés encontramos nueve sonidos fricativos que se oponen entre sí por el lugar de articulación y por la sonoridad: labiodental [f] y [v], interdental [&theta;] y [&eth;], alveolar [s] y [z], palatal [&#643;] y [&#658;], y glotal [h].
+    
+
+
+--SUBSLIDE--
+
+### Africadas
+
+- La articulación de las consonantes africadas se caracteriza por tener dos momentos: 
+
+    1. uno oclusivo (con interrupción total del paso del aire),
+    2. otro fricativo (con constricción). 
+    
+- Tanto oclusión como la fricación se realizan en el mismo lugar de articulación y por los mismos órganos articulatorios. 
+
+- El velo del paladar se adhiere a la pared faríngea impidiendo la salida del aire por las fosas nasales.
+
+--SUBSLIDE--
+
+- El español y en inglés encontramos dos sonidos africados palatales que se oponen por la sonoridad: uno sordo [t&#643;] y otro sonoro [d&#658;].
+
+- En español, los encontramos en expresiones como *champú*, *un llorica*, *el hierro*.
+
+- En inglés, existen los mismos sonidos africados palatales que encontramos en palabras como *church* y *judge*.
+
+
+--SUBSLIDE--
+
+### Consonantes estridentes/sibilantes
+
+- En páginas anteriores, habíamos dicho que los sonidos consonánticos pueden describirse atendiendo a diferencias acústicas y articulatorias. 
+
+- Dentro de las consonantes fricativas y africadas, podemos distinguir además aquellas que son estridentes o sibilantes.
+
+- Se definen como **sonidos estridentes** aquellos que, por el tipo de costricción del canal, se perciben de manera más intensa: [s], [z], [&#643;] y [&#658;] [t&#643;] y [d&#658;].
+
+
+--SUBSLIDE--
+
+### Aspiración
+
+- Tanto en español como en inglés encontramos una consonante fricativa glotal que suena aspirada [h]. 
+
+- En algunas variantes del español es común encontrar realizaciones aspiradas de sonidos estridentes en posición final de sílaba: 
+
+    - *los niños*, *ponte el casco*: [s] &rarr; [h].
+
+- La aspiración es un fenómeno por el cual después de articular un sonido se libera aire extra.
+
+- Esta aspiración se transcribe fonéticamente como un [h] en superíndece: [&#688;].
+
+    - En inglés, encontramos sonidos oclusivos aspirados en algunas realizaciones como *pat* [p&#688;], *tub* [p&#688;] y *kid* [p&#688;]. Esta aspiración no existe en las palabras *spat*, *stub* y *skid*.
+
+
+--SUBSLIDE--
+
+### Líquidas
+
+- Existe un tipo de sonidos consonánticos especiales denominados **líquidas**. A su vez se dividen en:
+ 
+    - **líquidas laterales**
+    
+    - **líquidas vibrantes**
+    
+--SUBSLIDE--
+
+### Laterales
+
+- Todas las variantes del sonido [l] se denominan **líquidas laterales**.
+
+- Las laterales se caracteriza porque el aire sale a través de un estrechamiento producido por un lado o los dos de la lengua. 
+
+- El velo del paladar permanece adherido a la pared faríngea. 
+
+- Las cuerdas vocales vibran siempre: son sonoras.
+
+    - En español existen básicamente dos sonidos laterales: una variante alveolar [l] y otra palatal [&lambda;].
+	
+    - En inglés existen dos variantes alveolares: una sonora [l] y una sorda [&#620;].
+
+--SUBSLIDE--
+
+### Realización de líquidas laterales
+
+- En la realización de la lateral alveolar, el ápice y los rebordes de la lengua se adhieren a la zona alveolar y a las encías superiores, a excepción de una pequeña zona en la parte lateral, por donde se escapa el aire fonador. Ortográficamente, se representa siempre con la grafía *l*.
+	
+- En la realización de la lateral palatal, el ápice y los rebordes de la lengua se adhieren a la zona alveolar y a las encías superiores, dejando un canal por el que escapa el aire fonador.
+
+- La realización sorda de la líquida alveolar [&#620;] aparecen en algunos contextos del inglés como en las palabras *please* y *clear*.
+
+--SUBSLIDE--
+
+### Yeismo
+
+- En amplias zonas de España y América, la lateral palatal [&lambda;] ha desaparecido y se ha fusionado con la fricativa palatal [&#669;]. Este fenómeno se conoce con el nombre de **yeísmo**.
+
+- En las zonas donde existe el yeísmo, la oposición [&lambda;] / [&#669;]/ no existe, y las palabras *pollo/poyo* son homófonos: suenan igual.
+
+--SUBSLIDE--
+
+### Vibrantes 
+
+- La articulación de las consonantes **líquidas vibrantes** se caracteriza por poseer una o varias interrupciones breves durante la salida del aire, originadas por el cierre entre el ápice de la lengua y la zona alveolar o palata, o por la vibración de la úvula. 
+
+- El velo del paladar permanece adherido a la pared faríngea. 
+
+- Las cuerdas vocales vibran siempre: son sonoras.
+
+- En las lenguas del mundo existen muchos tipos de vibrantes.
+
+    - En español existen dos sonidos vibrantes: uno múltiple [r] y otro simple [&#638;].
+	
+    - En inglés podemos encontrar hasta cinco tipos diferentes: dos alveolares, una sonora [r] y otra sorda [r], post-alveolar [&#633;], retroflexa [&#638;] y el aleteo alveolar sonoro o *flap* [&#638;].
+
+--SUBSLIDE--
+
+### Vibrantes en español
+
+- En la realización de la **vibrante simple** [&#638;] se forma una breve oclusión del ápice de la lengua contra los alvéolos. Ortográficamente, se representa con la grafía *r*.
+
+- En la realización de la **vibrante múltiple** [r] se forma dos o más oclusiones muy breves del ápice de la lengua contra los alvéolos. Ortográficamente, se representa con la grafía *r* en posición inicial de palabra o en medio precedida de *n* o *l*, y con la grafía *rr* en posición intervocálica en el interior de la palabra. 
+
+
+--SUBSLIDE--
+
+### Semiconsonantes/semivocales
+
+- Hemos visto anteriormente que las **semiconsonantes** o **semivocales** o *glides* son segmentos vocálicos no silábicos articulados rápidamente.
+
+- En español y en inglés tenemos dos semiconsonantes: una palatal [j] y otra alveolar [w].
+
+- Como veremos más adelante en fonética del español, estos *glides*, cuando aparecen como segundo elemento de un diptongo se suelen denominar semivocales.
 
 
 --SLIDE--
@@ -398,251 +603,213 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
+### Sonidos vocálicos
 
-### Fonemas vocálicos en español
+- Los **sonidos vocálicos** son sonoros y se producen sin interrumpción ni cierre del paso del aire.
 
-En castellano tenemos cinco fonemas vocálicos: 
+- Los **sonidos vocálicos** resuenan más que los **sonidos consonánticos** y son percibidas más claras y durante más tiempo.
 
-- /i/ para las grafías *i* o *y*
+- La mayor sonoridad que encontramos en los **sonidos vocálicos** les permite formar parte del llamado **núcleo de la sílaba**.
 
-- /e/ para la grafía *e*
+--SUBSLIDE--
 
-- /a/ para la grafía *a*
+### Sonidos vocálicos en español
 
-- /o/ para la grafía *o*
+- En español tenemos cinco vocales y en total diez sonidos o alófonos vocálicos: cinco orales y cinco nasales. 
 
-- /u/ para la grafía *u*
+    - [i] y [&itilde;] para las grafías *i* o *y*
 
+    - [e] y [&#7869;] para la grafía *e*
 
-Los cinco fonemas pueden aparecer tanto en posición atóna como tónica, y en posición inicial, media y final de palabra.
+    - [a] y [&atilde;] para la grafía *a*
 
+    - [o] y [&otilde;] para la grafía *o*
 
-- En castellano, un fonema vocálico se realizará como vocal nasal entre dos consonantes nasales (*mano} [\textipa{"m\~ano}]) y antes de consonante nasal (*entrar} [\textipa{\~entrár}]).
-- En el resto de contextos, se realizará habitualmente como vocal oral: *pena} [\textipa{péna}], *nota} [\textipa{nóta}].
+    - [u] y [&utilde;] para la grafía *u*
+    
+--SUBSLIDE--
 
+- Estos fonemas pueden aparecer tanto en posición atóna como tónica, y en posición inicial, media y final de palabra.
 
---SLIDE--
+- En español, un fonema vocálico se realizará como vocal nasal entre dos consonantes nasales (*mano*) y antes de consonante nasal *entrar*).
 
-###Clasificación articulatoria de las vocales}
-
-Según el modo de articulación, distinguimos: 
-
-- vocales altas: cuando la lengua ocupa la posición más alta dentro de la cavidad bucal: [i], [u]
-- vocales medias: cuando la lengua ocupa una posición intermedia dentro de la cavidad bucal: [e], [o]
-- vocales bajas: cuando la lengua ocupa la posición más baja dentro de la cavidad bucal: [a]
-
-
---SLIDE--
-
-###Clasificación articulatoria de las vocales}
-
-Según el lugar de articulación, distinguimos: 
-
-- vocales anteriores (o palatales): cuando la lengua se sitúa en la parte anterior de la cavidad bucal, por debajo del paladar duro: [i], [e]
-- vocales centrales: cuando la lengua se sitúa en el centro de la cavidad bucal: [a]
-- vocales posteriores (o velares): cuando la lengua se sitúa en la parte posterior de la cavidad bucal: [o], [u]
+- En el resto de contextos, se realizará habitualmente como vocal oral: *pena*, *nota*.
 
 
 --SLIDE--
 
-###Clasificación articulatoria de las vocales}
+### Clasificación articulatoria de las vocales en español
 
-Según la acción del velo del paladar, distinguimos: 
+- Según el **modo de articulación**, distinguimos: 
 
-- orales: el velo del paladar permanece adherido a la pared faríngea y el aire sale exclusivamente por la boca: [i], [e], [a], [o], [u]
-- nasales: el velo del paladar no permanece adherido a la pared faríngea y el aire sale simultáneamente por la boca y la nariz: \textipa{[\~\i], [\~e], [\~a], [\~o], [\~u]}
+    - vocales altas: cuando la lengua ocupa la posición más alta dentro de la cavidad bucal: [i], [u]
 
-
-\vspace{0.5cm}
-
-En español, los únicos rasgos articulatorios que caracterizan a un fonema vocálico son **el modo y el lugar de articulación}. La nasalidad no es un rasgo distintivo, sino una característica fonética.
-
---SLIDE--
+    - vocales medias: cuando la lengua ocupa una posición intermedia dentro de la cavidad bucal: [e], [o]
+    
+    - vocales bajas: cuando la lengua ocupa la posición más baja dentro de la cavidad bucal: [a]
 
 
-###Triángulo vocálico en español}
+--SUBSLIDE--
 
-La combinación del modo y el lugar de articulación se representa por medio del triángulo articulatorio:
+- Según el **lugar de articulación**, distinguimos: 
+
+    - vocales anteriores (o palatales): cuando la lengua se sitúa en la parte anterior de la cavidad bucal, por debajo del paladar duro: [i], [e]
+
+    - vocales centrales: cuando la lengua se sitúa en el centro de la cavidad bucal: [a]
+
+    - vocales posteriores (o velares): cuando la lengua se sitúa en la parte posterior de la cavidad bucal: [o], [u]
+
+
+--SUBSLIDE--
+
+- Según la **acción del velo del paladar**, distinguimos: 
+
+    - orales: el velo del paladar permanece adherido a la pared faríngea y el aire sale exclusivamente por la boca: [i], [e], [a], [o], [u]
+    - nasales: el velo del paladar no permanece adherido a la pared faríngea y el aire sale simultáneamente por la boca y la nariz: [&itilde;], [&#7869;], [&atilde;], [&otilde;], [&utilde;]
+
+- Como veremos en Fonología, los únicos rasgos articulatorios que caracterizan a un fonema vocálico en español son **el modo y el lugar de articulación**. La nasalidad no es un rasgo distintivo, sino una característica fonética.
+
+
+--SUBSLIDE--
+
+
+###Triángulo vocálico en español
+
+- La combinación del modo y el lugar de articulación se representa por medio del triángulo articulatorio:
 	
+![Triángulo vocálico español](img/vowels-es.jpg) 
  
-  \includegraphics[width=0.3\textwidth]{img/Helwag.png} 
- 
+--SUBSLIDE--
+
+### Clasificación articulatoria de las vocales en español
 
 
-  \begin{tabular}{|l|c|c|c|}
-    \hline
-     & anterior & central & posterior \\
-    \hline
-    cerrada & /i/ & & /u/ \\ 
-    \hline
-    media & /e/ & & /o/ \\ 
-    \hline
-    abierta & & /a/ & \\ 
-    \hline
-  \end{tabular}
+|         | anterior | central | posterior |
+|---------|:--------:|:-------:|:---------:|
+| cerrada |     i    |         |     u     |
+| media   |     e    |         |     o     |
+| abierta |          |    a    |           |
+
+
+--SUBSLIDE--
+### Vocales en inglés
+
+![Vocales en inglés](img/vowels-en.png) 
+
+--SUBSLIDE--
+### Cuadro vocálico de las lenguas del mundo
+
+![Vocales](img/vowels.png) 
 
 
 --SLIDE--
 
-###}
+# La sílaba
 
-\LARGE La sílaba
+--SUBSLIDE--
 
---SLIDE--
-
-
-###La sílaba}
-
+###La sílaba
 
 - La sílaba es cada uno de los sonidos articulados que constituyen un solo núcleo fónico entre dos depresiones sucesivas de la emisión de voz.
 
+- En español, la **sílaba** está formada por, al menos, un **núcleo vocálico** (V) y por algunas consonantes (C) que pueden aparecer opcionalmente.
 	
-	En español, la **sílaba} está formada por, al menos, un **núcleo vocálico} (V) y por algunas consonantes (C) que pueden aparecer opcionalmente.
+- Estructuralmente, podemos distinguir los siguientes constituyentes de la sílaba:
 	
-	Estructuralmente, podemos distinguir los siguientes constituyentes de la sílaba:
-	
-	- **ataque}: formado por una o más consonantes (C) que opcionalmente pueden preceder a la vocal.
-	- **rima}: formada por la consabida vocal obligatoria (V) que constituye el **núcleo de la sílaba} y una o más consonantes (C) opcionales que forman la (**coda}). 
+     **ataque**: formado por una o más consonantes (C) que opcionalmente pueden preceder a la vocal.
+	- **rima**: formada por la consabida vocal obligatoria (V) que constituye el **núcleo de la sílaba** y una o más consonantes (C) opcionales que forman la **coda**. 
 	
 	
---SLIDE--
+--SUBSLIDE--
+
+- El tipo más común de sílaba se suele representar como CV: *pi-so*, *ca-sa*, *de-do*.
+
+- Estas sílabas de tipo CV tienen ataque y núcleo, pero no tienen coda. Se denominan **sílabas abiertas**. 
+
+- Las sílabas que cuentan con coda se denominan **sílabas cerradas** o **trabadas**: *sol*, *pez*, *gas*.
+
+- En español, podemos encontrar sílabas con estructura CV *be*, V *a*, VC *es*, CVC *sal*, VCC *ins*, CCVC *tras*, CCVCC *trans*. 
+
+- En inglés, encontramos sílabas con estructura CCCVCC *strong* o *spring*. 
 
 
-###La sílaba}
+--SUBSLIDE--
+
+### Diptongos y triptongos
+
+- La existencia de dos vocales en una misma sílaba constituye lo que se conoce como **diptongo**, y si son tres vocales las que aparecen en la misma sílaba se produce un **triptongo**.
+
+    - **núcleo silábico**: vocal de mayor abertura y energía articulatoria. 
+
+    - **margen silábico**: está formado por el resto de vocales de la sílaba que aparecen antes (margen prenuclear) o después del núcleo (margen postnuclear).
+
+- Algunos ejemplos en español: *soy*, *buen*, *buey*
+
+
+--SUBSLIDE--
+
+### Tipos de diptongos
 	
+- Los diptongos se forman por la secuencia de sonidos que se produce en una sílaba entre:
 
-- El tipo más común de sílaba se suele representar como CV: *pi-so}, *ca-sa}, *de-do}
-- Estas sílabas de tipo CV como *pi, so, de, do} tienen ataque y núcleo, pero no tienen coda. Se denominan **sílabas abiertas}. 
-- Las sílabas que cuentan con coda se denominan **sílabas cerradas}: *sol, pez, gas}
-- En castellano, podemos encontrar sílabas con estructura CV *be}, V *a}, VC *es}, CVC *sal}, VCC *ins}, CCVC *tras}, CCVCC *trans}. 
-- En otras lenguas, encontramos sílabas con estructura CCCVCC *strong} o *spring}. 
-
-
---SLIDE--
-
-###Diptongos y triptongos}
-
-La existencia de dos vocales en una misma sílaba constituye lo que se conoce como **diptongo}, y si son tres vocales las que aparecen en la misma sílaba se produce un **triptongo}.
-
-
-- núcleo silábico: vocal de mayor abertura y energía articulatoria. 
-- margen silábico: está formado por el resto de vocales de la sílaba que aparecen antes (margen prenuclear) o después del núcleo (margen postnuclear).
+    - vocales altas con medias o baja: [i], [u] + [e], [o], [a]
+    
+        - *bien, salió, Asia, bueno, vacuo, cuatro*
+                
+    - vocales medias y baja con las altas: [e], [o], [a] + [i], [u]
+    
+        - *peine, hoy, hay, Europa, aula*
+        
+    - combinaciones de vocales altas: [i] + [u]
+		
+        - *viuda, cuidar*
 
 
-*soy} /sói/, *buen} /buén/, *buey} /buéi/
+--SUBSLIDE--
 
---SLIDE--
+- Llamamos **diptongo creciente** a la secuencia de vocal alta + vocal media o baja. En este caso, el margen silábico está situado en posición prenuclear y recibe el nombre de **semiconsonate**: [j], [w]
 
-###Tipos de diptongos}
-	
-Los diptongos se forman por la secuencia de que se produce en una sílaba entre:
+- Llamamos **diptongo decreciente** a la secuencia de vocal media o baja + vocal alta. En este caso, el margen silábico está situado en posición postnuclear y recibe el nombre de **semivocal**: [i], [u]
 
+--SUBSLIDE--
 
-- vocales altas con medias o baja: /i/, /u/ + /e/, /o/, /a/ \newline
-		*bien, salió, Asia, bueno, vacuo, cuatro}
-- vocales medias y baja con las altas: /e/, /o/, /a/ + /i/, /u/ \newline
-		*peine, hoy, hay, Europa, aula}
-- vocales altas: /i/ + /u/
-		*viuda, cuidar}
+- Cuando el diptongo está constituido por una secuencia de vocales altas, como ambas tienen prácticamente la misma abertura, formará el núcleo silábico la vocal que posea mayor intensidad o mayor duración.
 
+    - La palabra *viuda* tiene dos posibles pronunciaciones: ['bju&eth;a] y ['biu&eth;a]
 
---SLIDE--
+- La elección de un fonema u otro como núcleo dependerá del hablante, de la situación comunicativa o del dialecto.
 
-###Diptongo creciente}
+--SUBSLIDE--
 
-Llamamos **diptongo creciente} a la secuencia de vocal alta + vocal media o baja. En este caso, el margen silábico está situado en posición prenuclear y recibe el nombre de **semiconsonate}: [j], [w]
+### Triptongos
 
-\vspace{0.3cm}
+- Un **triptongo** consiste en una secuencia de tres vocales en la misma sílaba. 
 
-	*tiene} /tiéne/ [\textipa{tjéne}]
-	
-	*Asia} /ásia/ [\textipa{ásja}]
-	
-	*salió} /salió/ [\textipa{saljó}]
+- Como en los diptongos, el núcleo silábico está formado por la vocal más abierta. Las otras dos vocales serán **semiconsonante** o **semivocal** según esté situada antes o después del núcleo silábico.
 
-	*bueno} /buéno/ [\textipa{bwéno}]
-	
-	*cuatro} /kuátro/ [\textipa{kwátro}] 
-	
-	*vacuo} /bákuo/ [\textipa{bákwo}]
+    - Ejemplos en español: *sitiáis* [si'tjáis], *sitiéis* [si'tjeis], *buey* ['bwei], *Paraguay* [para'&#611;wái]
 
---SLIDE--
+--SUBSLIDE--
 
+### Hiato
 
-###Diptongo decreciente}
+- Cuando concurren en secuencia dos vocales, una de ellas alta y otra media o baja, y no forman diptongo por pertenecer a dos sílabas distintas, decimos que están en **hiato**. 
 
-Llamamos **diptongo decreciente} a la secuencia de vocal media o baja + vocal alta. En este caso, el margen solábico está situado en posición postnuclear y recibe el nombre de **semivocal}: [\textsubarch{i}], [\textsubarch{u}]
+- Como es obvio, en un hiato, cada vocal es el núcleo de su sílaba.
 
-\vspace{0.3cm}
+    - Ejemplos en español: *hacia*/*hacía*, *rey*/*reí*, *hay*/*ahí*, *hoy*/*oí*
 
-	*peine} /péine/ [\textipa{pé\textsubarch{i}ne}]
-	
-	*hay} /ái/ [\textipa{á\textsubarch{i}}]
-	
-	*hoy} /ói/ [\textipa{ó\textsubarch{i}}]
+--SUBSLIDE--
 
-	*Europa} /európa/ [\textipa{e\textsubarch{u}rópa}]
-	
-	*aula} /áula/ [\textipa{á\textsubarch{u}la}] 
-	
-	*bou} /bóu/ [\textipa{bó\textsubarch{u}}]
+- En las secuencias del tipo /eo/, /oe/, /ea/, /ae/, /oa/, /ao/ cada vocal forma parte de una sílaba distinta. Sin embargo, en el habla coloquial es frecuente pronunciarlas como si de un única sílaba se tratase. Este fenómeno se conoce con el nombre de **sinéreis**
 
---SLIDE--
+    - Ejemplos de sinéresis en español: *cé-re-o*/*ce-reo*, *ca-os*/*caos*, *Be-a-triz*/*Bea-triz*
 
-###Diptongos con vocales altas creciente}
-
-Cuando el diptongo está constituido por una secuencia de vocales altas, como ambas tienen prácticamente la misma abertura, formará el núcleo silábico la vocal que posea mayor intensidad o mayor duración.
-
-\vspace{0.3cm}
-
-	*viuda} /biúda/ [\textipa{bjúDa}]
-
-	*viuda} /bíuda/ [\textipa{bí\textsubarch{u}Da}]
-
-\vspace{0.3cm}
-
-La elección de un fonema u otro como núcleo dependerá del hablante, de la situación comunicativa o del dialecto.
 
 --SLIDE--
 
-###Triptongos}
+# Procesos de articilación
 
-Un **triptongo} consiste en una secuencia de tres vocales en la misma sílaba. Como en los diptongos, el núcleo silábico está formado por la vocal más abierta. Las otras dos vocales serán **semiconsonante} o **semivocal} según estén antes o después del núcleo silábico.
-
-\vspace{0.3cm}
-
-	*sitiáis} /sitiáis/ [\textipa{sitjá\textsubarch{i}s}]
-	
-	*sitiéis} /sitiéis/ [\textipa{sitjé\textsubarch{i}s}]
-	
-	*buey} /buéi/ [\textipa{bwé\textsubarch{i}}]
-	
-	*Paraguay} /paraguái/ [\textipa{paraGwá\textsubarch{i}}]
-
---SLIDE--
-
-###Hiato}
-
-Cuando concurren en secuencia dos vocales, una de ellas alta y otra media o baja, y no forman diptongo por pertenecer a dos sílabas distintas, decimos que están en **hiato}. En un hiato, cada vocal es el núcleo de su sílaba.
-
-\vspace{0.3cm}
-
-*hacia}/*hacía}, *rey}/*reí}, *hay}/*ahí}, *hoy}/*oí}  
-
-\vspace{0.3cm}
-
-En las secuencias del tipo /eo/, /oe/, /ea/, /ae/, /oa/, /ao/ cada vocal forma parte de una sílaba distinta. Sin embargo, en el habla coloquial es frecuente pronunciarlas como si de un única sílaba se tratase. Este fenómeno se conoce con el nombre de **sinéreis}.
-
-\vspace{0.3cm}
-
-*cé-re-o}/*ce-reo}, *ca-os}/*caos}, *Be-a-triz}/*Bea-triz}
-
---SLIDE--
-
-
-###}
-
-\LARGE Fonemas consonánticos
 
 --SLIDE--
 

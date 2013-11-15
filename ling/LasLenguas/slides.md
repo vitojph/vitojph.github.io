@@ -675,6 +675,7 @@ Cada punto representa el centro geográfico aproximado de una lengua.
 
 ### Tabla comparativa de distintas lenguas khoisan
 
+
 |      |  !kung  | !xó&otilde;      |     naron     |   nama   |
 |------|:-------:|:----------------:|:-------------:|:--------:|
 |yo    |   mi    |  &#626;'&#626;   |      ti       |     ti   |
