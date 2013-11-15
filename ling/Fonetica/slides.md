@@ -456,7 +456,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - El velo del paladar se adhiere a la pared faríngea impidiendo la salida del aire por las fosas nasales.
 
-    - En español tenemos hasta diez sonidos fricativos que se oponen entre sí por el lugar de articulación: bilabial [&beta;], labiodental [f], dental [&eth;], interdental [&theta;], alveolar [s] y [z], palatal [&#669;], velar [&#611;] y [x], y glotal [h].
+    - En español tenemos hasta diez sonidos fricativos que se oponen entre sí por el lugar de articulación y la acción del velo del paladar: bilabial [&beta;], labiodental [f], dental [&eth;], interdental [&theta;], alveolar [s] y [z], palatal [&#669;], velar [&#611;] y [x], y glotal [h].
     
     - En las zonas de seseo, no existe el fonema [&theta;] y se sustituye por [s].
 
