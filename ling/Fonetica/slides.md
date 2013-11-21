@@ -712,7 +712,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - La sílaba es cada uno de los sonidos articulados que constituyen un solo núcleo fónico entre dos depresiones sucesivas de la emisión de voz.
 
-- En español, la **sílaba** está formada por, al menos, un **núcleo vocálico** (V) y por algunas consonantes (C) que pueden aparecer opcionalmente.
+- La **sílaba** está formada por, al menos, un **núcleo vocálico** (V) y por algunas consonantes (C) que pueden aparecer opcionalmente.
 	
 - Estructuralmente, podemos distinguir los siguientes constituyentes de la sílaba:
 	
@@ -833,11 +833,13 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ### Tono
 
-- En las **lenguas tonales**, la la altura con la que se pronuncian las palabras se utiliza para distinguir unos significados de otros. En estos casos, la altura se denomina **tono**. 
+- En las **lenguas tonales**, la la altura con la que se pronuncian las palabras se utiliza para distinguir unos significados de otros. 
 
-    - En chino mandarín, distinguimos significados empleando hasta cinco tonos diferentes:
+- En estos casos, la altura se denomina **tono**. 
+
+- En chino mandarín, distinguimos significados empleando hasta cinco tonos diferentes:
     
-        - *mā* (madre), *má* (cáñamo), *mǎ* (caballo), *mà* (regañar), *ma* (particula interrogativa.)
+    - *mā* (madre), *má* (cáñamo), *mǎ* (caballo), *mà* (regañar), *ma* (particula interrogativa.)
 
 --SUBSLIDE--
 
@@ -871,7 +873,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
-- En los enunciados interrogativos pronominales (aquellas interrogativas formadas con elementos gramaticales como *qué, cuál, cómo, quién, cuánto, cuándo*, la entonación desciende en su parte final. 
+- En los enunciados interrogativos pronominales (aquellas interrogativas formadas con elementos gramaticales como *qué, cuál, cómo, quién, cuánto, cuándo*), la entonación desciende en su parte final. 
 
     - *¿Cuándo viene Pedro?*, *When has John parked the car?* 
 
@@ -879,7 +881,9 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - En las oraciones de relativo especificativas y explicativas, la entonación tiene una función delimitadora significativa:
 	
-    - *Los alumnos que viven lejos llegan tarde* frente a *Los alumnos, que viven lejos, llegan tarde*. 
+    - *Los alumnos que viven lejos llegan tarde*.
+    
+    - *Los alumnos, que viven lejos, llegan tarde*. 
 
 - Pero la entonación también tiene una función expresiva y sociolingüística.
 
@@ -964,7 +968,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
     - *Y por si la mayo**rí**a lo re**suel**ve...*
     
     - *Y con la ca**mi**sa de **cua**dros...*
-
+    
 
 --SUBSLIDE--
 
@@ -1011,7 +1015,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
     - En dialectos del sur de Italia, algunas consonantes se sonorizan en contacto con sonoras y entre vocales.
     
-        - *ma cos'hai fatto?* se pronuncia como [m&#720;a '&#609;&#720;ozai 'f&#720;ad&#720;&#596;] en lugar de [ma 'k&#720;ozai 'fat&#720;&#596;]
+        - *ma cos'hai fatto?* se pronuncia como [m&#720;a '&#609;&#720;ozai 'v&#720;ad&#720;&#596;] en lugar de [ma 'k&#720;ozai 'fat&#720;&#596;]
 
         - *non c'è nessuno* se pronuncia como [n&otilde;n 'd&#658;&#603; n&#720;e's&#720;uno] en lugar de [n&otilde;n 't&#643;&#603; ne's&#720;uno]
     
