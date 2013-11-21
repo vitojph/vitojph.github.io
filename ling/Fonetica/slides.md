@@ -433,7 +433,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Las consonantes oclusivas (*stops*) se caracterizan por una interrupción en el paso del aire en el tracto vocal, motivada por el cierre completo de los órganos articulatorios. 
 
-    - En español tenemos tres sonidos orales que son también oclusivos sordos, que se oponen entre sí por el lugar de articulación: bilabial [p], dental [t], y velar [k]. 
+    - En español tenemos tres **sonidos** o **fonos** orales que son también oclusivos sordos, que se oponen entre sí por el lugar de articulación: bilabial [p], dental [t], y velar [k]. 
     
     - Existen sus versiones sonoras, los sonidos orales oclusivos sonoros: [b], [d], [g]. 
     
@@ -808,1253 +808,282 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SLIDE--
 
-# Procesos de articilación
+# Fenómenos suprasegmentales
 
+--SUBSLIDE--
+### Fenómenos suprasegmentales
 
---SLIDE--
+- Todos los sonidos (fonos) tienen ciertas características o **propiedades suprasegmentales o prosódicas** independientemente del lugar y del modo de articulación:
 
-
-###Consonantes}
-
-Al contrario que en las vocales, en los sonidos consonánticos el paso del aire se interrumpe momentáneamente o se ve dificultado por un estrechamiento de los órganos articulatorios.
-
-Las consonantes pueden describirse atendiendo a tres características articulatorias:
-
-- Según el modo de articulación: oclusivas, fricativas, africadas, nasales, líquidas.
-- Según el lugar de articulación: bilabial, dental, labiodental, velar, alveolar, palatal, etc. 
-- Según la acción de las cuerdas vocales: sordas y sonoras.
-
-
---SLIDE--
-
-###Consonantes oclusivas}
-
-Las consonantes oclusivas se caracterizan por una interrupción en el paso del aire, motivada por el cierre completo de los órganos articulatorios. En ellas, además, el velo del paladar se adhiere a la pared faríngea impidiendo la salida del aire por las fosas nasales.
-
-
-- En castellano tenemos tres fonemas oclusivos sordos que se oponen entre sí por el lugar de articulación: \ipa{/p/, /t/, /k/}
-- Tenemos también sus versiones sonoras, los fonemas "oclusivos sonoros: \ipa{/b/, /d/, /g/}
-
-
---SLIDE--
-
-
-###Oclusivas bilabiales}
-
-En la realización de las oclusivas bilabiales, los labios se cierran momentáneamente impidiendo la salida del aire a través de la cavidad bucal.
-
-
-- \ipa{/p/}: oclusiva bilabial sorda
-	
-	En posición prenuclear tiene un único alófono [p]. Ortográficamente, se representa con la grafía *p}.	
-	
-- \ipa{/b/}: oclusiva bilabial sonora
-	
-	En posición prenuclear tiene dos alófonos: uno oclusivo \ipa{[b]} (precedido de pausa o nasal) y otro fricativo \textipa{[B]} que aparece en el resto de contextos. Ortográficamente, se representa con las grafías *b} o *v}.	
-
-
---SLIDE--
-
-
-###Oclusivas bilabiales: ejemplos}
-
-
-- oclusiva bilabial sorda /p/
-
-	*pino} \textipa{[píno] /píno/}
-
-	*capa} \textipa{[kápa] /kápa/}
-
-	*aparato} \textipa{[aparáto] /aparáto/}
-
-
-
-
-- oclusiva bilabial sonora /b/
-	
-	*bebo vino} \textipa{ [béBo Bíno] /bébo bíno/}
-
-	*ese vino} \textipa{ [ése Bíno]} \textipa{/ése bíno/ }
-
-	*un vino} \textipa{ ["\~um bíno] } \textipa{/ú}N \textipa{bíno/}
-
-	*Babel} \textipa{ [baBél] /babel/ }
-
-
-
---SLIDE--
-
-
-###Oclusivas dentales}
-
-En la realización de las oclusivas dentales, la interrupción del paso del aire se realiza apoyando el ápice de la lengua contra los dientes incisivos.
-
-
-- \ipa{/t/}: oclusiva dental sorda
-	
-	En posición prenuclear tiene un único alófono [t]. Ortográficamente, se representa con la grafía *t}.	
-	
-- \ipa{/d/}: oclusiva dental sonora
-	
-	En posición prenuclear tiene dos alófonos: uno oclusivo \ipa{[d]} (precedido de pausa, nasal o \ipa{/l/}) y otro fricativo \textipa{[D]} que aparece en el resto de contextos. Ortográficamente, se representa con la grafía *d}.	
-
-
---SLIDE--
-
-###Oclusivas dentales: ejemplos}
-
-
-- oclusiva dental sorda /t/
-
-	*tapa} [tápa] /tápa/
-
-	*tata} [táta] /táta/
-
-
-
-
-- oclusiva dental sonora /d/
-	
-	*dos} [dós] /dós/
-
-	*dedo} \textipa{[déDo]} /dédo/
-
-	*ese dedo} \textipa{[ése DéDo]} /ése dédo/
-
-	*caldo} \textipa{[ká\c{l}do]} /káldo/
-
-
---SLIDE--
-
-
-###Oclusivas velares}
-
-En la realización de las oclusivas velares, la oclusión se realiza apoyando el postdorso de la lengua contra el velo del paladar.
-
-
-- \ipa{/k/}: oclusiva velar sorda
-	
-	En posición prenuclear tiene un único alófono [k]. Ortográficamente, se representa con las grafías *k}, *qu} ante *e, i} (*que, qui}) y *c} ante *a, o, u} y cualquier otra consonante (*ca, co, cu, cr, cl}, etc.).	
-	
-- \ipa{/g/}: oclusiva velar sonora
-	
-	En posición prenuclear tiene dos alófonos: uno oclusivo \ipa{[g]} (precedido de pausa o nasal) y otro fricativo \textipa{[G]} que aparece en el resto de contextos. Ortográficamente, se representa con las grafías *gu} ante *e, i} (*gue, gui}) y *g} ante *a, o, u} y cualquier otra consonante (*ga, go, gu, gü, gr, gl}, etc.).	
-
-
---SLIDE--
-
-###Oclusivas velares: ejemplos}
-
-
-- oclusiva velar sorda /k/
-
-	*kilo} [kílo] /kílo/
-
-	*queso} [késo] /késo/
-
-	*saco} [sáko] /sáko/
-
-	*clase} [kláse] /kláse/
-
-
-
-- oclusiva velar sonora /g/
-	
-	*guitarra} \ipa{[gitá\=ra]} \ipa{/gitá\=ra/}
-
-	*gasa} \ipa{[gása]} \ipa{/gása/}
-
-	*ese grano} \ipa{[ése Gráno]} \ipa{/ése gráno/}
-
-	*lingüística} \ipa{[l\~iN"gw\textsubarch{i}stika]} \ipa{/li}N\ipa{guístika/}
-
-
---SLIDE--
-
-
-###Neutralización de una oposición fonológica}
-
-
-    -  La **neutralización} se produce cuando un oposición fonológica deja de ser pertinente en determinada posición de la cadena hablada.
-    -  En español, los fonemas vibrantes \ipa{/r/} y \ipa{/\=r/} forman una oposición en situación intervocálica prenuclear: (\it{pero/perro}, \it{coro/corro}). 
-    -  Sin embargo, esta oposición desaparece cuando el fonema aparece en posición postnuclear. Podemos pronunciar una palabra como \it{cortar} tanto \ipa{[kortár]} como \ipa{[ko\=rtá\=r]} sin que varíe el significado. 
-    -  En posición postnuclear ha desaparecido el carácter distintivo de la oposición: se ha **neutralizado}.
-
-
---SLIDE--
-
-
-###El archifonema}
-
-
-    -  El resultado de la neutralización es el **archifonema}.
-    -  Definimos el **archifonema} como un conjunto de rasgos distintivos comunes a los dos fonemas de la oposición neutralizada.
-    -  Los archifonemas se transcriben por medio de letras mayúsculas: transcribimos fonológicamente la palabra \it{cortar} como \ipa{/ko}R\ipa{tá}R/
-
-
---SLIDE--
-
-###Neutralización de oclusivas en posición postnuclear}
-
-Al contrario de lo que ocurre en posición prenuclear, estos fonemas oclusivos crean muy pocas oposiciones: *recta/repta}, *acto/apto}, *absorción/adsorción}, etc. La rentabilidad de estas oposiciones es muy baja. 
-
-Por eso, las oposiciones \ipa{/p/}-\ipa{/b/}, \ipa{/t/}-\ipa{/d/} y \ipa{/k/}-\ipa{/g/} se neutralizan en posición postnuclear con los siguientes **archifonemas}:
-
-
-    -  /B/ archifonema resultante de la neutralización *-p / -b}
-    -  /D/ archifonema resultante de la neutralización *-t / -d}
-    -  /G/ archifonema resultante de la neutralización *-k / -g}
-
-
---SLIDE--
-
-
-###Consonantes fricativas}
-
-La articulación de las consonantes fricativas se caracteriza porque existe un estrechamiento o costricción del paso del aire por medio de la acción de dos órganos articulatorios. Como en las oclusivas, el velo del paladar se adhiere a la pared faríngea, impidiendo la salida del aire por las fosas nasales.
-
-
-- En castellano tenemos cinco fonemas fricativos que se oponen entre sí por el lugar de articulación: /f/, \textipa{/T/}, /s/, \textipa{/J/} y /x/.
-- En las zonas de seseo, no existe el fonema \textipa{/T/}.
-- Desde el punto de vista fonético, es preciso recordar los alófonos fricativos de las oclusivas sonoras: \textipa{[B]}, \textipa{[D]}, \textipa{[G]}. 
-
-
---SLIDE--
-
-
-###Fricativas labiodentales}
-	
-En la realización de las fricativas labiodentales, el labio inferior se apoya en los incisivos superiores. 
-
-
-- /f/: fricativa labiodental sorda
-	
-	Tiene un único alófono [f] que aparece en cualquier posición de la cadena hablada. Ortográficamente, se representa con la grafía *f}.	
-
-- Ejemplos:
-
-	*frío} [frío] /frío/
-
-	*fuerte} \textipa{[fwérte]} /fuéRte/
-
-	*afán} \textipa{[a"f\~an]} /afáN/
-
-
---SLIDE--
-
-
-###Fricativas interdentales}
-	
-En la realización de las fricativas interdentales, el ápice de la lengua se apoya en los incisivos o se sitúa entre ellos. 
-
-
-- \textipa{/T/}: fricativa interdental sorda
-	
-	Tiene un único alófono \textipa{[T]} que aparece en cualquier posición de la cadena hablada. Ortográficamente, se representa con la grafía *c} ante *e, i} (*ce, ci}) o por la grafía *z} ante *a, o, u} (*za, zo, zu}), antes o después de consonante en interior de palabra o al final de palabra.	
-
-- Ejemplos:
-
-	*cecina} \textipa{[TeTína]} \textipa{/TeTína/}
-	
-	*zumo} \textipa{[Túmo]} \textipa{/Túmo/}
-	
-	*hazme} \textipa{[áTme]} \textipa{/áTme/}
-	
-	*jazmín} \textipa{[xaT"m\~in]} /xa\textipa{T}míN/
-
-
---SLIDE--
-
-
-###Fricativas alveolares}
-	
-En la realización de las fricativas alevolares, el ápice y el predorso de la lengua se aproximan a la zona alveolar.
-
-
-- \textipa{/s/}: fricativa alveolar sorda
-	
-	Tiene un único alófono \textipa{[s]} que aparece en cualquier posición de la cadena hablada. Ortográficamente, se representa con la grafía *s} o, en algunas palabras cultas, como *x}.	
-
-- Ejemplos:
-
-	*casas} \textipa{[kásas]} \textipa{/kásas/}
-	
-	*solo} \textipa{[sólo]} \textipa{/sólo/}
-	
-	*gastos} \textipa{[gástos]} \textipa{/gástos/}
-
-	*xenofobia} \textipa{[senofóBja]} \textipa{/senofóbia/}
-	
-
-
---SLIDE--
-
-###Seseo}
-
-
-- En la mayoría de las regiones de habla española, tanto en España como en América, el fonema \textipa{/T/} no existe y fue sustituido históricamente por /s/. Este fenómeno se conoce con el nombre de **seseo} y es admitido como norma correcta.
-- En las zonas donde existe el seseo, la oposición \textipa{T/s} no existe, y los siguientes pares de palabras se pronuncian de la misma forma: son homófonos.
-
-    *caza/casa} \textipa{[kása]} 
+    - altura
     
-    *cerrar/serrar} \textipa{[se\=rár]}
-
-    *ciento/siento} \textipa{["sj\~e\c{n}to]} 
-
-
---SLIDE--
-
-
-###Aspiración de la /s/ en posición postnuclear}
-
-En muchas zonas de España y América, cuando el fonema /s/ aparece en posición postnuclear no se pronuncia como [s].
-
-
-- Se aspira, pronunciándose como una fricativa laríngea sorda [h] o, incluso en zonas del centro de España, como una fricativa velar sorda [x].
-
-    *dos} \textipa{[dóh]} 
-
-    *pesca} \textipa{[péhka]} 
-
-    *los perros} \textipa{[lóh pé\=roh]} 
-
-    *casco} \textipa{[káxko]} 
-
-- Se pierde, abriendo las vocales.
-
-    *gato/gatos} \textipa{[gáto] / [gátO]} 
-
-    *tiene/tienes} \textipa{[tjéne] / [tjénE]} 
-
-
---SLIDE--
-
-
-###Otros fenómenos relacionados con /s/ en posición postnuclear}
-
-La grafía *x}:
-
-- se realiza como [s] cuando precede a una consonante: *extenso} \textipa{[esténso]}, *texto} \textipa{[tésto]}.
-- cuando se encuentra entre vocales, se realiza como normalmente como \textipa{[Gs]}, y como [ks/gs] en el habla cuidada: *examen} \textipa{\textipa{[eGsámen]}}, *taxi} \textipa{\textipa{[táGsi]}}
-
-	
-La secuencia *-sr-}:
-
-- en el habla coloquial, el fonema [s] suele perderse cuando precede al fonema /\=r/: *Israel} \textipa{[i\=raél]}, *las rejas} \textipa{[la\=réxas]}.
-
-
---SLIDE--
-
-
-###Fricativas palatales}
-	
-En la realización de las fricativas palatales, el predorso de la lengua se apoya sobre la región prepalatal.
-
-
-- \textipa{/J/} o \textipa{/y/}: fricativa palatal sonora
-	
-	Aparece únicamente en posición prenuclear. Ortográficamente, se representa con la grafía *y} + vocal o, como *hi} + vocal. Tiene dos alófonos: 
-	
-- \textipa{[\textdyoghlig]} variante africada que se produce después de pausa, de consonante nasal o /l/
-
-	*hiedra} \textipa{[\textdyoghligéDra]} \textipa{/Jédra/}
-	
-	*el hierro} \textipa{[é\textlhookl \textdyoghligé\=ro]} \textipa{/él Jé\=ro/}
-
-	*un yeso} \textipa{["\~u\textlhookn \textdyoghligéso]} /úN \textipa{Jéso/}
-
-- \textipa{[J]} variante fricativa, que aparece en el resto de contextos
-
-	*ese hierro} \textipa{[ése Jé\=ro]} \textipa{/ése Jé\=ro/}
-
-	*ese yeso} \textipa{[ése Jéso]} /ése \textipa{J}éso/
-
-
---SLIDE--
-
-
-###Fricativas velares}
-	
-En la realización de las fricativas velares, el postdorso de la lengua se aproxima a la zona velar.
-
-
-- \textipa{/x/}: fricativa velar sorda
-	
-	Tiene dos alófonos que aparecen en cualquier posición de la cadena hablada: [x] o la variante aspirada [h]. Ortográficamente, se representa con la grafía *j} antes cualquier vocal (*ja, je, ji, jo, ju}) o con la grafía *g} ante *e, i} (*ge, gi}).	
-
-- Ejemplos:
-
-	*gente} \textipa{["x\~e\c{n}te]} /xéNte/
-	
-	*lejos} \textipa{[léxos]} \textipa{/léxos/}
-	
-	*boj} \textipa{[bóx]} \textipa{/bóx/}
-
-	*reloj} \textipa{[\=reló]} \textipa{/\=reló/}
-
-
---SLIDE--
-
-
-
-###Consonantes africadas}
-
-La articulación de las consonantes africadas se caracteriza por tener dos momentos: uno oclusivo (con interrupción total del paso del aire) seguido de otro fricativo (con constricción). Tanto oclusión como la fricación se realizan en el mismo lugar de articulación y por los mismos órganos articulatorios. El velo del paladar se adhiere a la pared faríngea impidiendo la salida del aire por las fosas nasales.
-
-
-- El castellano tiene un único fonema africado: \textipa{/\textteshlig/}
-- Desde el punto de vista fonético, es preciso recordar que el fonema fricativo /\textipa{J}/ tiene un alófono africado \textipa{[\textdyoghlig]} cuya única diferencia con [\textipa{\textteshlig}] es la sonoridad.
-
-
---SLIDE--
-
-
-###Africada palatal}
-	
-En la realización de la africada palatal, el predorso de la lengua forma una oclusión con la zona prepalatal, seguido inmediatamente de una constricción.
-
-
-- \textipa{/\textteshlig/}: africada palatal sorda
-	
-	Tiene un único alófono que aparece solo en posición prenuclear [\textipa{\textteshlig}]. Ortográficamente, se representa con la grafía *ch}.	
-
-- Ejemplos:
-
-	*muchacho} [mu\textipa{\textteshlig}á\textipa{\textteshlig}o] /mu\textipa{\textteshlig}á\textipa{\textteshlig}o/
-	
-	*chica} \textipa{[\textteshligíka]} \textipa{/\textteshligíka/}
-
-	*chachachá} \textipa{[\textteshlig a\textteshlig a\textteshlig á]} \textipa{/\textteshlig a\textteshlig a\textteshlig á/}
-
-
---SLIDE--
-
-
-###Consonantes nasales}
-
-La articulación de las consonantes nasales se caracteriza por presentar una oclusión en algún lugar de la cavidad bucal permitiendo la salida del aire a través de las fosa nasales. En todas ellas las cuerdas vocales vibran: son sonoras.
-
-
-- En castellano existen tres fonemas nasales: /m/, /n/ y /\textipa{\textltailn}/
-
-
---SLIDE--
-
-
-###Nasal bilabial}
-	
-En la realización de la nasal bilabial, los dos labios se cierran momentáneamente. El velo del paladar se separa de la pared faríngea, permitiendo la salida del aire a través de las fosas nasales.
-
-
-- \textipa{/m/}: nasal bilabial sonora
-	
-	Tiene un único alófono que aparece solo en posición prenuclear [m]. Ortográficamente, se representa con la grafía *m}.	
-
-- Ejemplos:
-
-	*mamá} [m\~amá] /mamá/
-	
-	*cama} [káma] /káma/
-
-	*mesa} [mésa] /mésa/
-
-
---SLIDE--
-
-###Nasal alveolar}
-	
-En la realización de la nasal alveolar, los rebordes de la lengua se adhieren a los molares superiores y el ápice de la lengua cierra con la parte alveolar. El velo del paladar se separa de la pared faríngea, permitiendo la salida del aire a través de las fosas nasales.
-
-
-- \textipa{/n/}: nasal alveolar sonora
-	
-	Tiene un único alófono que aparece solo en posición prenuclear [n]. Ortográficamente, se representa con la grafía *n}.	
-
-- Ejemplos:
-
-	*nana} \textipa{["n\~ana]} /nána/
-	
-	*nota} [nóta] /nóta/
-
-	*gana} \textipa{[gána]} \textipa{/gána/}
-
---SLIDE--
-
-###Nasal palatal}
-	
-En la realización de la nasal palatal, el área predorsal de la lengua se adhiere a la zona prepalatal. El velo del paladar se separa de la pared faríngea, permitiendo la salida del aire a través de las fosas nasales.
-
-
-- /\textipa{\textltailn}/: nasal palatal sonora
-	
-	Tiene un único alófono que aparece solo en posición prenuclear [\textipa{\textltailn}]. Ortográficamente, se representa con la grafía *ñ}.	
-
-- Ejemplos:
-
-	*niño} [\textipa{"n\~i\textltailn}o] /ní\textipa{\textltailn}o/
-		
-	*mañana} \textipa{[m\~a"\textltailn\~ana]} \textipa{/ma\textltailnána/}
-
-
---SLIDE--
-
-###Neutralización de nasales en posición postnuclear}
-
-
-    -  Los fonemas nasales funcionan como tales en posición prenuclear, pero cuando \ipa{/m/} y \ipa{/n/} se encuentran en posición postnuclear pierden sus rasgos distintivos y se neutralizan.
-    -  El resultado de dicha neutralización es el archifonema /N/ guardando como único rasgo común el de nasalidad.
-    -  Es habitual que se produzcan asimilaciones del fonema nasal al lugar de articulación con el sonido de la consonante siguiente.
-
-
---SLIDE--
-
-###Alófonos nasales producidos por asimilación}
-
-
-    -  \ipa{[m]}: nasal bilabial
+    - acento
     
-    Se produce siempre que la nasal precede una consonante labial como \ipa{[p], [b] o [m]}.
+    - longitud 
 
-    \it{un vaso} \ipa{["\~um báso]} /úN báso/
+--SUBSLIDE--
 
-    \it{un pie} \ipa{["\~um pjé]} /úN pié/
+### Altura: tono y entonación
 
-    \it{un mes} \ipa{["\~um més]} / \ipa{["\~umés]} /úN més/
+- La **altura** es la propiedad auditiva de un sonido que nos permite situarlo en una escala que varía de tonos altos a tonos bajos.
 
-    -  \ipa{[M]} nasal labiodental
-     
-    Se produce siempre que la nasal se sitúa ante \ipa{[f]}.
+- Todos los hablantes tenemos la habilidad de controlar la altura con la que pronunciamos un sonido: variando la cantidad de aire que pasa por la glotis y la tensión de las cuerdas vocales.
 
-    \it{un farol} \ipa{["\~uM faról]} /úN faról/
+--SUBSLIDE--
 
-    \it{un fotógrafo} \ipa{["\~uM fotóGrafo]} /úN fotógrafo/
+### Tono
 
+- En las **lenguas tonales**, la la altura con la que se pronuncian las palabras se utiliza para distinguir unos significados de otros. En estos casos, la altura se denomina **tono**. 
 
---SLIDE--
-
-
-###Alófonos nasales producidos por asimilación}
-
-
-    -  \ipa{[\.*n]}: nasal linguointerdental
+    - En chino mandarín, distinguimos significados empleando hasta cinco tonos diferentes:
     
-    Se produce siempre que la nasal precede a \ipa{[T]}.
+        - *mā* (madre), *má* (cáñamo), *mǎ* (caballo), *mà* (regañar), *ma* (particula interrogativa.)
 
-    \it{un zapato} \ipa{["\~u\.*n Tapáto]} /úN \ipa{T}apáto/
+--SUBSLIDE--
 
-    -  \ipa{[\c{n}]}: nasal linguodental
-    
-    Se produce siempre que la nasal precede a una dental \ipa{[t]} o \ipa{[d]}.
+### Entonación
 
-    \it{un diente} \ipa{["\~u\c{n} "dj\~e\c{n}te]} /úN diéNte/
-
-    -  \ipa{[n]}: nasal linguoalveolar
-    
-    Se produce siempre que la nasal va seguida de vocal, de consonante alveolar o de pausa.
-
-    \it{un loco} \ipa{["\~un lóko]} /úN lóko/
-
-    \it{un ajo} \ipa{["\~un áxo]} /úN áxo/
-
-    \it{quiero pan} \ipa{[kjéro "p\~an]} /kiéro páN/
-
---SLIDE--
-
-###Alófonos nasales producidos por asimilación}
-
-
-    -  \ipa{[\textlhookn]}: nasal linguopalatalizada
-    
-    Se produce una ligera palatalización siempre que la nasal precede una consonante palatal. La realización es diferente de \ipa{[\textltailn]}
-
-    \it{un chico} \ipa{["\~u\textlhookn \textteshligíko]} /úN \ipa{\textteshlig}íko/
-
-    -  \ipa{[N]} nasal linguovelar
-     
-    Se produce siempre que la nasal se sitúa ante una consonante velar \ipa{[k]}, \ipa{[g]} o \ipa{[x]}.
-
-    \it{un cuento} \ipa{["\~uN "kw\~e\c{n}to]} /úN kuéNto/
-
-    \it{un granjero} \ipa{["\~uN gr\~aNxéro]} /úN graNxéro/
-
---SLIDE--
-
-
-###Consonantes líquidas}
-
-Dentro de la categoría de consonantes líquidas se incluyen un tipo especial de consonantes cuya fisonomía las sitúa entre las vocales y las consonantes y las vocales
-
-
-- Desde el punto de vista articulatorio, la cavidad bucal presenta una abertura mayor que en el resto de consonantes. Y sin embargo, en el interior de la cavidad bucal se crea un obstáculo a la salida del aire.
-- Acústicamente presentan rasgos vocálicos y consonánticos.
-
-
---SLIDE--
-
-###Consonantes líquidas laterales}
-
-La articulación de las consonantes líquidas laterales se caracteriza porque el aire sale a través de un estrechamiento producido por un lado o los dos de la lengua. El velo del paladar permanece adherido a la pared faríngea. Las cuerdas vocales vibran siempre: son sonoras.
-
-
-- En castellano existen dos fonemas laterales: /l/ y /\textipa{L}/
-	
-
---SLIDE--
-
-###Lateral palatal}
-	
-En la realización de la lateral palatal, el ápice y los rebordes de la lengua se adhieren a la zona alveolar y a las encías superiores, dejando un canal por el que escapa el aire fonador.
-
-
-- /\textipa{L}/: lateral palatal sonora
-	
-	Tiene un único alófono que aparece solo en posición prenuclear [\textipa{L}]. Ortográficamente, se representa con la grafía *ll}.	
-
-- Ejemplos:
-
-	*llave} [\textipa{LáBe}] /\textipa{L}ábe/
-		
-	*calle} [\textipa{káLe}] /ká\textipa{L}e/
-
-
---SLIDE--
-
-###Yeísmo}
-
-
-- En amplias zonas de España y América, la lateral [\textipa{L}] ha desaparecido y se ha convertido en la fricativa central [\textipa{J}]. Este fenómeno se conoce con el nombre de **yeísmo}.
-- En las zonas donde existe el yeísmo, la oposición \textipa{L/J} no existe, y los siguientes pares de palabras se pronuncian de la misma forma: son homófonos.
-
-    *olla/oya} \textipa{[óJa]} \ipa{/óJa/}
-    
-    *pollo/poyo} \textipa{[póJo]} \ipa{/poJo/}
-
---SLIDE--
-
-###Lateral alveolar}
-
-En la realización de la lateral alveolar, el ápice y los rebordes de la lengua se adhieren a la zona alveolar y a las encías superiores, a excepción de una pequeña zona en la parte lateral, por donde se escapa el aire fonador. Ortográficamente, se representa con la grafía *l}.
-
-
-- /\textipa{l}/: lateral alveolar sonora
-	
-- En posición prenuclear o en posición postnuclear cuando va seguido de vocal, pausa o de cualquier consonante que no sea dental, interdental o palatal, el alófono es [\textipa{l}].
-
-	*lelo} [\textipa{lélo}] /\textipa{lélo}/
-		
-	*el aire} [\textipa{él á\textsubarch{i}re}] /\textipa{él áire}/
-	
-	*bolsa} [\textipa{bólsa}] /\textipa{bólsa}/
-	
-
---SLIDE--
-
-###Alófonos de la lateral alveolar producidos por asimilación}
-
-
-- Por asimilación, en posición postnuclear ante [\textipa{T}], se pronuncia con el ápice de la lengua entre los incisivos. El alófono es [\textipa{\.*l}]
-
-	*calzar} [\textipa{ka\.*lTár}] /\textipa{kalTár}/
-		
-	*el cine} [\textipa{é\.*l Tíne}] /\textipa{él Tíne}/
-
-- Por asimilación, en posición postnuclear ante [\textipa{t}], se pronuncia con el ápice de la lengua contra los incisivos. El alófono es [\textipa{\c{l}}]
-
-	*alto} [\textipa{á\c{l}to}] /\textipa{álto}/
-		
-	*el toro} [\textipa{é\c{l} tóro}] /\textipa{él tóro}/
-	
-- Por asimilación, en posición postnuclear antes de una consonante palatal, se articula apoyando la zona anterior apicopredorsal de la lengua en la zona alveolar y palatal. El alófono es [\textipa{\textlhookl}]
-
-	*el hierro} \textipa{[é\textlhookl \textdyoghligé\=ro]} \textipa{/él yé\=ro/}
-		
-	*el ñoño} [é\textlhookl \textipa{"\textltailn\~o\textltailn}o] /él \textipa{\textltailnó\textltailn}o/
-
-
-	
---SLIDE--
-
-###Consonantes líquidas vibrantes}
-	
-La articulación de las consonantes líquidas vibrantes se caracteriza por poseer una o varias interrupciones breves durante la salida del aire, originadas por el cierre entre el ápice de la lengua y la zona alveolar. El velo del paladar permanece adherido a la pared faríngea. Las cuerdas vocales vibran siempre: son sonoras.
-
-
-- En castellano existen dos fonemas vibrantes: /r/ y /\textipa{\=r}/
-	
-
---SLIDE--
-
-
-###Vibrante simple}
-
-En la realización de la vibrante simple se forma una breve oclusión del ápice de la lengua contra los alvéolos. Ortográficamente, se representa con la grafía *r}.
-
-
-- /\textipa{r}/: vibrante simple
-		
-- Tiene un único alófono [r] que aparece siempre en el interior de una palabra y en posición prenuclear.
-
-	*caro} [\textipa{káro}] /\textipa{káro}/
-		
-	*cero} [\textipa{Téro}] /\textipa{Téro}/
-	
-	*torero} [\textipa{toréro}] /\textipa{toréro}/
-		
-
---SLIDE--
-
-
-###Vibrante múltiple}
-
-En la realización de la vibrante múltiple se forma dos o más oclusiones muy breves del ápice de la lengua contra los alvéolos. Ortográficamente, se representa con la grafía *r} en posición inicial de palabra o en medio precedida de *n} o *l}, y con la grafía *rr} en posición intervocálica en el interior de la palabra. 
-
-
-- /\textipa{\=r}/: vibrante múltiple
-		
-- Tiene un único alófono [\textipa{\=r}] que puede aparecer en principio de palabra o en interior, en posición prenuclear, antes de vocal, precedida de vocal o de las consonantes [n] o [l].
-
-	*torre} [\textipa{tó\=re}] /\textipa{tó\=re}/
-		
-	*carro} [\textipa{ká\=ro}] /\textipa{ká\=ro}/
-	
-	*alrededor} [\textipa{al\=reDeDór}] /al\textipa{\=r}ededóR/
-
-	*enredar} [\textipa{\~en\=reDár}] /eN\textipa{\=r}edáR/
-		
-
---SLIDE--
-
-###Neutralización de las vibrantes en posición postnuclear}
-
-
-    -  Los fonemas vibrantes \ipa{/r/} y \ipa{/\=r/} funcionan como tales en posición silábica prenuclear entre vocales en interior de palabra: *pero/perro}, *caro/carro}, *coral/corral}, etc. 
-
-    -  Sin embargo, en posición postnuclear, estos fonemas pueden realizarse con distintas tensiones \ipa{[r]} y \ipa{[\=r]} sin que varíe el significado. Podemos pronunciar \it{amar} indistintamente como \ipa{[amár]} o como \ipa{[amá\=r]}.
-
-    -  /R/ archifonema resultante de la neutralización \ipa{/r/} y \ipa{/\=r/}
-
-   - Ambas pronunicaciones, ya sea \ipa{[amár]} o \ipa{[amá\=r]}, se representan fonológicamente como \ipa{/amá}R/.
-
-
---SLIDE--
-
-###Definición fonológica de una consonante}
-
-En la descripción fonológica se tienen en cuenta solo los rasgos distintivos:
-
-
-    -  \ipa{/p/} fonema consonántico, oclusivo, bilabial, sordo
-    -  \ipa{/g/} fonema consonántico, oclusivo, velar, sonoro
-    -  \ipa{/n/} fonema consonántico, nasal, alveolar
-
-
---SLIDE--
-
-###Definición fonética de una consonante}
-
-En la descripción fonética se tienen en cuenta todas las características articulatorias:
-
-
-    -  \ipa{[p]} consonante oclusiva, bilabial, sorda, oral, alófono de \ipa{/p/}
-    -  \ipa{[G]} consonante fricativa, velar, sonora, oral, alófono de \ipa{/g/}
-    -  \ipa{[\textlhookn]} consonante nasal, alveolar, sonora, palatalizada, alófono de /N/
-
-
---SLIDE--
-
-
-###Fenómenos fonéticos motivados por la combinación de sonidos}
-
-\begin{enumerate}
-- Los sonidos no se producen aislados, sino en íntimo y sucesivo contacto los unos con los otros.
-- Cuando hablamos procuramos obtener un resultado óptimo con el mínimo esfuerzo.
-\end{enumerate}
-
-
-- asimilación: modificación que sufre un sonido al adoptar parte de los rasgos articulatorios de otro sonido.
-	
-	Ejemplo: en castellano, los sonidos nasales en posición postnuclear adoptan rasgos articulatorios de los sonidos bilabiales, labiodentales, palatales o velares.
-	 
-- armonía vocálica: fenómeno de asimilación a distancia que funciona a nivel morfológico. 
-	
-	Ejemplo: en turco o bantú, las vocales de la raíz determinan las vocales de los morfemas.
-
-
---SLIDE--
-
-
-###Tabla de fonemas vocálicos en castellano}
-
-
-  \begin{tabular}{|l|c|c|c|}
-    \hline
-              & anterior & central & posterior \\
-    \hline
-    cerrada   & \ipa{i}  &         & \ipa{u} \\ 
-    \hline
-    media     & \ipa{e}  &         & \ipa{o} \\ 
-    \hline
-    abierta   &          & \ipa{a} & \\ 
-    \hline
-  \end{tabular}
-
-
---SLIDE--
-
-
-###Tabla de alófonos vocálicos en castellano}
-
-
-  \begin{tabular}{|l|c|c|c|}
-    \hline
-              & anterior & central & posterior \\
-    \hline
-    cerrada   & \ipa{i \~i j \textsubarch{i}}  &         & \ipa{u \~u w \textsubarch{u}} \\ 
-    \hline
-    media     & \ipa{e \~e}  &         & \ipa{o \~o} \\ 
-    \hline
-    abierta   &          & \ipa{a \~a} & \\ 
-    \hline
-  \end{tabular}
-
-
-
---SLIDE--
-###Tabla de fonemas consonánticos en castellano}
-
-\begin{footnotesize}
-\begin{tabular}{|l|cc|cc|cc|cc|cc|cc|}
-  \hline
-  & \multicolumn{2}{|c|}{bilabial} & \multicolumn{2}{|c|}{labiodental} & \multicolumn{2}{|c|}{dental} & \multicolumn{2}{|c|}{alveolar} & \multicolumn{2}{|c|}{palatal} & \multicolumn{2}{|c|}{velar} \\
-  \hline
-  oclusiva  & \ipa{p} & \ipa{b} & & & \ipa{t} & \ipa{d} & & & & & \ipa{k} & \ipa{g} \\
-  \hline
-  fricativa & & & \ipa{f} & & \ipa{T} & & \ipa{s} & & & \ipa{J} & \ipa{x} & \\
-  \hline
-  africada  & & & & & & & & & \textteshlig & & & \\
-  \hline
-  nasal     & & \ipa{m} & & & & & & \ipa {n} & & \ipa{\textltailn} & & \\
-  \hline
-  lateral   & & & & & & & & \ipa{l} & & \ipa{L} & & \\
-  \hline
-  vibrante  & & & & & & & & \ipa{r} \ipa{\=r} & & & & \\
-  \hline
-\end{tabular}
-\end{footnotesize}
-
---SLIDE--
-
-
-###Tabla de alófonos consonánticos en castellano}
-
-\begin{footnotesize}
-\begin{tabular}{|l|cc|cc|cc|cc|cc|cc|cc|}
-  \hline
-  & \multicolumn{2}{|c|}{bilabial} & \multicolumn{2}{|c|}{labiodent} & \multicolumn{2}{|c|}{dental} & \multicolumn{2}{|c|}{alveolar} & \multicolumn{2}{|c|}{palatal} & \multicolumn{2}{|c|}{velar} & \multicolumn{2}{|c|}{faríngea}\\
-  \hline
-  oclusiva  & \ipa{p} & \ipa{b} & & & \ipa{t} & \ipa{d} & & & & & \ipa{k} & \ipa{g} & & \\
-  \hline
-  fricativa & & \ipa{B} & \ipa{f} & & \ipa{T} & \ipa{D} & \ipa{s} & & & \ipa{J} & \ipa{x} & \ipa{G} & h & \\
-  \hline
-  africada  & & & & & & & & & \textteshlig & \textdyoghlig & & & & \\
-  \hline
-  nasal     & & \ipa{m} & & \ipa{M} & & \ipa{\.*n} \ipa{\c{n}} & & \ipa {n} & & \ipa{\textlhookn} \ipa{\textltailn} & & \ipa{N} & & \\
-  \hline
-  lateral   & & & & & & \ipa{\.*l} \ipa{\c{l}} & & \ipa{l} & & \ipa{\textlhookl} \ipa{L} & & & & \\
-  \hline
-  vibrante  & & & & & & & & \ipa{r} \ipa{\=r} & & & & & & \\
-  \hline
-\end{tabular}
-\end{footnotesize}
-
---SLIDE--
-
-###}
-
-\LARGE El acento y la entonación
-
---SLIDE--
-
-
-###El acento}
-
-
-- El acento pone de relieve una unidad lingüística superior al fonema (sílaba, morfema, palabra) para diferenciarla de otras unidades del mismo nivel.
-- Se manifiesta como un contraste entre unidades acentuadas y unidades inacentuadas.
-
-  
---SLIDE--
-
-###Relaciones sintagmáticas y paradigmáticas}
-	
-
-- Según la lingüística estructural, el carácter lineal del signo lingüístico permite describir dos tipos de análisis simultáneos. 
-- En el eje horizontal, el **eje sintagmático} estudia la combinación de los diferentes elementos de la cadena hablada.
-	
-	 - los signos contrastan unos frente a otros.
-	  
-- En el eje vertical, el **eje paradigmático} estudia la selección de cada uno de los elementos entre todas las opciones que hubiesen podido ocupar una posición.
-	
-	- los signos se oponen unos a otros.
-	
-	 
-
---SLIDE--
-
-
-###Relaciones sintagmáticas y paradigmáticas}
-	
- 
-  \includegraphics[width=0.6\textwidth]{img/ejes-sintagmatico-paradigmatico.png} 
- 
-
---SLIDE--
-
-
-###Función contrastiva del acento}
-	
-
-- En el eje sintagmático, el acento sirve para poner de relieve las sílabas tónicas (o acentuadas) frente a las sílabas átonas (o inacentuadas) en una misma secuencia de elementos.
-- Y en general, el acento sirve para poner de relieve las palabras acentuadas (típicamente, sustantivos, adjetivos y verbos) frente a las no acentuadas (preposiciones, conjucciones, etc.)
-
-
---SLIDE--
-
-
-###Función distintiva del acento}
-	
-
-- En el eje paradigmático, el acento sirve para distinguir unidades de significado diferente:
-	
-	- Palabras oxítonas o agudas: habi**tó}
-	- Palabras paroxítonas o llanas: ha**bi}to
-	- Palabras proparoxítonas o esdrújulas: **há}bito
-	- Palabras superproparoxítonas o sobresdrújulas: **á}bremelo
-	
-
---SLIDE--
-
-
-###Función culminativa del acento}
-	
-
-- En una secuencia de palabras, el acento sirve para agrupar una serie de sílabas inacentuadas en torno a la sílaba central.
-	
-	\it{Y por si la mayo**rí}a lo re**suel}ve...}
-	
-	\it{Y con la ca**mi}sa de **cua}dros}
-
-
---SLIDE--
-
-###Palabras acentuadas y inacentuadas}
-
-
-- Toda palabra aislada, sacada fuera de contexto, tiene una sílaba con mayor carga acentual.
-- Sin embargo ésto puede no ocurrir cuando esa palabra se encuentra en la cadena hablada.
-- En cadena hablada se perciben claramente las sílabas tónicas de determinadas palabras y las sílabas átonas del resto.
-- En español, una palabra tónica tiene una única sílaba tónica o acentuada que se realiza con mayor energía articulatoria.
-- En español solo hay un tipo de palabras con dos sílabas tónicas: los adverbios terminados en \it{-mente}: \it{miserablemente} /miserábleméNte/, \it{solamente} /sólaméNte/ 
-
-
---SLIDE--
-
-###Palabras acentuadas}
-
-
-- sustativos: \it{el gato} \ipa{/el gáto/}, \it{la vaca} \ipa{/la báka/}
-- adjetivos: \it{el gato negro} \ipa{/el gáto négro/}, \it{la vaca blanca} \ipa{/la báka blá}N\ipa{ka/}
-- pronombres tónicos: \it{tú sabes mucho} /tú sábes mú\ipa{\textteshlig}o/, \it{para ti} /para tí/, \it{jugamos él y nosotros} \ipa{/xugámos él i nosótros/}
-- artículo indeterminado: \it{un gato} /úN \ipa{gáto/}, \it{unas vacas} \ipa{/únas bákas/}
-- indefinidos, ya sean adjetivos o pronombres: \it{algún hombre} \ipa{/algú}N óN\ipa{bre/}, \it{tengo algunos} \ipa{/té}N\ipa{go algúnos/} 
-- pronombres posesivos: \it{la culpa es tuya} \ipa{/la kúlpa és túJa/}, \it{el gato no es vuestro} \ipa{/el gáto nó és buéstro/}
-	
-
---SLIDE--
-
-###Palabras acentuadas}
-
-
-- demostrativos, ya sean adjetivos o pronombres: \it{quiero este libro} \ipa{/kiéro éste líbro/}, \it{prefiero aquel} \ipa{/prefiéro akél/} 
-- numerales cardinales y ordinales: \it{dos casas} \ipa{/dós kásas/}, \it{llegó el primero} \ipa{/Jegó el priméro/}. 
-- En los numerales compuestos, sin embargo, el primer elemento no se acentúa: \it{dos mil casas} \ipa{/dos míl kásas/}
-- verbos: \it{el gato come} \ipa{/el gáto kóme/}, \it{Pepe se ha ido} \ipa{/pépe se há ído/}
-- el adverbio de negación: \it{el gato no es vuestro} \ipa{/el gáto nó és buéstro/}
-- adverbios: \it{comes poco} \ipa{/kómes póco/}, \it{juegas mal} \ipa{/xuégas mál/}
-- formas interrogativas \it{qué, quién, cuál, cómo, dónde, cuándo, cuánto}: \it{¿qué quieres?} \ipa{/ké kiéres/}
-	
-
---SLIDE--
-
-###Palabras inacentuadas}
-
-
-- articulo determinado: \it{el gato} \ipa{/el gáto/}, \it{la vaca} \ipa{/la báka/}
-- preposición: \it{vive para trabajar} \ipa{/bíbe para trabaxá}R/, \it{vengo por ti} /béN\ipa{go por tí/}. Hay una excepción: \it{según lo acordado} /segúN lo akoRdádo/ 
-- conjunción: 
-	
-    - copulativas: \it{y, e, ni} 
-	    -  disyuntivas: \it{o, u}
-	    -  adversativas: \it{pero, mas, sino}
-    - causales: \it{porque, como, puesto que, pues}
-	    -  consecutivas: \it{pues, luego, conque} 
-	    -  condicionales: \it{si, cuando} 
-	    -  concesivas: \it{aunque, aun cuando}
-	    -  partícula \it{que} con función copulativa, disyuntiva, determinativa, etc.
-	
-
-
---SLIDE--
-
-###Palabras inacentuadas}
-
-
-- términos de tratamiento: \it{don, doña, fray, san, santo}
-- el primer elemento de los compuestos: \it{María Jesús} \ipa{/maria xesús/}, \it{dos mil} \ipa{/dos míl/}
-- pronombres atónos y el reflexivo \it{se}: \it{se lo dije} \ipa{/se lo díxe/}
-- adjetivos posesivos: \it{mi padre y mi madre} \ipa{/mi pádre i mi mádre/}
-- las formas \it{que, cual, quien, cuyo, donde, cuando, cuánto, como} cuando no funcionan como interrogativas
-- algunos adjetivos en vocativos o expresiones exclamativas cortas son inacentuadas: \it{no puedo, buen hombre} /nó puédo bueN óNbre/
-
-
---SLIDE--
-
-###Formas tónicas o átonas según su función}
-
-
-- \it{luego} es tónica en función temporal y atóna en función consecutiva
-- \it{aún/aun} es tónica en función adverbial y atóna en función preposicional
-- \it{mientras} es tónica en función adverbial y atóna en función conjuntiva
-- \it{medio} es tónica en función adjetival y atóna en formas compuestas
-- \it{más} es tónica como adverbio y atóna cuando es nexo de relación
-- \it{menos} es tónica como adverbio temporal y atóna cuando es nexo de relación
-
-
---SLIDE--
-
-###El acento enfático o de insistencia}
-
-
-- Aunque las palabras acentuadas en castellano solo tienen una sílaba acentuada, en determindos contextos, es posible pronunciar con un énfasis mayor algúnas sílabas átonas.
-- Este fenómenos se puede señalar en la transcripción por medio de un segundo acento. 
-- \it{bajo mi responsabilidad} \ipa{/báxo mi \=réspo}NsabilidáD/
-
-
---SLIDE--
-
-###El grupo fónico y grupo de entonación}
-
-
-- El **grupo fónico} es la porción de discurso comprendida entre dos pausas.
-	
-	\it{Platero es pequeño, peludo, suave}
-	
-	\ipa{\textdoublevertline} Platero es pequeño \ipa{\textvertline}  peludo \ipa{\textvertline}  suave \ipa{\textdoublevertline}
-
-- El **grupo de entonación} es la porción de discurso comprendida entre dos pausas, entre pausa e inflexión del fundamental, entre inflexión del fundamental y pausa, o entre dos inflexiones del fundamental, que configura una unidad sintáctica más o menos larga y compleja (sintagma, cláusula, oración).
-	
-	\ipa{\textdoublevertline} Platero es pequeño \ipa{\textdownfullarrow
- \textvertline}  peludo \ipa{\textdownfullarrow
- \textvertline}  suave \ipa{\textdownfullarrow
- \textdoublevertline}
-
-
---SLIDE--
-
-###La entonación}
-
+- Cuando las variaciones en la altura no se utilizan para distinguir significados, como ocurre en la mayorías de las lenguas, se denomina **entonación**.
 
 - La entonación es la función lingüísticamente significativa, socialmente representativa e indidualmente expresiva de la frecuencia del fundamental en el nivel de la oración.
+
 - Distinguimos tres funciones distintas de la entonación:
 	
 	- nivel lingüístico
 	- nivel sociolingüístico
 	- nivel expresivo
-	
 
+--SUBSLIDE--
 
---SLIDE--
+### Funciones de la entonación
 
-###Función lingüística de la entonación}
+- Desde el pdv lingüístico, la entonación se utiliza con distintas funciones: p. ej. aclarar si el enunciado está completo o no.
 
-Hay función lingüística, distintiva, significativa, cuando la entonación opone un enunciado declarativo a uno interrogativo
-	
-	\it{Viene} \ipa{/biéne\textdownfullarrow/}, \it{¿Viene?} \ipa{/biéne\textupfullarrow/}
+- Decimos que la entonación cumple una función lingüística, distintiva, significativa, cuando sirve para oponer un enunciado declarativo a uno interrogativo.
 
+    - En los enunciados declarativos, la curva de entonación descende en su parte final.
+    
+        - *Aquí viene Pedro*, *John parked the car*.
 
-- En los enunciados declarativos, la curva de entonación descende en su parte final.
-	
-	\it{Aquí viene Pedro} \ipa{/akí biéne pédro\textdownfullarrow}/ 
+    - En los enunciados interrogativos absolutos (aquellos que esperan como respuesta un *sí* o un *no*, la curva de entonación es ascendente.
 
-	\it{Estuvieron esperando} \ipa{/estubiéro}N esperáNdo\ipa{\textdownfullarrow}/ 
-	
-- En los enunciados interrogativos absolutos (aquellos que esperan como respuesta un \it{sí} o un \it{no}), la curva de entonación es ascendente.
-	
-	\it{¿Viene Pedro?} \ipa{/biéne pédro\textupfullarrow}/ 
+        - *¿Viene Pedro?*, *Did John park the car?*
 
-	\it{¿Estuvieron esperando?} \ipa{/estubiéro}N esperáNdo\ipa{\textupfullarrow}/ 
+--SUBSLIDE--
 
-	
---SLIDE--
+- En los enunciados interrogativos pronominales (aquellas interrogativas formadas con elementos gramaticales como *qué, cuál, cómo, quién, cuánto, cuándo*, la entonación desciende en su parte final. 
 
-###Función lingüística de la entonación}
-	
+    - *¿Cuándo viene Pedro?*, *When has John parked the car?* 
 
-- En los enunciados interrogativos pronominales (aquellas interrogativas formadas con elementos gramaticales como \it{qué, cuál, cómo, quién, cuánto, cuándo}), la entonación desciende en su parte final. 
-	
-	Los pronombres interrogativos son los que llevan la marca de interrogación.
-	
-	\it{¿Cuándo vienes?} \ipa{/kuá}Ndo biénes\ipa{\textdownfullarrow}/ 
-
-	\it{¿Dónde vas?} \ipa{/dó}Nde bás\ipa{\textdownfullarrow}/ 
-
-	
---SLIDE--
-
-
-###Función lingüística de la entonación}
-
+    - *¿Dónde vas?*, *Where are you going?*
 
 - En las oraciones de relativo especificativas y explicativas, la entonación tiene una función delimitadora significativa:
 	
-	\it{Los alumnos que viven lejos llegan tarde} 
-	
-	/los alúNnos ke bíbeN léxos\ipa{\textupfullarrow} yégaN táRde\ipa{\textdownfullarrow}/ 
-	
-	\it{Los alumnos, que viven lejos, llegan tarde} 
-	
-	/los alúNnos\ipa{\textdownfullarrow} ke bíbeN léxos\ipa{\textupfullarrow} yégaN táRde\ipa{\textdownfullarrow}/ 
+    - *Los alumnos que viven lejos llegan tarde* frente a *Los alumnos, que viven lejos, llegan tarde*. 
+
+- Pero la entonación también tiene una función expresiva y sociolingüística.
 
 
---SLIDE--	
-	
-###Función lingüística de la entonación}
+--SUBSLIDE--
+
+### Longitud
+
+- En muchas lenguas, existen sonidos (tanto vocálicos como consonánticos), cuya articulación se mantiene durante más tiempo que otros sonidos.
+
+- En IPA, la longitud se marca con el signo [&#720;]
+
+- Y estas diferencias de **longitud** en los sonidos permite distinguir significados:
+
+    - En italiano, los pares *fato* ['fat&#596;] (hado) / *fatto* ['fat&#720;&#596;] (hecho) y *casa* ['kasa] (casa) / *cassa* ['kas&#720;a] (caja)
+    
+    - En inglés también existen diferencias entre vocales breves y largas, pero no se utiliza de manera distintiva para diferenciar significados:
+    
+        - *bit* [bɪt] (poco) y *beat* [bi&#720;t] (vencer)
+
+--SUBSLIDE--
+
+### Acento
 
 
-- Del mismo modo, al distinguir entre el estilo directo y el estilo indirecto, encontramos una función delimitadora significativa:
-	
-	\it{Juan pregunta quién va a entrar} 
-	
-	/xuáN \ipa{pregú}Nta kiéN bá a eNtráR\ipa{\textdownfullarrow/}
-	
-	\it{Juan pregunta: ¿quién va a entrar?} 
-	
-	/xuáN \ipa{pregú}Nta\ipa{\textdownfullarrow} kiéN bá a eNtráR\ipa{\textdownfullarrow/}
+- El acento pone de relieve una unidad lingüística (sílaba, morfema, palabra) para diferenciarla de otras unidades del mismo nivel.
 
+- Se manifiesta como un contraste entre unidades acentuadas y unidades inacentuadas.
+
+  
+--SUBSLIDE--
+
+### Relaciones sintagmáticas y paradigmáticas
+	
+- Según la lingüística estructural, el carácter lineal del signo lingüístico permite describir dos tipos de análisis simultáneos. 
+
+- En el eje horizontal, el **eje sintagmático** estudia la combinación de los diferentes elementos de la cadena hablada.
+	
+	 - los signos contrastan unos frente a otros.
+	  
+- En el eje vertical, el **eje paradigmático** estudia la selección de cada uno de los elementos entre todas las opciones que hubiesen podido ocupar una posición.
+	
+	- los signos se oponen unos a otros.
+	
+--SUBSLIDE--
+
+
+### Relaciones sintagmáticas y paradigmáticas
+	
+![Ejes sintagmántico y paradigmático](img/ejes-sintagmatico-paradigmatico.png) 
+ 
+
+--SUBSLIDE--
+
+###Función contrastiva del acento
+	
+- En el eje sintagmático, el acento sirve para poner de relieve las sílabas tónicas (o acentuadas) frente a las sílabas átonas (o inacentuadas) en una misma secuencia de elementos.
+
+- Y en general, el acento sirve para poner de relieve las palabras acentuadas (típicamente, sustantivos, adjetivos y verbos) frente a las no acentuadas (preposiciones, conjucciones, etc.)
+
+
+--SUBSLIDE--
+
+
+### Función distintiva del acento
+
+- En el eje paradigmático, el acento sirve para distinguir unidades de significado diferente:
+	
+	- Palabras oxítonas o agudas: habi**tó**
+	- Palabras paroxítonas o llanas: ha**bi**to
+	- Palabras proparoxítonas o esdrújulas: **há**bito
+	- Palabras superproparoxítonas o sobresdrújulas: **á**bremelo
+	
+
+--SUBSLIDE--
+
+
+### Función culminativa del acento
+
+- En una secuencia de palabras, el acento sirve para agrupar una serie de sílabas inacentuadas en torno a la sílaba central.
+
+    - *Y por si la mayo**rí**a lo re**suel**ve...*
+    
+    - *Y con la ca**mi**sa de **cua**dros...*
+
+
+--SUBSLIDE--
+
+### Palabras acentuadas y inacentuadas
+
+- Toda palabra aislada, sacada fuera de contexto, tiene una sílaba con mayor carga acentual.
+
+- Sin embargo ésto puede no ocurrir cuando esa palabra se encuentra en la cadena hablada.
+
+- En cadena hablada se perciben claramente las sílabas tónicas de determinadas palabras y las sílabas átonas del resto.
+
+- En español, una palabra tónica tiene una única sílaba tónica o acentuada que se realiza con mayor energía articulatoria.
+
+- En español solo hay un tipo de palabras con dos sílabas tónicas: los adverbios terminados en *-mente*: *miserablemente*, *solamente*
 
 
 --SLIDE--
 
-###Función lingüística de la entonación}
+###Fenómenos fonéticos motivados por la combinación de sonidos
 
+- Los sonidos no se producen aislados, sino en íntimo y sucesivo contacto los unos con los otros.
 
-- En ejemplos de enumeraciones, coordinaciones, enunciados parentéticos o subordinación, encontramos casos en los que la entonación desempeña una función delimitadora no significativa, pero imprescindible para la codificación e interpretación del mensaje:
+- Cuando hablamos procuramos obtener un resultado óptimo con el mínimo esfuerzo.
+
+--SUBSLIDE--
+
+### Asimilación
+
+- **asimilación**: modificación que sufre un sonido al adoptar parte de los rasgos articulatorios de otro sonido.
 	
-	\it{El caballo es fuerte, rápido y negro} 
+	- en castellano, los sonidos nasales en posición postnuclear adoptan rasgos articulatorios de los sonidos bilabiales, labiodentales, palatales o velares.
 	
-	\ipa{/el kabáyo és fué}Rte\ipa{\textdownfullarrow \=rápido\textupfullarrow i négro\textdownfullarrow/}
+	- en español y en inglés americano, las vocales que preceden sonidos nasales en posición postnuclear se nasalizan.
+
+
+
+--SUBSLIDE--
+
+- **Sonorización de consonantes sordas**: fenómeno de asimilación por el cual sonidos consonánticos inicialmente sordos se pronuncian sonorizados:
+
+    - En inglés, el morfema de plural se pronuncia [s] o [z] dependiendo de la sonoridad del sonido anterior.
+    
+        - *cats* [k&aelig;ts], *pops* [p&#596;ps], *pads* [p&aelig;dz] y *boys* [b&#596;&#618;z]
+
+    - En dialectos del sur de Italia, algunas consonantes se sonorizan en contacto con sonoras y entre vocales.
+    
+        - *ma cos'hai fatto?* se pronuncia como [m&#720;a '&#609;&#720;ozai 'f&#720;ad&#720;&#596;] en lugar de [ma 'k&#720;ozai 'fat&#720;&#596;]
+
+        - *non c'è nessuno* se pronuncia como [n&otilde;n 'd&#658;&#603; n&#720;e's&#720;uno] en lugar de [n&otilde;n 't&#643;&#603; ne's&#720;uno]
+    
+--SUBSLIDE--
+
+- **armonía vocálica**: fenómeno de asimilación a distancia que funciona a nivel morfológico. 
 	
-	\it{El caballo es fuerte, rápido, negro} 
+    - en turco o bantú, las vocales de la raíz determinan las vocales de los morfemas.
+    
+        - en turco, los pares de palabras *ev / evler* y *adam / adamlar*
+
+--SUBSLIDE--
+
+### Disimilación
+
+- La **disimilación** es el proceso opuesto a la asimilación. Es mucho más raro.
+
+- Consiste en la diferenciación artificial de dos sonidos de articulación similar con el objetivo de facilitar la articulación.
+
+    - En ingés, encontramos ejemplos en secuencias de tres sonidos fricativos: *fifths* se pronuncia [f&#618;fts] en lugar de  [f&#618;&theta;ts].
+    
+    - En kirundi, una lengua hablada en Burundi, la marcar de las formas verbales en infinitivo puede ser:
+    
+        - [ku] cuando la raíz del verbo comienza con un sonido sonoro.
+        - [&#609;u] cuando la raíz del verbo comienza por sonido sordo.
 	
-	\ipa{/el kabáyo és fué}Rte\ipa{\textdownfullarrow \=rápido\textdownfullarrow négro\textdownfullarrow/}
+--SUBSLIDE--
 
-	\it{¿Usa azul o negro?} 
+### Elimilación
 
-	\ipa{/úsa aTúl\textupfullarrow  o négro\textdownfullarrow/}
+- La **elimilación** es el proceso por el que un segmento de la cadena fónica desaparece completamente.
 
-	\it{¿Usa azul y negro?} 
-	
-	\ipa{/úsa y aTúl négro\textupfullarrow/}
+    - En ingés, se manifiesta otra vez en palabras como *fifths* que en contextos coloquiales o de habla espontánea rápida se pronuncia [f&#618;s] en lugar de  [f&#618;&theta;ts].
 
+    - En español, el caso más conocido es la eliminación de las dentales sonoras: *encantado* [&#7869;nk&atilde;n'tao], *estado* [es'tao], *partido* [par'tio], *Madrid* [ma'&delta;ri]
+
+--SUBSLIDE--
+
+### Otros fenómenos
+
+- La **reducción de vocales** consiste en centralizar la articulación de las vocales en sílabas átonas. 
+
+    - En inglés, las vocales atónas se tienden a reducir a [&#601;] e incluso desaparecen.  
+
+- La **epéntesis** consiste en la inserción de un segmento extra para facilitar la articulación de segmentos complicados.
+
+    - En español, es común introducir una *e* epentética en palabras como *stop* [es'top]. 
+    
+    - En japonés, es habitual introducir vocales en sílabas trabadas: *Madrid* [madu'ridu] 
+
+
+- La **metátesis** consiste en reordenar segmentos fónicos.
+
+    - En español, *croqueta* [ko'kreta] o *prescribir* [perskri'&beta;ir]. 
 
 --SLIDE--
 
-###Función sociolingüística de la entonación}
+### Referencias
 
-Desde el punto de vista sociolingüístico, la entonación comunica dos tipos de información:
-
-- la relacionada con el propio individuo: edad, sexo, temperamento, carácter.
-- la información propiamente sociolingüística que comunica las características del grupo al que pertenece el individuo: el origen geográfico, el medio social, el grado de instrucción. 
-
---SLIDE--
-
-###Función expresiva de la entonación}
-
-La entonación es uno de los vehículos más importantes de la expresión afectiva del discurso.
-
-
-- Las preguntas pronominales tienen habitualmente una entonación descendiente. 
-
-	\it{¿Por qué no me lo dices?} 
-	
-	/poR \ipa{ké nó me lo díTes\textdownfullarrow/}
-
-	\it{¿Cuánto cuesta?} 
-	
-	/kuáNto kuésta\ipa{\textdownfullarrow}/
-	
-- Pero pronunciadas con terminación ascendente se añade un matiz de cortesía. Usamos dos rasgos interrogativos distintos: el pronombre interrogativo y la entonación. 
-	
-	/poR \ipa{ké nó me lo díTes\textupfullarrow/}
-	
-	/kuáNto kuésta\ipa{\textupfullarrow}/
-
-
---SLIDE--
-
-###Función expresiva de la entonación}
-
-
-- La pregunta relativa se utiliza para cerciorarse de algo de lo que solo se tiene una idea.
-	
-	\it{¿Está contento?} 
-	
-	/está\ipa{\textupfullarrow} koNtéNto\ipa{\textdownfullarrow}/
-	
-- La pregunta confirmativa se caracteriza por la presencia de una palabra prácticamente lexicalizada como \it{no, verdad}.
-	
-	\it{Es bonita, ¿verdad?} 
-	
-	/és boníta\ipa{\textdownfullarrow} beRdáD\ipa{\textupfullarrow}/
-
-- Por último, la exclamación se caracteriza por un descenso muy acusado del fundamental desde la primera sílaba.
-	
-	\it{¡Qué vas a hacer!} 
-	
-	/\ipa{ké bás a aTé}R\ipa{\textdownfullarrow/}
-
-
-	
-
---SLIDE--
-
-###Referencias}
-
-
-- Hidalgo, A.; Quilis, M. *Fonética y fonología españolas (2ª edición)}. Tirant lo Blanch. 2004.
-- Quilis, A. *Principios de Fonología y Fonética Españolas (6ª edición)}. Arco Libros. 2005.
-- Yule, G. *El Lenguaje (3ª edición)}. Ediciones Akal. 2007.
-- Cuadro resumen con el Alfabeto Fonético Internacional (IPA, \it{International Phonetic Alphabet}): 
-	
-	\small{\texttt{http://es.wikipedia.org/wiki/Archivo:IPA\_chart\_2005.png}}
-	
-- Vídeos de producción de algunos sonidos en la web del \it{Speech Production and Articulation kNowledge Group @ USC}.\small{\href{http://sail.usc.edu/span/}{\texttt{http://sail.usc.edu/span/}}} 
-
-- Los sonidos del español, UIowa \small{\href{http://www.uiowa.edu/~acadtech/phonetics/spanish/frameset.html}{\texttt{http://www.uiowa.edu/~acadtech/phonetics/spanish/frameset.html}}}
-	
-
-	
---SLIDE--
-
-
-## Referencias
-
+- Hidalgo, A.; Quilis, M. *Fonética y fonología españolas (2ª edición)*. Tirant lo Blanch. 2004.
 - Hudson, G. *Introductory Linguistics*. Blackwell. 2006.
-
+- O'Grady, W., Dobrovolsky, M., Katmaba, F. *Contemporary Linguistics. An Introduction*. Addison Wesley Longman. 1998.
+- Quilis, A. *Principios de Fonología y Fonética Españolas (6ª edición)*. Arco Libros. 2005.
+- Yule, G. *El Lenguaje (3ª edición)*. Ediciones Akal. 2007.
 - Tusón Valls, J. *Introducción al lenguaje*. UOC. 2003.
 
-- O'Grady, W., Dobrovolsky, M., Katmaba, F. *Contemporary Linguistics. An Introduction*. Addison Wesley Longman. 1998.
+--SUBSLIDE--
 
-- Yule, G. *El lenguaje*. Ediciones AKAL. 2007. 
+- Cuadro interactivo con el [Alfabeto Fonético Internacional](http://www.yorku.ca/earmstro/ipa/index.html) (IPA, *International Phonetic Alphabet*): 
+	
+- [Vídeos de producción de algunos sonidos](http://sail.usc.edu/span/teaching.php) en la web del *Speech Production and Articulation kNowledge Group @ USC*.
 
+- Los [sonidos del español](http://www.uiowa.edu/~acadtech/phonetics/spanish/frameset.html), UIowa.
+	
 
