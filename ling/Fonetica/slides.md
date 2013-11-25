@@ -2,7 +2,7 @@
 
 ## Introducción a la Lingüística.
 
-Área de Lingüística, Fac. de Filología, UCM | 14/11/2013
+Área de Lingüística, Fac. de Filología, UCM | 14-22/11/2013
 
 Víctor Peinado | v.peinado@filol.ucm.es
 
@@ -816,10 +816,10 @@ Víctor Peinado | v.peinado@filol.ucm.es
 - Todos los sonidos (fonos) tienen ciertas características o **propiedades suprasegmentales o prosódicas** independientemente del lugar y del modo de articulación:
 
     - altura
-    
-    - acento
-    
+     
     - longitud 
+
+    - acento
 
 --SUBSLIDE--
 
@@ -839,7 +839,11 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - En chino mandarín, distinguimos significados empleando hasta cinco tonos diferentes:
     
-    - *mā* (madre), *má* (cáñamo), *mǎ* (caballo), *mà* (regañar), *ma* (particula interrogativa.)
+    - 1er tono: alto &rarr; *mā* (madre)
+    - 2ª tono: ascendente &rarr;  *má* (cáñamo)
+    - 3er tono: descendiente-ascendente &rarr; *mǎ* (caballo)
+    - 4ª tono: descendente &rarr; *mà* (regañar)
+    - 5ª tono: neutro &rarr; *ma* (particula interrogativa)
 
 --SUBSLIDE--
 
@@ -896,13 +900,13 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - En IPA, la longitud se marca con el signo [&#720;]
 
-- Y estas diferencias de **longitud** en los sonidos permite distinguir significados:
+- Y estas diferencias de **longitud** en los sonidos permite distinguir significados en algunas lenguas:
 
     - En italiano, los pares *fato* ['fat&#596;] (hado) / *fatto* ['fat&#720;&#596;] (hecho) y *casa* ['kasa] (casa) / *cassa* ['kas&#720;a] (caja)
     
-    - En inglés también existen diferencias entre vocales breves y largas, pero no se utiliza de manera distintiva para diferenciar significados:
+- En inglés también existen diferencias entre vocales breves y largas, pero no se utilizan de manera distintiva para diferenciar significados:
     
-        - *bit* [bɪt] (poco) y *beat* [bi&#720;t] (vencer)
+    - *bit* [bɪt] (poco) y *beat* [bi&#720;t] (vencer)
 
 --SUBSLIDE--
 
@@ -965,10 +969,10 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - En una secuencia de palabras, el acento sirve para agrupar una serie de sílabas inacentuadas en torno a la sílaba central.
 
-    - *Y por si la mayo**rí**a lo re**suel**ve...*
-    
-    - *Y con la ca**mi**sa de **cua**dros...*
-    
+- *Y por si la mayo**rí**a lo re**suel**ve...*
+
+- *Y con la ca**mi**sa de **cua**dros...*
+
 
 --SUBSLIDE--
 
@@ -999,7 +1003,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - **asimilación**: modificación que sufre un sonido al adoptar parte de los rasgos articulatorios de otro sonido.
 	
-	- en castellano, los sonidos nasales en posición postnuclear adoptan rasgos articulatorios de los sonidos bilabiales, labiodentales, palatales o velares.
+	- en español, los sonidos nasales en posición postnuclear adoptan rasgos articulatorios de los sonidos bilabiales, labiodentales, palatales o velares.
 	
 	- en español y en inglés americano, las vocales que preceden sonidos nasales en posición postnuclear se nasalizan.
 
@@ -1035,7 +1039,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Consiste en la diferenciación artificial de dos sonidos de articulación similar con el objetivo de facilitar la articulación.
 
-    - En ingés, encontramos ejemplos en secuencias de tres sonidos fricativos: *fifths* se pronuncia [f&#618;fts] en lugar de  [f&#618;&theta;ts].
+    - En inglés, encontramos ejemplos en secuencias de tres sonidos fricativos: *fifths* se pronuncia [f&#618;fts] en lugar de  [f&#618;f&theta;s].
     
     - En kirundi, una lengua hablada en Burundi, la marcar de las formas verbales en infinitivo puede ser:
     
@@ -1048,7 +1052,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - La **elimilación** es el proceso por el que un segmento de la cadena fónica desaparece completamente.
 
-    - En ingés, se manifiesta otra vez en palabras como *fifths* que en contextos coloquiales o de habla espontánea rápida se pronuncia [f&#618;s] en lugar de  [f&#618;&theta;ts].
+    - En inglés, se manifiesta otra vez en palabras como *fifths* que en contextos coloquiales o de habla espontánea rápida se pronuncia [f&#618;s] en lugar de  [f&#618;f&theta;s].
 
     - En español, el caso más conocido es la eliminación de las dentales sonoras: *encantado* [&#7869;nk&atilde;n'tao], *estado* [es'tao], *partido* [par'tio], *Madrid* [ma'&delta;ri]
 
@@ -1064,12 +1068,13 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
     - En español, es común introducir una *e* epentética en palabras como *stop* [es'top]. 
     
-    - En japonés, es habitual introducir vocales en sílabas trabadas: *Madrid* [madu'ridu] 
+    - En japonés, es habitual introducir vocales en sílabas trabadas: *Madrid* [mado'rido] 
 
 
 - La **metátesis** consiste en reordenar segmentos fónicos.
 
     - En español, *croqueta* [ko'kreta] o *prescribir* [perskri'&beta;ir]. 
+
 
 --SLIDE--
 
@@ -1089,5 +1094,5 @@ Víctor Peinado | v.peinado@filol.ucm.es
 - [Vídeos de producción de algunos sonidos](http://sail.usc.edu/span/teaching.php) en la web del *Speech Production and Articulation kNowledge Group @ USC*.
 
 - Los [sonidos del español](http://www.uiowa.edu/~acadtech/phonetics/spanish/frameset.html), UIowa.
-	
+
 
