@@ -458,7 +458,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
     - En español tenemos hasta diez sonidos fricativos que se oponen entre sí por el lugar de articulación y la acción del velo del paladar: bilabial [&beta;], labiodental [f], dental [&eth;], interdental [&theta;], alveolar [s] y [z], palatal [&#669;], velar [&#611;] y [x], y glotal [h].
     
-    - En las zonas de seseo, no existe el fonema [&theta;] y se sustituye por [s].
+    - En las zonas de seseo, no existe el sonido [&theta;] y se sustituye por [s].
 
 
 --SUBSLIDE--
@@ -512,7 +512,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - La aspiración es un fenómeno por el cual después de articular un sonido se libera aire extra.
 
-- Esta aspiración se transcribe fonéticamente como un [h] en superíndece: [&#688;].
+- Esta aspiración se transcribe fonéticamente como un [h] en superíndice: [&#688;].
 
     - En inglés, encontramos sonidos oclusivos aspirados en algunas realizaciones como *pat* [p&#688;], *tub* [p&#688;] y *kid* [p&#688;]. Esta aspiración no existe en las palabras *spat*, *stub* y *skid*.
 
@@ -541,7 +541,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
     - En español existen básicamente dos sonidos laterales: una variante alveolar [l] y otra palatal [&lambda;].
 	
-    - En inglés existen dos variantes alveolares: una sonora [l] y una sorda [&#620;].
+    - En inglés existen dos variantes alveolares: una sonora [l] y una ensordecida [l&#805;].
 
 --SUBSLIDE--
 
@@ -551,7 +551,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 	
 - En la realización de la lateral palatal, el ápice y los rebordes de la lengua se adhieren a la zona alveolar y a las encías superiores, dejando un canal por el que escapa el aire fonador.
 
-- La realización sorda de la líquida alveolar [&#620;] aparecen en algunos contextos del inglés como en las palabras *please* y *clear*.
+- La realización ensordecida de la líquida alveolar [l&#805;] aparecen en algunos contextos del inglés como en las palabras *please* y *clear*.
 
 --SUBSLIDE--
 
@@ -566,16 +566,17 @@ Víctor Peinado | v.peinado@filol.ucm.es
 ### Vibrantes 
 
 - La articulación de las consonantes **líquidas vibrantes** se caracteriza por poseer una o varias interrupciones breves durante la salida del aire, originadas por el cierre entre el ápice de la lengua y la zona alveolar o palata, o por la vibración de la úvula. 
-
 - El velo del paladar permanece adherido a la pared faríngea. 
 
 - Las cuerdas vocales vibran siempre: son sonoras.
+
+--SUBSLIDE--
 
 - En las lenguas del mundo existen muchos tipos de vibrantes.
 
     - En español existen dos sonidos vibrantes: uno múltiple [r] y otro simple [&#638;].
 	
-    - En inglés podemos encontrar hasta cinco tipos diferentes: dos alveolares, una sonora [r] y otra sorda [r], post-alveolar [&#633;], retroflexa [&#638;] y el aleteo alveolar sonoro o *flap* [&#638;].
+    - En inglés podemos encontrar hasta cinco tipos diferentes: dos alveolares, una sonora [r] y otra ensordecida [r&#805;], post-alveolar [&#633;], retroflexa [&#635;] y el aleteo alveolar sonoro o *flap* [&#638;].
 
 --SUBSLIDE--
 
@@ -629,9 +630,9 @@ Víctor Peinado | v.peinado@filol.ucm.es
     
 --SUBSLIDE--
 
-- Estos fonemas pueden aparecer tanto en posición atóna como tónica, y en posición inicial, media y final de palabra.
+- Estos sonidos pueden aparecer tanto en posición atóna como tónica, y en posición inicial, media y final de palabra.
 
-- En español, un fonema vocálico se realizará como vocal nasal entre dos consonantes nasales (*mano*) y antes de consonante nasal *entrar*).
+- En español, un sonido vocálico se realizará como vocal nasal entre dos consonantes nasales (*mano*) y antes de consonante nasal *entrar*).
 
 - En el resto de contextos, se realizará habitualmente como vocal oral: *pena*, *nota*.
 
@@ -777,7 +778,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
     - La palabra *viuda* tiene dos posibles pronunciaciones: ['bju&eth;a] y ['biu&eth;a]
 
-- La elección de un fonema u otro como núcleo dependerá del hablante, de la situación comunicativa o del dialecto.
+- La elección de un sonido u otro como núcleo dependerá del hablante, de la situación comunicativa o del dialecto.
 
 --SUBSLIDE--
 
