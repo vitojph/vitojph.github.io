@@ -157,18 +157,14 @@ Saussure distinguió dos aspectos fundamentales del lenguaje:
 - En español, /p/, /b/, /m/, /d/, /&theta;/, /s/, /l/, /&#638;/, /&#626;/, etc. son **fonemas distintos**.
 
 
---SUBSLIDE--
-
-### Pares mínimos
-
-
-
 
 --SLIDE--
 
 ### El fonema: definición
 
-- El fonema es la unidad lingüística más pequeña, desprovista de significado, formada por una haz simultáneo de rasgos distintivos (Quilis, 2005)
+- «El fonema es la unidad lingüística más pequeña, desprovista de significado, formada por una haz simultáneo de rasgos distintivos» (Quilis, 2005)
+
+- En español:
 
     - /p/: consonántico, oclusivo, bilabial, sordo
     - /t/: consonántico, oclusivo, dental, sordo
@@ -176,14 +172,13 @@ Saussure distinguió dos aspectos fundamentales del lenguaje:
     - /o/: vocálico, medio, posterior
 
 
---SLIDE--
-
+--SUBSLIDE--
 
 ### Algunas convenciones
 
 - Los alófonos, fonos o sonidos y las transcripciones fonéticas se representan siempre entre corchetes: 
 
-    - *lago* ['la&#611;o}], *mamá* [m&atilde;'ma]
+    - *lago* ['la&#611;o], *mamá* [m&atilde;'ma]
 
 - Los fonemas y la transcripción fonológica se representan siempre entre barras oblicuas: 
   
@@ -193,91 +188,114 @@ Saussure distinguió dos aspectos fundamentales del lenguaje:
 
     - *piso* ['piso] /'piso/
 
-- A
 
 --SLIDE--
 
-###Neutralización de una oposición fonológica
+### Neutralización de una oposición fonológica
 
 
--  La **neutralización} se produce cuando un oposición fonológica deja de ser pertinente en determinada posición de la cadena hablada.
--  En español, los fonemas vibrantes \ipa{/r/} y \ipa{/\=r/} forman una oposición en situación intervocálica prenuclear: (\it{pero/perro}, \it{coro/corro}). 
--  Sin embargo, esta oposición desaparece cuando el fonema aparece en posición postnuclear. Podemos pronunciar una palabra como \it{cortar} tanto \ipa{[kortár]} como \ipa{[ko\=rtá\=r]} sin que varíe el significado. 
--  En posición postnuclear ha desaparecido el carácter distintivo de la oposición: se ha **neutralizado}.
+-  La **neutralización** se produce cuando un oposición fonológica deja de ser pertinente en determinada posición de la cadena hablada.
+
+-  En español, los fonemas vibrantes /&#638;/ y /r/ forman una oposición en situación intervocálica prenuclear: (*pero/perro*, *coro/corro*). 
+
+-  Sin embargo, esta oposición desaparece cuando el fonema aparece en posición postnuclear. 
+
+    - Podemos pronunciar una palabra como *cortar* tanto [ko&#638;'ta&#638;] como [kor'tar] sin que varíe el significado. 
+
+    -  En posición postnuclear ha desaparecido el carácter distintivo de la oposición: se ha **neutralizado**.
+
+
+--SUBSLIDE--
+
+
+### El archifonema
+
+- El resultado de la neutralización es el **archifonema**.
+
+- Definimos el **archifonema** como un conjunto de rasgos distintivos comunes a los dos fonemas de la oposición neutralizada.
+
+- Los archifonemas se transcriben por medio de letras mayúsculas: transcribimos fonológicamente la palabra *cortar* como /koR'taR/
+
+
+--SUBSLIDE--
+
+### Español: neutralización de oclusivas en posición postnuclear
+
+- Al contrario de lo que ocurre en posición prenuclear, en posición postnuclear estos fonemas oclusivos crean muy pocas oposiciones: 
+
+    - *recta/repta*, *acto/apto*, *absorción/adsorción*, etc. 
+
+- La rentabilidad de estas oposiciones es muy baja. 
+
+- Por eso, las oposiciones /p/-/b/, /t/-/d/ y /k/-/g/ se neutralizan en posición postnuclear con los siguientes **archifonemas**:
+
+    -  /B/ archifonema resultante de la neutralización p/b
+    -  /D/ archifonema resultante de la neutralización t/d
+    -  /G/ archifonema resultante de la neutralización k/g
+
+
+--SUBSLIDE--
+
+
+### Español: neutralización de nasales en posición postnuclear
+
+- Los fonemas nasales funcionan como tales en posición prenuclear, pero cuando /m/ y /n/ se encuentran en posición postnuclear pierden sus rasgos distintivos y se neutralizan.
+
+- El resultado de dicha neutralización es el archifonema /N/ guardando como único rasgo común el de nasalidad.
+
+- Es habitual que se produzcan asimilaciones del fonema nasal al lugar de articulación con el sonido de la consonante siguiente.
+
+
+--SUBSLIDE--
+
+### Español: neutralización de vibrantes en posición postnuclear
+
+- Los fonemas vibrantes /&#638;/ y /r/ funcionan como tales en posición silábica prenuclear entre vocales en interior de palabra: 
+
+    - *pero/perro*, *caro/carro*, *coral/corral*, etc. 
+
+-  Sin embargo, en posición postnuclear, estos fonemas pueden realizarse con distintas tensiones /&#638;/ y /r/ sin que varíe el significado. 
+
+    - Podemos pronunciar *amar* indistintamente como [a'ma&#638;] o como [a'mar].
+
+- /R/ es el archifonema resultante de la neutralización entre /&#638;/ y /r/.
+
+- Ambas pronuncicaciones se representan fonológicamente como /a'maR/.
 
 
 --SLIDE--
 
+### Definición fonológica de una consonante
 
-###El archifonema}
+- En la descripción fonológica se tienen en cuenta solo los rasgos distintivos:
 
-
-    -  El resultado de la neutralización es el **archifonema}.
-    -  Definimos el **archifonema} como un conjunto de rasgos distintivos comunes a los dos fonemas de la oposición neutralizada.
-    -  Los archifonemas se transcriben por medio de letras mayúsculas: transcribimos fonológicamente la palabra \it{cortar} como \ipa{/ko}R\ipa{tá}R/
-
-
---SLIDE--
-
-###Neutralización de oclusivas en posición postnuclear}
-
-Al contrario de lo que ocurre en posición prenuclear, estos fonemas oclusivos crean muy pocas oposiciones: *recta/repta}, *acto/apto}, *absorción/adsorción}, etc. La rentabilidad de estas oposiciones es muy baja. 
-
-Por eso, las oposiciones \ipa{/p/}-\ipa{/b/}, \ipa{/t/}-\ipa{/d/} y \ipa{/k/}-\ipa{/g/} se neutralizan en posición postnuclear con los siguientes **archifonemas}:
+- /p/ fonema consonántico, oclusivo, bilabial, sordo
+- /g/ fonema consonántico, oclusivo, velar, sonoro
+- /n/ fonema consonántico, nasal, alveolar
 
 
-    -  /B/ archifonema resultante de la neutralización *-p / -b}
-    -  /D/ archifonema resultante de la neutralización *-t / -d}
-    -  /G/ archifonema resultante de la neutralización *-k / -g}
-
-
---SLIDE--
-
-
-###Neutralización de nasales en posición postnuclear}
-
-
-    -  Los fonemas nasales funcionan como tales en posición prenuclear, pero cuando \ipa{/m/} y \ipa{/n/} se encuentran en posición postnuclear pierden sus rasgos distintivos y se neutralizan.
-    -  El resultado de dicha neutralización es el archifonema /N/ guardando como único rasgo común el de nasalidad.
-    -  Es habitual que se produzcan asimilaciones del fonema nasal al lugar de articulación con el sonido de la consonante siguiente.
-
-
-###Neutralización de las vibrantes en posición postnuclear}
-
-
-    -  Los fonemas vibrantes \ipa{/r/} y \ipa{/\=r/} funcionan como tales en posición silábica prenuclear entre vocales en interior de palabra: *pero/perro}, *caro/carro}, *coral/corral}, etc. 
-
-    -  Sin embargo, en posición postnuclear, estos fonemas pueden realizarse con distintas tensiones \ipa{[r]} y \ipa{[\=r]} sin que varíe el significado. Podemos pronunciar \it{amar} indistintamente como \ipa{[amár]} o como \ipa{[amá\=r]}.
-
-    -  /R/ archifonema resultante de la neutralización \ipa{/r/} y \ipa{/\=r/}
-
-   - Ambas pronunicaciones, ya sea \ipa{[amár]} o \ipa{[amá\=r]}, se representan fonológicamente como \ipa{/amá}R/.
-
-
---SLIDE--
-
-###Definición fonológica de una consonante}
-
-En la descripción fonológica se tienen en cuenta solo los rasgos distintivos:
-
-
-    -  \ipa{/p/} fonema consonántico, oclusivo, bilabial, sordo
-    -  \ipa{/g/} fonema consonántico, oclusivo, velar, sonoro
-    -  \ipa{/n/} fonema consonántico, nasal, alveolar
-
-
---SLIDE--
+--SUBSLIDE--
 
 ### Definición fonética de una consonante
 
-En la descripción fonética se tienen en cuenta todas las características articulatorias:
+- En la descripción fonética se tienen en cuenta todas las características articulatorias:
 
+- [p] consonante oclusiva, bilabial, sorda, oral, alófono de /p/
 
-    -  \ipa{[p]} consonante oclusiva, bilabial, sorda, oral, alófono de \ipa{/p/}
-    -  \ipa{[G]} consonante fricativa, velar, sonora, oral, alófono de \ipa{/g/}
-    -  \ipa{[\textlhookn]} consonante nasal, alveolar, sonora, palatalizada, alófono de /N/
+- [&#611;] consonante fricativa, velar, sonora, oral, alófono de /g/
+
+- [n&#690;] consonante nasal, alveolar, sonora, palatalizada, alófono de /N/
 
 
 --SLIDE--
 
-### Referncias
+### Referencias
+
+- Hidalgo, A.; Quilis, M. *Fonética y fonología españolas (2ª edición)*. Tirant lo Blanch. 2004.
+- Hudson, G. *Introductory Linguistics*. Blackwell. 2006.
+- O'Grady, W., Dobrovolsky, M., Katmaba, F. *Contemporary Linguistics. An Introduction*. Addison Wesley Longman. 1998.
+- Quilis, A. *Principios de Fonología y Fonética Españolas (6ª edición)*. Arco Libros. 2005.
+- Yule, G. *El Lenguaje (3ª edición)*. Ediciones Akal. 2007.
+- Tusón Valls, J. *Introducción al lenguaje*. UOC. 2003.
+
+
