@@ -10,7 +10,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ### El signo lingüístico
 
-Ferdinand de Saussure definió el signo lingüístico como una entidad formada por dos elementos indisolubles:
+- Ferdinand de Saussure definió el signo lingüístico como una entidad formada por dos elementos indisolubles:
 
 - **significante** es la forma concreta y material de la señal *manzana*, entendida no solo como secuencia de sonidos, sino como *imagen acústica*.
 
@@ -21,7 +21,7 @@ Ferdinand de Saussure definió el signo lingüístico como una entidad formada p
 
 ### Lenguaje, lengua y habla
 
-Saussure distinguió dos aspectos fundamentales del lenguaje:
+- Saussure distinguió dos aspectos fundamentales del lenguaje:
 
 - **lengua**: modelo general y constante que está en la conciencia de todos los miembros de una colectividad lingüística. Es una abstracción que determina el proceso de comunicación humana. Es un fenómeno social. 
 
@@ -153,6 +153,12 @@ Saussure distinguió dos aspectos fundamentales del lenguaje:
     
     - Oclusivas aspiradas en inglés.
 
+    - [[l] y [r] en koreano](http://en.wikipedia.org/wiki/Korean_phonology#Positional_allophones).
+
+    - [e] ante las semiconsonantes anteriores (/j/, /ɥ/), [o] antes y después de /w/, y [ə] en el resto de casos.
+
+
+
 --SUBSLIDE--
 
 - **Variación libre** es la situación que se da entre un par de alófonos de un mismo fonema cuando son completamente intercambiables sin que afecte al significado.
@@ -160,6 +166,11 @@ Saussure distinguió dos aspectos fundamentales del lenguaje:
     - Vibrantes simple y múltiple en posición inicial de palabra en español.
     
     - Vocales orales y nasales ante consonante oral. 
+
+    - /ɻ/ y [ʐ] en chino mandarín.
+
+    - [r], [ʁ] y [ʀ] en alemán.
+
 
 --SUBSLIDE--
 
@@ -214,7 +225,6 @@ Saussure distinguió dos aspectos fundamentales del lenguaje:
 --SLIDE--
 
 ### Neutralización de una oposición fonológica
-
 
 -  La **neutralización** se produce cuando un oposición fonológica deja de ser pertinente en determinada posición de la cadena hablada.
 
@@ -283,6 +293,12 @@ Saussure distinguió dos aspectos fundamentales del lenguaje:
 - /R/ es el archifonema resultante de la neutralización entre /&#638;/ y /r/.
 
 - Ambas pronuncicaciones se representan fonológicamente como /a'maR/.
+
+--SUBSLIDE--
+
+### Neutralizaciones y archifonemas en otras lenguas
+
+- TODO
 
 
 --SLIDE--
