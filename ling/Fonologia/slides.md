@@ -111,7 +111,7 @@ Saussure distinguió dos aspectos fundamentales del lenguaje:
 
     - *beau* [b&#596;] frente a *bon* [b&#596;&#771;]
 
-    - *-* TODO *-* 
+    - *un bon vin blanc* [&#339;&#771; b&#596;&#771; v&#603;&#771; bl&#593;&#771;]
 
 
 
@@ -138,6 +138,28 @@ Saussure distinguió dos aspectos fundamentales del lenguaje:
 - A efectos comunicativos, lo interesante es percibir una consonante modelo como /b/. 
 
 - En español, todas estas realizaciones son **alófonos o variantes de un mismo fonema**.
+
+--SUBSLIDE--
+
+### Distribución de alófonos
+
+- Los alófonos se organizan en una **distribución no contrastiva**.
+
+- **Distribución complementaria** es la situación habitual que encontramos entre los alófonos de un mismo fonema: esta distribución de los alófonos viene determinada por el contexto de aparición.
+
+    - Vocales orales y nasalizadas en español e inglés.
+    
+    - Variantes oclusivas y fricativas de los fonemas /b/, /d/ y /g/ es español.
+    
+    - Oclusivas aspiradas en inglés.
+
+--SUBSLIDE--
+
+- **Variación libre** es la situación que se da entre un par de alófonos de un mismo fonema cuando son completamente intercambiables sin que afecte al significado.
+
+    - Vibrantes simple y múltiple en posición inicial de palabra en español.
+    
+    - Vocales orales y nasales ante consonante oral. 
 
 --SUBSLIDE--
 
@@ -289,6 +311,113 @@ Saussure distinguió dos aspectos fundamentales del lenguaje:
 
 --SLIDE--
 
+# Rasgos
+
+--SUBSLIDE--
+
+### Rasgos
+
+- Los segmentos pueden descomponerse en elementos todavía más pequeños: los **rasgos**.
+
+- Se trata de unidades subsegmentales y fonológicas, indivisibles.
+
+- Son las unidades básicas del análisis fonológico.
+
+--SUBSLIDE--
+
+- Como vimo en Fonética, los seres humanos producimos sonidos del habla coordinando una serie de actividades articulatorias: posición de la lengua, vibración de las cuerdas vocales, posición del velor del paladar, redondeo de labios, etc.
+
+- Al utilizar rasgos como unidades mínimas tratamos de modelar estas actividades articulatorias.
+ 
+- Cada rasgo codifica uno de estos aspectos independientes de la producción del habla.
+
+--SUBSLIDE--
+
+### Rasgos de clase o principales
+
+- [+/- silábico]: el segmento funciona como núcleo silábico
+
+- [+/- consonático]: hay constricción del tracto bucal
+
+- [+/- aproximante]: es vocal, semivocal o líquida
+
+- [+/- sonorante]: constricción oral del tracto bocal: vocales, semivocales, líquidas y nasales
+
+
+--SUBSLIDE--
+
+### Rasgos de laringalización
+
+- [+/- sonoro]: vibración de las cuerdas vocales.
+
+- [+/− glotis extendida] sonidos aspirados. 
+
+- [+/− constricción glotal] constricción glotal, las cuerdas vocales se aprietan una contra otra.
+
+
+--SUBSLIDE--
+
+### Rasgos de modo de articulación
+
+- [+/− continuante] no hay obstrucción significativa de la corriente de aire.
+
+- [+/− nasal] posición del velo del paladar.
+
+- [+/− estridente] se aplica solamente obstruyentes que producen un tipo de fricción más ruidosa que lo usual. Esta estridencia está causada por un ruido blanco de alta energía.
+
+- [+/− lateral] designa la forma y posicionamiento de la lengua con respecto al tracto bucal.
+
+- [+/− relajación retardada] distingue a las africadas de las oclusivas.
+
+
+
+--SUBSLIDE--
+
+### Rasgos de lugar de articulación
+
+- [LABIAL] segmentos que se articulan con la intervención de los labios (bilabiales y labiodentales).
+
+    - [+/− redondeado] sonidos articulados redondeando los labios.
+
+- [CORONAL] segmentos que se articulan con el ápice o la lámina de la lengua 
+
+    - [+/− anterior] segmentos que se articulan con la parte delantera de la lengua dirigida hacia los alveolos.
+
+    - [+/− distribuido] la zona en contacto con la lengua está extendida a lo largo de cierta distancia en la boca.
+
+--SUBSLIDE--
+
+- [DORSAL] sonidos que se articulan elevando el dorso de la lengua: vocales y consonantes palatales, velares y uvulares. 
+
+    - [+/− alto] segmentos articulados con el dorso de la lengua cercano al paladar.
+
+    - [+/− bajo] segmentos articulados con la lengua en una posición baja.
+
+    - [+/- posterior] segmentos articulados con el dorso retraído ligeramente hacia la parte posterior de la boca.
+
+    - [+/- tenso] posición adelantada de la raíz de la lengua.
+
+--SUBSLIDE--
+
+- [RADICAL] sonidos articulados con la raíz de la lengua: faringales y epiglotales.
+
+- [LARINGAL] sonidos puramente laringales que no involucran a la lengua para nada: glotales.
+
+
+--SUBSLIDE--
+
+- Para definir el fonema /p/, usamos una [matriz de rasgos](http://idiom.ucsd.edu/~bakovic/grad-phonology/stuff/pdf/PhonChart_v1102.pdf) rasgos como:
+
+    - [+consonántico], [-silábico], [-sonorante], [-nasal], [-continua], [-estridente], [-lateral], [-relajación retardada], [-sonoro], [-glotis extendida], [-contricción glotal], [LABIAL], [-redondo]
+
+
+- Para definir el fonema /o/, empleamos los rasgos:
+
+    - [-consonántico], [+silábico], [+sonorante], [-nasal], [+continua], [-estridente], [-lateral], [-relajación retardada], [+sonoro], [-glotis extendida], [-contricción glotal], [LABIAL], [+redondo], [DORSAL], [-alta], [-baja], [+posterior], [+tensa]
+
+
+--SLIDE--
+
 ### Referencias
 
 - Hidalgo, A.; Quilis, M. *Fonética y fonología españolas (2ª edición)*. Tirant lo Blanch. 2004.
@@ -297,5 +426,7 @@ Saussure distinguió dos aspectos fundamentales del lenguaje:
 - Quilis, A. *Principios de Fonología y Fonética Españolas (6ª edición)*. Arco Libros. 2005.
 - Yule, G. *El Lenguaje (3ª edición)*. Ediciones Akal. 2007.
 - Tusón Valls, J. *Introducción al lenguaje*. UOC. 2003.
+- [Matriz de rasgos fonológicos](http://idiom.ucsd.edu/~bakovic/grad-phonology/stuff/pdf/PhonChart_v1102.pdf)
+
 
 
