@@ -2,7 +2,7 @@
 
 ## Introducción a la Lingüística.
 
-Área de Lingüística, Fac. de Filología, UCM | 28/11/2013
+Área de Lingüística, Fac. de Filología, UCM | 28-29/11/2013
 
 Víctor Peinado | v.peinado@filol.ucm.es
 
@@ -351,39 +351,39 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ### Rasgos de clase o principales
 
-- [+/- silábico]: el segmento funciona como núcleo silábico
+- [+/- silábico]: el segmento funciona como núcleo silábico.
 
-- [+/- consonático]: hay constricción del tracto bucal
+- [+/- consonático]: hay constricción del tracto vocal.
 
-- [+/- aproximante]: es vocal, semivocal o líquida
+- [+/- aproximante]: hay aproximación entre los órganos sin interrumpir totalmente la corriente de aire: vocal, semiconsonantes o líquida
 
-- [+/- sonorante]: constricción oral del tracto bocal: vocales, semivocales, líquidas y nasales
+- [+/- sonorante]: sin turbulenia en el fujo del aire al atravesar el tracto vocal: vocales, semiconsonantes, líquidas y nasales
 
 
 --SUBSLIDE--
 
 ### Rasgos de laringalización
 
-- [+/- sonoro]: vibración de las cuerdas vocales.
+- [+/- sonoro]: hay vibración de las cuerdas vocales.
 
-- [+/− glotis extendida] sonidos aspirados. 
+- [+/− glotis extendida]: hay aspiración. 
 
-- [+/− constricción glotal] constricción glotal, las cuerdas vocales se aprietan una contra otra.
+- [+/− constricción glotal]: hay constricción glotal, las cuerdas vocales se aprietan una contra otra.
 
 
 --SUBSLIDE--
 
 ### Rasgos de modo de articulación
 
-- [+/− continuante] no hay obstrucción significativa de la corriente de aire.
+- [+/− continuante]: no hay obstrucción significativa de la corriente de aire: sonorantes y fricativas.
 
-- [+/− nasal] posición del velo del paladar.
+- [+/− nasal]: posición del velo del paladar.
 
-- [+/− estridente] se aplica solamente obstruyentes que producen un tipo de fricción más ruidosa que lo usual. Esta estridencia está causada por un ruido blanco de alta energía.
+- [+/− estridente]: se aplica solamente a obstruyentes que producen un tipo de fricción más ruidosa que lo usual. Esta estridencia está causada por un ruido blanco de alta energía.
 
-- [+/− lateral] designa la forma y posicionamiento de la lengua con respecto al tracto bucal.
+- [+/− lateral]: designa la forma y posicionamiento de la lengua con respecto al tracto vocal.
 
-- [+/− relajación retardada] distingue a las africadas de las oclusivas.
+- [+/− relajación retardada]: distingue a las africadas de las oclusivas.
 
 
 
@@ -391,33 +391,33 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ### Rasgos de lugar de articulación
 
-- [LABIAL] segmentos que se articulan con la intervención de los labios (bilabiales y labiodentales).
+- [LABIAL]: segmentos que se articulan con la intervención de los labios (bilabiales y labiodentales).
 
-    - [+/− redondeado] sonidos articulados redondeando los labios.
+    - [+/− redondeado]: sonidos articulados redondeando los labios.
 
-- [CORONAL] segmentos que se articulan con el ápice o la lámina de la lengua 
+- [CORONAL]: segmentos que se articulan con el ápice o la lámina de la lengua 
 
-    - [+/− anterior] segmentos que se articulan con la parte delantera de la lengua dirigida hacia los alveolos.
+    - [+/− anterior]: segmentos que se articulan con la parte delantera de la lengua dirigida hacia los alveolos.
 
-    - [+/− distribuido] la zona en contacto con la lengua está extendida a lo largo de cierta distancia en la boca.
-
---SUBSLIDE--
-
-- [DORSAL] sonidos que se articulan elevando el dorso de la lengua: vocales y consonantes palatales, velares y uvulares. 
-
-    - [+/− alto] segmentos articulados con el dorso de la lengua cercano al paladar.
-
-    - [+/− bajo] segmentos articulados con la lengua en una posición baja.
-
-    - [+/- posterior] segmentos articulados con el dorso retraído ligeramente hacia la parte posterior de la boca.
-
-    - [+/- tenso] posición adelantada de la raíz de la lengua.
+    - [+/− distribuido]: la zona en contacto con la lengua está extendida a lo largo de cierta distancia en la boca.
 
 --SUBSLIDE--
 
-- [RADICAL] sonidos articulados con la raíz de la lengua: faringales y epiglotales.
+- [DORSAL]: sonidos que se articulan elevando el dorso de la lengua: vocales y consonantes palatales, velares y uvulares. 
 
-- [LARINGAL] sonidos puramente laringales que no involucran a la lengua para nada: glotales.
+    - [+/− alto]: segmentos articulados con el dorso de la lengua cercano al paladar.
+
+    - [+/− bajo]: segmentos articulados con la lengua en una posición baja.
+
+    - [+/- posterior]: segmentos articulados con el dorso retraído ligeramente hacia la parte posterior de la boca.
+
+    - [+/- tenso]: posición adelantada de la raíz de la lengua.
+
+--SUBSLIDE--
+
+- [RADICAL]: sonidos articulados con la raíz de la lengua: faringales y epiglotales.
+
+- [LARINGAL]: sonidos puramente laringales que no involucran a la lengua para nada: glotales.
 
 
 --SUBSLIDE--
