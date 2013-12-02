@@ -64,13 +64,13 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ### Unidades de análisis fonológico
 
-- La Fonología estudia cómo interactuan tres tipos distintos de unidades para determinar cuáles son los patrones de los sonidos.
+- La Fonología estudia cómo interactúan tres tipos distintos de unidades para determinar cuáles son los patrones de los sonidos.
 
     - El **rasgo** es el elemento mínimo de información fonológica y se corresponde con una característica articulatoria o acústica: [sonoro], [estridente], [alta], [posterior] 
 
     - El flujo del habla puede dividirse en **segmentos** o sonidos individuales del habla: [p], [t], [o].
 
-    - La **sílaba** es una unidad de estructura língüística formada por un núcleo silábico (habitualmente, un segmento vocálico) y otros elementos opcionales que podían aparecer antes y después: [a] - [be] - [dul]
+    - La **sílaba** es una unidad de estructura lingüística formada por un núcleo silábico (habitualmente, un segmento vocálico) y otros elementos opcionales que podían aparecer antes y después: [a] - [be] - [dul]
 
 
 --SUBSLIDE--
@@ -149,13 +149,13 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
     - Vocales orales y nasalizadas en español e inglés.
     
-    - Variantes oclusivas y fricativas de los fonemas /b/, /d/ y /g/ es español.
+    - Variantes oclusivas y fricativas de los fonemas /b/, /d/ y /g/ en español.
     
     - Oclusivas aspiradas en inglés.
 
-    - [[l] y [r] en koreano](http://en.wikipedia.org/wiki/Korean_phonology#Positional_allophones).
+    - [Alófonos posicionales](http://en.wikipedia.org/wiki/Korean_phonology#Positional_allophones) en coreano.
 
-    - [e] ante las semiconsonantes anteriores (/j/, /ɥ/), [o] antes y después de /w/, y [ə] en el resto de casos.
+    - [Vocales medias](http://en.wikipedia.org/wiki/Modern_Standard_Chinese_phonology#Vowels) en chino mandarín.
 
 
 
@@ -167,9 +167,9 @@ Víctor Peinado | v.peinado@filol.ucm.es
     
     - Vocales orales y nasales ante consonante oral. 
 
-    - /ɻ/ y [ʐ] en chino mandarín.
+    - [&#635;] y [&#656;] en chino mandarín.
 
-    - [r], [ʁ] y [ʀ] en alemán.
+    - [r], [&#640;] y [&#641;] en alemán.
 
 
 --SUBSLIDE--
@@ -251,24 +251,6 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
-### Español: neutralización de oclusivas en posición postnuclear
-
-- Al contrario de lo que ocurre en posición prenuclear, en posición postnuclear estos fonemas oclusivos crean muy pocas oposiciones: 
-
-    - *recta/repta*, *acto/apto*, *absorción/adsorción*, etc. 
-
-- La rentabilidad de estas oposiciones es muy baja. 
-
-- Por eso, las oposiciones /p/-/b/, /t/-/d/ y /k/-/g/ se neutralizan en posición postnuclear con los siguientes **archifonemas**:
-
-    -  /B/ archifonema resultante de la neutralización p/b
-    -  /D/ archifonema resultante de la neutralización t/d
-    -  /G/ archifonema resultante de la neutralización k/g
-
-
---SUBSLIDE--
-
-
 ### Español: neutralización de nasales en posición postnuclear
 
 - Los fonemas nasales funcionan como tales en posición prenuclear, pero cuando /m/ y /n/ se encuentran en posición postnuclear pierden sus rasgos distintivos y se neutralizan.
@@ -292,13 +274,40 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - /R/ es el archifonema resultante de la neutralización entre /&#638;/ y /r/.
 
-- Ambas pronuncicaciones se representan fonológicamente como /a'maR/.
+- Ambas pronunciaciones se representan fonológicamente como /a'maR/.
+
+--SUBSLIDE--
+
+### Español: neutralización de oclusivas en posición postnuclear
+
+- Al contrario de lo que ocurre en posición prenuclear, en posición postnuclear estos fonemas oclusivos crean muy pocas oposiciones: 
+
+    - *recta/repta*, *acto/apto*, *absorción/adsorción*, etc. 
+
+- La rentabilidad de estas oposiciones es muy baja. 
+
+- Por eso, las oposiciones /p/-/b/, /t/-/d/ y /k/-/g/ se neutralizan en posición postnuclear con los siguientes **archifonemas**:
+
+    -  /B/ archifonema resultante de la neutralización p/b
+    -  /D/ archifonema resultante de la neutralización t/d
+    -  /G/ archifonema resultante de la neutralización k/g
+
+
 
 --SUBSLIDE--
 
 ### Neutralizaciones y archifonemas en otras lenguas
 
-- TODO
+- En ruso, las vocales /a/ y /o/ contrastan en sílabas tónicas, pero en sílabas átonas se neutralizan y se pronuncian de manera reducida como [&#601;]. En estos casos, ambos fonemas se neutralizan en /A/.
+
+- En  inglés, los fonemas nasales normalmente contrastan /m, n, &#331;/ excepto si aparecen en posición postnuclear ante oclusiva /p, t, k/. En estos casos, dichos fonemas se neutralizan en /N/. 
+
+    - Palabras como *limp*, *lint* y *link* pueden representarse fonológicamente como /lɪNp/, /lɪNt/, /lɪNk/.
+    
+- También en inglés, la transformación de las oclusivas post-alveolares en flap hace que se neutralicen en /D/.
+
+    - Palabras como *betting* y *bedding* son homófonas, se pronuncian como [ˈb&#603;&#638;&#618;&#331;] y su representación fonológica puede ser /ˈb&#603;D&#618;&#331;/.
+
 
 
 --SLIDE--
@@ -341,7 +350,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
-- Como vimo en Fonética, los seres humanos producimos sonidos del habla coordinando una serie de actividades articulatorias: posición de la lengua, vibración de las cuerdas vocales, posición del velor del paladar, redondeo de labios, etc.
+- Como vimos en Fonética, los seres humanos producimos sonidos del habla coordinando una serie de actividades articulatorias: posición de la lengua, vibración de las cuerdas vocales, posición del velo del paladar, redondeo de labios, etc.
 
 - Al utilizar rasgos como unidades mínimas tratamos de modelar estas actividades articulatorias.
  
@@ -353,11 +362,11 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - [+/- silábico]: el segmento funciona como núcleo silábico.
 
-- [+/- consonático]: hay constricción del tracto vocal.
+- [+/- consonántico]: hay constricción del tracto vocal.
 
 - [+/- aproximante]: hay aproximación entre los órganos sin interrumpir totalmente la corriente de aire: vocal, semiconsonantes o líquida
 
-- [+/- sonorante]: sin turbulenia en el fujo del aire al atravesar el tracto vocal: vocales, semiconsonantes, líquidas y nasales
+- [+/- sonorante]: sin turbulencia en el flujo del aire al atravesar el tracto vocal: vocales, semiconsonantes, líquidas y nasales
 
 
 --SUBSLIDE--
@@ -424,12 +433,12 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Para definir el fonema /p/, usamos una [matriz de rasgos](http://idiom.ucsd.edu/~bakovic/grad-phonology/stuff/pdf/PhonChart_v1102.pdf) rasgos como:
 
-    - [+consonántico], [-silábico], [-sonorante], [-nasal], [-continua], [-estridente], [-lateral], [-relajación retardada], [-sonoro], [-glotis extendida], [-contricción glotal], [LABIAL], [-redondo]
+    - [+consonántico], [-silábico], [-sonorante], [-nasal], [-continua], [-estridente], [-lateral], [-relajación retardada], [-sonoro], [-glotis extendida], [-constricción glotal], [LABIAL], [-redondo]
 
 
 - Para definir el fonema /o/, empleamos los rasgos:
 
-    - [-consonántico], [+silábico], [+sonorante], [-nasal], [+continua], [-estridente], [-lateral], [-relajación retardada], [+sonoro], [-glotis extendida], [-contricción glotal], [LABIAL], [+redondo], [DORSAL], [-alta], [-baja], [+posterior], [+tensa]
+    - [-consonántico], [+silábico], [+sonorante], [-nasal], [+continua], [-estridente], [-lateral], [-relajación retardada], [+sonoro], [-glotis extendida], [-contrición glotal], [LABIAL], [+redondo], [DORSAL], [-alta], [-baja], [+posterior], [+tensa]
 
 
 --SLIDE--
@@ -444,5 +453,9 @@ Víctor Peinado | v.peinado@filol.ucm.es
 - Tusón Valls, J. *Introducción al lenguaje*. UOC. 2003.
 - [Matriz de rasgos fonológicos](http://idiom.ucsd.edu/~bakovic/grad-phonology/stuff/pdf/PhonChart_v1102.pdf)
 
+-- SUBSLIDE--
 
+- [Korean Phonology](http://en.wikipedia.org/wiki/Korean_phonology)
+- [Modern Standard Chines Phonolgy](http://en.wikipedia.org/wiki/Modern_Standard_Chinese_phonology)
+- [Neutralization and archiphonemes](http://en.wikipedia.org/wiki/Phoneme#Neutralization_and_archiphonemes)
 
