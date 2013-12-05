@@ -12,6 +12,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ## Qué son y cómo se forman
 
+--SLIDE--
 
 ### Etimología
 
@@ -19,9 +20,9 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Cuando se examina la etimología de las palabras, se advierte rápidamente que es posible incorporar nuevas palabras a una determinada lengua a través de diversas formas. 
 
-- La incorporación de nuevas palabras se realiza lentamente a lo largo el tiempo. Todas las incorporaciones suelen considerarse durante un timpo barbarismos.
+- La incorporación de nuevas palabras se realiza lentamente a lo largo el tiempo. Todas las incorporaciones suelen considerarse durante un tiempo *barbarismos* y como tal son criticadas.
 
-- No debemos criticar estos procesos como si se tratase de una degradación de la lengua, sino como un signo de vitalidad de las lenguas. Cualquier idioma se va remodelando para ajustarse a las necesidades de sus hablantes.
+- No debemos entendar estos procesos como si produjesen una degradación de la lengua, sino como un signo de vitalidad. Cualquier idioma se va remodelando para ajustarse a las necesidades de sus hablantes.
 
 
 --SLIDE--
@@ -47,32 +48,32 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Una de las formas más comunes de introducir un nuevas palabras en un idioma es tomarlas prestadas de otras lenguas.
     
-- germánico y alemán: *sable, blanco, espuela, guante, guerra, cobalto, cuarzo, obús, zepelín*, etc.
+    - germánico y alemán: *sable, blanco, espuela, guante, guerra, cobalto, cuarzo, obús, zepelín*, etc.
 
-- árabe: *alcohol, alcalde, almohada, guitarra, zanahoria*, etc.
+    - árabe: *alcohol, alcalde, almohada, guitarra, zanahoria*, etc.
     
-- francés: *cruasán, chalet, amateur, chófer, jamón*, etc.
+    - francés: *cruasán, chalet, amateur, chófer, jamón*, etc.
     
-- italiano: *piano, batuta, soneto, novela, violín*, etc.
+    - italiano: *piano, batuta, soneto, novela, violín*, etc.
 
-- americanismos: *chocolate, tiburón, jaguar, hamaca, canoa*, etc.
+    - americanismos: *chocolate, tiburón, jaguar, hamaca, canoa*, etc.
 
-- inglés: *bistec, fútbol, gol, chutar, aparcar, hobby*, etc.
+    - inglés: *bistec, fútbol, gol, chutar, aparcar, hobby*, etc.
 
-- turco: *yogurt*
+    - turco: *yogurt*
     
-- bantú: *cebra*
+    - bantú: *cebra*
     
-- checo: *robot*
+    - checo: *robot*
 
 
 --SUBSLIDE--
 
-- De manera similar, encontramos ejemplos de otras lenguas han incorporado préstamos provenientes del castellano:
+- De manera similar, encontramos ejemplos de otras lenguas que han incorporado préstamos provenientes del español:
     
     - *cigarro* ha pasado al francés como *cigare*, al italiano como *sigaro* o al inglés como *cigar*.
     
-- Por razones de prestigio evidentes, muchas lenguas han tomado préstamos provenientes del inglés.
+- Por razones de prestigio evidentes, muchas lenguas toman préstamos provenientes del inglés.
     
     - Las palabras japonesas *suupaa*/*suupaamaaketto*, *taipuraitaa* o *boyifurendo*. 
 
@@ -84,9 +85,9 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Un tipo especial de préstamo es el **calco**, que consiste en una traducción literal de los elementos de una palabra de una determinada lengua a la lengua que la toma prestada.
 
-    - *skyscraper* ha pasado como calco al castellano (*rascacielos*), al francés (*gratteciel*), al holandés (*wolkenkrabber*) o al alemán (*Wolkenkratzer*).
+    - la palabra *skyscraper* ha pasado como calco al español (*rascacielos*), al francés (*gratteciel*), al holandés (*wolkenkrabber*) o al alemán (*Wolkenkratzer*).
     
-- En castellano, *superhombre* es un calco que ha llegado a través del inglés *superman*, que a su vez lo tomó como calco del alemán *Übermensch*.
+- En español, *superhombre* es un calco que ha llegado a través del inglés *superman*, que a su vez lo tomó como calco del alemán *Übermensch*.
 
 
 --SLIDE--
@@ -110,14 +111,14 @@ Víctor Peinado | v.peinado@filol.ucm.es
 - La **mezcla** es otro el proceso de creación de nuevas palabras a partir de la combinación de dos formas independientes.
 
 - A diferencia de lo que ocurre en la composición, en la mezcla se combinan partes de palabras y no palabras completas.
-	
+
     - *smog* como mezcla de *smoke* + *fog*.
 
 	- *brunch* como mezcla de *breakfast* + *lunch*.
 
 	- *motel* como mezcla de *motor* + *hotel*.
-
-    - *Chunnel* como mezcla de *tunnel* + *Channel*.
+	
+	- *Chunnel* como mezcla de *tunnel* + *Channel*.
 
 	- *infotainment* como mezcla de *information* + *entertaiment*.
 
@@ -147,11 +148,19 @@ Víctor Peinado | v.peinado@filol.ucm.es
 	
 - Su formación es muy común en inglés británico y australiano, donde se forman recortando las palabras a una sílaba y añadiendo las terminaciones -y o -ie.
 
-	Ejemplos: 
+    - *movie* proviene de *moving pictures* 
+    
+    - *telly* proviene de *television* 
+    
+    - *barbie* proviene de *barbecue* 
+    
+    - *aussie* proviene de *Australian* 
+    
+    - *brekky* proviene de *breakfast* 
+    
+    - *bookie* proviene de *book maker*
 	
-	*movie} proviene de *moving pictures}, *telly} proviene de *television}, *barbie} proviene de *barbecue}, *aussie} proviene de *Australian}, *brekky} proviene de *breakfast}, *bookie} proviene de *book maker}, etc.
-	
-- Otros ejemplos típicos de hipocorísticos son las reducciones en los nombres propios de persona: *Toni, Cris, Eli, Mari, Juli}, etc.
+- Otros ejemplos típicos de hipocorísticos son las reducciones en los nombres propios de persona: *Toni, Cris, Eli, Mari, Juli*, etc.
 
 
 --SLIDE--
@@ -181,13 +190,22 @@ Víctor Peinado | v.peinado@filol.ucm.es
 	
 - Este proceso se conoce también con la denominaciones de **cambio de categoría** o **cambio funcional**.
 
-    - *chair, vacation*, originariamente sustantivo, se puede utilizar como verbo: *Who's chairing the meeting?*, *I'm vacationing in Ibiza*.
+    - *chair, vacation*, originariamente sustantivo, se puede utilizar como verbo: 
+    
+        - *Who's chairing the meeting?*, *I'm vacationing in Ibiza*.
 	
-	- *must, guess*, originariamente verbos, se pueden utilizar como sustantivos: *This book is a must*.
 
-	- *print out, take over, want to be*, originariamente verbos, se pueden utilizar como sustantivos:  *He's just a wannabe*.
+--SUBSLIDE--
+
+- *must, guess*, originariamente verbos, se pueden utilizar como sustantivos: 
 	
-- En castellano, el único ejemplo similar es el verbo *concienciar(se)}, formado por conversión a partir de *conciencia*.
+	- *This book is a must*.
+
+- *print out, take over, want to be*, originariamente verbos, se pueden utilizar como sustantivos:  
+	
+	- *He's just a wannabe*.
+	
+- En español, el único ejemplo similar es el verbo *concienciar(se)*, formado por conversión a partir de *conciencia*.
 
 --SLIDE--
 
@@ -197,7 +215,11 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - En algunos acrónimos se opta por pronunciarlos como palabras únicas: *OTAN, UNED, RENFE*.
 	
-- Otros acrónimos son tan habituales que incluso se escriben con letras minúsculas: *láser* proviene de *light amplification by stimulated emision of radiation*, *radar* proviene de *radio detecting and ranging*, *pin* proviene de *personal identification number*.
+- Otros acrónimos son tan habituales que incluso se escriben con letras minúsculas: 
+
+    - *láser* proviene de *light amplification by stimulated emision of radiation*
+    - *radar* proviene de *radio detecting and ranging*
+    - *pin* proviene de *personal identification number*.
 
 --SLIDE--
 
@@ -231,32 +253,40 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Existe un tercer tipo de afijos que aparecen en mitad de la palabra y se denominan **infijos**.
 
-- Son muy comunes en algunas lenguas, aunque en castellano su uso es limitado. Existen algunos ejemplos: *-ad-* en *pan**ad**ero*, *-ic-* en *carn**ic**ero*, *-l-* en *cafe*l*ito*.
+- Son muy comunes en algunas lenguas, aunque en español su uso es limitado. 
 
-- En inglés, los infijos tampoco son comunes: *Absofuckinglutly*, *Hallebloodylujah*.
+    - Existen algunos ejemplos: *-ad-* en *pan**ad**ero*, *-ic-* en *carn**ic**ero*, *-l-* en *cafe*l*ito*.
+
+- En inglés, los infijos tampoco son comunes: 
+
+    - *Absofuckinglutly*, *Hallebloodylujah*.
+
+--SUBSLIDE--
 
 - Otras lenguas como el kamhmu proporcionan mejores ejemplos:
 	
-	*see* (*taladrar*) &rarr; *s**rn**ee* (*un taladro*) 
+	- *see* (*taladrar*) &rarr; *s**rn**ee* (*un taladro*) 
 	
-	*toh* (*cincelar*) &rarr; *t**rn**oh* (*un cincel*) 
+	- *toh* (*cincelar*) &rarr; *t**rn**oh* (*un cincel*) 
 	
-	*hiip* (*comer con cuchara*) &rarr; *h**rn**iip* (*una cuchara*) 
+	- *hiip* (*comer con cuchara*) &rarr; *h**rn**iip* (*una cuchara*) 
 
 --SLIDE--
 
 ### Procesos múltiples en la creación de palabras
 
-- Es común encontrar más evidencias de que más de unos de los procesos explicados anteriormente actúan de forma simultánea en la creación de una palabra.
+- Es común encontrar ejemplos de creación de palabras en los que varios procesos diferentes actúan de forma simultánea.
 	
-- *deli* en inglés amerciano fue originariamente un préstamo del alemán *delicatessen* que se redujo por apócope
+    - *deli* en inglés amerciano fue originariamente un préstamo del alemán *delicatessen* que se redujo por apócope
 
-- En la frase *Problems have snowballed*, *snowball* era originariamente una palabra compuesta que sufrió una conversión para utilizarse como verbo.
+    - En la frase *Problems have snowballed*, *snowball* era originariamente una palabra compuesta que sufrió una conversión para utilizarse como verbo.
 
 
 --SLIDE--
 
-# Morfología: las palabras y los morfemas
+# Morfología
+
+## Las palabras y los morfemas
 
 --SLIDE--
 
@@ -264,159 +294,168 @@ Víctor Peinado | v.peinado@filol.ucm.es
 ### La palabra
 
 
-- La palabra `palabra' puede parecer precisa para las necesidades ordinarias, pero resulta tremendamente ambigua cuando tratamos de analizar palabras a distintos niveles lingüísticos.
-- A un nivel general, podemos distinguir entre unidades genéricas abstractas (**palabra-tipo}) o unidades de texto o de discurso (**palabra-ocurrencia}).
+- La palabra *palabra* puede parecer precisa para las necesidades ordinarias, pero resulta tremendamente ambigua cuando tratamos de analizar palabras a distintos niveles lingüísticos.
+
+- A un nivel general, podemos distinguir entre unidades genéricas abstractas (**palabra-tipo/type**) o unidades de texto o de discurso (**palabra-ocurrencia/token**).
+
+    - La oración *La casa de Pedro es más bonita que la casa de Juan* tiene 12 palabras-ocurrencia pero solo 9 palabras-tipo.
+
+- Desde el punto de vista fonológico, la palabra /'po&#669;o/ para un yeísta o /'sieNto/ para un hablante que sesee, representan dos palabras distintas cada una: *pollo/poyo* y *ciento/siento*. 
+
+--SUBSLIDE--
 	
-	La oración *La casa de Pedro es más bonita que la casa de Juan} tiene 12 palabras-ocurrencia pero solo 9 palabras-tipo.
-- Desde el punto de vista fonológico, la palabra \ipa{/póyo/} para un yeísta o \ipa{/sié}N\ipa{to/} para un hablante que sesee, representan dos palabras distintas cada una: *pollo/poyo} y *ciento/siento}. 
+- En francés, la palabra fonológica /&#643;&atilde;'t&#603;/ equivale a hasta seis palabras ortográficas distintas: *chantais, chantait, chantaient, chanter, chanté, chantée*.
 
---SLIDE--
-	
-### La palabra}
-
-
-- En francés, la palabra fonológica \ipa{/S\=a"tE/} equivale a varias palabras ortográficas distintas: *chantais, chantait, chantaient, chanter, chanté, chantée}.
 - A su vez, se corresponden con otras tantas palabras gramaticales: 1ª, 2ª y 3ª pers. sing. y 3ª pers. plur. del pret. imperf. de indicativo, pero también infinitivo, part. pasado, etc.
-- A cierto nivel de abstracción, podemos entender estas palabras gramaticales como variantes de una misma unidad, un mismo **lexema}, que identificamos como el verbo *chanter}. De hecho, es este representante canónico el que suele aparecer como entrada en los diccionarios.
+
+- A cierto nivel de abstracción, podemos entender estas palabras gramaticales como variantes de una misma unidad, un mismo **lexema**, que identificamos como el verbo *chanter*. 
+
+- De hecho, es este representante canónico el que suele aparecer como entrada en los diccionarios.
 	
 
+--SUBSLIDE--
 
---SLIDE--
+- Por lo tanto, podemos distinguir diferentes sentidos para la palabra *palabra*:
 
-### La palabra}
-
-Por lo tanto, podemos distinguir diferentes sentidos para la palabra `palabra':
-
-
-- palabra-tipo o palabra-ocurrencia
-- palabra fonológica u ortográfica
-- palabra gramatical, representada por la palabra ortográfica o fonológica
-- lexema, o unidad abstracta que se representa bajo diferentes formas fonológicas u ortográficas
+    - palabra-tipo o palabra-ocurrencia
+    - palabra fonológica u ortográfica
+    - palabra gramatical, representada por la palabra ortográfica o fonológica
+    - lexema, o unidad abstracta que se representa bajo diferentes formas fonológicas u ortográficas
 
 	
 
---SLIDE--
+--SUBSLIDE--
 
-### La palabra}
+- En swahili, la idea de palabra difiere bastante de la que tenemos en español, ya que una palabra como *nitakupenda* se correponde con varias palabras en nuestra lengua *yo te querré*. 
 
-
-- En swahili, la idea de palabra difiere bastante de la que tenemos en castellano, ya que una palabra como *nitakupenda} se correponde con varias palabras en nuestra lengua `yo te querré'. 
-
-
-\begin{center}
-\begin{tabular}{l l l l l}
-swahili: ni & -ta-  & -ku- & -penda\\
-& & & & \\
-español: yo & -rré & te & querer\\
-\end{tabular}
-\end{center}
+    - *ni*: *yo* (pron. de 1ª pers. sing. SUJ)
+    - *-ta-*: (tiempo futuro)
+    - *-ku-*: *te* (pron. de 2ª pers. sing. CD) 
+    - *-penda*: *querer*
 
 
 --SLIDE--
 
-### Morfemas}
-
+### Morfemas
 
 - No necesitamos recurrir a lenguas distantes para descubir que las palabras está formadas por varios elementos.
-- En las palabas *cantas, cantante, cantaba, cantando} podemos identificar un elemento constante *cant-} y distintos elementos como *-as, -ante, -aba, -ando}.
-- Todos estos elementos son **morfemas}.
-- El **morfema} se define como ``la unidad mínima de significado o función gramatical''. 
+
+    - En las palabas *cantas, cantante, cantaba, cantando* podemos identificar un elemento constante *cant-* y distintos elementos como *-as, -ante, -aba, -ando*.
+
+- Todos estos elementos son **morfemas**.
+
+- El **morfema** se define como *la unidad mínima de significado o función gramatical*. 
+
 - La función gramatical es la que nos permite indicar el plural o el tiempo presente.
 
 
---SLIDE--
+--SUBSLIDE--
 
-### Morfemas}
-
-
-- En la palabra *reabrirá} de la oración *La policía reabrirá el caso} podemos identificar tres morfemas.
+- En la palabra *reabrirá* de la oración *La policía reabrirá el caso* podemos identificar tres morfemas.
 	
-	Una unidad mínima de significado *abrir}, otra unidad mínima de significado *re-} que significa ``de nuevo'' y otra unidad mínina con función gramatical *-rá} que indica tercera persona del singular y tiempo futuro. 
+    - una unidad mínima de significado *abrir*;
+    - otra unidad mínima de significado *re-* que significa *de nuevo*; y 
+    - otra unidad mínina con función gramatical *-rá* que indica 3ª pers. sing. y tiempo futuro. 
 	
-- En la palabra *paneras} también podemos identificar tres morfemas distintos.
+--SUBSLIDE--
+
+- En la palabra *paneras* también podemos identificar tres morfemas distintos.
 	
-	Una unidad mínima de significado *pan}, otra unidad mínima de significado *-era} que significa ``relativo a'' y una tercera unidad con función gramatical *-s} que indica número plural.
+    - una unidad mínima de significado *pan*;
+    - otra unidad mínima de significado *-era* que significa *relativo a*; y 
+    - una tercera unidad con función gramatical *-s* que indica número plural.
 
 
---SLIDE--
+--SUBSLIDE--
 
-### La morfología}
-
-La morfología se ocupa de las unidades gramaticales dotadas de significado o morfemas. Como disciplina, se ocupa principalmente de:
-
-
-- determinar cuáles son las unidades morfológicas.
-- estudiar las distintas variaciones que adoptan estas unidades.
-- estudiar la disposición de las unidades morfológicas para formar unidades superiores como la palabra.
-- representar el conocimiento que un hablante tiene de cómo se organizan los morfemas para formar palabras
-
-
---SLIDE--
-
-
-### Morfemas libres y morfemas ligados}
-
-A partir de los ejemplos anteriores, podemos distinguir dos tipos principales de morfemas:
-
-
-- Los **morfemas libres} son aquellos que pueden aparecer como palabras independientes, como *pan}. 
+- En la palabra *disabling* también podemos identificar tres morfemas distintos.
 	
-	Podemos considerar a los morfemas libres como el conjunto de las palabras individuales del castellano: los sustantivos, adjetivos, verbos, etc. básicos. 
-- Los **morfemas ligados} son aquellos que no pueden aparecer de forma independiente y necesitan concatenarse con otros elementos, *re-, -era, -s}. 
-	
-	Los morfemas ligados son los afijos (prefijos, sufijos e infijos).
-
+    - una unidad mínima de significado *dis* que permite crear antónimos;
+    - otra unidad mínima de significado *-able* que significa *capaz*; y 
+    - una tercera unidad con función gramatical *-ing* que indica gerundio o participio presente.
 
 --SLIDE--
 
-### Morfemas léxicos y morfemas funcionales}
+### La morfología
 
-Podemos dividir los morfemas libres en dos tipos:	
+- La **morfología** se ocupa de las unidades gramaticales dotadas de significado o morfemas. 
 
+- Como disciplina, se ocupa principalmente de:
 
-- Los **morfemas léxicos} son los nombres, adjetivos y verbos comunes que consideramos habitualmente como portadores del ``contenido'' de los mensajes.
-	
-	Como ejemplos podemos mencionar *chico, árbol, azul, feliz, abrir, romper}.
-	
-	Dado que siempre podemos incluir nuevos morfemas léxicos a una lengua, decimos que los morfemas léxicos constituyen una clase ``abierta'' de palabras. 
-
---SLIDE--
-
-%-% TODO: explicar qué son las raíces 
-
-### Morfemas léxicos y morfemas funcionales}
-
-
-- Los **morfemas funcionales o gramaticales} son las palabras funcionales de la lengua como preposiciones, artículos, conjunciones y pronombres.
-	
-	Como ejemplos podemos mencionar *contra, cerca, cuando, el, la, que, y}.
-	
-	Dedibo a que nunca se pueden incluir nuevos morfemas gramaticales a una lengua, decimos que éstos constituyen una clase ``cerrada'' de palabras. 
-	
-
---SLIDE--
-
-### Morfemas derivativos y morfemas flexivos}
-
-El conjunto de los afijos o morfemas ligados puede dividirse en dos grupos:
-
-- Los **morfemas derivativos} se utilizan para formar nuevas palabras o para generar palabras de una categorías diferente a la de la raíz.
-	
-	Al añadir el morfema derivativo *-ción} a un verbo como *donar} obtenemos el sustantivo *donación}. 
-	
-	De un modo similar, el morfema derivativo *-oso} se combina con el sustantivo *calor} para formar el adjetivo *caluroso}.
-	
-	Una lista de morfemas derivativos en castellano incluiría sufijos como *-al, -mente, -miento} o prefijos como *re-, pre-, ex-, dis-, in-}. 
+    - determinar cuáles son las unidades morfológicas.
+    
+    - estudiar las distintas variaciones que adoptan estas unidades.
+    
+    - estudiar la disposición de las unidades morfológicas para formar unidades superiores como la palabra.
+    
+    - representar el conocimiento que un hablante tiene de cómo se organizan los morfemas para formar palabras.
 
 
 --SLIDE--
 
-### Morfemas derivativos y morfemas flexivos}
+### Morfemas libres y morfemas ligados
 
+- A partir de los ejemplos anteriores, podemos distinguir dos tipos principales de morfemas.
+
+- Los **morfemas libres** son aquellos que pueden aparecer como palabras independientes, como *pan*. 
+
+    - Podemos considerar a los morfemas libres como el conjunto de las palabras individuales del español: los sustantivos, adjetivos, verbos, etc. básicos. 
+    
+- Los **morfemas ligados** son aquellos que no pueden aparecer de forma independiente y necesitan concatenarse con otros elementos, *re-, -era, -s* en español, o *-s, *-ing* o *-ed* en inglés.
+
+    - Los morfemas ligados son los afijos (prefijos, sufijos e infijos).
+
+
+--SLIDE--
+
+### Morfemas léxicos y morfemas funcionales
+
+- Podemos dividir los morfemas libres en dos tipos:	
+
+- Los **morfemas léxicos** son los nombres, adjetivos y verbos comunes que consideramos habitualmente como portadores del *contenido* de los mensajes.
+
+    - *chico, árbol, azul, feliz, abrir, romper*.
+
+    - *boy, tree, blue, happy, open, break*.
+
+- Dado que siempre podemos incluir nuevos morfemas léxicos a una lengua, decimos que los morfemas léxicos constituyen una *clase abierta* de palabras. 
+
+--SUBSLIDE--
+
+- Los **morfemas funcionales o gramaticales** son las palabras funcionales de la lengua como preposiciones, artículos, conjunciones y pronombres.
+	
+    - *contra, cerca, cuando, el, la, que, y*.
+
+    - *against, by, when, the, who, or*.
+	
+- Debido a que nunca se pueden incluir nuevos morfemas gramaticales a una lengua, decimos que éstos constituyen una *clase cerrada* de palabras. 
+	
+
+--SLIDE--
+
+### Morfemas derivativos y morfemas flexivos
+
+- El conjunto de los afijos o morfemas ligados puede dividirse en dos grupos.
+
+- Los **morfemas derivativos** se utilizan para formar nuevas palabras o para generar palabras de una categorías diferente a la de la raíz.
+
+    - Al añadir el morfema derivativo *-ción* a un verbo como *donar* obtenemos el sustantivo *donación*. 
+	
+	- De un modo similar, el morfema derivativo *-oso* se combina con el sustantivo *calor* para formar el adjetivo *caluroso*.
+	
+- Una lista de morfemas derivativos en español incluiría sufijos como *-al, -mente, -miento* o prefijos como *re-, pre-, ex-, dis-, in-*. 
+
+- Una lista de morfemas derivativos en inglés incluiría sufijos como *-al, -ly, -less* o prefijos como *re-, pre-, ex-, dis-, un-*. 
+
+--SUBSLIDE--
 
 - Los **morfemas flexivos** no se utilizan generalmente para formar nuevas palabras, sino para indicar diversos aspectos de la función gramatical de una palabra: número (singular o plural), género (masculino o femenino), tiempo (presente, pasado o futuro), o si se trata de una forma superlativa.
 
-- En inglés sólo existen ocho morfemas flexivos, pero el castellano es una lengua mucho más rica en este sentido.
+- En inglés sólo existen ocho morfemas flexivos
+
+    - I wish**ed** I was watch**ing** the tall**est** tree**s**.
+
+- El español es una lengua mucho más rica en este sentido.
 	
     - Quier**o** dec**ir** alg**o** sobre l**as** herman**as** de Montse.
     
@@ -425,9 +464,7 @@ El conjunto de los afijos o morfemas ligados puede dividirse en dos grupos:
     - Beatriz **era** inteligent**ísima**: prefer**ía** estudi**ar** y siempre le**ía**.	
 
 
---SLIDE--
-
-### Morfemas derivativos y morfemas flexivos
+--SUBSLIDE--
 
 - A partir de los ejemplos anteriores, podemos deducir que hay determinados morfemas flexivos que se combinan con:
 
@@ -440,61 +477,49 @@ El conjunto de los afijos o morfemas ligados puede dividirse en dos grupos:
     - El sufijo de número (*-s*) parece ser común.
 
 	
-Es preciso recordar que los morfemas flexivos presentan mucha variabilidad. P. ej., la marca de plural puede indicarse con *-s, -es* y la tercera persona del singular en presente puede ser *-a, -e*.
+- Es preciso recordar que los morfemas flexivos presentan mucha variabilidad. 
+
+    - P. ej., la marca de plural puede indicarse con *-s, -es* y la tercera persona del singular en presente puede ser *-a, -e*.
 
 --SLIDE--
 
-### Morfemas derivativos y morfemas flexivos}
-
-Observamos distintas diferencias importantes entre morfemas derivativos y flexivos:
-
+- Observamos distintas diferencias importantes entre morfemas derivativos y flexivos:
 
 - Un morfema flexivo nunca cambia la categoría de la palabra.
 	
-	En inglés, el adjetivo *old} combinado con el morfema *-er} simplemente forma una nueva versión del adjetivo: *older}.
+	En inglés, el adjetivo *old* combinado con el morfema *-er* simplemente forma una nueva versión del adjetivo: *older*.
 	 
 - Un morfema derivativo puede cambiar la categoría de la palabra. 
 	
-	En inglés, el verbo *teach} combinado con el morfema *-er} forma un nuevo sustantivo *teacher}.
+	En inglés, el verbo *teach* combinado con el morfema *-er* forma un nuevo sustantivo *teacher*.
 	
-	%El hecho de que ambos morfemas tengan la misma forma *-er} no quiere decir que desempeñen la misma función. De hecho, cada uno proviene de una forma distinta del inglés antiguo, pero han evolucionado a la misma forma. 
+- El hecho de que ambos morfemas tengan la misma forma *-er* no quiere decir que desempeñen la misma función. De hecho, cada uno proviene de una forma distinta del inglés antiguo, pero han evolucionado a la misma forma. 
+
+
+--SLIDE--
+
+### Tipos de morfemas
 
 - Cuando una misma palabra contiene tanto morfemas derivativos como flexivos siempre aparecen en este orden.
 
-	
+- morfemas
+    - libres
+        - léxicos
+        - funcionales
+    - ligados
+        - derivativos
+        - flexivos
+
+
 --SLIDE--
 
-### Tipos de morfemas}
 
-\Tree [.morfemas [.libres [.léxicos ] [.funcionales ]] [.ligados [.derivativos ] [.flexivos ]]]
+### Descripción morfológica
 
---SLIDE--
+- La oración *La buenísima actuación de la corredora emocionó a sus entrenadores* contiene 21 morfemas.
 
+- *La* (func.) buen-* (léx.) *-ísim-* (flex.) *-a* (flex.) & *actua-* (léx.) *-ción* (deriv.) *de* (func.) *la* (func.) *corr-* (léx.) *-ed-* (deriv.) *-or-* (deriv.) *-a* (flex.) *emocion-* (léx.) *-ó* (flex.) *a* (func.) *su-* (func.) *-s* (flex.) *entren-* (léx.) *-ad- (deriv.) *-or-* (deriv.) *-es* (flex.)
 
-### Descripción morfológica}
-
-La oración *La buenísima actuación de la corredora emocionó a sus entrenadores* contiene 21 morfemas.
-
-\vspace{0.3cm}
-
-\begin{center}
-\begin{tabular}{l l l l l}
-*La} & *buen-} & *-ísim-} & *-a} & *actua-} \\
-funcional & léxico & flexivo & flexivo & léxico \\
-& & & & \\
-*ción} & *de} & *la} & *corr-} & *-ed-} \\
-derivativo & funcional & funcional & léxico & derivativo \\
-& & & & \\
-*-or} & *-a} & *emocion-} & *-ó} & *a} \\
-derivativo & flexivo & léxico & flexivo & funcional \\
-& & & & \\
-*su-} & *-s} & *entren} & *-ad-} & *-or-} \\
-funcional & flexivo & léxico & derivativo & derivativo \\
-& & & & \\
-*-es} & & & &  \\
-flexivo & & & &  \\
-\end{tabular}
-\end{center}
 
 --SLIDE--
 
@@ -502,9 +527,9 @@ flexivo & & & &  \\
 
 - Hasta ahora, solo hemos considerado ejemplos de palabras en las que los distintos morfemas se pueden identificar fácilmente como elementos discretos.
 
-- Existen problemas significativos en el análisis de la morfología en castellano.
+- Existen problemas significativos en el análisis de la morfología en español.
 
-- ¿Cuál es el morfema flexivo que indica el plural en castellano de *crisis* o hace que *men* sea el plural de *man* en inglés?
+- ¿Cuál es el morfema flexivo que indica el plural en español de *crisis* o hace que *men* sea el plural de *man* en inglés?
 
 - ¿Cuál es el morfema flexivo que hace de la palabra *fui* el pasado el verbo *ir*?
 
@@ -517,46 +542,39 @@ flexivo & & & &  \\
 
 - Una posible solución para analizar las diferencias entre los distintos morfemas flexivos consiste en proponer variaciones en las reglas de formación morfológica, adoptando la analogía que hemos visto en fonología.
 
-- Del mismo modo que teníamos **fonos}, que eran la realización fonética real de los fonemas, ahora podemos hablar de **morfos} y definirlos como las formas utilizadas realmente a la hora de generar morfemas.
+- Del mismo modo que teníamos **fonos**, que eran la realización fonética concretas de los fonemas, ahora podemos hablar de **morfos** y definirlos como las formas utilizadas realmente a la hora de generar morfemas.
 
-- Del mismo modo que en fonología hablábamos de alófonos como las distintas realizaciones fonética de un mismo fonema, en morfología podemos hablar de **alomorfos} como las distintas versiones de un mismo morfema.
+- Del mismo modo que en fonología hablábamos de **alófonos** como las distintas realizaciones fonética de un mismo fonema, en morfología podemos hablar de **alomorfos** como las distintas versiones de un mismo morfema.
 
+
+--SUBSLIDE--
+
+- En español, el morfema que indica el plural tiene tres alomorfos.
+	
+    - *casas*: *casa* + plural = *-s*
+    - *camiones*: *camión* + plural = *-es*
+    - *crisis*: *crisis* + plural = &empty;
+
+- En la primera persona del pretérito perfecto simple del español encontramos los siguiente alomorfos: 
+
+    - *amé*: *amar* + 1ª pers. sing pps = *-é*
+    - *temí*: *temer* + 1ª pers. sing pps = *-í*
+    - *fui*: *ir* + 1ª pers. sing pps = *fuí*
+
+- En inglés, en el ejemplo *man/men* se ha producido un cambio vocálico /&aelig;/ &rarr; /e/ que se correspondería con un morfo que da lugar a este ejemplo de plural irregular.
 
 --SLIDE--
 
+### El morfema &empty; (nulo)
 
-### Morfos y alomorfos}
+- El morfema de tiempo en español puede indicarse como *-ba, -ra, -ía*. El morfema de persona, se indica como *-s*. Pero puede darse el caso en el que el morfema no se manifieste: el presente *cant+&empty;+a*.
 
-En castellano, el morfema que indica el plural tiene tres alomorfos.
+- Si el morfema que aparece como &empty; nunca se manifiesta de otra forma, entonces no es legítimo proponerlo como morfema &empty;. 
 	
-
-- *casas}: *casa} + plural = *-s}
-- *camiones}: *camion} + plural = *-es}
-- *crisis}: *crisis} + plural = $\varnothing$
-
-
-En la primera persona del pretérito perfecto simple del castellano encontramos los siguiente alomorfos: 
-
-
-- *amé}: *amar} + 1ª pers. sing pps = *-é}
-- *temí}: *temer} + 1ª pers. sing pps = *-í}
-- *fui}: *ir} + 1ª pers. sing pps = *fuí}
-
-
-En inglés, en el ejemplo *man/men} se ha producido un cambio vocálico \ipa{/\ae/} $\rightarrow$ \ipa{/E/} que se correspondería con un morfo que da lugar a este ejemplo de plural irregular.
-
---SLIDE--
-
-### El morfema $\varnothing$ (nulo)
-
-
-- El morfema de tiempo en castellano puede indicarse como *-ba, -ra, -ía}. El morfema de persona, se indica como *-s}. Pero puede darse el caso en el que el morfema no se manifieste: el presente *cant+$\varnothing$+a}.
-- Si el morfema que aparece como $\varnothing$ nunca se manifiesta de otra forma, entonces no es legítimo proponerlo como morfema $\varnothing$. 
+    - El singular en español no tiene representante morfológico, por lo tanto no puede hablarse de morfema &empty;. 
 	
-	El singular en castellano no tiene representante morfológico, por lo tanto no puede hablarse de morfema $\varnothing$. 
-	
-	El morfema de género en castellano se suele manifestar como (*moz-o, moz-a}), pero también existe en la forma de morfema $\varnothing$: *señor+$\varnothing$}  
-- Este morfema $\varnothing$ es la forma de decir que un cierto morfema no tiene contenido expreso. 
+    - El morfema de género en español se suele manifestar como (*moz-o, moz-a*), pero también existe en la forma de morfema &empty;: *señor+&empty;*  
+- Este morfema &empty; es la forma de decir que un cierto morfema no tiene contenido expreso. 
 
 	
 
@@ -564,85 +582,70 @@ En inglés, en el ejemplo *man/men} se ha producido un cambio vocálico \ipa{/\a
 
 ### Análisis morfológicos en otras lenguas
 
-Cuando analizamos morfológicamente otras lenguas podemos encontrar formas y patrones que podríamos explicar a patir de las categorías básicas de morfemas que hemos visto para el castellano.
+- Cuando analizamos morfológicamente otras lenguas podemos encontrar formas y patrones que podríamos explicar a patir de las categorías básicas de morfemas que hemos visto para el español.
 
-\begin{center}
-\begin{tabular}{l l l l}
-*dark-} `oscuro' & *-en-} `hacer' & *-ed} `pasado' & *darkened} `oscureció' \\
-léxico & derivativo & flexivo & \\
-& & & \\
-*mic-} `morir' & *-tia-} `causar' & *-s} `futuro' & *mictias} `matará' \\
-léxico & derivativo & flexivo & \\
-& & & \\
-\end{tabular}
-\end{center}
+    - En inglés, *dark-* (oscuro) *-en-* (hacer) *-ed* (tiempo pasado &rarr; *darkened* (oscureció)
 
---SLIDE--
+    - En azteca, *mic-* (morir) *-tia-* (causar) *-s* (tiempo futuro) &rarr; *mictias* (matará)
 
-### Análisis morfológicos en otras lenguas
 
-El canurí es una lengua hablada en Nigeria.
+--SUBSLIDE--
 
-\begin{center}
-\begin{tabular}{l l}
-Adjetivo & Sustantivo \\
-*karite} `excelente' & *n\ipa{@}mkarite} `excelencia'\\
-*kura} `grande' & *n\ipa{@}mkura} `grandeza'\\
-*gana} `pequeño' & *n\ipa{@}mgana} `pequeñez'\\
-*dibi} `malo' & *n\ipa{@}mdibi} `maldad'\\
-\end{tabular}
-\end{center}
+### canurí (lengua hablada en Nigeria)
 
-En conclusión, si en canurí *n\ipa{@}mkurugu} significa `longitud', `largo' se dirá \pause *kurugu}. \\
 
---SLIDE--
+| adjetivo             | sustantivo |
+|:--------------------:|:---------------------:       |
+| *karite* (excelente) | *n&#601;mkarite* (excelencia)|
+| *kura* (grande)      | *n&#601;mkura* (grandeza)    |
+| *gana* (pequeño)     | *n&#601;mgana* (pequeñez)    |
+| *dibi* (malo)        | *n&#601;mdibi* (maldad)      |
 
-### Análisis morfológicos en otras lenguas
+- En conclusión, si en canurí *n&#601;mkurugu* significa *longitud*, *largo* se dirá *kurugu*.
 
-El ganda es una lengua hablada en Uganda.
+
+--SUBSLIDE--
+
+- El ganda es una lengua hablada en Uganda.
 
 \begin{center}
 \begin{tabular}{l l}
-Singular & Plural \\
-*omusawo} `doctor' & *abasawo} `doctores'\\
-*omukazi} `mujer' & *abakazi} `mujeres'\\
-*omuwala} `chica' & *abawala} `chicas'\\
-*omusika} `heredero' & *abasika} `herederos'\\
+Singular & Plural |
+*omusawo} `doctor' & *abasawo} `doctores'|
+*omukazi} `mujer' & *abakazi} `mujeres'|
+*omuwala} `chica' & *abawala} `chicas'|
+*omusika} `heredero' & *abasika} `herederos'|
 \end{tabular}
 \end{center}
 
-En conclusión, si en ganda *abalenzi} significa `chicos', `chico' se dirá \pause *omulenzi}. \\
+En conclusión, si en ganda *abalenzi* significa `chicos', `chico' se dirá \pause *omulenzi}. |
 
---SLIDE--
+--SUBSLIDE--
 
-### Análisis morfológicos en otras lenguas
-
-El ilocano es una lengua hablada en Filipinas que presenta una forma completamente diferente de marcar el plural a través de un proceso conocido con el nombre de reduplicación.
+- El ilocano es una lengua hablada en Filipinas que presenta una forma completamente diferente de marcar el plural a través de un proceso conocido con el nombre de reduplicación.
 
 \begin{center}
 \begin{tabular}{l l}
-Singular & Plural \\
-*úlo} `cabeza' & *ulúlo} `cabezas'\\
-*dálan} `camino' & *daldálan} `caminos'\\
-*bíag} `vida' & *bibíag} `vidas'\\
-*múla} `planta' & *mulmúla} `plantas'\\
+Singular & Plural |
+*úlo} `cabeza' & *ulúlo} `cabezas'|
+*dálan} `camino' & *daldálan} `caminos'|
+*bíag} `vida' & *bibíag} `vidas'|
+*múla} `planta' & *mulmúla} `plantas'|
 \end{tabular}
 \end{center}
 
-En conclusión, si en ilocano *taltálon} significa `campos', `campo' se dirá \pause *tálon}. \\
+En conclusión, si en ilocano *taltálon} significa `campos', `campo' se dirá \pause *tálon}. |
 
---SLIDE--
-
-### Análisis morfológicos en otras lenguas
+--SUBSLIDE--
 
 El tagalo es una de las principales lenguas habladas en Filipinas.
 
 \begin{center}
 \begin{tabular}{l l l}
-Singular & Plural \\
-*basa} `leer' & *tawang} `llamar' & *sulat} `escribir' \\
-*bumasa} `¡lee!' & *tumawag} `¡llama!' & *sumulat} `¡escribe!' \\
-*babasa} `leerá' & *tatawag} `llamará' & *susulat} `escribirá' \\
+Singular & Plural |
+*basa} `leer' & *tawang} `llamar' & *sulat} `escribir' |
+*bumasa} `¡lee!' & *tumawag} `¡llama!' & *sumulat} `¡escribe!' |
+*babasa} `leerá' & *tatawag} `llamará' & *susulat} `escribirá' |
 \end{tabular}
 \end{center}	
 
@@ -669,29 +672,29 @@ Y si *lalakad} significa `andará', ¿cómo será la forma para `andar? \pause S
 	
 --SLIDE--
 
-### Ejercios: morfema flexivo del plural en turco
+### Ejercio: morfema flexivo del plural en turco
 	
-\begin{center}
-\begin{tabular}{l l l l}
-& Singular & Plural & \\
-`hombre' & *adam} & *adamlar} & `hombres' \\
-`arma' &  & *toplar} & `armas' \\
-`lección' & *ders} &  & `lecciones' \\
-`lugar' & *yer} & *yerler} & `lugares' \\
-`camino' &  & *yollar} & `caminos' \\
-`cerrojo' & & *kilitler} & `cerrojos' \\
-`flecha' & *ok} &  & `flechas' \\
-`mano' & *el} &  & `manos' \\
-`brazo' & *kol} &  & `brazos' \\
-`campana' &  & *ziller} & `campanas' \\
-`amigo' &  & *dostlar} & `amigos' \\
-`manzana' & *elma} &  & `manzanas' \\
-\end{tabular}
-\end{center}	
+|        | singular | plural  |         |
+|:------:|:--------:|:-------:|:-------:|
+| hombre | adam     | adamlar | hombres |
+| arma   |          | toplar  |  armas  |
+| lección| ders     |         |lecciones| 
+| lugar  | yer      |  yerler | lugares |
+| camino |          | yollar  | caminos |
+| cerrojo|          | kilitler|cerrojos |
+| flecha |  ok      |         | flechas |
+| mano   |  el      |         | manos   |
+| brazo  |  kol     |         | brazos  |
+| campana|          |  ziller | campanas|
+| amigo  |          | dostlar | amigos  |
+| manzana|  elma    |         | manzanas|
+
 
 --SLIDE--
 
-# Clases de palabras: la gramática tradicional
+# Clases de palabras
+
+## La gramática tradicional
 
 --SLIDE--
 
@@ -711,11 +714,11 @@ Y si *lalakad} significa `andará', ¿cómo será la forma para `andar? \pause S
 	
 \begin{center}
 \begin{tabular}{l l l l l l}
-l- & -o- & -s & alumn- & -o & -s \\ 
-func & flex & flex & léx & flex & flex \\
- & & & & & \\
-estres- & -ad- & -o & -s & & \\
-léx & derivat & flex & flex & & \\
+l- & -o- & -s & alumn- & -o & -s | 
+func & flex & flex & léx & flex & flex |
+ & & & & & |
+estres- & -ad- & -o & -s & & |
+léx & derivat & flex & flex & & |
 \end{tabular}
 \end{center}	
 
@@ -727,7 +730,7 @@ léx & derivat & flex & flex & & \\
 
 - Sin embargo, hasta ahora no hemos hablado de cuáles son las reglas que explican las posibilidades combinatorias de estas palabras. 
 
-- Un sintagma como *los alumnos estresados* es una expresión correctamente construida y válida en castellano. Es gramatical.
+- Un sintagma como *los alumnos estresados* es una expresión correctamente construida y válida en español. Es gramatical.
 
 - Por el contrario, expresiones como la siguientes no son correctas. Son agramaticales. 
 	
@@ -752,11 +755,11 @@ léx & derivat & flex & flex & & \\
 
 \begin{center}
 \begin{tabular}{l l l l l l l}
-Los & chicos, & ya & cansados, & veían & a & los \\
-DET & N & ADV & ADJ & VB & PREP & DET \\
-& & & & & & \\
-payasos & y & aplaudían & con & poca & fuerza. & \\
-N & CONJ & VB & PREP & ADJ & N & \\
+Los & chicos, & ya & cansados, & veían & a & los |
+DET & N & ADV & ADJ & VB & PREP & DET |
+& & & & & & |
+payasos & y & aplaudían & con & poca & fuerza. & |
+N & CONJ & VB & PREP & ADJ & N & |
 \end{tabular}
 \end{center}	
 
@@ -791,7 +794,7 @@ N & CONJ & VB & PREP & ADJ & N & \\
 
 - En una frase como *La niña pasea a su perro**, decimos que el verbo *pasea* concuerda con el nombre *niña*.
 
-- La concordancia en castellano se materializa en que el verbo concuerda en **persona** (distinguiendo entre el hablante, el oyente o el resto de los sujetos) y **número** (distinguiendo entre singular y plural) con el sujeto.
+- La concordancia en español se materializa en que el verbo concuerda en **persona** (distinguiendo entre el hablante, el oyente o el resto de los sujetos) y **número** (distinguiendo entre singular y plural) con el sujeto.
 
 - Las diferentes formas de los pronombres también se describen en términos de persona y número, p. ej. en *Ella pasea a su perro*. 
 
@@ -813,7 +816,7 @@ N & CONJ & VB & PREP & ADJ & N & \\
 
 - El género es una propiedad lingüística y no siempre hay relación directa y lógica con respecto al sexo biológico. 
 
-- En inglés o en castellano, es normal que exista relación directa entre género gramátical y género natural. 
+- En inglés o en español, es normal que exista relación directa entre género gramátical y género natural. 
     
     - *The girl walks her dog* / *La niña pasea a su perro*.
 
@@ -822,7 +825,7 @@ N & CONJ & VB & PREP & ADJ & N & \\
 
 ### El género gramatical
 
-- Al contrario de los que hemos visto en los ejemplos anteriores de inglés y castellano, en algunas lenguas se emplea el llamado **género gramatical**.
+- Al contrario de los que hemos visto en los ejemplos anteriores de inglés y español, en algunas lenguas se emplea el llamado **género gramatical**.
 
 - En estas lenguas, los sustantivos se agrupan de acuerdo con una clase de género (masculino o femenino) que no tiene por qué estar directamente relacionada con el sexo.
 
@@ -838,14 +841,14 @@ N & CONJ & VB & PREP & ADJ & N & \\
 Conjugación del presente, modo indicativo, voz activa
 \begin{center}
 \begin{tabular}{l l l}
- & \bf{to love} & \bf{amare} \\
-1 p. sing. & *I love} & *amo} \\ 
-2 p. sing. & *you love} & *amas} \\ 
-3 p. sing. & *he/she/it loves} & *amat} \\
+ & \bf{to love} & \bf{amare} |
+1 p. sing. & *I love} & *amo} | 
+2 p. sing. & *you love} & *amas} | 
+3 p. sing. & *he/she/it loves} & *amat} |
 \hline 
-1 p. plur. & *we love} & *amamus} \\ 
-2 p. plur. & *you love} & *amatis} \\ 
-3 p. plur. & *they love} & *amant} \\ 
+1 p. plur. & *we love} & *amamus} | 
+2 p. plur. & *you love} & *amatis} | 
+3 p. plur. & *they love} & *amant} | 
 \end{tabular}
 \end{center}
 
@@ -930,11 +933,11 @@ Este tipo de análisis es completamente lógico en latín, pero ¿tiene sentido 
 \begin{center}
 \begin{tabular}{|l|l|l|l|l|l|l|l|}
 \hline 
-\multicolumn{2}{|l|}{} & \multicolumn{3}{|l|}{} & \multicolumn{3}{|l|}{} \\
+\multicolumn{2}{|l|}{} & \multicolumn{3}{|l|}{} & \multicolumn{3}{|l|}{} |
 \cline{2-2}
 \cline{4-5}
 \cline{7-8}
-Su & padre & llevó & una & pistola & a & la & boda\\ 
+Su & padre & llevó & una & pistola & a & la & boda| 
 \hline 
 \end{tabular}
 \end{center}
@@ -948,10 +951,10 @@ Su & padre & llevó & una & pistola & a & la & boda\\
 \begin{center}
 \begin{tabular}{|l|l|l|l|l|}
 \hline 
-\multicolumn{2}{|l|}{} & \multicolumn{3}{|l|}{} \\
+\multicolumn{2}{|l|}{} & \multicolumn{3}{|l|}{} |
 \cline{2-2}
 \cline{4-5}
-El & perro & enterraba & un & hueso \\ 
+El & perro & enterraba & un & hueso | 
 \hline 
 \end{tabular}
 \end{center}
@@ -961,11 +964,11 @@ El & perro & enterraba & un & hueso \\
 \begin{center}
 \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
 \hline 
-\multicolumn{2}{|l|}{} & \multicolumn{4}{|l|}{} & \multicolumn{3}{|l|}{} \\
+\multicolumn{2}{|l|}{} & \multicolumn{4}{|l|}{} & \multicolumn{3}{|l|}{} |
 \cline{2-2}
 \cline{4-6}
 \cline{8-9}
-La & mujer & escondió & una & gran & serpiente & en & una & caja \\ 
+La & mujer & escondió & una & gran & serpiente & en & una & caja | 
 \hline 
 \end{tabular}
 \end{center}
@@ -981,15 +984,15 @@ La & mujer & escondió & una & gran & serpiente & en & una & caja \\
 \begin{center}
 \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
 \hline 
-Su & padre & llevó & una & \multicolumn{2}{|l|}{pistola} & a & la & boda \\
+Su & padre & llevó & una & \multicolumn{2}{|l|}{pistola} & a & la & boda |
 \cline{5-6} 
-La & mujer & escondió & una & gran & serpiente & en & una & caja \\ 
+La & mujer & escondió & una & gran & serpiente & en & una & caja | 
 \cline{1-2} 
 \cline{4-6} 
 \cline{8-9} 
-\multicolumn{2}{|l|}{Olga} & vio & \multicolumn{3}{|l|}{Friends} & en & \multicolumn{2}{|l|}{televisión} \\
+\multicolumn{2}{|l|}{Olga} & vio & \multicolumn{3}{|l|}{Friends} & en & \multicolumn{2}{|l|}{televisión} |
 \cline{7-9} 
-\multicolumn{2}{|l|}{Ella} & abrió & \multicolumn{3}{|l|}{eso} & \multicolumn{3}{|l|}{cuidadosamente} \\
+\multicolumn{2}{|l|}{Ella} & abrió & \multicolumn{3}{|l|}{eso} & \multicolumn{3}{|l|}{cuidadosamente} |
 \hline 
 \end{tabular}
 \end{center}
@@ -1042,8 +1045,8 @@ La & mujer & escondió & una & gran & serpiente & en & una & caja \\
 
 \begin{center}
 \begin{tabular}{l l l l l l}
-*Chunnaic} & *an} & *gille} & *an} & *cu} & *dubh} \\
-`ver' & `el' & `niño' & `el' & `perro' & `negro' \\
+*Chunnaic} & *an} & *gille} & *an} & *cu} & *dubh} |
+`ver' & `el' & `niño' & `el' & `perro' & `negro' |
 \end{tabular}
 \end{center}
 
@@ -1060,7 +1063,7 @@ La & mujer & escondió & una & gran & serpiente & en & una & caja \\
 \end{center}
 
 
-- El diagrama muestra, en primer lugar, que el orden de constituyentes en gaélico es VSO, frente al orden SVO típico en castellano.
+- El diagrama muestra, en primer lugar, que el orden de constituyentes en gaélico es VSO, frente al orden SVO típico en español.
 
 
 --SLIDE--
@@ -1160,7 +1163,7 @@ La & mujer & escondió & una & gran & serpiente & en & una & caja \\
 
 ### La derivación
 
-- El procedimiento de derivación más productivo en castellano se efectúa mediante la adición de un afijo pleno.
+- El procedimiento de derivación más productivo en español se efectúa mediante la adición de un afijo pleno.
 
 - Sufijación: *casa &rarr; cas-ero*
 
