@@ -2,7 +2,7 @@
 
 ## Introducción a la Lingüística.
 
-Área de Lingüística, Fac. de Filología, UCM | 5/12/2013
+Área de Lingüística, Fac. de Filología, UCM | 5-13/12/2013
 
 Víctor Peinado | v.peinado@filol.ucm.es
 
@@ -399,7 +399,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Los **morfemas libres** son aquellos que pueden aparecer como palabras independientes, como *pan*. 
 
-    - Podemos considerar a los morfemas libres como el conjunto de las palabras individuales del español: los sustantivos, adjetivos, verbos, etc. básicos. 
+    - Podemos considerar a los morfemas libres como el conjunto de las palabras individuales de una lengua: los sustantivos, adjetivos, verbos, etc. básicos. 
     
 - Los **morfemas ligados** son aquellos que no pueden aparecer de forma independiente y necesitan concatenarse con otros elementos, *re-, -era, -s* en español, o *-s, *-ing* o *-ed* en inglés.
 
@@ -481,7 +481,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
     - P. ej., la marca de plural puede indicarse con *-s, -es* y la tercera persona del singular en presente puede ser *-a, -e*.
 
---SLIDE--
+--SUBSLIDE--
 
 - Observamos distintas diferencias importantes entre morfemas derivativos y flexivos:
 
@@ -544,7 +544,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Del mismo modo que teníamos **fonos**, que eran la realización fonética concretas de los fonemas, ahora podemos hablar de **morfos** y definirlos como las formas utilizadas realmente a la hora de generar morfemas.
 
-- Del mismo modo que en fonología hablábamos de **alófonos** como las distintas realizaciones fonética de un mismo fonema, en morfología podemos hablar de **alomorfos** como las distintas versiones de un mismo morfema.
+- Del mismo modo que en fonología hablábamos de **alófonos** como las distintas realizaciones fonéticas de un mismo fonema, en morfología podemos hablar de **alomorfos** como las distintas versiones de un mismo morfema.
 
 
 --SUBSLIDE--
@@ -591,8 +591,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
-### canurí (lengua hablada en Nigeria)
-
+### canurí (Nigeria)
 
 | adjetivo             | sustantivo |
 |:--------------------:|:---------------------:       |
@@ -601,57 +600,77 @@ Víctor Peinado | v.peinado@filol.ucm.es
 | *gana* (pequeño)     | *n&#601;mgana* (pequeñez)    |
 | *dibi* (malo)        | *n&#601;mdibi* (maldad)      |
 
-- En conclusión, si en canurí *n&#601;mkurugu* significa *longitud*, *largo* se dirá *kurugu*.
+- En conclusión, si en canurí *n&#601;mkurugu* significa *longitud*, *largo* se dirá:
+
+<ul>
+<li class="fragment">*kurugu*</li>
+</ul>
+
+
+
+--SUBSLIDE--
+
+### ganda (Uganda)
+
+
+| singular             |       plural         |
+|:--------------------:|:--------------------:|
+| *omusawo* (doctor)   | *abasawo* (doctores) |
+| *omukazi* (mujer)    | *abakazi* (mujeres)  |
+| *omuwala* (chica)    | *abawala* (chicas)   |
+| *omusika* (heredero) | *abasika* (herederos)|
+
+- En conclusión, si en ganda *abalenzi* significa *chicos*, el singular *chico* se dirá:
+
+<ul>
+<li class="fragment">*omulenzi*</li>
+</ul>
+ 
 
 
 --SUBSLIDE--
 
-- El ganda es una lengua hablada en Uganda.
+### ilocano (Filipinas)
 
-\begin{center}
-\begin{tabular}{l l}
-Singular & Plural |
-*omusawo} `doctor' & *abasawo} `doctores'|
-*omukazi} `mujer' & *abakazi} `mujeres'|
-*omuwala} `chica' & *abawala} `chicas'|
-*omusika} `heredero' & *abasika} `herederos'|
-\end{tabular}
-\end{center}
+- El plural se forma a través de un proceso conocido con el nombre de **reduplicación**.
 
-En conclusión, si en ganda *abalenzi* significa `chicos', `chico' se dirá \pause *omulenzi}. |
+| singular           |       plural         |
+|:------------------:|:--------------------:|
+| *úlo* (cabeza)     | *ulúlo* (cabezas)    |
+| *dálan*  (camino)  | *daldálan* (caminos) |
+| *bíag*  (vida)     | *bibíag* (vidas)     |
+| *múla*  (planta)   | *mulmúla* (plantas)  |
 
---SUBSLIDE--
+- En conclusión, si en ilocano *taltálon* significa *campos*, *campo* se dirá:
 
-- El ilocano es una lengua hablada en Filipinas que presenta una forma completamente diferente de marcar el plural a través de un proceso conocido con el nombre de reduplicación.
-
-\begin{center}
-\begin{tabular}{l l}
-Singular & Plural |
-*úlo} `cabeza' & *ulúlo} `cabezas'|
-*dálan} `camino' & *daldálan} `caminos'|
-*bíag} `vida' & *bibíag} `vidas'|
-*múla} `planta' & *mulmúla} `plantas'|
-\end{tabular}
-\end{center}
-
-En conclusión, si en ilocano *taltálon} significa `campos', `campo' se dirá \pause *tálon}. |
+<ul>
+<li class="fragment">*tálon*</li>
+</ul>
 
 --SUBSLIDE--
 
-El tagalo es una de las principales lenguas habladas en Filipinas.
+### ilocano (Filipinas)
 
-\begin{center}
-\begin{tabular}{l l l}
-Singular & Plural |
-*basa} `leer' & *tawang} `llamar' & *sulat} `escribir' |
-*bumasa} `¡lee!' & *tumawag} `¡llama!' & *sumulat} `¡escribe!' |
-*babasa} `leerá' & *tatawag} `llamará' & *susulat} `escribirá' |
-\end{tabular}
-\end{center}	
+- Fíjate cómo se forma el imperativo y el futuro a partir del infinitivo de los verbos.
 
-En conclusión, si en tagalo *lapit} significa `venir aquí', `ven aquí' y `vendrá aquí' se dirán, respectivamente \pause *lumapit} y *lalapit}. 
+| *basa* (leer)   | *tawang* (llamar)  | *sulat* (escribir)   |
+|:---------------:|:------------------:|:--------------------:|
+| *bumasa* (¡lee!)| *tumawag* (¡llama!)| *sumulat* (¡escribe!)|
+| *babasa* (leerá)| *tatawag* (llamará)| *susulat* (escribirá)|
 
-Y si *lalakad} significa `andará', ¿cómo será la forma para `andar? \pause Solo puede ser *lakad}.
+- En conclusión, si en tagalo *lapit* significa *venir aquí*, *ven aquí* y *vendrá aquí* se dirán, respectivamente:
+
+<ul>
+<li class="fragment">*lumapit*</li>
+<li class="fragment">*lalapit*</li>
+</ul>
+
+- Y si *lalakad* significa *andará*, ¿cómo será la forma para *andar*?
+
+<ul>
+<li class="fragment">*lakad*</li>
+</ul>
+
 
 --SLIDE--
 
@@ -700,27 +719,23 @@ Y si *lalakad} significa `andará', ¿cómo será la forma para `andar? \pause S
 
 ### Análisis lingüístico
 
-- Hasta ahora hemos visto que podemos describir la lengua a distintos niveles: *los alumnos estresados}.
+- Hasta ahora hemos visto que podemos describir la lengua a distintos niveles: *los alumnos estresados*.
 
-- Fonológico: \ipa{/los alú}N\ipa{nos estresádos/}
+- Fonológico: /los a'luNnos estre'sados/}
 	
-	- \ipa{/u/} es un fonema vocálico posterior cerrado
-	- \ipa{/t/} es un fonema consonántico oclusivo dental sordo
-	- /N/ es el archifonema resultado de neutralizar una consonante nasal en posición de sílaba trabada
+	- /u/ es un fonema vocálico posterior cerrado
+	- /t/ es un fonema consonántico oclusivo dental sordo
+	- /N/ es el archifonema resultado de neutralizar una consonante nasal en posición postnuclear de sílaba
 	
 --SUBSLIDE--
 
 - Morfógico
 	
-\begin{center}
-\begin{tabular}{l l l l l l}
 l- & -o- & -s & alumn- & -o & -s | 
 func & flex & flex & léx & flex & flex |
  & & & & & |
 estres- & -ad- & -o & -s & & |
 léx & derivat & flex & flex & & |
-\end{tabular}
-\end{center}	
 
 - Mediante este tipo de descripciones podemos caracterizar todas las palabras y sintagmas de una lengua, según su fonología y su morfología.
 	
@@ -742,10 +757,9 @@ léx & derivat & flex & flex & & |
 
 --SLIDE--
 
-### Las partes de la oración en la gramática tradicional}
+### Las partes de la oración en la gramática tradicional
 
-
-- Los términos como `nombre', `verbo' o `adjetivo' que utilizamos habitualmente para etiqueta las distintas clases de palabras provienen de una tradición gramatical cuyos orígenes se remontan al estudio y a la descripción de lenguas como el griego y el latín.
+- Los términos como **nombre**, **verbo** o **adjetivo** que utilizamos habitualmente para etiqueta las distintas clases de palabras provienen de una tradición gramatical cuyos orígenes se remontan al estudio y a la descripción de lenguas como el griego y el latín.
 
 - En su momento cuando el análisis lingüístico se amplió a otras lenguas, lo más apropiado resultó adoptar sin más este tipo de clasificación. 
 
@@ -753,21 +767,14 @@ léx & derivat & flex & flex & & |
 
 --SUBSLIDE--
 
-\begin{center}
-\begin{tabular}{l l l l l l l}
-Los & chicos, & ya & cansados, & veían & a & los |
-DET & N & ADV & ADJ & VB & PREP & DET |
-& & & & & & |
-payasos & y & aplaudían & con & poca & fuerza. & |
-N & CONJ & VB & PREP & ADJ & N & |
-\end{tabular}
-\end{center}	
+- Los (DET) chicos (N), ya (ADV) cansados (ADJ), veían (V) a (PREP) los (DET) payasos (N) y (CONJ) aplaudían (V) con (PREP) poca (ADV) fuerza (N).
+
 
 --SUBSLIDE--
 
 - nombres (N): palabras que utilizamos para designar personas (*chicos*), cosas (*coches*), seres vivos (*gata*), lugares (*mar*), cualidades (*color*), fenómenos (*tormenta*) e ideas abstractas (*libertad*) como si fueran «cosas». 
 
-- determinantes (DET): palabras que acompañan a los nombres (*el, una, estos*) y se emplean para construir sintagmas nominales que permitan clasificar las cosas denotadas por dichos nombres (*un tomate*) o identificar las cosas como objetos ya conocidos (*el tomate*).   
+- determinantes (DET): palabras que acompañan a los nombres (*el, una, estos*) y se emplean para construir sintagmas nominales que permitan clasificar las cosas denotadas por dichos nombres (*un tomate*) o identificar las cosas como objetos ya conocidos (*el tomate*).
 
 --SUBSLIDE--
 
@@ -792,7 +799,7 @@ N & CONJ & VB & PREP & ADJ & N & |
 
 - Categorías como el número, la persona, el tiempo, el género pueden tratarse por separado, pero resulta más sencillo explicarlas centrándonos en el fenómeno de la **concordancia**.
 
-- En una frase como *La niña pasea a su perro**, decimos que el verbo *pasea* concuerda con el nombre *niña*.
+- En una frase como *La niña pasea a su perro*, decimos que el verbo *pasea* concuerda con el nombre *niña*.
 
 - La concordancia en español se materializa en que el verbo concuerda en **persona** (distinguiendo entre el hablante, el oyente o el resto de los sujetos) y **número** (distinguiendo entre singular y plural) con el sujeto.
 
@@ -835,118 +842,101 @@ N & CONJ & VB & PREP & ADJ & N & |
 
 --SLIDE--
 
+### El análisis tradicional
 
-### El análisis tradicional}
+|            | **to love** | **amare** |
+|:----------:|:----------:|:-----:|
+| 1p. sg. | *I love*   | *amo* | 
+| 2p. sg. | *you love* |  *amas* | 
+| 3p. sg. | *he/she/it loves* | *amat* |
+| 1p. pl. | *we love*  | *amamus* | 
+| 2p. pl. | *you love* | *amatis* | 
+| 3p. pl. | *they love*| *amant* | 
 
-Conjugación del presente, modo indicativo, voz activa
-\begin{center}
-\begin{tabular}{l l l}
- & \bf{to love} & \bf{amare} |
-1 p. sing. & *I love} & *amo} | 
-2 p. sing. & *you love} & *amas} | 
-3 p. sing. & *he/she/it loves} & *amat} |
-\hline 
-1 p. plur. & *we love} & *amamus} | 
-2 p. plur. & *you love} & *amatis} | 
-3 p. plur. & *they love} & *amant} | 
-\end{tabular}
-\end{center}
+- Este tipo de análisis es completamente lógico en latín, pero ¿tiene sentido una análisis como este en inglés?
 
-Este tipo de análisis es completamente lógico en latín, pero ¿tiene sentido una análisis como este en inglés?
+
 --SLIDE--
 
-
-### El enfoque prescriptivo}
-
+### El enfoque prescriptivo
 
 - Una cosa es adoptar terminología o nombres de categorías gramaticales de la tradición clásica y otra bien distinta es afirmar que la estructura de las oraciones inglesas debería ser similar a la de las oraciones latinas.
+
 - Precisamente este fue el enfoque que plantearon los gramáticos del s. XVIII, los primeros en sistematizar la gramática y establecer el conjunto de reglas que definía qué usos eran correctos o convenientes y cuáles no.
+
 - Esta «corrección lingüística» es una parte importante de la educación que recibimos. Se asume y acepta que alguien instruído que escribe bien respeta estas normas. Pero una persona que nos las respeta, es porque tiene bajo nivel cultural.
 
 
 --SLIDE--
 
-### El enfoque descriptivo}
+### El enfoque descriptivo
 
 
 - El enfoque prescriptivo que se había utilizado con el latín se podía extender al estudio de lenguas romances, pero su uso era completamente contraproducente con lenguas alejadas.
+
 - A finales del s. XIX, cuando se comenzó a estudiar lenguas americanas, los lingüistas terminaron adoptando un enfoque completamente diferente.
-	\begin{enumerate}
-	- Se recogen datos y ejemplos en las lenguas que quieren estudiar.
-	- Se intenta describir las regularidades estructurales que se desprenden de esos datos.
-	- Dichas regularidades se utilizan para caracterizar los usos de la lengua.
-	\end{enumerate}
+
+    1. Se recogen datos y ejemplos en las lenguas que quieren estudiar.
+	2. Se intenta describir las regularidades estructurales que se desprenden de esos datos.
+	3. Dichas regularidades se utilizan para caracterizar los usos de la lengua.
 
 
 --SLIDE--
 
 
-### El análisis estructural}
+### El análisis estructural
 
 
-- Un tipo de enfoque prescriptivo se conoce con el nombre de **análisis estructural}.
+- Un tipo de enfoque prescriptivo se conoce con el nombre de **análisis estructural**.
 - El objetivo de este análisis es determinar la distribución de las distintas formas de una lengua.
 - El método implica el uso de los llamados «marcos de prueba» que se suelen representar como oraciones con posiciones vacías.
 	
-	*La \_\_\_\_\_\_\_\_\_\_ hace mucho ruido.}
+	*La \_\_\_\_\_\_\_\_\_\_ hace mucho ruido.
 
-	*Oímos una \_\_\_\_\_\_\_\_\_\_ ayer.}
+	*Oímos una \_\_\_\_\_\_\_\_\_\_ ayer.
 
 - Podemos asumir que todas las posibilidades que encajen en la posición vacía en un mismo «marco de prueba» pertenecen a una misma categoría gramatical: sustantivos.
 
+--SUBSLIDE--
 
---SLIDE--
-
-### El análisis estructural}
-
-
-- Hay muchas otras opciones que no podrían encajar en los marcos de prueba anteriores y que darían lugar a oraciones agramaticales: *esto, un perro, el coche, el joven con bombín que se sienta al fondo}.
+- Hay muchas otras opciones que no podrían encajar en los marcos de prueba anteriores y que darían lugar a oraciones agramaticales: *esto, un perro, el coche, el joven con bombín que se sienta al fondo*.
 	
-	**La esto hace mucho ruido.}
+	\**La esto hace mucho ruido*.
 
-	**Oímos una un perro ayer.}
+	\**Oímos una un perro ayer.*
 
 - Para estos ejemplos basta generar un marco de prueba distinto: 
 	
-	*\_\_\_\_\_\_\_\_\_\_ hace mucho ruido.}
+	*\_\_\_\_\_\_\_\_\_\_ hace mucho ruido.
 
-	*Oímos \_\_\_\_\_\_\_\_\_\_ ayer.}
+	*Oímos \_\_\_\_\_\_\_\_\_\_ ayer.
 
-	%\item Del mismo modo, este marco de prueba nos permite generalizar y asumir que cualquier expresión que encaje en la posición vacía pertenecerá a una misma categoría gramatical.
+--SUBSLIDE--
+
+- Del mismo modo, este marco de prueba nos permite generalizar y asumir que cualquier expresión que encaje en la posición vacía pertenecerá a una misma categoría gramatical.
+
 - Podemos elaborar una descripción de las características estructurales de una lengua desarrollando un conjunto de marcos de prueba y determinando cuáles son las formas capaces de ocupar las posiciones vacías. 
 
 
 --SLIDE--
 
 
-### Análisis de constituyentes inmediatos}
+### Análisis de constituyentes inmediatos
 
 
-- Otro enfoque que tiene el mismo objetivo descriptivo es el conocido como **análisis de constituyentes inmediatos}.
+- Otro enfoque que tiene el mismo objetivo descriptivo es el conocido como **análisis de constituyentes inmediatos**.
+
 - La técnica se ha diseñado con objeto de mostrar cómo los constituyentes de menor tamaño se combinan para formar constituyentes mayores, cómo las palabras se unen para formar sintagmas.
 	
-	¿Cómo se agrupan los ocho constituyentes de la oración *Su padre llevó una pistola a la boda}?
+- ¿Cómo se agrupan los ocho constituyentes de la oración *Su padre llevó una pistola a la boda*?
 
 
-\pause
-
-\begin{center}
-\begin{tabular}{|l|l|l|l|l|l|l|l|}
-\hline 
-\multicolumn{2}{|l|}{} & \multicolumn{3}{|l|}{} & \multicolumn{3}{|l|}{} |
-\cline{2-2}
-\cline{4-5}
-\cline{7-8}
-Su & padre & llevó & una & pistola & a & la & boda| 
-\hline 
-\end{tabular}
-\end{center}
---SLIDE--
+--SUBSLIDE--
 
 
-### Análisis de constituyentes inmediatos}
+### Análisis de constituyentes inmediatos
 
-*El perro enterraba un hueso}
+- *El perro enterraba un hueso*
 
 \begin{center}
 \begin{tabular}{|l|l|l|l|l|}
@@ -999,7 +989,7 @@ La & mujer & escondió & una & gran & serpiente & en & una & caja |
 
 --SLIDE--
 
-### Oraciones etiquetadas y encorchetadas}
+### Oraciones etiquetadas y encorchetadas
 
 
 - Otro tipo de diagrama común para mostrar de qué forma los distintos constituyentes de la estructura de la oración se combinan es mediante **corchetes etiquetados}.
@@ -1068,7 +1058,7 @@ La & mujer & escondió & una & gran & serpiente & en & una & caja |
 
 --SLIDE--
 
-### Ejercicio}
+### Ejercicio
 
 	Traduce al latín la oración *Las palomas aman a la niña pequeña}:
 	
