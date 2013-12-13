@@ -649,9 +649,9 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
-### ilocano (Filipinas)
+### tagalo (Filipinas)
 
-- Fíjate cómo se forma el imperativo y el futuro a partir del infinitivo de los verbos.
+- Fíjate cómo se forma en tagalo el imperativo y el futuro a partir del infinitivo de los verbos.
 
 | *basa* (leer)   | *tawang* (llamar)  | *sulat* (escribir)   |
 |:---------------:|:------------------:|:--------------------:|
@@ -721,21 +721,23 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Hasta ahora hemos visto que podemos describir la lengua a distintos niveles: *los alumnos estresados*.
 
-- Fonológico: /los a'luNnos estre'sados/}
+- **Fonológico**
+
+- /los a'luNnos estre'sados/
 	
-	- /u/ es un fonema vocálico posterior cerrado
+	- /u/ es un fonema vocálico alto posterior
 	- /t/ es un fonema consonántico oclusivo dental sordo
 	- /N/ es el archifonema resultado de neutralizar una consonante nasal en posición postnuclear de sílaba
 	
 --SUBSLIDE--
 
-- Morfógico
-	
-l- & -o- & -s & alumn- & -o & -s | 
-func & flex & flex & léx & flex & flex |
- & & & & & |
-estres- & -ad- & -o & -s & & |
-léx & derivat & flex & flex & & |
+- **Morfógico**
+
+    - l- (func.) -o- (flex.) -s  (flex.) 
+    
+    - alumn- (léx.) -o- (flex.) -s (flex.) 
+    
+    - estres- (léx.) -ad- (derivat.) -o- (flex.) -s (flex.)
 
 - Mediante este tipo de descripciones podemos caracterizar todas las palabras y sintagmas de una lengua, según su fonología y su morfología.
 	
@@ -745,15 +747,15 @@ léx & derivat & flex & flex & & |
 
 - Sin embargo, hasta ahora no hemos hablado de cuáles son las reglas que explican las posibilidades combinatorias de estas palabras. 
 
-- Un sintagma como *los alumnos estresados* es una expresión correctamente construida y válida en español. Es gramatical.
+- Un sintagma como *los alumnos estresados* es una expresión correctamente construida y válida en español. Decimos que es **gramatical**.
 
-- Por el contrario, expresiones como la siguientes no son correctas. Son agramaticales. 
+- Por el contrario, expresiones como la siguientes no son correctas. Son **agramaticales**. 
 	
 	- \**estresados alumnos los*
 	
 	- \**alumnos los estresados*
 	
-- La **gramática** puede definirse como un conjunto de reglas  que permiten describir la estructura de los sintagmas y de las oraciones, de manera que podamos caracterizar todas las construcciones gramaticales y distinguirlas de las agramaticales. 
+- La **gramática** es el conjunto de reglas que permiten describir la estructura de los sintagmas y de las oraciones, de manera que podamos caracterizar todas las construcciones gramaticales y distinguirlas de las agramaticales. 
 
 --SLIDE--
 
@@ -763,34 +765,35 @@ léx & derivat & flex & flex & & |
 
 - En su momento cuando el análisis lingüístico se amplió a otras lenguas, lo más apropiado resultó adoptar sin más este tipo de clasificación. 
 
+--SUBSLIDE--
+
 - Otras categorías como el el número, la persona, el género, el tiempo, la voz o el modo provienen de esta misma gramática tradicional.
 
---SUBSLIDE--
+    - Los (DET) chicos (N), ya (ADV) cansados (ADJ), veían (V) a (PREP) los (DET) payasos (N) y (CONJ) aplaudían (V) con (PREP) poca (ADV) fuerza (N).
 
-- Los (DET) chicos (N), ya (ADV) cansados (ADJ), veían (V) a (PREP) los (DET) payasos (N) y (CONJ) aplaudían (V) con (PREP) poca (ADV) fuerza (N).
-
-
---SUBSLIDE--
-
-- nombres (N): palabras que utilizamos para designar personas (*chicos*), cosas (*coches*), seres vivos (*gata*), lugares (*mar*), cualidades (*color*), fenómenos (*tormenta*) e ideas abstractas (*libertad*) como si fueran «cosas». 
-
-- determinantes (DET): palabras que acompañan a los nombres (*el, una, estos*) y se emplean para construir sintagmas nominales que permitan clasificar las cosas denotadas por dichos nombres (*un tomate*) o identificar las cosas como objetos ya conocidos (*el tomate*).
+    - The (DT) kids(NN) found (VB) the (DT) hidden (JJ) presents (NN) very (RB) quickly (RB) and (CC) left (VB) the (DT) house (NN).
 
 --SUBSLIDE--
 
-- adjetivos (ADJ): palabras que acompañan a los nombres aportando más información sobre las cosas denotadas por dichos nombres (*niños maleducados, buena música*). 
+- nombres (**N/NN**): palabras que utilizamos para designar personas (*niños/kids*), cosas (*coches/cars*), seres vivos (*gata/cat*), lugares (*mar/sea*), cualidades (*color*), fenómenos (*tormenta/storm*) e ideas abstractas (*libertad/freedom*) como si fueran «cosas». 
 
-- verbos (V): palabras que utilizamos para referirnos a acciones (*caminar, saltar*) o  estados (*ser, estar*) que involucran a personas o cosas en diversos sucesos.
-
-- adverbios (ADV): palabras que proporcionan información adicional sobre las acciones o estados denotados por los verbos (*pronto, rápidamente, ayer*). Algunos adverbios también se utilizan como modificadores de adjetivos (*una historia muy extraña, la cena está casi lista*).
+- determinantes (**DET/DT**): palabras que acompañan a los nombres (*el, una, estos/the, a*) y se emplean para construir sintagmas nominales que permitan clasificar las cosas denotadas por dichos nombres (*un tomate/a tomato*) o identificar las cosas como objetos ya conocidos (*el tomate/the tomato*).
 
 --SUBSLIDE--
 
-- preposiciones (PREP): palabras que se emplean junto a los nombres o a los sintagmas nominales para construir sintagmas preposicionales que proporcionan información temporal (*a las diez, por la noche*), de lugar (*en mi casa, sobre la mesa*), de instrumento (*con un martillo*), de causa (*por imprudente*).
+- adjetivos (**ADJ/JJ**): palabras que acompañan a los nombres aportando más información sobre las cosas denotadas por dichos nombres (*niños maleducados/rude kids, buena música/good music*). 
 
-- conjunciones (CONJ): son palabras utilizadas como conectores para indicar relaciones entre sucesos.
+- verbos (**V/VB**): palabras que utilizamos para referirnos a acciones (*caminar/to walk, saltar/to jump*) o  estados o procesos (*ser, estar, volverse/to be, to become*) que involucran a personas o cosas en diversos sucesos.
 
-- pronombres (PRON): palabras que se utilizan en lugar de los nombres o los sintagmas nominales y que, normalmente, se refieren a personas u objetos previamente conocidos (*ella me dijo que éste era para mí*).
+- adverbios (**ADV/RB**): palabras que proporcionan información adicional sobre las acciones o estados denotados por los verbos (*pronto, rápidamente, ayer/soon, quickly, yesterday*). Algunos adverbios también se utilizan como modificadores de adjetivos (*una historia muy extraña/a very weird story, la cena está casi lista/dinner is almost done*).
+
+--SUBSLIDE--
+
+- preposiciones (**PREP/IN**): palabras que se emplean junto a los nombres o a los sintagmas nominales para construir sintagmas preposicionales que proporcionan información temporal (*a las diez, por la noche/at ten, during the night*), de lugar (*en mi casa, sobre la mesa/in my place, on the table*), de instrumento (*con un martillo/with a hammer*), de causa (*por imprudente/because of his carlessness*).
+
+- conjunciones (**CONJ/CC**): son palabras utilizadas como conectores para indicar relaciones entre sucesos (y, o, pero, sino, sin embargo, excepto/and, or, but, however).
+
+- pronombres (**PRON/PRP**): palabras que se utilizan en lugar de los nombres o los sintagmas nominales y que, normalmente, se refieren a personas u objetos previamente conocidos (*ella me dijo que éste era para mí/she told me that this one was for me*).
 
 --SLIDE--
 
@@ -809,21 +812,21 @@ léx & derivat & flex & flex & & |
 
 - La forma del verbo se describe también en términos de otras categorías: el tiempo, la voz y el modo.
 
-- El tiempo es la categoría gramatical que indica si la acción se realiza en el momento actual, en el pasado o en el futuro.
+    - El **tiempo** es la categoría gramatical que indica si la acción se realiza en el momento actual, en el pasado o en el futuro.
 
-- El modo es la categoría gramatical que clasifica la acción, el proceso o el estado de un verbo desde la perspectiva del emisor, según éste la conciba como real (indicativo), subjetiva (subjuntivo) o apelativa (imperativo).
+    - El **modo** es la categoría gramatical que clasifica la acción, el proceso o el estado de un verbo desde la perspectiva del emisor, según éste la conciba como real (indicativo), subjetiva (subjuntivo) o apelativa (imperativo).
 
-- La voz es la categoría gramatica que indica quién realiza (agente) y quién recibe (paciente) la acción denotada por el verbo, es decir, indica el papel temático del sujeto y del objeto. 
+    - La **voz** es la categoría gramatica que indica quién realiza (agente) y quién recibe (paciente) la acción denotada por el verbo, es decir, indica el papel temático del sujeto y del objeto. 
 
-    - *El perro es paseado*.
+        - *El perro es paseado*.
 
 --SUBSLIDE--
 
 - Por último, la categoría de género permite describir concordancia entre *perro* y *paseado*.
 
-- El género es una propiedad lingüística y no siempre hay relación directa y lógica con respecto al sexo biológico. 
+- El **género** es una propiedad lingüística y no siempre hay relación directa y lógica con respecto al sexo biológico. 
 
-- En inglés o en español, es normal que exista relación directa entre género gramátical y género natural. 
+- En inglés o en español, es normal que exista relación directa entre género gramátical y el sexo biológico. 
     
     - *The girl walks her dog* / *La niña pasea a su perro*.
 
@@ -836,7 +839,10 @@ léx & derivat & flex & flex & & |
 
 - En estas lenguas, los sustantivos se agrupan de acuerdo con una clase de género (masculino o femenino) que no tiene por qué estar directamente relacionada con el sexo.
 
-- En alemán existen tres géneros; masculino *der Mond* (*la luna*), femenino *die Sonne* (*el sol*) y neutro *das Feuer* (*el fuego*). 
+- En alemán existen tres géneros:
+    - masculino *der Mond* (*la luna*)
+    - femenino *die Sonne* (*el sol*)
+    - neutro *das Feuer* (*el fuego*) 
 
 - En alemán, el sintagma *das Mädchen* (*la chica joven*) hace referencia,  biológicamente hablando, a una hembra. Sin embargo, el sintagma es gramaticalmente neutro.
 
@@ -844,16 +850,16 @@ léx & derivat & flex & flex & & |
 
 ### El análisis tradicional
 
-|            | **to love** | **amare** |
-|:----------:|:----------:|:-----:|
-| 1p. sg. | *I love*   | *amo* | 
-| 2p. sg. | *you love* |  *amas* | 
-| 3p. sg. | *he/she/it loves* | *amat* |
-| 1p. pl. | *we love*  | *amamus* | 
-| 2p. pl. | *you love* | *amatis* | 
-| 3p. pl. | *they love*| *amant* | 
+|            | **to love** | **aimer** | **amare** |
+|:----------:|:-----------:|:---------:|:----------:|
+| 1p. sg. | *I love*          | *j'aime*   | *amo* | 
+| 2p. sg. | *you love*        | *tu aimes* | *amas* | 
+| 3p. sg. | *he/she/it loves* | *il aime*  | *amat* |
+| 1p. pl. | *we love*         | *nous aimons* | *amamus* | 
+| 2p. pl. | *you love*        | *vous aimez*  | *amatis* | 
+| 3p. pl. | *they love*       | *ils aiment*  | *amant* | 
 
-- Este tipo de análisis es completamente lógico en latín, pero ¿tiene sentido una análisis como este en inglés?
+- Este tipo de análisis es completamente lógico en latín, pero ¿tiene sentido una análisis como este en inglés o en francés? ¿Y en chino? 
 
 
 --SLIDE--
@@ -864,20 +870,21 @@ léx & derivat & flex & flex & & |
 
 - Precisamente este fue el enfoque que plantearon los gramáticos del s. XVIII, los primeros en sistematizar la gramática y establecer el conjunto de reglas que definía qué usos eran correctos o convenientes y cuáles no.
 
-- Esta «corrección lingüística» es una parte importante de la educación que recibimos. Se asume y acepta que alguien instruído que escribe bien respeta estas normas. Pero una persona que nos las respeta, es porque tiene bajo nivel cultural.
+- Esta «corrección lingüística» es una parte importante de la educación que recibimos. Se asume y acepta que alguien instruído que escribe bien respeta estas normas. Y una persona que nos las respeta, es porque tiene bajo nivel cultural.
 
 
 --SLIDE--
 
 ### El enfoque descriptivo
 
-
 - El enfoque prescriptivo que se había utilizado con el latín se podía extender al estudio de lenguas romances, pero su uso era completamente contraproducente con lenguas alejadas.
 
-- A finales del s. XIX, cuando se comenzó a estudiar lenguas americanas, los lingüistas terminaron adoptando un enfoque completamente diferente.
+- A finales del s. XIX, cuando se comenzó a estudiar lenguas americanas y asiáticas, los lingüistas terminaron adoptando un enfoque completamente diferente.
 
     1. Se recogen datos y ejemplos en las lenguas que quieren estudiar.
+
 	2. Se intenta describir las regularidades estructurales que se desprenden de esos datos.
+
 	3. Dichas regularidades se utilizan para caracterizar los usos de la lengua.
 
 
@@ -886,9 +893,10 @@ léx & derivat & flex & flex & & |
 
 ### El análisis estructural
 
+- Un tipo de enfoque descriptivo se conoce con el nombre de **análisis estructural**.
 
-- Un tipo de enfoque prescriptivo se conoce con el nombre de **análisis estructural**.
 - El objetivo de este análisis es determinar la distribución de las distintas formas de una lengua.
+
 - El método implica el uso de los llamados «marcos de prueba» que se suelen representar como oraciones con posiciones vacías.
 	
 	*La \_\_\_\_\_\_\_\_\_\_ hace mucho ruido.
@@ -930,128 +938,52 @@ léx & derivat & flex & flex & & |
 	
 - ¿Cómo se agrupan los ocho constituyentes de la oración *Su padre llevó una pistola a la boda*?
 
+- Este tipo de diagramas se suele utilizar para mostrar qué elementos se pueden sustituir unos por otros en cada uno de los niveles de la estructura de constituyentes.
+
+--SLIDE--
+
+### Oraciones etiquetadas y encorchetadas
+
+- Otro tipo de diagrama común para mostrar de qué forma los distintos constituyentes de la estructura de la oración se combinan es mediante **corchetes etiquetados**.
+
+    - *El perro enterraba un hueso*.
+
+    - El/Det perro/N enterraba/V un/Det hueso/N
+ 
+    - [ El/Det perro/N ]/SN enterraba/V [ un/Det hueso/N ]/SN
+	
+    - [ El/Det perro/N ]/SN [ enterraba/V [ un/Det hueso/N ]/SN ]/SV
+
+    - [ [ El/Det perro/N ]/SN [ enterraba/V [ un/Det hueso/N ]/SN ]/SV ]/O
 
 --SUBSLIDE--
 
-
-### Análisis de constituyentes inmediatos
-
-- *El perro enterraba un hueso*
-
-\begin{center}
-\begin{tabular}{|l|l|l|l|l|}
-\hline 
-\multicolumn{2}{|l|}{} & \multicolumn{3}{|l|}{} |
-\cline{2-2}
-\cline{4-5}
-El & perro & enterraba & un & hueso | 
-\hline 
-\end{tabular}
-\end{center}
-
-*La mujer escondió una gran serpiente en una caja}
-
-\begin{center}
-\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
-\hline 
-\multicolumn{2}{|l|}{} & \multicolumn{4}{|l|}{} & \multicolumn{3}{|l|}{} |
-\cline{2-2}
-\cline{4-6}
-\cline{8-9}
-La & mujer & escondió & una & gran & serpiente & en & una & caja | 
-\hline 
-\end{tabular}
-\end{center}
-
---SLIDE--
-
-### Análisis de constituyentes inmediatos}
-
-
-- Este tipo de diagramas se suele utilizar para mostrar qué elementos se pueden sustituir unos por otros en cada uno de los niveles de la estructura de constituyentes.
-
-
-\begin{center}
-\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
-\hline 
-Su & padre & llevó & una & \multicolumn{2}{|l|}{pistola} & a & la & boda |
-\cline{5-6} 
-La & mujer & escondió & una & gran & serpiente & en & una & caja | 
-\cline{1-2} 
-\cline{4-6} 
-\cline{8-9} 
-\multicolumn{2}{|l|}{Olga} & vio & \multicolumn{3}{|l|}{Friends} & en & \multicolumn{2}{|l|}{televisión} |
-\cline{7-9} 
-\multicolumn{2}{|l|}{Ella} & abrió & \multicolumn{3}{|l|}{eso} & \multicolumn{3}{|l|}{cuidadosamente} |
-\hline 
-\end{tabular}
-\end{center}
-
---SLIDE--
-
-### Oraciones etiquetadas y encorchetadas
-
-
-- Otro tipo de diagrama común para mostrar de qué forma los distintos constituyentes de la estructura de la oración se combinan es mediante **corchetes etiquetados}.
-
-
-	\pause
-	
-	[El]_{Det} [perro]_{N} [enterraba]_{V} [un]_{Det} [hueso]_{N}
-
-	\hspace{0.2cm}
-	\pause
-	
-	[ [El]_{Det} [perro]_{N} ]_{SN} [enterraba]_{V} [ [un]_{Det} [hueso]_{N} ]_{SN}
-	
-	\hspace{0.2cm}
-	\pause
-	
-	[ [El]_{Det} [perro]_{N} ]_{SN} [ [enterraba]_{V} [ [un]_{Det} [hueso]_{N} ]_{SN} ]_{SV}
-
-	\hspace{0.2cm}
-	\pause
-	
-	[ [ [El]_{Det} [perro]_{N} ]_{SN} [ [enterraba]_{V} [ [un]_{Det} [hueso]_{N} ]_{SN} ]_{SV} ]_{O}
---SLIDE--
-
-
-### Oraciones etiquetadas y encorchetadas
-
-
 - Al hacer este tipo de análisis no nos limitamos a etiquetar cada consituente con el nombre de su categoría gramatical, estamos haciendo explícita la organización jerárquica de la oración. 
 
-- En esta jerarquía, la oración (O) es el nivel superior por encima de los sintagmas nominales (SN) y verbales (SV).
+- En esta jerarquía, la oración (**O/S**) es el nivel superior por encima de los sintagmas nominales (**SN/NP**) y verbales (**SV/VP**).
 
-- Los sintagmas nominales están por encima de los nombres (N) y determinantes (Det).
+- Los sintagmas nominales están por encima de los nombres (**N/NN**) y determinantes (**Det/DT**).
 
-- Los sintagmas verbales están compuesto por una forma verbal (V) y por un sintagma nominal.
+- Los sintagmas verbales están compuesto por una forma verbal (**V/VB**) y por un sintagma nominal (**SN/NP**).
 
 - Podemos utilizar este tipo de diagramas para describir la estructura de los constituyentes de cualquier lengua, independientemente de la estructura de la oración. 
 
---SLIDE--
+--SUBSLIDE--
 
-### Oraciones etiquetadas y encorchetadas en otras lenguas
+- La oración en gaélico *chunnaic an gille an cu dubh* tiene seis elementos:
 
-\begin{center}
-\begin{tabular}{l l l l l l}
-*Chunnaic} & *an} & *gille} & *an} & *cu} & *dubh} |
-`ver' & `el' & `niño' & `el' & `perro' & `negro' |
-\end{tabular}
-\end{center}
+    - *chunnaic*: ver
+    - *an*: el
+    - *gille*: niño
+    - *cu*: perro
+    - *dubh*: negro
 
-\begin{center}
-[Chunnaic]_{V} [an]_{Det} [gille]_{N} [an]_{Det} [cu]_{N} [dubh]_{Adj} 
 
-\pause
+- chunnaic/V an/Det gille/N an/Det cu/N dubh/Adj 
 
-[Chunnaic]_{V} [ [an]_{Det} [gille]_{N} ]_{SN} [ [an]_{Det} [cu]_{N} [dubh]_{Adj} ]_{SN} 
+- [chunnaic/V] [an/Det gille/N]/SN [an/Det cu/N dubh/Adj]/SN 
 
-\pause
-
-[ [Chunnaic]_{V} [ [an]_{Det} [gille]_{N} ]_{SN} [ [an]_{Det} [cu]_{N} [dubh]_{Adj} ]_{SN} ]_{O}
-\end{center}
-
+- [ [ [chunnaic/V] ]/SV [an/Det gille/N]/SN [ [an/Det cu/N dubh/Adj]/SN ]/SV ]/O
 
 - El diagrama muestra, en primer lugar, que el orden de constituyentes en gaélico es VSO, frente al orden SVO típico en español.
 
@@ -1060,246 +992,20 @@ La & mujer & escondió & una & gran & serpiente & en & una & caja |
 
 ### Ejercicio
 
-	Traduce al latín la oración *Las palomas aman a la niña pequeña}:
+- Traduce al latín la oración *Las palomas aman a la niña pequeña*:
+
+    - puellae aquilas portant: *las niñas llevan las águilas*
 	
-	\vspace{0.5cm}
+    - feminae columbas amant: *las mujeres aman las palomas*
 	
-	*puellae aquilas portant}: `las niñas llevan las águilas'
+    - puella aquilam salvat: *la niña salva al águila*
 	
-	*feminae columbas amant}: `las mujeres aman las palomas'
+    - femina paruam aquilam liberat: *la mujer libera al águila pequeña*
 	
-	*puella aquilam salvat}: `la niña salva al águila'
-	
-	*femina paruam aquilam liberat}: `la mujer libera al águila pequeña'
-	
-	*magna aquila paruam columbam pugnat}: `el águila grande lucha contra paloma pequeña'	
-	
-	% \item aquilas puellam paruam amant
---SLIDE--
-
-
-### Parte 4}
-
-# La formación de palabras en español
-
---SLIDE--
-
-### El análisis de la palabra compleja
-
-
-- Las **palabras complejas** son aquellas que están integradas por los elementos más pequeños de la lengua que tienen contenido significtivo: los morfemas.
-
-- Entre los morfemas, encontramos unas unidades con significado léxico (morfemas léxicos o lexemas) y otras con contenido gramatical (morfemas gramaticales o gramemas).
-
-- Hay morfemas que pueden realizarse como palabras independientes (morfemas libres) y otros morfemas que tienen que apoyarse necesariamente a otras unidades (morfemas ligados o afijos).
-
-- Los afijos que tienen contenido léxico y que contribuyen a la formación de nuevas palabras se denominan afijos derivativos. 
-
-- Los que simplemente transmiten contenido gramatical y no forman nuevas palabras, sino que las flexionan, se denominan afijos flexivos.
-
-
---SLIDE--
-
-### La segmentación de la palabra compleja
-
-- El dato más importante para identificar un morfema es su recurrencia: el hecho de que el presunto morfema aparezca en otras palabras con un significado semejante. 
-
-- En la palabra *superrealista* podemos reconocer tres elementos: 
-	
-	- *super-* puede aparecer en otros ejemplos como *superhombre, supermasivo*.
-
-	- *real-* puede aparecer en otros ejemplos como *realidad, realismo*.
-
-	- *-ista* puede aparecer en otros ejemplos como *comunista, madridista*.
-
-
---SLIDE--
-
-### La segmentación de la palabra compleja
-	
-
-- No siempre es fácil descomponer una palabra compleja en sus morfemas constitutivos, especialmente cuando pasamos por sus diferentes estadios de su formación y no identificamos como propia del español alguna unidad.
-
-- Ejemplos como *minimalismo, minimalista* no se han formado directamente sobre el lexema *minim-*, en cuyo caso habrían generado las formas *minimismo*, *minimista* sino que provienen de la forma *minimal* del inglés.
-
-- A veces una palabra puede descomponerse morfológicamente de más de una manera. Para resolver estos casos, debemos fijarnos en otras palabras paralelas o anteder al significado.
-
---SLIDE--
-
-### La segmentación de la palabra compleja
-	
-- La palabra *cafecito* puede descomponerse como *caf-ec-ito* dado que *-ito* es un morfema fácilmente aislable y sabemos que algunos nombres que toman este se incrementan con un interfijo *-ec-* como *mes-ec-ito, jefe-ec-ito*.
-	
-- Sin embargo, también puede descomponerse como *cafe-c-ito* ya que hay un grupo de palabras que en diminutivo se incrementan con el interfijo *-c-* como *pastor-c-ito, leon-c-ito*.
-	
-- Otros derivados de *café* toman la *-e* como parte de la raíz (*cafeína*), de manera que, siendo coherentes, parece razonable dar por buena la segmentación *cafe-c-ito*.
-
---SLIDE--
-
-### La derivación
-
-- Mediante el procedimiento de la **derivación} formamos nuevas palabras a partir de otras, bien sea añadiendo un afijo, o bien mediante otro procedimiento no afijal.
-
-- Es habitual que en el proceso de derivación afijal se eliminen las vocales que sean marca de flexión:
-	
-    - *esponj(a) &rarr; esponj-os(o) &rarr; esponj-os-idad*
-	
-- En los casos de derivación no afijal conocidos como `formación regresiva', los derivados formalmente más sencillos que la palabra original:
-
-    - *sostener &rarr; sostén, deslizar &rarr; desliz, retener &rarr; retén*
-
-
---SLIDE--
-
-### La derivación
-
-- El procedimiento de derivación más productivo en español se efectúa mediante la adición de un afijo pleno.
-
-- Sufijación: *casa &rarr; cas-ero*
-
-- Prefijación: *coser &rarr; re-coser*
-
-- Circunfijación o parasíntesis: *pobre &rarr; em-pobr-ecer*
-
-- Se conocen otros dos tipos de afijos que, por sí solos, no derivan palabras: 
-	
-	- los infijos se colocan dentro del lexema: *azuqu-ít-ar*
-
-	- los interfijos se colocan entre la base léxica y el sufijo *lod-az-al*. 
-	
-
-
---SLIDE--
-
-### Derivación y flexión: diferencias
-
-- Formalmente, son dos procesos similares en tanto en cuanto consisten en la adición de un afijo a una base léxica.
-
-- La derivación forma nuevas palabras, la flexión simplemente modifica la información gramatical de la base léxica.
-
-- La flexión en español se realiza solo a través de sufijos.
-
-- Prefijos y circunfijos están limitados en español a la derivación.
-
-- La derivación puede cambiar la categoría de la base léxica sobre la que se aplica.
-
---SLIDE--
-
-### Estructura de la palabra
-
-- Además de saber aislar los morfemas de los que consta una palabra, el hablante es capaz de reconocer cómo se relacionan entre sí los morfemas de acuerdo con una orden jerárquico.
-
-- Los morfemas constitutivos de una palabra como *reanudación* puede representarse mediante una estructura de corchetes: 
-	 
-	 \begin{center}
-	 [ [re [a [nud]_{N} a]_{V} ]_{V} ción]_{N}
-	 \end{center}
-	  
-- El orden de concatenación de afijos ha sido N &rarr; V &rarr; V &rarr; N.
-
-- Algunos derivados de verbos permiten más de un análisis posible: *reformulación* puede entenderse como *acción o efecto de reformular* o *nueva formulación*
-	
-	 \begin{center}
-	 fórmula &rarr; formular &rarr; reformular &rarr; reformulación
-	 
-	 fórmula &rarr; formular &rarr; formulación &rarr; reformulación
-	 \end{center}
-
-
---SLIDE--
-
-### La composición
-
-- La composición es el proceso de formación de nuevas palabras mediante la unión de dos o más lexemas.
-
-- Los lexemas que se combinan en las palabras compuestas pueden ser de dos tipos: palabras de la lengua (P) o temas cultos de origen greco-latino (T).
-	
-	- P + P: *hojalata, claroscuro, pelirrojo, vaivén, maniatar*
-
-	- T + T: *logopeda, ecólogo, pediatra, xenófobo, filántropo*
-
-	- P + T: *germanófilo, musicólogo, herbívoro, rumorología*
-
-	- T + P: *ecosistema, geofísico, filocomunista, cardioprotector*
-	
-- Algunos autores identifican los temas cultos con afijos y clasifican los ejemplos T + P como derivados por prefijación. 
-
---SLIDE--
-
-### Compuestos ortográficos o léxicos
-
-- El compuesto plenamente soldado, llamado **compuesto ortográfico** o **compuesto léxico**, presenta sus componentes unidos gráficamente.
-
-- El compuesto tiene un significado propio con un referente único, aunque su significado no es ajeno al de sus constituyentes.
-
-- Los constituyentes que incluyen dentro de sí solo pueden ser entidades léxicas, no sintagmas: **guardaloscoches &rarr; guardacoches, *paraelsol &rarr; parasol. Hay contraejemplos, como *correveidile, hazmerreir*.} 
-
-
---SLIDE--
-
-### Compuestos ortográficos o léxicos
-
-
-- Las marcas morfológicas de género y número se manifiestan solo externamente marcando al compuesto en su totalidad: **aguasardientes &rarr; aguardientes, *latinasamericanas &rarr; latinoamericanas. Hay contrajemplos como *cualesquiera, quienesquiera*. 
-
-- Desde el punto de vista fonológico, los compuestos solo tienen un acento primario: *álta* + *vóz* &rarr; *altavóz*.
-
-- Si tiene más de tres sílaba, es habitual que el compuesto tenga un acento primario y uno secundario: *cúmpleáños*.
-
---SLIDE--
-
-### Sintaxis del compuesto
-
-
-- Es posible reconocer ciertas relaciones entre los constituyentes de un compuesto. 
-
-- Todo compuesto tiene un núcleo que, desde el punto de vista semántico, es un hiperónimo (concepto más general) del compuesto: *relieve* es el núcleo de *bajorrelieve*.
-
-- Cuando el compuesto está dentro de la formación léxica hablamos de **compuesto endocéntrico**: *altiplanicie*.
-
-- Cuendo el núcleo semántico está fuera del compuesto hablamos de **compuesto exocéntrico**: *cienpiés*.
-
-- El núcleo es el que impone la categoría gramatical al compuesto y, en la mayoría de los casos, también impone el género.
-
-
---SLIDE--
-
-### Combinación de categorías léxicas en compuestos
-
-
-- N + V = V: *maniatar*
-- Adv + V = V: *malvivir*
-- V + N = N: *limpiabotas, abrelatas*
-- V + V = N: *duermevela, quitaipón*
-- N + N = N: *hojalata*
-- N + Adj = N: *guardamarina*
-- Adj + N = N: *librecambio, justiprecio*
-- Adj + Adj = Adj: *agridulce, claroscuro*
-- N + Adj = Adj: *pelirrojo*
-- Adv + Adj = Adj: *malsano, bienintencionado*
-
+    - magna aquila paruam columbam pugnat: *el águila grande lucha contra paloma pequeña*	
 	
 --SLIDE--
 
-### Compuestos sintagmáticos
-
-
-- Los **compuestos sintagmáticos** son determinadas agrupaciones de palabras que se comportan como los compuestos ortográficos, a pesar de que sus componentes se realizan como palabras separadas.
-
-- Forman una unidad solidaria y tienen un significado único. 
-
-- Existen tres tipos de compuestos sintagmáticos:
-	
-    - Compuestos preposicionales: *ojo de buey, caballo de batalla, piel de gallina, patas de gallo*.
-    
-	- Compuestos yuxtapuestos: *perro pastor, pantalón capana, ciudad dormitorio*.
-	
-	- Compuestos de nombre y adjetivo: *hilo musical, llave inglesa, buena fe, alta mar*.
-	
-
-	
-
---SLIDE--
 
 ### Referencias
 
