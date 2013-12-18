@@ -22,7 +22,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - La incorporación de nuevas palabras se realiza lentamente a lo largo el tiempo. Todas las incorporaciones suelen considerarse durante un tiempo *barbarismos* y como tal son criticadas.
 
-- No debemos entendar estos procesos como si produjesen una degradación de la lengua, sino como un signo de vitalidad. Cualquier idioma se va remodelando para ajustarse a las necesidades de sus hablantes.
+- No debemos entender estos procesos como si produjesen una degradación de la lengua, sino como un signo de vitalidad. Cualquier idioma se va remodelando para ajustarse a las necesidades de sus hablantes.
 
 
 --SLIDE--
@@ -277,7 +277,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Es común encontrar ejemplos de creación de palabras en los que varios procesos diferentes actúan de forma simultánea.
 	
-    - *deli* en inglés amerciano fue originariamente un préstamo del alemán *delicatessen* que se redujo por apócope
+    - *deli* en inglés americano fue originariamente un préstamo del alemán *delicatessen* que se redujo por apócope
 
     - En la frase *Problems have snowballed*, *snowball* era originariamente una palabra compuesta que sufrió una conversión para utilizarse como verbo.
 
@@ -326,7 +326,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
-- En swahili, la idea de palabra difiere bastante de la que tenemos en español, ya que una palabra como *nitakupenda* se correponde con varias palabras en nuestra lengua *yo te querré*. 
+- En swahili, la idea de palabra difiere bastante de la que tenemos en español, ya que una palabra como *nitakupenda* se corresponde con varias palabras en nuestra lengua *yo te querré*. 
 
     - *ni*: *yo* (pron. de 1ª pers. sing. SUJ)
     - *-ta-*: (tiempo futuro)
@@ -338,9 +338,9 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ### Morfemas
 
-- No necesitamos recurrir a lenguas distantes para descubir que las palabras está formadas por varios elementos.
+- No necesitamos recurrir a lenguas distantes para descubrir que las palabras está formadas por varios elementos.
 
-    - En las palabas *cantas, cantante, cantaba, cantando* podemos identificar un elemento constante *cant-* y distintos elementos como *-as, -ante, -aba, -ando*.
+    - En las palabras *cantas, cantante, cantaba, cantando* podemos identificar un elemento constante *cant-* y distintos elementos como *-as, -ante, -aba, -ando*.
 
 - Todos estos elementos son **morfemas**.
 
@@ -355,7 +355,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 	
     - una unidad mínima de significado *abrir*;
     - otra unidad mínima de significado *re-* que significa *de nuevo*; y 
-    - otra unidad mínina con función gramatical *-rá* que indica 3ª pers. sing. y tiempo futuro. 
+    - otra unidad mínima con función gramatical *-rá* que indica 3ª pers. sing. y tiempo futuro. 
 	
 --SUBSLIDE--
 
@@ -582,7 +582,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ### Análisis morfológicos en otras lenguas
 
-- Cuando analizamos morfológicamente otras lenguas podemos encontrar formas y patrones que podríamos explicar a patir de las categorías básicas de morfemas que hemos visto para el español.
+- Cuando analizamos morfológicamente otras lenguas podemos encontrar formas y patrones que podríamos explicar a partir de las categorías básicas de morfemas que hemos visto para el español.
 
     - En inglés, *dark-* (oscuro) *-en-* (hacer) *-ed* (tiempo pasado &rarr; *darkened* (oscureció)
 
@@ -691,7 +691,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 	
 --SLIDE--
 
-### Ejercio: morfema flexivo del plural en turco
+### Ejercicio: morfema flexivo del plural en turco
 	
 |        | singular | plural  |         |
 |:------:|:--------:|:-------:|:-------:|
@@ -731,7 +731,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 	
 --SUBSLIDE--
 
-- **Morfógico**
+- **Morfológico**
 
     - l- (func.) -o- (flex.) -s  (flex.) 
     
@@ -789,7 +789,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
-- preposiciones (**PREP/IN**): palabras que se emplean junto a los nombres o a los sintagmas nominales para construir sintagmas preposicionales que proporcionan información temporal (*a las diez, por la noche/at ten, during the night*), de lugar (*en mi casa, sobre la mesa/in my place, on the table*), de instrumento (*con un martillo/with a hammer*), de causa (*por imprudente/because of his carlessness*).
+- preposiciones (**PREP/IN**): palabras que se emplean junto a los nombres o a los sintagmas nominales para construir sintagmas preposicionales que proporcionan información temporal (*a las diez, por la noche/at ten, during the night*), de lugar (*en mi casa, sobre la mesa/in my place, on the table*), de instrumento (*con un martillo/with a hammer*), de causa (*por imprudente/because of his carelessness*).
 
 - conjunciones (**CONJ/CC**): son palabras utilizadas como conectores para indicar relaciones entre sucesos (y, o, pero, sino, sin embargo, excepto/and, or, but, however).
 
@@ -816,7 +816,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
     - El **modo** es la categoría gramatical que clasifica la acción, el proceso o el estado de un verbo desde la perspectiva del emisor, según éste la conciba como real (indicativo), subjetiva (subjuntivo) o apelativa (imperativo).
 
-    - La **voz** es la categoría gramatica que indica quién realiza (agente) y quién recibe (paciente) la acción denotada por el verbo, es decir, indica el papel temático del sujeto y del objeto. 
+    - La **voz** es la categoría gramatical que indica quién realiza (agente) y quién recibe (paciente) la acción denotada por el verbo, es decir, indica el papel temático del sujeto y del objeto. 
 
         - *El perro es paseado*.
 
@@ -826,7 +826,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - El **género** es una propiedad lingüística y no siempre hay relación directa y lógica con respecto al sexo biológico. 
 
-- En inglés o en español, es normal que exista relación directa entre género gramátical y el sexo biológico. 
+- En inglés o en español, es normal que exista relación directa entre género gramatical y el sexo biológico. 
     
     - *The girl walks her dog* / *La niña pasea a su perro*.
 
@@ -870,7 +870,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Precisamente este fue el enfoque que plantearon los gramáticos del s. XVIII, los primeros en sistematizar la gramática y establecer el conjunto de reglas que definía qué usos eran correctos o convenientes y cuáles no.
 
-- Esta «corrección lingüística» es una parte importante de la educación que recibimos. Se asume y acepta que alguien instruído que escribe bien respeta estas normas. Y una persona que nos las respeta, es porque tiene bajo nivel cultural.
+- Esta «corrección lingüística» es una parte importante de la educación que recibimos. Se asume y acepta que alguien instruido que escribe bien respeta estas normas. Y una persona que nos las respeta, es porque tiene bajo nivel cultural.
 
 
 --SLIDE--
@@ -958,7 +958,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 
-- Al hacer este tipo de análisis no nos limitamos a etiquetar cada consituente con el nombre de su categoría gramatical, estamos haciendo explícita la organización jerárquica de la oración. 
+- Al hacer este tipo de análisis no nos limitamos a etiquetar cada constituyente con el nombre de su categoría gramatical, estamos haciendo explícita la organización jerárquica de la oración. 
 
 - En esta jerarquía, la oración (**O/S**) es el nivel superior por encima de los sintagmas nominales (**SN/NP**) y verbales (**SV/VP**).
 
