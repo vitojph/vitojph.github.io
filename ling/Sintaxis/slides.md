@@ -1,14 +1,10 @@
-n   # Sintaxis
+# Sintaxis
 
 ## Introducción a la Lingüística.
 
-Área de Lingüística, Fac. de Filología, UCM | 19/12/2013
+Área de Lingüística, Fac. de Filología, UCM | 9/01/2014
 
 Víctor Peinado | v.peinado@filol.ucm.es
-
---SLIDE--
-
-# Gramática Generativa
 
 --SLIDE--
 
@@ -23,14 +19,37 @@ y oraciones.
 
 - A continuación vamos a ver algunos estudios que plantean nuevos enfoques que den cuenta de las combinaciones en la estructura de las oraciones.
 
+--SLIDE--
+
+### Diagramas de árbol
+
+- En clases anteriores mencionamos como podíamos describir la estructura de las oraciones como si fueran una secuencia plana y linea del constituyentes. 
+
+    [ el/Det mono/N ]/SN
+    
+- Es posible poner en relieve la organización jerárquica mostrando la misma información en forma de árbol.
+
+![El mono](img/tree1.png)
 
 --SUBSLIDE--
+
+- Este tipo de representación nos permite proporcionar toda la información gramatical y muestra explícitamente el hecho de que existen **distintos niveles de análisis**.
+
+![El mono comía un plátano](img/tree2.png)
+
+
+--SLIDE--
+
+# Gramática Generativa
+
+--SLIDE--
 
 ### La Gramática Generativa
 
 - El lingüista estadounidense Noam Chomsky, a partir de los años 1950s, propuso dar un enfoque matemático a la descripción gramatical: la **gramática generativa**.
 
-    Consideraré que el lenguaje es un conjunto (finito o infinito) de oraciones.
+> Consideraré que el lenguaje es un conjunto (finito o infinito) de oraciones.
+> 
 
 - La gramática generativa está formada por un conjunto explícito de reglas que especifican qué combinaciones de elementos básicos conforman las oraciones bien formadas de una lengua.
 
@@ -59,20 +78,21 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 4. La gramática deberá ser capaz de mostrar tanto la **estructura superficial** como la **estructura profunda**.
 
-
---SUBSLIDE--
+--SLIDE--
 
 ### Recursión
 
 - La recursión es la propiedad de definir algo en términos de sí mismo.
 
-- Sea cual sea la regla que genera el componente *que cazó el gato* en la oración *Ese es el perro que cazó el gato*, la gramática generativa deberá permitir aplicar dicha regla de nuevo para generar cualquier estructura similar a *Ese es el perro que cazó el gato que se comió el ratón*.
+- Sea cual sea la regla que genera el componente *que cazó el gato* en la oración *Ese es el perro que cazó el gato*, la gramática generativa deberá permitir aplicar dicha regla de nuevo tantas veces sea necesario para generar cualquier estructura similar a *Ese es el perro que cazó el gato que se comió el ratón*.
 
 - La gramática generativa deverá considerar la posibilidad de que una oración pueda contener otra oración dentro de ella, o de que un sintagma determinado pueda estar formado por otro sintagma.
 
-- Esta caracteristica es la que nos permite, a partir de un número finito de reglas, un número (potencialmente) infinito de oraciones válidas.
+--SUBSLIDE--
 
-    Para entender a recursividad, primero hay que entender la recursividad.
+- Esta característica es la que nos permite, a partir de un número finito de reglas, un número (potencialmente) infinito de oraciones válidas.
+
+> Para entender a recursividad, primero hay que entender la recursividad.
 
 --SLIDE--
 
@@ -85,6 +105,8 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
     - Según la gramática tradicional, la primera es una oración activa y la segunda es pasiva.
     
     - Difieren en su **estructura superficial** en en la forma sintáctica en la que se realizan.
+
+--SUBSLIDE--
     
 - Sin embargo, ambas oraciones están estrechamente relacionadas y pueden considerarse idénticas si atendemos a su **estructura profunda**.
 
@@ -99,7 +121,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 - Pensemos en dos oraciones con estructuras profundas distintas:
 
     - *Ana tenía un paraguas y, con él, golpeó a un hombre*.
-    - *Ana golpeó a n hombre, y el hombre tenía un paraguas*.
+    - *Ana golpeó a un hombre, y el hombre tenía un paraguas*.
     
 - Estos dos hechos diferentes pueden expresase con la misma estructura superficial: *Ana golpeó a un hombre con un paraguas*. 
 
@@ -119,9 +141,23 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 ### Símbolos utilizados en la descripción sintáctica
 
-- Ya hemos visto en clases anteriores los nombres o etiquetas de las categorías sintácticas tales como oración (O/S), sintagma nominal (SN/NP), sintagma verbal (SV/VP), determinante (Det/DT), verbo (V/VB), etc.
+- Ya hemos visto en clases anteriores los nombres o etiquetas de las categorías sintácticas tales como:
 
-- Las reglas generarivas se componen de dos partes:
+    - O: oración
+    - SN: sintagma nominal, SV: sintagma verbal, SP: sintagma preposicional
+    - N: nombre, NP: nombre propio, Pro: pronombre
+    - V: verbo, Aux: verbo auxiliar
+    - Det: determinante
+    - Adj: adjetivo, Adv: adverbio
+    - Prep: preposición, Post: postposición 
+    - Conj: conjunción
+
+
+--SUBSLIDE--
+
+### Estructura de las reglas generativas
+
+- Las **reglas generativas** se componen de dos partes:
 
     - una **parte izquierda**, situada antes de la flecha, en la que indicamos qué elemento estructural queremos definir.
      
@@ -131,25 +167,41 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 --SUBSLIDE--
 
-- La regla generativa:
+- La siguiente regla generativa se interpreta como *un sintagma nominal consta de un determinante y un nombre*:
 
     SN &rarr; Det N
     
-- se interpreta como *un sintagma nominal consta de un determinante y un nombre*
+- La siguiente regla generativa se interpreta como *un sintagma verbal es equivalente a un verbo y un sintagma nominal*:
 
-- Cualquier cosa encerrada entre paréntesis se entenderá como un componente opcional.
+    SV &rarr; V SN
 
-- Podemos completar la regla anterior diciendo que un SN consta obligatoriamente de un determinante y un nombre y, que opcionalmente, puede contener un adjetivo:
+- *Un sintagma preposicional se reescribe como una preposición seguida de un sintagma nominal*:
+
+    SP &rarr; Prep SN
+
+--SUBSLIDE--
+
+### Elementos opcionales
+
+- Cualquier cosa encerrada entre **paréntesis ()** se entenderá como un componente opcional.
+
+- Podemos completar una de las reglas anteriorres diciendo que un *SN consta obligatoriamente de un determinante y un nombre y, que opcionalmente, puede contener un adjetivo*:
 
     SN &rarr; Det N (Adj)
+    
+- O *un SV está formado por una forma verbal obligatoria, y SN y SP opcionales*:
+
+    SV &rarr; V (SN) (SP)
 	
 --SUBSLIDE--
+
+### Conjunto de opciones múltiples
 
 - Las **llaves {}** indican un conjunto de opciones posibles, de las que solo se puede elegir una.
 
 - Por ejemplo, en español, un SN puede presentar varias estructuras distintas.
 
-    - un determinante y un nombre
+    - un determinante y un nombre, con un adjetivo opcional
     
         SN &rarr; Det N (Adj)
 
@@ -167,31 +219,148 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 --SUBSLIDE--
 
---SUBSLIDE--
+- Las llaves se suelen utilizar para especificar el vocabulario disponible en la gramática. 
 
-O: oración
-Pro: pronombre
-V: verbo
-Det: determinante
-Prep: preposición
-SV: sintagma verbal
-Conj: conjunción
-N: nombre
-NP: nombre propio
-Adj: adjetivo
-Adv: adverbio
-SN: sintagma nominal
-SP: sintagma preposicional
+- Para definir, por ejemplo, qué tipos de determinantes contempla nuestra gramática podemos especificar reglas como:
 
-*: secuencia agramatical
-&rarr;: consta de
-(): consituyente opcional
-{}: opciones disponibles, solo uno puede ser seleccionado
+    Det &rarr; {the, a, an, this, these, that, those}
+
+- Ídem para los verbos, o las preposiciones:
+
+    V &rarr; {eat, eats, love, loves, run, runs...}
+
+    Prep &rarr; {at, in, before, after, for...}
+
+
+--SLIDE--
+
+### Ejemplo de gramática
+
+![Gramática de ejemplo](img/gram1.png)
 
 --SUBSLIDE--
 
-# Tipos de reglas
+### Oraciones gramaticales y agramaticales
 
+1. *El chico segúia a la niña*.
+2. *El chico ayudó a la niña*.
+3. *El perro vio una niña*.
+4. *Alicia ayudó a Jorge recientemente*.
+5. *Jorge vio un perro ayer*.
+6. *Un pequeño perro seguía a Alicia*.
+7. *El pequeño chico vio a Jorge con un perro loco recientemente*.
+8. \**Chico la Alicia vio*.
+9. \**Ayudó una chica*.
+10. \**Pequeño perro con chica*.
+
+--SLIDE--
+
+### Más sobre la recursión
+
+- Los ejemplos de reglas que hemos visto hasta ahora no tienen recursión.
+
+- En ninguna de las reglas de nuestra gramática anterior hemos definido un constituyente en términos de sí mismo.
+
+- Necesitamos una regla que pueda aplicarse tantas veces como sea necesario para permitir generar oraciones dentro de oraciones.
+
+    - *Alicia leía un libro*.
+    - *Carlota pensó que Alicia leía un libro*.
+    - *Juan dijo que Carlota pensó que Alicia leía un libro*.
+
+--SUBSLIDE--
+
+- Nuestra gramática deberá permitir también generar sintagmas dentro de sintagmas:
+
+    - *la silla está en la habitación*
+    - *la silla está en la habitación junto a la ventana*
+    - *la silla está en la habitación junto a la ventana detrás de la mesa*
+
+--SUBSLIDE--
+
+- Para recoger estas nuevas estructuras necesitamos añadir algunas reglas a nuestra gramática.
+
+- Tenemos que ampliar vocabulario:
+
+    V &rarr; {*dijo, pensó*}
+    
+    Conj &rarr; *que*
+    
+    NP &rarr; {*Carlota, Juan*}
+    
+- Y lo que es más importante, necesitamos introducir un par de reglas recursivas:
+
+    SV &rarr; V O
+    
+    O &rarr; Conj O
+    
+
+--SUBSLIDE--
+
+![Recursión](img/recursion.png)
+
+--SLIDE--
+
+### Tipos de reglas
+
+- **Reglas estructurales** que generan estructuras. 
+
+    O &rarr; SN SV
+
+    SN &rarr; Det N (Adj)
+  
+- **Reglas léxicas** que especifican el vocabulario, indicando qué palabras se pueden utilizar para sustituir cada constituyente.
+
+    N &rarr; {chico, chica, perro... } 
+
+    V &rarr; {ha visto, ayudó, come... } 
+
+--SUBSLIDE--
+
+- La siguiente regla:
+
+    SV &rarr; V {SN, SP} (SP) (Adv)
+    
+- nos permiten generar SVs en los que el Adv, de aparecer, ocupa la última posición del sintagma: *Jorge ayudó a Alicia ayer*.
+
+- Pero no podríamos reconocer oraciones válidas equivalentes como *Ayer Jorge ayudó a Alicia*.
+
+- Para solventar este problema, podemos crear un conjunto de **reglas transformacionales** que nos permitan mover constituyentes y desplazar ramas del árbol.
+
+--SUBSLIDE--
+
+![Reglas transformacionales](img/transform1.png)
+
+--SUBSLIDE--
+
+![Reglas transformacionales](img/transform2.png)
+
+--SUBSLIDE--
+
+- La necesidad de este tipo de reglas transformacionales se argumenta fácilmente a partir de los ejemplos en inglés en los que manejamos *phrasal verbs* o verbos con partículas asociadas.
+
+    *John pick up the phone*.
+
+    *John pick the phone up*.
+    
+- Para dar cuenta de estos ejemplos, podemos crear reglas:
+
+    V Part SN &rArr; V SN Part
+
+--SUBSLIDE--
+
+- Una estrategia parecia se suele utilizar para tratar las oraciones en inglés que utilizan verbos modales o auxiliares. 
+
+- Oraciones como declarativas como *You can/could/may/will/should go to the hotel* pueden formalizarse como:
+
+    O &rarr; SN (Aux) SV
+    
+    Aux &rarr; {*can, could, may, will, should*}
+    
+- Mediante una regla transformacional podemos dar cuenta también de estas oraciones en su forma interrogativa: *can/could/may/will/should you go to the hotel?*
+
+    SN Aux SV &rArr; Aux SN SV?
+
+    
 --SLIDE--
 
 ### Otros enfoques de la gramática generativa
@@ -203,7 +372,59 @@ SP: sintagma preposicional
 - Para otros, el significado es un componente básico, hasta el punto de que abandonan la idea de estructura profunda en favor de una representación semántica.
 
 
+--SLIDE--
 
+### Ejercicio: Gramática del gaélico escocés.
+
+- ¿Cuáles de las siguientes oraciones en galélico escocés son gramaticales y cuáles agramaticales? 
+
+    - *Calum chunnaic an gille*.
+    - *Bhuail an beag cu Tearlach*
+    - *Bhuail an gille mor an cu*.
+    - *Chunnaic Tearlach an gille*
+    - *Ban an cu an duine beag*
+    - *Fhuair Mairi an cu ban*
+    
+- Elabora diagramas de árbol para las oraciones que estén bien formadas.
+    
+--SUBSLIDE--
+
+- Gramática del gaélico escocés.
+
+    O &rarr; V SN SN
+
+    SN &rarr; {Det N (Adj), NP}
+    
+    Det &rarr; *an*
+    
+    N &rarr; {*cu, duine, gille*}
+    
+    NP &rarr; {*Tearlach, Mairi, Calum*}
+
+    Adj &rarr; {*ban, beag, mor*}
+
+    V &rarr; {*chunnaic, bhuail, fhuair*}
+    
+--SLIDE--
+
+### Ejercicio: Gramática del efé.
+
+- A partir de la siguientes reglas, escribe cuatro oraciones bien formadas en efé y elabora los diagramas de árbol con el análisis sintáctico correspondiente.
+
+    O &rarr; SN SV
+
+    SN &rarr; N (Det)
+
+    SV &rarr; V SN
+
+    Det &rarr; *ye*
+
+    N &rarr; {*oge, ika, amu*}
+
+    V &rarr; {*xa, vo*}
+        
+
+--SLIDE--
 
 ### Referencias
 
