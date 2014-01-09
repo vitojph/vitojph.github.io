@@ -104,13 +104,13 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
     - Según la gramática tradicional, la primera es una oración activa y la segunda es pasiva.
     
-    - Difieren en su **estructura superficial** en en la forma sintáctica en la que se realizan.
+    - Difieren en su **estructura superficial**, en la forma sintáctica en la que se realizan.
 
 --SUBSLIDE--
     
 - Sin embargo, ambas oraciones están estrechamente relacionadas y pueden considerarse idénticas si atendemos a su **estructura profunda**.
 
-    - La estructura profunda es un nivel abstracto de organización en el que representamos todos los elementos de la interpretación estructural.
+    - La estructura profunda es un nivel abstracto de organización en el que representamos la interpretación estructural de los elementos.
 
 --SLIDE--
 
@@ -121,7 +121,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 - Pensemos en dos oraciones con estructuras profundas distintas:
 
     - *Ana tenía un paraguas y, con él, golpeó a un hombre*.
-    - *Ana golpeó a un hombre, y el hombre tenía un paraguas*.
+    - *El hombre tenía un paraguas y Ana golpeó al hombre*.
     
 - Estos dos hechos diferentes pueden expresase con la misma estructura superficial: *Ana golpeó a un hombre con un paraguas*. 
 
@@ -131,7 +131,11 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 - Los sintagmas también pueden ser estructuralmente ambiguos.
 
-- *hombres y mujeres mayores* puede interpretarse como *hombres mayores y mujeres mayores* u *hombres, de cualquier edad, y mujeres mayores*.
+- *hombres y mujeres mayores* puede interpretarse como:
+
+    - *hombres mayores y mujeres mayores*, u 
+    
+    - *hombres, de cualquier edad, y mujeres mayores*.
 
 --SLIDE--
 
@@ -141,7 +145,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 ### Símbolos utilizados en la descripción sintáctica
 
-- Ya hemos visto en clases anteriores los nombres o etiquetas de las categorías sintácticas tales como:
+- Ya hemos visto en clases anteriores los nombres o etiquetas de los consituyentes y las categorías sintácticas:
 
     - O: oración
     - SN: sintagma nominal, SV: sintagma verbal, SP: sintagma preposicional
@@ -163,7 +167,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
      
     - una **parte derecha**, situada después de la flecha, en la que indicamos la definición del elemento estructural que aparece en la parte izquierda.
 
-- La **flecha &rarr;** que divide las partes izquierdas y derechas de la regla se interpreta como *consta de*, *es esquivalente a* o *se reescribe como*. 
+- La **flecha &rarr;** que divide las partes izquierda y derecha de la regla se interpreta como *consta de*, *es esquivalente a* o *se reescribe como*. 
 
 --SUBSLIDE--
 
@@ -242,7 +246,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 ### Oraciones gramaticales y agramaticales
 
-1. *El chico segúia a la niña*.
+1. *El chico seguía a la niña*.
 2. *El chico ayudó a la niña*.
 3. *El perro vio una niña*.
 4. *Alicia ayudó a Jorge recientemente*.
@@ -266,6 +270,10 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
     - *Alicia leía un libro*.
     - *Carlota pensó que Alicia leía un libro*.
     - *Juan dijo que Carlota pensó que Alicia leía un libro*.
+
+--SUBSLIDE--
+
+![Recursión](img/recursion.png)
 
 --SUBSLIDE--
 
@@ -294,10 +302,6 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
     O &rarr; Conj O
     
 
---SUBSLIDE--
-
-![Recursión](img/recursion.png)
-
 --SLIDE--
 
 ### Tipos de reglas
@@ -313,6 +317,8 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
     N &rarr; {chico, chica, perro... } 
 
     V &rarr; {ha visto, ayudó, come... } 
+
+    Conj &rarr; *que*
 
 --SUBSLIDE--
 
@@ -342,7 +348,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
     *John pick the phone up*.
     
-- Para dar cuenta de estos ejemplos, podemos crear reglas:
+- Para dar cuenta de estos ejemplos, podemos crear reglas con un símbolo &rArr; y estructura especiales:
 
     V Part SN &rArr; V SN Part
 
@@ -350,7 +356,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 - Una estrategia parecia se suele utilizar para tratar las oraciones en inglés que utilizan verbos modales o auxiliares. 
 
-- Oraciones como declarativas como *You can/could/may/will/should go to the hotel* pueden formalizarse como:
+- Oraciones declarativas como *You can/could/may/will/should go to the hotel* pueden formalizarse como:
 
     O &rarr; SN (Aux) SV
     
@@ -367,7 +373,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 - 60 años después, la Gramática generativa sigue causando discusiones y excepticismo.
 
-- Para algunos lingüistas, las únicas cuestiones relevsantes que debería cubir una gramática son de tipo sintáctico: es decir, cómo describir la estructura independientemente del significado.
+- Para algunos lingüistas, las únicas cuestiones relevantes que debería cubir una gramática son de tipo sintáctico: es decir, cómo describir la estructura independientemente del significado.
 
 - Para otros, el significado es un componente básico, hasta el punto de que abandonan la idea de estructura profunda en favor de una representación semántica.
 
