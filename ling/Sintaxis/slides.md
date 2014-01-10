@@ -385,11 +385,11 @@ existir un conjunto de reglas explícitas, que produzcan estas oraciones.
 - ¿Cuáles de las siguientes oraciones en gaélico escocés son gramaticales y cuáles agramaticales? 
 
     - *Calum chunnaic an gille*.
-    - *Bhuail an beag cu Tearlach*
+    - *Bhuail an beag cu Tearlach*.
     - *Bhuail an gille mor an cu*.
-    - *Chunnaic Tearlach an gille*
-    - *Ban an cu an duine beag*
-    - *Fhuair Mairi an cu ban*
+    - *Chunnaic Tearlach an gille*.
+    - *Ban an cu an duine beag*.
+    - *Fhuair Mairi an cu ban*.
     
 - Elabora diagramas de árbol para las oraciones que estén bien formadas.
     
