@@ -2,7 +2,7 @@
 
 ** Introducción a la Lingüística.
 
-Área de Lingüística, Fac. de Filología, UCM | 10/01/2014
+Área de Lingüística, Fac. de Filología, UCM | 10-16/01/2014
 
 Víctor Peinado | v.peinado@filol.ucm.es
 
@@ -97,7 +97,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 ### Papeles semánticos
 
-- En lugar de pensar en las palabras como en «contenedores semánticos» podermos centrarnos en los **papeles semánticos** que cumplen dentro de una oración.
+- En lugar de pensar en las palabras como en «contenedores semánticos» podemos centrarnos en los **papeles semánticos** que cumplen dentro de una oración.
 
 - Si pensamos en una oración sencilla que describe un evento simple (*El niño lanzó la pelota*) podemos identificar un verbo que describe una una acción (*lanzar*).
 
@@ -114,7 +114,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
     - En las oraciones atributivas (*la pelota era roja*), llamamos **tema** a las entidades descritas en la oración.
 
-- Si un **agente** utiliza cualquier otra entidad para realizar una acción, esa otra entidad cumple el papel de **intrumento**: *Comer con una cuchara*.
+- Si un **agente** utiliza cualquier otra entidad para realizar una acción, esa otra entidad cumple el papel de **instrumento**: *Comer con una cuchara*.
 
 --SUBSLIDE--
 
@@ -281,7 +281,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - La hiponimia es una relación transitiva: una *boa* es un tipo de *serpiente* y un tipo de *animal* y un tipo de *ser vivo*. 
 
-- Sin embargo, la meronimia no siempre lo es. P. ej., en una *camisa*, el puño es una parte esencial de la *manga*, y la *manga* es una parte esencial de la *camisa* En este caso sí exite una relacion de meronimia transitiva: *camisa > manga > puño*.
+- Sin embargo, la meronimia no siempre lo es. P. ej., en una *camisa*, el puño es una parte esencial de la *manga*, y la *manga* es una parte esencial de la *camisa* En este caso sí existe una relación de meronimia transitiva: *camisa > manga > puño*.
 
 - Por otro lado, las *casas* tienen *puertas*, y las *puertas* tienen *pomos*, pero los *pomos* no constituyen una parte constitutiva de las *casas* de la misma manera que el *puño* lo es de la *camisa*.
 	
@@ -450,9 +450,9 @@ serie *alcalde, chincheta, verde, bujía* no vemos ningún tipo de asociación.
 
 --SUBSLIDE--
 
-- Pensemos por un momento en la serie *bautismo, abad, monasterio, judaísmo, templo, confesional, corán*. Todas estas palabras tienen significados relacionados con la idea de `religión'.
+- Pensemos por un momento en la serie *bautismo, abad, monasterio, judaísmo, templo, confesional, Corán*. Todas estas palabras tienen significados relacionados con la idea de `religión'.
 
-- Sin embargo, no forman parte de un campo semántico porque *religión* no es una propiedad compartida por los significados. *templo* y *corán* no son especies o tipos de *religión*.
+- Sin embargo, no forman parte de un campo semántico porque *religión* no es una propiedad compartida por los significados. *templo* y *Corán* no son especies o tipos de *religión*.
 
 - Por el contrario, sí formarían un campo semántico la serie *cristianismo, judaísmo, islam, taoísmo, budismo* ya que todos los significados son un tipo de `religión'.
 
@@ -467,7 +467,7 @@ serie *alcalde, chincheta, verde, bujía* no vemos ningún tipo de asociación.
 
 - Dos palabras pueden establecer una relación semántica si sus significados coinciden en el sema genérico, es decir, si pertenecen a un mismo campo semántico.
 
-- Las relaciones semánticas son asociaciaciones que los hablantes hacemos con los significados de las palabras:
+- Las relaciones semánticas son asociaciones que los hablantes hacemos con los significados de las palabras:
 	
 	- Antonimia: palabras que parecen ser una negación de la otra, significados contrarios o contradictorios. 
 	- Sinonimia: coincidencia de dos expresiones distintas con un mismo significado.
@@ -544,7 +544,7 @@ serie *alcalde, chincheta, verde, bujía* no vemos ningún tipo de asociación.
 
 - Podemos entender la intensión como una abstracción que comprime la extensión. Pero hay otra diferencia: la intensión es una especie de virtualidad, y la extensión un fenómeno real y actual.
 
-- La intensión es tan abstracta y virtual que queda dentro de lo imaginable: podemos concebir la intesión de la clase `unicornio' o `centauro' tan fácilmente como la de `mesa' aunque no exista una muestra extensional de esas clases. 
+- La intensión es tan abstracta y virtual que queda dentro de lo imaginable: podemos concebir la intensión de la clase `unicornio' o `centauro' tan fácilmente como la de `mesa' aunque no exista una muestra extensional de esas clases. 
 	
 
 --SUBSLIDE--
