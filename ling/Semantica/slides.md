@@ -562,19 +562,19 @@ serie *alcalde, chincheta, verde, bujía* no vemos ningún tipo de asociación.
 
 --SLIDE--
 
-### Anomalías gramaticales y anomalías semánticas}
+### Anomalías gramaticales y anomalías semánticas
 	
 - Las anomalías semánticas son distintas de las anomalías sintácticas y de las anomalías discursivas.
 		
 - Una secuencia agramatical es aquella que no respeta las relaciones gramaticales propias de su lengua. Cuando una secuencia es agramatical en español, podemos decir que no es español. Y ocurre así en cualquier contexto. 
 
-		\**El restauranta son buenos aquí.*
+    \**El restauranta son buenos aquí.*
 		 
-	- Las anomalías discursivas consisten en frases que no se atienen al principio de relevancia. Solo podemos decir que son adecuadas o inadecuadas dependiendo de las circunstancias de la emisión.
+- Las anomalías discursivas consisten en frases que no se atienen al principio de relevancia. Solo podemos decir que son adecuadas o inadecuadas dependiendo de las circunstancias de la emisión.
+
+    *¿Dónde vas? Manzanas traigo.*
 		
-		*¿Dónde vas? Manzanas traigo.*
-		
-		*He comprado el pan.*
+	*He comprado el pan.*
 	
 
 --SUBSLIDE--
