@@ -2,7 +2,7 @@
 
 ## Introducción a la Lingüística.
 
-Área de Lingüística, Fac. de Filología, UCM | 9/01/2014
+Área de Lingüística, Fac. de Filología, UCM | 9-10/01/2014
 
 Víctor Peinado | v.peinado@filol.ucm.es
 
@@ -61,9 +61,9 @@ y oraciones.
 resultados.
 
 - Si el conjunto de todas las oraciones bien formadas de una lengua conforma un conjunto comparable, entonces debe de
-exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
+existir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
-- Este conjunto de reglas explícitas se conoce con el nombre de **gramatica generativa**.
+- Este conjunto de reglas explícitas se conoce con el nombre de **gramática generativa**.
 
 
 --SLIDE--
@@ -86,7 +86,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 - Sea cual sea la regla que genera el componente *que cazó el gato* en la oración *Ese es el perro que cazó el gato*, la gramática generativa deberá permitir aplicar dicha regla de nuevo tantas veces sea necesario para generar cualquier estructura similar a *Ese es el perro que cazó el gato que se comió el ratón*.
 
-- La gramática generativa deverá considerar la posibilidad de que una oración pueda contener otra oración dentro de ella, o de que un sintagma determinado pueda estar formado por otro sintagma.
+- La gramática generativa deberá considerar la posibilidad de que una oración pueda contener otra oración dentro de ella, o de que un sintagma determinado pueda estar formado por otro sintagma.
 
 --SUBSLIDE--
 
@@ -145,7 +145,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 ### Símbolos utilizados en la descripción sintáctica
 
-- Ya hemos visto en clases anteriores los nombres o etiquetas de los consituyentes y las categorías sintácticas:
+- Ya hemos visto en clases anteriores los nombres o etiquetas de los constituyentes y las categorías sintácticas:
 
     - O: oración
     - SN: sintagma nominal, SV: sintagma verbal, SP: sintagma preposicional
@@ -167,7 +167,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
      
     - una **parte derecha**, situada después de la flecha, en la que indicamos la definición del elemento estructural que aparece en la parte izquierda.
 
-- La **flecha &rarr;** que divide las partes izquierda y derecha de la regla se interpreta como *consta de*, *es esquivalente a* o *se reescribe como*. 
+- La **flecha &rarr;** que divide las partes izquierda y derecha de la regla se interpreta como *consta de*, *es equivalente a* o *se reescribe como*. 
 
 --SUBSLIDE--
 
@@ -189,7 +189,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 - Cualquier cosa encerrada entre **paréntesis ()** se entenderá como un componente opcional.
 
-- Podemos completar una de las reglas anteriorres diciendo que un *SN consta obligatoriamente de un determinante y un nombre y, que opcionalmente, puede contener un adjetivo*:
+- Podemos completar una de las reglas anteriores diciendo que un *SN consta obligatoriamente de un determinante y un nombre y, que opcionalmente, puede contener un adjetivo*:
 
     SN &rarr; Det N (Adj)
     
@@ -344,9 +344,9 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 - La necesidad de este tipo de reglas transformacionales se argumenta fácilmente a partir de los ejemplos en inglés en los que manejamos *phrasal verbs* o verbos con partículas asociadas.
 
-    *John pick up the phone*.
+    *John picked up the phone*.
 
-    *John pick the phone up*.
+    *John picked the phone up*.
     
 - Para dar cuenta de estos ejemplos, podemos crear reglas con un símbolo &rArr; y estructura especiales:
 
@@ -354,7 +354,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 --SUBSLIDE--
 
-- Una estrategia parecia se suele utilizar para tratar las oraciones en inglés que utilizan verbos modales o auxiliares. 
+- Una estrategia parecida se suele utilizar para tratar las oraciones en inglés que utilizan verbos modales o auxiliares. 
 
 - Oraciones declarativas como *You can/could/may/will/should go to the hotel* pueden formalizarse como:
 
@@ -371,9 +371,9 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 ### Otros enfoques de la gramática generativa
 
-- 60 años después, la Gramática generativa sigue causando discusiones y excepticismo.
+- 60 años después, la Gramática generativa sigue causando discusiones y escepticismo.
 
-- Para algunos lingüistas, las únicas cuestiones relevantes que debería cubir una gramática son de tipo sintáctico: es decir, cómo describir la estructura independientemente del significado.
+- Para algunos lingüistas, las únicas cuestiones relevantes que debería cubrir una gramática son de tipo sintáctico: es decir, cómo describir la estructura independientemente del significado.
 
 - Para otros, el significado es un componente básico, hasta el punto de que abandonan la idea de estructura profunda en favor de una representación semántica.
 
@@ -382,7 +382,7 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
 ### Ejercicio: Gramática del gaélico escocés.
 
-- ¿Cuáles de las siguientes oraciones en galélico escocés son gramaticales y cuáles agramaticales? 
+- ¿Cuáles de las siguientes oraciones en gaélico escocés son gramaticales y cuáles agramaticales? 
 
     - *Calum chunnaic an gille*.
     - *Bhuail an beag cu Tearlach*
@@ -429,6 +429,22 @@ exisitir un conjunto de reglas explícitas, que produzcan estas oraciones.
 
     V &rarr; {*xa, vo*}
         
+
+--SLIDE--
+
+### Ejercicio: Gramática de una lengua hipotética.
+
+- A continuación se muestran ejemplos de oraciones correctas en una lengua desconocida hablada por los habitantes de
+una galaxia muy lejana. 
+
+![Árboles sintácticos](img/tree3.png)
+
+- Atendiendo a estos ejemplos, propón:
+
+    1. una gramática generativa que permita reconocer dichas oraciones.
+
+    2. al menos otra oración correcta en esta lengua.
+
 
 --SLIDE--
 
