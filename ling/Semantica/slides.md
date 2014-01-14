@@ -1,6 +1,6 @@
 # Semántica
 
-** Introducción a la Lingüística.
+## Introducción a la Lingüística.
 
 Área de Lingüística, Fac. de Filología, UCM | 10-16/01/2014
 
@@ -31,7 +31,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Dentro de este significado conceptual de *aguja* podríamos incluir componentes como «fino, afilado, acero, instrumento». 
 
-- Sin embargo, como podemos notar, existen otros conceptos asociados o connotaciones que se evocan cuando pensamos en *aguja. El concepto «doloroso» no forma parte del significado conceptual y, en principio, no es el objeto de estudio de la Semántica.
+- Sin embargo, como podemos notar, existen otros conceptos asociados o connotaciones que se evocan cuando pensamos en *aguja*. El concepto «doloroso» no forma parte del significado conceptual y, en principio, no es el objeto de estudio de la Semántica.
 
 
 --SLIDE--
@@ -87,7 +87,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - De modo que podemos incorporar estos rasgos semánticos al análisis sintáctico:
 		
-    *El/la (N `+humano`) está leyendo el periódico*.
+    *El/la (N*`+humano`*) está leyendo el periódico*.
 		
 - Este enfoque nos permite predecir qué tipo de nombres harían esta oración semánticamente aceptable. Ejemplos como *perro, manzana, coche* serían inaceptables porque todos ellos contienen el rasgo `-humano`.
 
@@ -149,13 +149,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Todos esos papeles semánticos quedan ilustrados en el siguiente texto de ejemplo:
 
-    *
-    **María/experimentador** vio **un mosquito/tema** en la **pared/ubicación**. 
-
-    **(Ella)/agente** cogió **una revista/tema** de **la mesa/origen** y aplastó **el bicho/tema** con **la revista/instrumento**. 
-
-    **(Ella)/agente** devolvió **la revista/tema** a **la mesa/destino**. «Ya está», dijo **María/agente**.
-    *
+    **María/experimentador** vio **un mosquito/tema** en la **pared/ubicación**. **(Ella)/agente** cogió **una revista/tema** de **la mesa/origen** y aplastó **el bicho/tema** con **la revista/instrumento**. **(Ella)/agente** devolvió **la revista/tema** a **la mesa/destino**. «Ya está», dijo **María/agente**.
     
 --SLIDE--
 
@@ -281,7 +275,11 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - La hiponimia es una relación transitiva: una *boa* es un tipo de *serpiente* y un tipo de *animal* y un tipo de *ser vivo*. 
 
-- Sin embargo, la meronimia no siempre lo es. P. ej., en una *camisa*, el puño es una parte esencial de la *manga*, y la *manga* es una parte esencial de la *camisa* En este caso sí existe una relación de meronimia transitiva: *camisa > manga > puño*.
+- Sin embargo, la meronimia no siempre lo es. 
+
+    P. ej., en una *camisa*, el puño es una parte esencial de la *manga*, y la *manga* es una parte esencial de la *camisa*.
+
+    En este caso sí existe una relación de meronimia transitiva: *camisa > manga > puño*.
 
 - Por otro lado, las *casas* tienen *puertas*, y las *puertas* tienen *pomos*, pero los *pomos* no constituyen una parte constitutiva de las *casas* de la misma manera que el *puño* lo es de la *camisa*.
 	
@@ -358,7 +356,7 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 --SUBSLIDE--
 	
-- La mayoría de los ejemplos de metonimia son fáciles de interpretar y no nos sorprende escuchar *La Casa Blanca ha tomado una decisión sobre Pionyang*.
+- La mayoría de los ejemplos de metonimia son fáciles de interpretar y no nos sorprende escuchar *La Casa Blanca ha tomado una decisión sobre Teherán*.
 
 - Sin embargo, algunos casos de metonimia solo se resuelven si el interlocutor infiere lo que el hablante está pensando: 
 
@@ -429,6 +427,8 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - El significante *perro* es más complejo que los fonemas /p/, /e/, /r/, /o/, pero es difícil interpretar que el significado de *perro* es más complejo que el sema *animal*.
 
+--SUBSLIDE--
+
 - Lo que sí parece ocurrir es que unas cosas evocan otras. La idea de que *animal* es componente de la idea de *perro* en la medida que ésta evoca aquella. Cuando se activa una, se activa (en menor medida) la otra.
 
 - Puesto que se trata de unidades lógicas, podemos decir que una implica a la otra: la idea de *perro* implica la idea de *animal*.
@@ -444,17 +444,17 @@ Víctor Peinado | v.peinado@filol.ucm.es
 - Todos percibimos un aire de familia en las palabras *húmedo, encharcado, empapado, rociado, impregnado, regado...* mientras que en la 
 serie *alcalde, chincheta, verde, bujía* no vemos ningún tipo de asociación.
 
-- Llamamos **campos semánticos* a los significados que tienen en común, al menos, un sema genérico.
+- Llamamos **campos semánticos** a los significados que tienen en común, al menos, un sema genérico.
 
 - La serie *húmedo, encharcado, empapado* forman un campo semántico, como también lo forma la serie *perro, gato, vaca*. En estos casos, estos significados comparten un sema común que es genérico. 
 
 --SUBSLIDE--
 
-- Pensemos por un momento en la serie *bautismo, abad, monasterio, judaísmo, templo, confesional, Corán*. Todas estas palabras tienen significados relacionados con la idea de `religión'.
+- Pensemos por un momento en la serie *bautismo, abad, monasterio, judaísmo, templo, confesional, Corán*. Todas estas palabras tienen significados relacionados con la idea de *religión*.
 
-- Sin embargo, no forman parte de un campo semántico porque *religión* no es una propiedad compartida por los significados. *templo* y *Corán* no son especies o tipos de *religión*.
+- Sin embargo, no forman parte de un campo semántico porque *religión* no es una propiedad compartida por los significados: *templo* y *Corán* no son especies o tipos de *religión*.
 
-- Por el contrario, sí formarían un campo semántico la serie *cristianismo, judaísmo, islam, taoísmo, budismo* ya que todos los significados son un tipo de `religión'.
+- Por el contrario, sí formarían un campo semántico la serie *cristianismo, judaísmo, islam, taoísmo, budismo* ya que todos los significados son un tipo de *religión*.
 
 - Los significados que componen un campo deben ser especificaciones de una idea común: *perro* y *gato* son concreciones de la idea *animal*.
 
@@ -506,15 +506,15 @@ serie *alcalde, chincheta, verde, bujía* no vemos ningún tipo de asociación.
 
 - De la misma manera, la proposición es el tipo o formato del significado de una oración.
 
+--SUBSLIDE--
+
 - Asociamos oración y proposición porque: 
 
     1. típicamente, expresamos proposiciones con oraciones; y, 
     2. las oraciones contienen una estructura idónea para tener explícitos todos los elementos de la proposición. 
 
 	
---SLIDE--
-
-### Oraciones y proposiciones
+--SUBSLIDE--
 
 - Sabemos que expresamos una proposición cuando decimos algo que puede ser verdadero o falso.
 		
@@ -544,7 +544,7 @@ serie *alcalde, chincheta, verde, bujía* no vemos ningún tipo de asociación.
 
 - Podemos entender la intensión como una abstracción que comprime la extensión. Pero hay otra diferencia: la intensión es una especie de virtualidad, y la extensión un fenómeno real y actual.
 
-- La intensión es tan abstracta y virtual que queda dentro de lo imaginable: podemos concebir la intensión de la clase `unicornio' o `centauro' tan fácilmente como la de `mesa' aunque no exista una muestra extensional de esas clases. 
+- La intensión es tan abstracta y virtual que queda dentro de lo imaginable: podemos concebir la intensión de la clase *unicornio* o *centauro* tan fácilmente como la de *mesa* aunque no exista una muestra extensional de esas clases. 
 	
 
 --SUBSLIDE--
@@ -596,7 +596,7 @@ serie *alcalde, chincheta, verde, bujía* no vemos ningún tipo de asociación.
 
 - Las anomalías semánticas pueden ser producidas en tres casos:
 	
-	1. Un predicado produce anomalía si es universalmente insatisfecho: *La mesa es redonda con vértices}*.
+	1. Un predicado produce anomalía si es universalmente insatisfecho: *La mesa es redonda con vértices*.
 	
 	2. Un sujeto produce anomalía cuando es instancia o ejemplar de una clase necesariamente vacía: *Las mesas redondas con vértices son más fáciles de limpiar*.
 	
@@ -616,7 +616,7 @@ serie *alcalde, chincheta, verde, bujía* no vemos ningún tipo de asociación.
 - del Teso Martín, E. *Compendio y Ejercicios de Semántica II*. Arco Libros. 2007.
 - Hudson, G. *Introductory Linguistics*. Blackwell. 2006.
 - O'Grady, W., Archivald, J., Aronoff, M., Rees-Miller, J. *Contemporary Linguistics. An Introduction (5th Edition)*. Bedford/St. Martin's. 2005.
-- Tusón, J. *Lingüística : una introducción al estudio del lenguaje, con textos comentados y ejercicios}. Barcanova. 1995.
+- Tusón, J. *Lingüística : una introducción al estudio del lenguaje, con textos comentados y ejercicios*. Barcanova. 1995.
 - Yule, G. *The Study of Language (4th Edition)*. Cambridge University Press. 2010.
 - Interfaz web de [WordNet](http://wordnetweb.princeton.edu/perl/webwn).
 
