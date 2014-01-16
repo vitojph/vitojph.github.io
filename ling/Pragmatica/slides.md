@@ -109,8 +109,8 @@ Víctor Peinado | v.peinado@filol.ucm.es
 
 - Latín (3)
 	
-	- Caius amat Liuiam. (*Cayo ama a Livia*).
-	- Caius Liuiam amat.
+	- Caius Liuiam amat. (*Cayo ama a Livia*).
+	- Caius amat Liuiam.
 	- Amat Caius Liuiam.
 	- Amat Liuiam Caius.
 	- Liuiam amat Caius.
