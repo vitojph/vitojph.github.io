@@ -1,10 +1,21 @@
-# Tecnologías de la Lengua
+# El Trabajo en Empresas de Ingeniería Lingüística
 
-### Jornadas de Empleo 2014
+### VI Jornadas de Orientación Profesional para Filólogos
 
 Fac. de Filología, UCM | 5/05/2014
 
 Víctor Peinado | v.peinado@filol.ucm.es | @vitojph  
+
+
+--SLIDE--
+
+- Construcción de recursos lingüísticos:
+
+    - diccionarios electrónicos
+    - corpus, colecciones de datos etiquetados
+        - monolingües
+        - paralelos
+        - comparables
 
 
 --SLIDE--
@@ -41,7 +52,7 @@ Víctor Peinado | v.peinado@filol.ucm.es | @vitojph
 
 
 --SLIDE--
-## Consejos
+## Consejos personales
 
 - Sé inquieto y curioso.
 - Esfuérzate por aprender cosas nuevas, no necesariamente relacionadas con tu
