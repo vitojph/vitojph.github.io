@@ -1,4 +1,4 @@
-# El Trabajo en Empresas de Ingeniería Lingüística
+## El Trabajo en Empresas de Ingeniería Lingüística
 
 ### VI Jornadas de Orientación Profesional para Filólogos
 
@@ -55,23 +55,34 @@ Víctor Peinado | v.peinado@filol.ucm.es | @vitojph
 ### Tareas de PLN
 
 - Reconocimiento óptico de caracteres. 
+- Segmentación de palabras, sintagmas y oraciones.
+- Normalización de texto, simplificación morfológica.
 - Etiquetado morfo-sintático.
 - Análisis sintático.
+
+--SUBSLIDE--
+
 - Desambiguación automática de sentidos.
 - Extracción de información.
 - Segmentación y reconocimiento de temas.
 - Reconocimiento de entidades.
 - Recuperación de Información.
+
+--SUBSLIDE--
+
 - Minería y análisis de opiniones.
 - Resolución de correferencias.
 - Resumen automático. 
 - Búsqueda de respuestas.
 - Traducción automática.
-- Sistemas de diálogo.
+
+--SUBSLIDE--
+
 - Lectura automática.
 - Comprensión del lenguaje natural.
 - Simplificación de textos.
-
+- Sistemas de diálogo.
+- HAL 9000...
 
 
 --SLIDE--
@@ -99,9 +110,9 @@ Víctor Peinado | v.peinado@filol.ucm.es | @vitojph
     - corpus: colecciones de datos etiquetados
         - monolingües / paralelos / comparables
         - morfo-sintáctico: treebanks
-        - vocabularios controlados, tesauros y ontologías
-        - redes semánticas: WordNet, FrameNet, DBPedia, FreeBase
-        - lenguajes de marcado: TEI
+    - vocabularios controlados, tesauros y ontologías
+    - redes semánticas: WordNet, FrameNet, DBPedia, FreeBase
+    - lenguajes de marcado: TEI
 
 
 --SLIDE--
