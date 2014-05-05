@@ -36,11 +36,12 @@ Víctor Peinado | v.peinado@filol.ucm.es | @vitojph
 
 ### Lingüística Computacional
 
-- Área interdisciplinar relacionada con el modelado computacional de las lenguas naturales.
+- Área interdisciplinar entre Lingüística Aplicada e Informática relacionada con el modelado computacional de las lenguas naturales.
 
-- Descripción formalizada de fenómenos lingüísticos: fonético-fonolóficos, morfológicos, sintácticos, semánticos, pragmáticos.
+- Está relacionada con la representación del conocimiento.
 
-- Representación del conocimiento, en especial la información lingüística.
+- Tiene como objetivo la descripción formalizada de fenómenos lingüísticos que observamos a distintos niveles: fonético-fonolóficos, morfológicos, sintácticos, semánticos, pragmáticos.
+
 
 
 --SUBSLIDE--
@@ -50,6 +51,7 @@ Víctor Peinado | v.peinado@filol.ucm.es | @vitojph
 - Síntesis de voz: producción artificial de habla.
 
 - Reconocimiento de habla: es importante integrar análisis e información lingüística.
+
 
 --SLIDE--
 ### Tareas de PLN
@@ -81,7 +83,7 @@ Víctor Peinado | v.peinado@filol.ucm.es | @vitojph
 - Lectura automática.
 - Comprensión del lenguaje natural.
 - Simplificación de textos.
-- Sistemas de diálogo.
+- Sistemas de diálogo y asistentes virtuales.
 - HAL 9000...
 
 
@@ -91,12 +93,13 @@ Víctor Peinado | v.peinado@filol.ucm.es | @vitojph
 
 - A la hora de proponer soluciones para resolver tareas de PLN se han utilizado distintas aproximaciones:
 
-    - Enfoque basado en reglas: conocimiento lingüístico formalizado.
+    - Enfoque basado en reglas, cuando disponemos de conocimiento lingüístico formalizable.
   
-    - Enfoque basado en el análisis datos estadísticos: frecuencias de palabras,
-    de estructuras sintácticas, etc.
+    - Enfoque basado en el análisis datos estadísticos (frecuencias de palabras,
+    de estructuras sintácticas, modelos de lenguaje), cuando no disponemos de
+    esos modelos lingüísticos.
 
-    - Enfoques híbridos combinando reglas e información estadística.
+    - El enfoque ideal es una solución híbrida que combine reglas e información estadística.
 
 
 
@@ -107,10 +110,10 @@ Víctor Peinado | v.peinado@filol.ucm.es | @vitojph
   herramientas automáticas:
 
     - diccionarios electrónicos.
-    - corpus: colecciones de datos etiquetados
-        - monolingües / paralelos / comparables
-        - morfo-sintáctico: treebanks
-    - vocabularios controlados, tesauros y ontologías
+    - corpus: colecciones de datos etiquetados.
+        - monolingües / paralelos / comparables.
+        - morfo-sintáctico: *treebanks*.
+    - vocabularios controlados, tesauros y ontologías.
     - redes semánticas: WordNet, FrameNet, DBPedia, FreeBase
     - lenguajes de marcado: TEI
 
@@ -119,11 +122,11 @@ Víctor Peinado | v.peinado@filol.ucm.es | @vitojph
 ## Perfiles demandados por empresas
 
 - Base lingüística teórica y aplicada.
-- Conocimientos en lenguas naturales.
-- Conocimientos en lógica y rudimentos de estadística.
-- Herramientas ofimáticas, trabajo en red, buscadores web, redes sociales.
-- Uso de herramientas y recursos lingüísticos.
-- Rudimentos en programación lógica (Prolog) y lenguajes de propósito general (Python, Java, Perl, Ruby).
+- Conocimientos en lenguas naturales (no necesariamente un conocimiento activo).
+- Conocimientos en lógica y *rudimentos* de estadística.
+- Soltura con herramientas ofimáticas, trabajo colaborativo y en red, buscadores web, redes sociales.
+- Conocimiento sobre herramientas y recursos lingüísticos.
+- *Rudimentos* en programación: ya sea programación lógica (Prolog) y lenguajes de propósito general con muchas herramientas de procesamiento de texto (Python, Java, Perl, Ruby).
 - Lenguajes de marcado XML y tecnologias web (HTML, Javascript).
 
 
@@ -132,12 +135,21 @@ Víctor Peinado | v.peinado@filol.ucm.es | @vitojph
 ## Consejos personales
 
 - Sé inquieto y curioso.
-- Esfuérzate por aprender cosas nuevas, no necesariamente relacionadas con tu
-  carrera.
-- Aprender a **programar**.
+- Algunas cosas solo se aprende haciéndolas: cacharrea.
+- Graduarse no es el final. Es el principio.
+- Esfuérzate por aprender cosas nuevas, no necesariamente relacionadas con tu carrera.
+- Aprender a **programar** o, al menos, a pensar de manera que puedas automatizar tareas rutinarias.
 
 
 --SLIDE--
 
 ### ¿Preguntas?
+
+Víctor Peinado `v.peinado@filol.ucm.es`
+
+Edificio D de Filología, Despacho 0.306. 
+
+twitter/gtalk/skype: `vitojph`
+
+
 
