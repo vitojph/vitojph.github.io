@@ -123,22 +123,33 @@ Víctor Peinado | v.peinado@filol.ucm.es | @vitojph
 
 - Base lingüística teórica y aplicada.
 - Conocimientos en lenguas naturales (no necesariamente un conocimiento activo).
-- Conocimientos en lógica y *rudimentos* de estadística.
+- Conocimientos en lógica, representación del conocimiento y programación
+  lógica (Prolog).
+- Conceptos básicos en estadística y herramientas de análisis de datos (no, Excell no vale): R.
 - Soltura con herramientas ofimáticas, trabajo colaborativo y en red, buscadores web, redes sociales.
+
+--SUBSLIDE--
+
 - Conocimiento sobre herramientas y recursos lingüísticos.
-- *Rudimentos* en programación: ya sea programación lógica (Prolog) y lenguajes de propósito general con muchas herramientas de procesamiento de texto (Python, Java, Perl, Ruby).
-- Lenguajes de marcado XML y tecnologias web (HTML, Javascript).
+- *Rudimentos de programación*:
+    - editores de texto.
+    - expresiones regulares.
+    - lenguajes de propósito general con múltiples herramientas de PLN disponibles: Python, Java, Perl, Ruby.
+    - bases de datos (no, Access no vale): SQL.
+- Lenguajes de marcado, LaTeX, tecnologías XML y tecnologias web: HTML, PHP, Javascript.
 
 
 
 --SLIDE--
 ## Consejos personales
 
+- Graduarse no es el final. Es el principio.
 - Sé inquieto y curioso.
 - Algunas cosas solo se aprende haciéndolas: cacharrea.
-- Graduarse no es el final. Es el principio.
 - Esfuérzate por aprender cosas nuevas, no necesariamente relacionadas con tu carrera.
-- Aprender a **programar** o, al menos, a pensar de manera que puedas automatizar tareas rutinarias.
+- Aprende a **programar** o, al menos, a pensar de manera que puedas automatizar tareas rutinarias.
+- No subestimes la formación complementaria autodidacta: aprovecha los MOOCs
+  y plataformas de aprendizaje a distancia.
 
 
 --SLIDE--
