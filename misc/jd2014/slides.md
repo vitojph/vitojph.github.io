@@ -9,6 +9,22 @@ Víctor Peinado | victor@lsi.uned.es | @vitojph
 
 
 --SLIDE--
+### Outline
+
+1. Motivation
+
+2. Goals
+
+3. Hypothesis
+
+4. Methodology
+
+5. Results
+
+6. Latest Analyses
+
+
+--SLIDE--
 ### Motivation
 
 - As the number of Internet users grows, more non-English speakers have access to the Web.
@@ -20,28 +36,125 @@ Víctor Peinado | victor@lsi.uned.es | @vitojph
 - How can we properly assist people to find and use information expressed in unknown languages?
 
 
---SLIDE--
-### Outline
-
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
 
 --SLIDE--
-###
+### Goals
+
+<br/>
+
+- To study and understand how the change from a monolingual to a multilingual environment modifies people’s performance, behavior and satisfaction when searching for information.
+
+--SUBSLIDE--
+### Interactive document retrieval is not a complete task
+
+<br/>
+
+- how many documents chosen by the user are relevant for the query? but;
+
+- we cannot confirm that users were actually able to fulfill the initial information need
+
+--SUBSLIDE--
+### Beyond document retrieval
+
+<br/>
+
+- **interactive question answering**
+
+  - brief passages vs. full documents
+  - pre-specifying the expected type of answer can help users?
+  - automatic highlighting of the possible target answers is useful?
+
+--SUBSLIDE--
+
+- **interactive image search**
+
+  - are users willing to translate into unknown languages?
+  - competence in target language determines the success of the task?
+  - actual usage of CL facilities vs. subjects’ perception of usefulness
+
+--SUBSLIDE--
+
+<br/>
+
+The conclusions of these analyses will allow us to propose mechanisms, tools and good practices to better assist users when searching for information in unknown languages.
+
 
 --SLIDE--
-###
+### Hypothesis
+
+- In monolingual information access tasks user’s intelligence compensates for system’s lacks.
+
+- A user can easily learn how to use information retrieval’s interactive functionalities.
+
+- In a CL environment, the user cannot adapt herself to a new language.
+
+- Unable to search in unknown languages unless CL functionalities are provided by the system.
+
+--SUBSLIDE--
+
+### Hypothesis
+
+<br/>
+
+- in interactive cross-lingual information access tasks, the **cross-language facilities are the key factor** to explain people’s performance, behavior and experience.
+
 
 --SLIDE--
-###
+### Methodology
+
+- Conduct interactive QA experiments in a controlled CL scenario to provide evidence about the difficulties of searching answers.
+
+- Test the usefulness of different access methods and search functionalities:
+
+  - passages vs. documents.
+  - automatic highlighting of potential expected answers.
+
+--SUBSLIDE--
+
+- Conduct interactive search experiments in a naturally multilingual images database: Flickr.
+
+  - User-centered experiments in laboratory conditions aimed to test how CL technologies could enhance access
+
+  - Explore the user interaction resulting from this.
+
+--SUBSLIDE--
+
+- Propose an image search task as a game.
+
+  - Design a transaction log to capture every single detail of the multilingual
+image search process.
+
+  - Build a multilingual search interface for Flickr, supporting the collection of a medium size search log of multilingual image searches.
+
+  - Apply transaction log analysis to understan the complete multilingual search processes from a user’s perspective.
+
+
+--SLIDE--
+### Results
+
+- Brief passages preferred over documents, but users need more context to validate their answers (López-Ostenero et al., 2005; Peinado et al., 2006; López Ostenero et al., 2008).
+
+- Specifying the expected type of answer before launching the query help users: (López-Ostenero et al., 2005).
+
+- Automatic highlighting of the possible target answers is useful: (Peinado et al., 2006).
+
+--SUBSLIDE--
+
+#TODO
+
+- Determine to what extent users are willing to translate their queries and search for
+images tagged in unknown languages: (Artiles et al., 2009).
+
+- Competence in the target language determines the success of the task:
+(Peinado et al., 2009a,b).
+
+--SUBSLIDE--
+
+❚❛s❦ ✻ Compare the actual usage of cross-language facilities and subjects’ perception of their
+usefulness: (Artiles et al., 2009; Peinado et al., 2009a,b).
+
+❚❛s❦ ✼ Build re-usable resources: the [iCLEF search log](https://github.com/vitojph/iclef) (Peinado et al., 2008, 2009a,b).
+
 
 --SLIDE--
 ###
@@ -51,5 +164,8 @@ Víctor Peinado | victor@lsi.uned.es | @vitojph
 --SLIDE--
 
 ### Questions?
+
+<br/>
+<br/>
 
 Thank you!
