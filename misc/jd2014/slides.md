@@ -132,35 +132,36 @@ image search process.
 --SLIDE--
 ### Results
 
-- Brief passages preferred over documents, but users need more context to validate their answers (López-Ostenero et al., 2005; Peinado et al., 2006; López Ostenero et al., 2008).
+- Passages preferred over documents, but documents are more effective  (López-Ostenero et al., 2005; Peinado et al., 2006; López Ostenero et al., 2008).
 
-- Specifying the expected type of answer before launching the query help users: (López-Ostenero et al., 2005).
+- Specifying the expected type of answer before launching the query is helpful (López-Ostenero et al., 2005).
 
-- Automatic highlighting of the possible target answers is useful: (Peinado et al., 2006).
-
---SUBSLIDE--
-
-#TODO
-
-- Determine to what extent users are willing to translate their queries and search for
-images tagged in unknown languages: (Artiles et al., 2009).
-
-- Competence in the target language determines the success of the task:
-(Peinado et al., 2009a,b).
+- Automatic highlighting of the possible target answers is useful (Peinado et al., 2006).
 
 --SUBSLIDE--
 
-❚❛s❦ ✻ Compare the actual usage of cross-language facilities and subjects’ perception of their
-usefulness: (Artiles et al., 2009; Peinado et al., 2009a,b).
+- Users tend to avoid translating their queries and search for images tagged in unknown languages: (Artiles et al., 2009).
 
-❚❛s❦ ✼ Build re-usable resources: the [iCLEF search log](https://github.com/vitojph/iclef) (Peinado et al., 2008, 2009a,b).
+- User with active competence in the target language perform 18% better than users with no competence (Peinado et al., 2009a,b)
+
+- Users with passive competence need more interactions (Peinado et al., 2009a,b).
+
+--SUBSLIDE--
+
+- Usage of CL facilities is low but higher than RF and is perceived as useful (Artiles et al., 2009; Peinado et al., 2009a,b).
+
+- Usage of RF is remarkably low but successful users use it more often (Artiles et al., 2009; Peinado et al., 2009a,b).
+
+- Re-usable resources: the [iCLEF search log](https://github.com/vitojph/iclef) (Peinado et al., 2008, 2009a,b).
+
+--SLIDE--
+### Latest Analyses
 
 
 --SLIDE--
 ###
 
---SLIDE--
-###
+
 --SLIDE--
 
 ### Questions?
