@@ -21,7 +21,7 @@ Víctor Peinado | victor@lsi.uned.es | @vitojph
 
 5. Results
 
-6. [Latest Analyses](/#/7)
+6. [Latest Analyses](../#/7)
 
 
 --SLIDE--
