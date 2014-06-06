@@ -157,9 +157,37 @@ image search process.
 --SLIDE--
 ### Latest Analyses
 
+#TODO: a partir de aqui
 
 --SLIDE--
-###
+### User's Perceptions
+
+- when the search is in an unknown language, the language barrier is perceived as the most challenging aspect of the task.
+
+- in the successful sessions (see Figure 13), the most frequent answer for profiles with skills in the annotation language of the target image were “It was easy”. Their main problems were to describe the image (option d) and the size of the image set (option b). On the other hand, the most common difficulty for those users without competence in the target language was exactly to know the annotation language.
+
+
+Figure 13: Post-image questionnaire after a successful search session.
+As far as the failed sessions are concerned (see Figure 14), the most common answers among all profiles were again how to find suitable query terms to describe the target image (option c) and how to handle a big set of results (option a).
+
+
+### Most useful interface’s facilities
+
+- more than 70% of the subjects found useful or very useful the automatic translation of the queries and the possibility of maintaining a personal dictionary with their preferred translation
+
+- RF facilities were rated positively for about 5 and 61% of the subjects
+
+--SUBSLIDE--
+
+### Most useful interface’s facilities
+
+![](img/questionnaires.png)
+
+
+a. The automatic translation of query terms
+b. The possibility of improving the translation chosen by the system
+c. The additional query terms suggested by the system
+d. The assistant to select new query terms from the set of results.
 
 
 --SLIDE--
