@@ -19,9 +19,9 @@ Víctor Peinado | victor@lsi.uned.es | @vitojph
 
 4. Methodology
 
-5. Results
+5. Achievements
 
-6. [Latest Analyses](../#/7)
+6. [Latest Analyses](./7)
 
 
 --SLIDE--
@@ -130,7 +130,7 @@ image search process.
 
 
 --SLIDE--
-### Results
+### Achievements
 
 - Passages preferred over documents, but documents are more effective  (López-Ostenero et al., 2005; Peinado et al., 2006; López Ostenero et al., 2008).
 
@@ -265,13 +265,13 @@ image search process.
 
 <br/>
 
-- **user profile**: active / passive / none
-  - according to the users's language skills wrt the language of the target image.
+- **user profile**: active (N=1,882) / passive (N=442) / none (N=701)
+  - according to the users' language skills wrt the language of the target image.
 
 <br/>
 
-- **difficulty** of the target image: easy / difficult
-  - according to the average success rate of the target image (threshold = 79%).
+- **difficulty** of the target image: easy (N=1521)/ difficult (N=1461)
+  - *easy* images are those with higher avg success rate (threshold = 79%)
 
 <br/>
 
@@ -339,6 +339,11 @@ image search process.
 - decreasing tendency in the number of interactions performed as the users were completing search sessions
 
 ![](img/plot-median-interactions15.jpg)
+
+--SUBSLIDE--
+### Effort wrt difficulty of the target image
+
+
 
 --SLIDE--
 ### CL Interactive Search Facilities
