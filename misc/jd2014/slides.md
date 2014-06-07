@@ -363,34 +363,48 @@ image search process.
 
 --SLIDE--
 
-### User's Perceptions
+### Users' Perceptions
 
-- when the search is in an unknown language, the language barrier is perceived as the most challenging aspect of the task.
+--SUBSLIDE--
 
-- in the successful sessions (see Figure 13), the most frequent answer for profiles with skills in the annotation language of the target image were “It was easy”. Their main problems were to describe the image (option d) and the size of the image set (option b). On the other hand, the most common difficulty for those users without competence in the target language was exactly to know the annotation language.
+### Successful sessions
 
+<br/>
 
-Figure 13: Post-image questionnaire after a successful search session.
-As far as the failed sessions are concerned (see Figure 14), the most common answers among all profiles were again how to find suitable query terms to describe the target image (option c) and how to handle a big set of results (option a).
+![](img/post-image-quest-success.jpg)
 
+--SUBSLIDE--
 
-### Most useful interface’s facilities
+### Unsuccessful sessions
 
-- more than 70% of the subjects found useful or very useful the automatic translation of the queries and the possibility of maintaining a personal dictionary with their preferred translation
+<br/>
 
-- RF facilities were rated positively for about 5 and 61% of the subjects
+![](img/post-image-quest-fail.jpg)
+
+--SUBSLIDE--
+
+### Most challenging aspects of the task
+
+![](img/oq-challenging-aspects.png)
+
+--SUBSLIDE--
+
+### Selecting the best translations
+
+![](img/oq-how-select-best-translations.png)
+
 
 --SUBSLIDE--
 
 ### Most useful interface’s facilities
 
-![](img/questionnaires.png)
+![](img/oq-useful-facilities.png)
 
+--SUBSLIDE--
 
-a. The automatic translation of query terms
-b. The possibility of improving the translation chosen by the system
-c. The additional query terms suggested by the system
-d. The assistant to select new query terms from the set of results.
+### Missed any other facilities?
+
+![](img/oq-facilities-missed.png)
 
 --SLIDE--
 ### Conclusions
@@ -405,7 +419,7 @@ d. The assistant to select new query terms from the set of results.
 
 - subjects resist to use multilingual search assistance, even when they find out they have to search in unfamiliar languages.
 
-- cross-language facilities are scarcely used but they are the only functionality whose usage does not decrease across time, they are used more frequently than standard RF features.
+- CL facilities are scarcely used but they are the only functionality whose usage does not decrease across time, they are used more frequently than standard RF features.
 
 - they are highly appreciated by users.
 
