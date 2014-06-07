@@ -277,7 +277,6 @@ image search process.
 
 - Both are within-subjects variables used for repeated measures
 
-
 --SUBSLIDE--
 ### 5 independent variables
 
@@ -343,7 +342,13 @@ image search process.
 --SUBSLIDE--
 ### Effort wrt difficulty of the target image
 
+![](img/histograms-interactions-difficulty-images.jpg)
 
+--SUBSLIDE--
+
+![](img/histograms-loginteractions-difficulty-images.jpg)
+
+- Differences between these two groups are significant (p < 0.0005)
 
 --SLIDE--
 ### CL Interactive Search Facilities
@@ -436,3 +441,12 @@ image search process.
 <br/>
 
 Thank you!
+
+--SLIDE--
+### Other pending analyses
+
+- width vs depth search
+
+- before and after 1st hint
+
+- hints vs no hints
