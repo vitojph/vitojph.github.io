@@ -357,7 +357,7 @@ Users’ Perceptions, Search Behavior and Search Effectiveness in Interactive Mu
 
 
 --SUBSLIDE--
-### Interactions descrease thru time
+### Interactions decrease thru time
 
 <br/>
 
@@ -414,7 +414,7 @@ Users’ Perceptions, Search Behavior and Search Effectiveness in Interactive Mu
 - dictionary manipulation is the most frequently used
 
 --SUBSLIDE--
-### CL facilities don't descrease thru time
+### CL facilities don't decrease thru time
 
 <br/>
 
