@@ -307,9 +307,12 @@ body {
 	word-wrap: normal;
 }
 
+.reveal table {
+  border: 1; }
+
 .reveal table th,
 .reveal table td {
-	text-align: left;
+	text-align: center;
 	padding-right: .3em;
 }
 
@@ -1366,5 +1369,3 @@ body {
 .zoomed .reveal .roll span:after {
 	visibility: hidden;
 }
-
-

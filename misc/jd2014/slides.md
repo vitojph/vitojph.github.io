@@ -21,7 +21,7 @@ Víctor Peinado | victor@lsi.uned.es | @vitojph
 
 5. Achievements
 
-6. [Latest Analyses](./7)
+6. [Work in progress](./#/7)
 
 
 --SLIDE--
@@ -70,7 +70,7 @@ Víctor Peinado | victor@lsi.uned.es | @vitojph
 
   - are users willing to translate into unknown languages?
   - competence in target language determines the success of the task?
-  - actual usage of CL facilities vs. subjects’ perception of usefulness
+  - actual usage of CL facilities vs. users' perception of usefulness
 
 --SUBSLIDE--
 
@@ -156,9 +156,36 @@ image search process.
 
 --SLIDE--
 
-### Users’ Perceptions, Search Behavior and Search Effectiveness in Interactive Multilingual Search
+### Work in progress
+
+<br/>
+
+Users’ Perceptions, Search Behavior and Search Effectiveness in Interactive Multilingual Search
 
 --SLIDE--
+### Outline
+
+1. Experimental Design: FlickLing and iCLEF
+
+2. Method of Analysis
+
+3. Performance
+
+4. Effort
+
+5. Usage of CL Facilities
+
+6. Users' Perceptions
+
+7. Conclusions
+
+8. Chronogram
+
+--SLIDE--
+
+### Experimental Design
+
+--SUBSLIDE--
 
 ### FlickLing and iCLEF
 
@@ -210,7 +237,7 @@ image search process.
 
 ![](img/search-from-tag-en.png)
 
---SLIDE--
+--SUBSLIDE--
 
 ### Search sessions
 
@@ -234,7 +261,7 @@ image search process.
 - The game could last as long as it has to but, internally, the experiment was considered as finished after 15 sessions.
 
 
---SLIDE--
+--SUBSLIDE--
 ### Questionnaires
 
 1. post-image questionnaire about the easiness or difficulty of the task, depending on the outcome of the search session
@@ -247,9 +274,12 @@ image search process.
    - any other missing functionalities
    - strategies used to find the correct translations
 
-
 --SLIDE--
+
 ### Method of Analysis
+
+--SUBSLIDE--
+### Log Analysis
 
 - The logs collected and released during the iCLEF 2008 and 2009 campaigns contained more than 2M lines.
 
@@ -258,27 +288,24 @@ image search process.
    - were caught cheating.
    - were wrongly captured in the logs and considered invalid.
 
-- We restrict the analysis to the **3,025 individual search sessions** carried out by subjects who were able to complete at least 15 search sessions.
+- We restrict the analysis to the **3,025 individual search sessions** carried out by users who were able to complete at least 15 search sessions.
 
 --SUBSLIDE--
-### Two independent variables
+### 3 independent variables
 
 <br/>
 
 - **user profile**: active (N=1,882) / passive (N=442) / none (N=701)
   - according to the users' language skills wrt the language of the target image.
 
-<br/>
-
 - **difficulty** of the target image: easy (N=1521)/ difficult (N=1461)
   - *easy* images are those with higher avg success rate (threshold = 79%)
 
-<br/>
-
-- Both are within-subjects variables used for repeated measures
+- **number of search session** [1:15]
+  - is there any type of learning effect?
 
 --SUBSLIDE--
-### 5 independent variables
+### 4 dependent variables
 
 <br/>
 
@@ -288,13 +315,15 @@ image search process.
 
 - **hints** requested [0:5]
 
-- **# interactions**: subject's total effort in performing the task (queries launched, ranking pages explored, usage of RF facilities
-
-- **# ranking pages explored**: depth search strategy vs width search
+- **# interactions**: user's total effort in performing the task (queries launched, ranking pages explored, usage of RF facilities
 
 --SLIDE--
 
 ### Results
+
+--SLIDE--
+
+### Performance
 
 
 --SUBSLIDE--
@@ -308,34 +337,56 @@ image search process.
 ![](img/plot-performance-15.jpg)
 
 --SLIDE--
+
 ### Effort
-
-<br/>
-
-- We have used the total number of interactions as a metric of subjects' effort.
-
-  - **active**: mean=11.27, SD=13.66
-  - **passive**: mean=12.48, SD=16.07
-  - **none**: mean=12.83, SD=14.98
-
-<br/>
-
-- These differences are only significant in the active-none comparison (p < .04).
 
 --SUBSLIDE--
-### Effort
+### Interactions as a proxy of users' effort
+
+<br/>
+
+<table class="reveal">
+    <tr>
+      <th>user profile</th>
+      <th>mean</th>
+      <th>SD</th>
+    </tr>
+    <tr>
+      <td>active</td>
+      <td>11.27</td>
+      <td>13.66</td>
+    </tr>
+  <tr>
+    <td>passive</td>
+    <td>12.48</td>
+    <td>16.07</td>
+  </tr>
+
+  <tr>
+    <td>none</td>
+    <td>12.83</td>
+    <td>14.98</td>
+  </tr>
+  </table>
+
+<br/>
+
+- These differences are only significant in the active-none comparison (p < 0.04)
+
+--SUBSLIDE--
+### Lack of language skills &rarr; more effort
+
+![](img/effort-table.png)
 
 - the lack of language skills seems to be directly related to:
   - the usage of the multilingual search mode
   - the total number of interactions performed.
 
-![](img/tabla.png)
-
 
 --SUBSLIDE--
-### Effort thru time
+### Interactions descrease thru time
 
-- decreasing tendency in the number of interactions performed as the users were completing search sessions
+<br/>
 
 ![](img/plot-median-interactions15.jpg)
 
@@ -351,25 +402,55 @@ image search process.
 - Differences between these two groups are significant (p < 0.0005)
 
 --SLIDE--
-### CL Interactive Search Facilities
 
-- Usage of the cross-language facilities is very low.
-  - only 40% of subjects used either the multilingual RF or their personal dictionary.
-
-- dictionary manipulation (adding new translations, promoting convenient options and removing bad ones):
-
-  - **active**: mean=0.06, SD=0.45
-  - **passive**: mean=0.06, SD=0.43
-  - **none**: mean=0.17, SD=0.79
-
+### CL facilities
 
 --SUBSLIDE--
-### RF thru time
+### Usage of the CL facilities is very low
 
-- CL facilities are the only interaction that do not show the decreasing pattern
-- personal dictionary turned out to be more useful as subjects were completing search sessions.
+<br/>
+
+<table class="reveal">
+    <tr>
+      <th>user profile</th>
+      <th>mean</th>
+      <th>SD</th>
+    </tr>
+    <tr>
+      <td>active</td>
+      <td>0.06</td>
+      <td>0.45</td>
+    </tr>
+  <tr>
+    <td>passive</td>
+    <td>0.06</td>
+    <td>0.43</td>
+  </tr>
+
+  <tr>
+    <td>none</td>
+    <td>0.17</td>
+    <td>0.79</td>
+  </tr>
+  </table>
+
+<br/>
+
+- only 40% of users employed either the multilingual RF or their personal dictionary
+
+- dictionary manipulation is the most frequently used
+
+--SUBSLIDE--
+### CL facilities don't descrease thru time
+
+<br/>
 
 ![](img/RF15.png)
+
+<br/>
+
+- personal dictionary turned out to be more useful as users were completing search sessions.
+
 
 --SLIDE--
 
@@ -377,19 +458,25 @@ image search process.
 
 --SUBSLIDE--
 
-### Successful sessions
+### It's an easy task but...
 
 <br/>
 
 ![](img/post-image-quest-success.jpg)
 
+- to describe the image and the language barrier are the main difficulties
+
 --SUBSLIDE--
 
-### Unsuccessful sessions
+### Users quit because...
 
 <br/>
 
 ![](img/post-image-quest-fail.jpg)
+
+- too many images to deal with
+- it's difficult to describe the image
+
 
 --SUBSLIDE--
 
@@ -417,9 +504,15 @@ image search process.
 ![](img/oq-facilities-missed.png)
 
 --SLIDE--
+
+
 ### Conclusions
 
-- performance of users with passive competence in the target language is similar to users’ with active competence, but at the expense of employing more cognitive effort.
+--SUBSLIDE--
+
+### Conclusions
+
+- performance of users with passive competence in the target language is similar to users’ with active competence, but at the expense of employing more effort.
 
 - users with no competence in the target language obtain poorer results.
 
@@ -427,11 +520,60 @@ image search process.
 
 --SUBSLIDE--
 
-- subjects resist to use multilingual search assistance, even when they find out they have to search in unfamiliar languages.
+- users resist to use multilingual search assistance, even when they find out they have to search in unfamiliar languages.
 
 - CL facilities are scarcely used but they are the only functionality whose usage does not decrease across time, they are used more frequently than standard RF features.
 
 - they are highly appreciated by users.
+
+--SLIDE--
+
+### Chronogram
+
+--SUBSLIDE--
+
+### Objectives partially achieved
+
+- Passages preferred over documents, but documents are more effective  (López-Ostenero et al., 2005; Peinado et al., 2006; López Ostenero et al., 2008).
+
+- Specifying the expected type of answer before launching the query is helpful (López-Ostenero et al., 2005).
+
+- Automatic highlighting of the possible target answers is useful (Peinado et al., 2006).
+
+--SUBSLIDE--
+
+- Users tend to avoid translating their queries and search for images tagged in unknown languages: (Artiles et al., 2009).
+
+- User with active competence in the target language perform 18% better than users with no competence (Peinado et al., 2009a,b)
+
+- Users with passive competence need more interactions (Peinado et al., 2009a,b).
+
+--SUBSLIDE--
+
+- Usage of CL facilities is low but higher than RF and is perceived as useful (Artiles et al., 2009; Peinado et al., 2009a,b).
+
+- Usage of RF is remarkably low but successful users use it more often (Artiles et al., 2009; Peinado et al., 2009a,b).
+
+- Re-usable resources: the [iCLEF search log](https://github.com/vitojph/iclef) (Peinado et al., 2008, 2009a,b).
+
+--SUBSLIDE--
+
+### To-do List
+
+- Jun 2014: analyze subjects' performance and effort considering their linguistic competence with respect to the annotation language of the target image.
+
+- Jun 2014: analyze users' perception on the task performed.
+
+- Jun 2014: study users' behavior with respect to the search mode used (monolingual or multilingual).
+
+- Jun 2014: compare usage and usefulness of the different cross-language interactive search facilities implemented in our image search assistant.
+
+- Jul-Aug 2014: write journal article with the latest analyses.
+
+- Sep-Dec 2014: write the dissertation.
+
+
+
 
 --SLIDE--
 
@@ -443,6 +585,7 @@ image search process.
 Thank you!
 
 --SLIDE--
+
 ### Other pending analyses
 
 - width vs depth search
