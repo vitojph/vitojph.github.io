@@ -152,7 +152,7 @@ Users’ Perceptions, Search Behavior and Search Effectiveness in Interactive Mu
 
 7. Conclusions
 
-8. Chronogram
+8. Chronogram & To-Do List
 
 --SLIDE--
 
