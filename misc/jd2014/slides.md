@@ -11,15 +11,15 @@ Víctor Peinado | victor@lsi.uned.es | @vitojph
 --SLIDE--
 ### Outline
 
-1. Motivation
+1. [Motivation](./#/2)
 
-2. Goals
+2. [Goals](./#/3)
 
-3. Hypothesis
+3. [Hypothesis](./#/4)
 
-4. Methodology
+4. [Methodology](./#/5)
 
-5. [Work in progress](./#/7)
+5. [Work in progress](./#/6)
 
 
 --SLIDE--
@@ -138,21 +138,21 @@ Users’ Perceptions, Search Behavior and Search Effectiveness in Interactive Mu
 --SLIDE--
 ### Outline
 
-1. Experimental Design: FlickLing and iCLEF
+1. [Experimental Design: FlickLing and iCLEF](./#/8)
 
-2. Method of Analysis
+2. [Method of Analysis](./#/9)
 
-3. Performance
+3. [Performance](./#/11)
 
-4. Effort
+4. [Effort](./#/12)
 
-5. Usage of CL Facilities
+5. [Usage of CL Facilities](./#/13)
 
-6. Users' Perceptions
+6. [Users' Perceptions](./#/14)
 
-7. Conclusions
+7. [Conclusions](./#/15)
 
-8. Chronogram & To-Do List
+8. [Chronogram & To-Do List](./#/16)
 
 --SLIDE--
 
@@ -497,7 +497,7 @@ Users’ Perceptions, Search Behavior and Search Effectiveness in Interactive Mu
 
 - CL facilities are scarcely used but they are the only functionality whose usage does not decrease across time, they are used more frequently than standard RF features.
 
-- they are highly appreciated by users.
+- CL facilities are highly appreciated by users.
 
 --SLIDE--
 
