@@ -19,9 +19,7 @@ Víctor Peinado | victor@lsi.uned.es | @vitojph
 
 4. Methodology
 
-5. Achievements
-
-6. [Work in progress](./#/7)
+5. [Work in progress](./#/7)
 
 
 --SLIDE--
@@ -128,31 +126,6 @@ image search process.
 
   - Apply transaction log analysis to understan the complete multilingual search processes from a user’s perspective.
 
-
---SLIDE--
-### Achievements
-
-- Passages preferred over documents, but documents are more effective  (López-Ostenero et al., 2005; Peinado et al., 2006; López Ostenero et al., 2008).
-
-- Specifying the expected type of answer before launching the query is helpful (López-Ostenero et al., 2005).
-
-- Automatic highlighting of the possible target answers is useful (Peinado et al., 2006).
-
---SUBSLIDE--
-
-- Users tend to avoid translating their queries and search for images tagged in unknown languages: (Artiles et al., 2009).
-
-- User with active competence in the target language perform 18% better than users with no competence (Peinado et al., 2009a,b)
-
-- Users with passive competence need more interactions (Peinado et al., 2009a,b).
-
---SUBSLIDE--
-
-- Usage of CL facilities is low but higher than RF and is perceived as useful (Artiles et al., 2009; Peinado et al., 2009a,b).
-
-- Usage of RF is remarkably low but successful users use it more often (Artiles et al., 2009; Peinado et al., 2009a,b).
-
-- Re-usable resources: the [iCLEF search log](https://github.com/vitojph/iclef) (Peinado et al., 2008, 2009a,b).
 
 --SLIDE--
 
