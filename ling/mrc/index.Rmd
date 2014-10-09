@@ -16,7 +16,14 @@ output: html_document
 - Tutorías: JV, de 15h00 a 18h00
 
 
-### Presentaciones
+### Materiales
 
-- [Introducción a la Representación del Conocimiento](IntroRC.pdf)
-  - Brachman, R.; Levesque, H. *Knowledge Representation and Reasoning*. Morgan Kaufmann. 2004. [chap. 1](http://rair.cogsci.rpi.edu/pai/library/brachmanbook7-17-03.pdf)
+**Introducción a la Representación del Conocimiento**
+
+- [Resumen](IntroRC.pdf)
+
+- Brachman, R.; Levesque, H. *Knowledge Representation and Reasoning*. Morgan Kaufmann. 2004. [chap. 1](http://rair.cogsci.rpi.edu/pai/library/brachmanbook7-17-03.pdf)
+
+- [Presentación del libro *Knowledge Representation and Reasoning*](http://www.cs.toronto.edu/~hector/PublicKRSlides.pdf)
+
+- [Videolectures: Knowledge Representation and Reasoning](http://videolectures.net/ssll09_pagnucco_krr/)
