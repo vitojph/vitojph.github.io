@@ -22,8 +22,8 @@ output: html_document
 
 - [Resumen](IntroRC.pdf)
 
-- Brachman, R.; Levesque, H. *Knowledge Representation and Reasoning*. Morgan Kaufmann. 2004. [chap. 1](http://rair.cogsci.rpi.edu/pai/library/brachmanbook7-17-03.pdf)
+- Capítulo 1 de Brachman, R.; Levesque, H. [*Knowledge Representation and Reasoning*](http://rair.cogsci.rpi.edu/pai/library/brachmanbook7-17-03.pdf). Morgan Kaufmann. 2004.
 
-- [Presentación del libro *Knowledge Representation and Reasoning*](http://www.cs.toronto.edu/~hector/PublicKRSlides.pdf)
+- [Presentaciones de Levesque del libro *Knowledge Representation and Reasoning*](http://www.cs.toronto.edu/~hector/PublicKRSlides.pdf)
 
 - [Videolectures: Knowledge Representation and Reasoning](http://videolectures.net/ssll09_pagnucco_krr/)

@@ -1,0 +1,25 @@
+---
+title: "Programación para el Procesamiento del Lenguaje Natural | 2014-2015"
+author: "Víctor Peinado"
+date: "07/10/2014"
+output: html_document
+---
+
+### Información General
+
+- Profesor: [Víctor Peinado](mailto:v.peinado@filol.ucm.es)
+
+- [Ficha de la asignatura: curso 2014-3015](ficha-ProgramacionPLN.pdf)
+
+- Horario: 1er semestre, JV de 10h30 a 12h30
+
+- Tutorías: JV, de 15h00 a 18h00
+
+
+### Materiales
+
+**Introducción al Procesamiento del Lenguaje Natural**
+
+- [Resumen](IntroPLN.pdf)
+
+- [Conexiones a través de SSH](conexiones-SSH.pdf)
