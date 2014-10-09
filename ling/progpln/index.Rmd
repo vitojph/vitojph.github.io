@@ -21,8 +21,17 @@ output: html_document
 
 ### Materiales
 
-**Introducción al Procesamiento del Lenguaje Natural**
+1. **Introducción al Procesamiento del Lenguaje Natural**
 
-- [Resumen](IntroPLN.pdf)
+    - [Resumen](IntroPLN.pdf)
 
-- [Conexiones a través de SSH](conexiones-SSH.pdf)
+    - Lectura: [What Can Computational Linguistics Do For You?](http://clic.cimec.unitn.it/brian/compLingITC/whatGoodCL.html)
+
+
+2. **Herramientas de Unix para procesamiento de texto**
+
+    - [Conexiones a través de SSH](conexiones-SSH.pdf)
+
+    - Lectura: [Basic concepts of computers: hardware and software](http://clic.cimec.unitn.it/brian/compLingITC/computers.html)
+    
+    - [Shell de Unix: gestión de ficheros y directorios](ShellUnix.pdf)
