@@ -1,9 +1,10 @@
 ---
-title: "Modelos de Representación del Conocimiento | 2014-2015"
-author: "Víctor Peinado"
-date: "07/10/2014"
+title: "Modelos de Representación del Conocimiento"
 output: html_document
 ---
+
+<br/>
+
 
 ### Información General
 
@@ -14,6 +15,8 @@ output: html_document
 - Horario: 1er semestre, JV de 12h30 a 14h30
 
 - Tutorías: JV, de 15h00 a 18h00
+
+<br/>
 
 
 ### Materiales

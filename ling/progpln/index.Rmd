@@ -1,9 +1,9 @@
 ---
-title: "Programación para el Procesamiento del Lenguaje Natural | 2014-2015"
-author: "Víctor Peinado"
-date: "07/10/2014"
+title: "Programación para el Procesamiento del Lenguaje Natural"
 output: html_document
 ---
+
+<br/>
 
 ### Información General
 
@@ -14,6 +14,9 @@ output: html_document
 - Horario: 1er semestre, JV de 10h30 a 12h30
 
 - Tutorías: JV, de 15h00 a 18h00
+
+
+<br/>
 
 
 ### Materiales
