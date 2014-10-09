@@ -1,0 +1,22 @@
+---
+title: "Modelos de Representación del Conocimiento | 2014-2015"
+author: "Víctor Peinado"
+date: "07/10/2014"
+output: html_document
+---
+
+### Información General
+
+- Profesor: [Víctor Peinado](mailto:v.peinado@filol.ucm.es)
+
+- [Ficha de la asignatura: curso 2014-3015](ficha-RepresentacionConocimiento.pdf)
+
+- Horario: 1er semestre, JV de 12h30 a 14h30
+
+- Tutorías: JV, de 15h00 a 18h00
+
+
+### Presentaciones
+
+- [Introducción a la Representación del Conocimiento](IntroRC.pdf)
+  - Brachman, R.; Levesque, H. *Knowledge Representation and Reasoning*. Morgan Kaufmann. 2004. [chap. 1](http://rair.cogsci.rpi.edu/pai/library/brachmanbook7-17-03.pdf)
