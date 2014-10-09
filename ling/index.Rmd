@@ -1,0 +1,75 @@
+---
+output: html_document
+---
+
+## Contacto
+
+- correo-e: [v.peinado ARROBA filol.ucm.es](mailto:v.peinado@filol.ucm.es)
+
+- teléfono: [(+34) 91 394 7730](tel:+34913947730)
+
+- skype/gtalk/twitter: vitojph
+
+- Dirección postal: Facultad de Filología, UCM. Edificio D. Despacho 0.306. E-28040 Ciudad Universitaria, Madrid, Spain
+
+<br/>
+
+## Docencia durante 2014-2015
+
+Durante este curso, mis horarios de tutorías y de atención a los alumnos son los jueves y viernes de 15h00 a 18h00. Si quieres pasar a verme, por favor avísame antes [enviándome un mensaje de correo](mailto:v.peinado@filol.ucm.es?subject=Tutoría).
+
+Soy responsable de estas asignaturas de grado presenciales:
+
+- [Programación para el Procesamiento del Lenguaje Natural](http://vitojph.github.io/ling/progpln/) (Grado en Lingüística y Lenguas Aplicadas, 1er cuatrimestre)
+
+- [Modelos de Representación del Conocimiento](http://vitojph.github.io/ling/mrc/) (Grado en Lingüística y Lenguas Aplicadas, 1er cuatrimestre)
+
+- [Lenguajes de Marcado](http://vitojph.github.io/ling/lm/) (Grado en Lingüística y Lenguas Aplicadas, 2º cuatrimestre)
+
+
+Si eres alumno de la antigua Licenciatura de Lingüística y estás matriculado en alguna de las antiguas asignaturas sin docencia asignadas a mí, [contacta conmigo](mailto:v.peinado@filol.ucm.es?subject=Asignaturas sin docencia) cuanto antes.
+
+<br/>
+
+## Docencia en años anteriores
+
+### Curso 2013-2014
+
+- [Introducción a la Lingüística](http://vitojph.github.io/ling/intro-ling/) (Grado en Estudios Ingleses, 1er cuatrimestre, Grupos T1 y T2)
+
+- [Conceptos Fundamentales de la Lingüística](http://vitojph.github.io/ling/intro-ling/) (Grado en Español y sus Literaturas, 1er cuatrimestre, Grupo T)
+
+- Lingüística Matemática (sin docencia, Licenciatura en Lingüística, 2º cuatrimestre)
+
+- Procesamiento del Lenguaje Natural (sin docencia, Licenciatura en Lingüística, 2º cuatrimestre)
+
+- Hipertexto y Multimedia (sin docencia, Licenciatura en Lingüística, 2º cuatrimestre)
+
+
+### Curso 2012-2013
+
+- Lingüística Matemática (Licenciatura en Lingüística, 2º cuatrimestre)
+
+- Procesamiento del Lenguaje Natural (Licenciatura en Lingüística, 2º cuatrimestre)
+
+- Hipertexto y Multimedia (Licenciatura en Lingüística, 2º cuatrimestre)
+
+
+### Curso 2011-2012
+
+- [Lingüística I](http://pendientedemigracion.ucm.es/?a=estudios&d=titasignatura&anyo=2011-12&plan=0806&asig=800071) (Grado en Logopedia, 1er cuatrimestre, Grupos M y T)
+
+- Lingüística Matemática (Licenciatura en Lingüística, 2º cuatrimestre)
+
+- Procesamiento del Lenguaje Natural (Licenciatura en Lingüística, 2º cuatrimestre)
+
+- Hipertexto y Multimedia (Licenciatura en Lingüística, 2º cuatrimestre)
+
+
+### Curso 2010-2011
+
+- [Lingüística I](http://pendientedemigracion.ucm.es/?a=estudios&d=titasignatura&anyo=2010-11&plan=0806&asig=800071) (Grado en Logopedia, 1er cuatrimestre, Grupos M y T)
+
+- [Lingüística II](http://pendientedemigracion.ucm.es/?a=estudios&d=titasignatura&anyo=2010-11&plan=0806&asig=800072) (Grado en Logopedia, 2º cuatrimestre, Grupos M y T)
+
+
