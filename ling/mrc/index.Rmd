@@ -21,12 +21,17 @@ output: html_document
 
 ### Materiales
 
-**Introducción a la Representación del Conocimiento**
+1. Introducción a la Representación del Conocimiento
 
-- [Resumen](IntroRC.pdf)
+    - [Resumen](IntroRC.pdf)
 
-- Capítulo 1 de Brachman, R.; Levesque, H. [*Knowledge Representation and Reasoning*](http://rair.cogsci.rpi.edu/pai/library/brachmanbook7-17-03.pdf). Morgan Kaufmann. 2004.
+    - Capítulo 1 de Brachman, R.; Levesque, H. [*Knowledge Representation and Reasoning*](http://rair.cogsci.rpi.edu/pai/library/brachmanbook7-17-03.pdf). Morgan Kaufmann. 2004.
 
-- [Presentaciones de Levesque del libro *Knowledge Representation and Reasoning*](http://www.cs.toronto.edu/~hector/PublicKRSlides.pdf)
+    - [Presentaciones de Levesque del libro *Knowledge Representation and Reasoning*](http://www.cs.toronto.edu/~hector/PublicKRSlides.pdf)
 
-- [Videolectures: Knowledge Representation and Reasoning](http://videolectures.net/ssll09_pagnucco_krr/)
+    - [Videolectures: Knowledge Representation and Reasoning](http://videolectures.net/ssll09_pagnucco_krr/)
+
+
+2. Representación de Conocimiento
+
+    - [Teoría de Conjuntos](Conjuntos.pdf)
