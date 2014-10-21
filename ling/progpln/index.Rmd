@@ -35,3 +35,8 @@ output: html_document
     - Lectura: [Basic concepts of computers: hardware and software](http://clic.cimec.unitn.it/brian/compLingITC/computers.html)
     
     - [Shell de Unix: gestión de ficheros y directorios](ShellUnix.pdf)
+    
+    - [Práctica 1: Gestión de ficheros en Unix](progpln-practica1-enunciado.html)
+    
+    - [Shell de Unix: procesamiento de texto](ShellUnix-proc-text.pdf)
+    
