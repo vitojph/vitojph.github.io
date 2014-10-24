@@ -40,3 +40,4 @@ output: html_document
     
     - [Shell de Unix: procesamiento de texto](ShellUnix-proc-text.pdf)
     
+    - [Expresiones regulares](Regexes.pdf)
