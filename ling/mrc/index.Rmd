@@ -32,8 +32,11 @@ output: html_document
     - [Videolectures: Knowledge Representation and Reasoning](http://videolectures.net/ssll09_pagnucco_krr/)
 
 
-2. Representación de Conocimiento
+2. Teoría de conjuntos, relaciones y funciones
 
     - [Teoría de Conjuntos](Conjuntos.pdf)
     
     - [Relaciones](Relaciones.pdf)
+
+    - [Funciones](Funciones.pdf)
+
