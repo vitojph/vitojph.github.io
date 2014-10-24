@@ -36,8 +36,10 @@ output: html_document
     
     - [Shell de Unix: gestión de ficheros y directorios](ShellUnix.pdf)
     
-    - [Práctica 1: Gestión de ficheros en Unix](progpln-practica1-enunciado.html)
+    - Práctica 1: [Gestión de ficheros en Unix](progpln-practica1-enunciado.html) &rarr; antes del 27/10/2014
     
     - [Shell de Unix: procesamiento de texto](ShellUnix-proc-text.pdf)
     
+    - Práctica 2: [Herramientas de procesamiento de texto en Unix](progpln-practica2-enunciado.html) &rarr; antes del 3/10/2014
+
     - [Expresiones regulares](Regexes.pdf)
