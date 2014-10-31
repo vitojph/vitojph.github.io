@@ -40,3 +40,9 @@ output: html_document
 
     - [Funciones](Funciones.pdf)
 
+
+3. Lógica y Sistemas Formales
+
+    - [Introdución a la Lógica y los Sistemas Formales](IntroLogica.pdf)
+
+    - [Lógica Proposicional](LogicaProposicional.pdf)
