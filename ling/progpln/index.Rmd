@@ -47,7 +47,7 @@ output: html_document
     - Práctica 3: [Expresiones regulares en Unix](progpln-practica3-enunciado.html) &rarr; antes del 16/10/2014
 
 
-3. *PLN en Python*
+3. **Procesamiento del Lenguaje Natural en Python**
 
     - [Introducción a Python: variables y estructura de datos](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/1-Intro-Python.ipynb)
     
