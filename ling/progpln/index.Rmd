@@ -51,3 +51,7 @@ output: html_document
 
     - [Introducción a Python: variables y estructura de datos](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/1-Intro-Python.ipynb)
     
+    - [Introducción a Python: control de flujo](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/2-Python-control-fujo.ipynb)
+    
+    - [Introducción a Python: bucles](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/3-Python-bucles.ipynb)
+    

@@ -46,3 +46,8 @@ output: html_document
     - [Introdución a la Lógica y los Sistemas Formales](IntroLogica.pdf)
 
     - [Lógica Proposicional](LogicaProposicional.pdf)
+
+    - [Lógica de Predicados](LogicaPredicados.pdf)
+
+
+4. Programación en Prolog
