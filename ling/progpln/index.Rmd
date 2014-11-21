@@ -57,6 +57,9 @@ output: html_document
     
     - [Introducción a Python: funciones](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/4-Python-Funciones.ipynb)
     
+    
+4. **Herramientas de PLN en Python**    
+    
     - [Resumen NLTK: Acceso a corpus de texto y recursos léxicos](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/5-nltk-corpus.ipynb)
     
     
