@@ -51,3 +51,8 @@ output: html_document
 
 
 4. Programación en Prolog
+
+    - [Introducción a Prolog: hechos, reglas, consultas](Prolog-Hechos-Reglas-Consultas.pdf) 
+
+    - [Prolog: unificación y recursión](Prolog-Unificacion-Recursion.pdf) 
+
