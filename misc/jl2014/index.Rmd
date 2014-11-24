@@ -10,9 +10,48 @@ output: ioslides_presentation
 ### ¿Cómo podemos ayudar lingüistas y filólogos?
 
 
+## El sueño de la Ci-Fi
+
+La inteligencia artificial
+
+<div class="centered">
+![HALL9000](img/Hal9000.jpg)
+</div>
+
+
 ## Mi historia 
 
-- 
+- Yo quería que mi coche hablara y que me entendiera, como hacía Kitt.
+
+<div class="centered">
+![Kitt](img/Kitt.jpg)
+</div>
+
+## Mi historia 
+
+- Ahora me gustaría que mi móvil me entendiera.
+
+<div class="centered">
+![Kitt](img/Her.jpg)
+</div>
+
+Y si habla con la voz de Scarlett Johansson, ¡mejor! :-)
+
+
+
+## ¿Qué es la Lingüística Computacional?
+
+### O el Procesamiento del Lenguaje Natural
+
+
+- Área multidisciplinar que combina **Lingüística Computacional** e **Inteligencia Artificial**.
+
+- Nace como disciplina en los años 1940s y 1950s con un objetivo claro: construir sistemas de traducción automática.
+
+- Está relacionado con el desarrollo de herramientas y soluciones que permitan interaccionar de manera eficaz con ordenadores (o máquinas) de manera natural a través del habla.
+
+- PLN está íntimamente relacionado con otras disciplinas como Ingeniería, Psicología, Lógica, Estadística, Interacción Hombre-Máquina, Ciencias Cognitivas.
+
 
 ## Aclaraciones finales
 
@@ -29,8 +68,12 @@ Presentación inspirada por [The Stupidity of Computers](https://nplusonemag.com
 
 ## ¡Muchas Gracias!
 
+<div class="centered">
+
 ¿Preguntas? 
 
 v.peinado@filol.ucm.es
 
 [\@vitojph](https://twitter.com/vitojph)
+
+</div>
