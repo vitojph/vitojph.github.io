@@ -1,0 +1,36 @@
+---
+title: "Los ordenadores son tontos"
+author: "Víctor Peinado"
+date: "24/11/2014"
+output: ioslides_presentation
+---
+
+## Los ordenadores son tontos
+
+### ¿Cómo podemos ayudar lingüistas y filólogos?
+
+
+## Mi historia 
+
+- 
+
+## Aclaraciones finales
+
+[Procesamiento del Lenguaje Natural (PLN)](https://es.wikipedia.org/wiki/Procesamiento_de_lenguajes_naturales) $\not =$ [Programación neurolingüística (PNL)](https://es.wikipedia.org/wiki/Programaci%C3%B3n_neuroling%C3%BC%C3%ADstica)
+
+[Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) $\not =$ [Neuro-Linguistic Programming (NLP)](https://en.wikipedia.org/wiki/Neuro-linguistic_programming)
+
+
+Para evitar problemas, busquen por [\#NLProc](https://twitter.com/hashtag/nlproc?src=hash) :-)
+
+Presentación inspirada por [The Stupidity of Computers](https://nplusonemag.com/issue-13/essays/stupidity-of-computers/) de [\@AuerbachKeller](https://twitter.com/AuerbachKeller)
+
+
+
+## ¡Muchas Gracias!
+
+¿Preguntas? 
+
+v.peinado@filol.ucm.es
+
+[\@vitojph](https://twitter.com/vitojph)
