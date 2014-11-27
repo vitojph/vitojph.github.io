@@ -1,72 +1,219 @@
 ---
 title: "Los ordenadores son tontos"
 author: "Víctor Peinado"
-date: "24/11/2014"
+date: "28/11/2014"
 output: ioslides_presentation
 ---
 
 ## Los ordenadores son tontos
 
-### ¿Cómo podemos ayudar lingüistas y filólogos?
+<br/>
+<br/>
+<br/>
+
+<div class="centered">
+¿Son realmente tontos?
+<br/>
+<br/>
+¿Cómo podemos ayudar lingüistas 
+<br/>
+y filólogos a que sean más listos?
+</div>
 
 
-## El sueño de la Ci-Fi
+## Vivimos rodeados de máquinas 
 
-La inteligencia artificial
+- No todo el mundo sabe manejarlas: la tele, el móvil, la Thermomix.
+
+- En el mejor de los casos, los tratamos como meros electrodomésticos. 
+
+    - No necesitamos saber cómo funcionan por dentro para poder utilizarlas. Tras cierto entrenamiento, eso sí.
+
+- Lo que está claro es que **no interaccionamos con ellas igual que con las personas**.
+
+- No interaccionamos de manera natural: con el **habla**.
+
+
+## La IA: el sueño de la Ci-Fi
 
 <div class="centered">
 ![HALL9000](img/Hal9000.jpg)
 </div>
 
+[HAL 9000](http://es.wikipedia.org/wiki/HAL_9000) tiene capacidades de reconocimiento de voz, reconocimiento facial y procesamiento de lenguaje, lectura de labios, apreciación del arte, interpretación de emociones, expresión de emociones y razonamiento.
+
+
 
 ## Mi historia 
 
-- Yo quería que mi coche hablara y que me entendiera, como hacía Kitt.
+- Yo soñaba (sigo soñando) con coches que hablan y entienden a la gente, como hacía Kitt.
 
 <div class="centered">
 ![Kitt](img/Kitt.jpg)
 </div>
 
+<br/>
+
+- Ahora puedo hablar con mi coche y me entiende **solo de vez en cuando**. Pero tengo que aprender a usarlo.
+
+
 ## Mi historia 
 
-- Ahora me gustaría que mi móvil me entendiera.
+- La realidad es que preferiría que mi móvil me entendiera cuando le hablo, porque paso muchas horas al día con él.
+
+    - Y si tiene la voz de Scarlett Johansson, ¡mejor! :-)
 
 <div class="centered">
 ![Kitt](img/Her.jpg)
 </div>
 
-Y si habla con la voz de Scarlett Johansson, ¡mejor! :-)
 
+## Mi historia 
+
+- Actualmente tenemos *asistentes personales* como [Google Now](http://en.wikipedia.org/wiki/Google_Now) (Google), [Siri](http://en.wikipedia.org/wiki/Siri) (Apple), [Cortana](http://en.wikipedia.org/wiki/Microsoft_Cortana) (Microsoft), [Echo](http://en.wikipedia.org/wiki/Amazon_Echo) (Amazon) que nos permiten interaccionar a través del habla y acceder a [parte de las funcionalidades del teléfono](https://support.google.com/websearch/answer/2940021?hl=es).
+
+- Por el momento, solo *comprenden* un conjunto limitado de instrucciones.
+
+- Cualquier teléfono actual es miles de veces más potente que los sistemas de la misión Apollo, hemos avanzado en el diseño de interfaces y podemos hacer multitud de cosas con ellos, pero solo accedemos a unas pocas de ellas a través de la voz.
+
+- Ha habido avances, pero queda muchísimo por hacer. Ahí entramos nosotros.
 
 
 ## ¿Qué es la Lingüística Computacional?
 
-### O el Procesamiento del Lenguaje Natural
+
+- Lingüística Computacional o Procesamiento del Lenguaje Natural (PLN).
+
+- Área multidisciplinar que combina **Lingüística**, **Informática** e **Inteligencia Artificial**.
+
+    - PLN está íntimamente relacionado con otras disciplinas como Ingeniería, Psicología, Lógica, Estadística, Interacción Hombre-Máquina, Ciencias Cognitivas.
+
+- Nace como disciplina en los años 1950s con un objetivo inicial claro: construir sistemas de traducción automática.
+
+- [Amalgama de problemas, técnicas, ideas y soluciones](http://nlpers.blogspot.com.es/2012/12/teaching-intro-grad-nlp.html) para procesar automáticamente el lenguaje natural.
 
 
-- Área multidisciplinar que combina **Lingüística Computacional** e **Inteligencia Artificial**.
+## La Lingüística Computacional
 
-- Nace como disciplina en los años 1940s y 1950s con un objetivo claro: construir sistemas de traducción automática.
+- Es la disciplina relacionada con el desarrollo de herramientas y soluciones que permitan:
 
-- Está relacionado con el desarrollo de herramientas y soluciones que permitan interaccionar de manera eficaz con ordenadores (o máquinas) de manera natural a través del habla.
+    - procesar automáticamente lenguaje natural
+    - comprender el lenguaje natural
+    - interaccionar de manera eficaz con ordenadores (o máquinas) de manera natural a través del habla.
+    
 
-- PLN está íntimamente relacionado con otras disciplinas como Ingeniería, Psicología, Lógica, Estadística, Interacción Hombre-Máquina, Ciencias Cognitivas.
+## Tareas del PLN
 
+- Análisis morfo-sintáctico.
+
+- Reconocimiento de entidades.
+
+- Desambiguación semántica.
+
+- Traducción automática: [Google Translate](http://translate.google.es)
+
+- Extracción de información: [TripIt](https://www.tripit.com/)
+
+
+
+## Tareas del PLN 
+
+- Reconocimiento del habla: [Google Voice Search](http://www.google.com/insidesearch/features/voicesearch/index-chrome.html)
+
+- Recuperación de información: [Google Search](http://www.google.com),
+  [Bing](http://www.bing.com) y [Wolfram|Alpha](http://www.wolframalpha.com/)
+
+- Resumen automático.
+
+- Búsqueda de respuestas: [Ask.com](http://www.ask.com),
+  [Watson](http://www.youtube.com/watch?v=WFR3lOm_xhE)
+
+- Análisis de opiniones: [Textalytics](https://textalytics.com/api-semantica-analisis-medios), [NaturalOpinions](http://demos.bitext.com/naturalopinions/) y [Atribus](http://atribus.com/)
+
+- Generación del lenguaje natural.
+
+- Comprensión del lenguaje natural: [Siri](http://www.apple.com/es/ios/siri/) y [Ok Google](https://support.google.com/websearch/answer/2940021?hl=es)
+
+
+## Progresos en PLN
+
+- En 1950s el objetivo era los sitemas de traducción automática. Guerra fría.
+
+- En la decada de los 1960s, aparecen sistemas expertos que asistían en la toma de decisiones, sistemas de diálogo que trataban de imitar conversaciones humanas, creación de ontologías para capturar conocimiento del mundo.
+
+- Hasta los 1980s, la mayor parte de los sistemas de PLN estaban basados en conocimiento y manejaban complejas reglas diseñadas a mano. Influencia de la Lingüística Generativa de Chomsky.
+
+
+## Progresos en PLN
+
+- A partir de esa década, irrumplen las aproximaciones estadísticas basadas en sistemas de aprendizaje automático, que requieren grandes colecciones de datos anotados manualmente. Desarrollo paralelo al aumento de potencia de los ordenadores.
+
+- Actualmente, vivimos un auge de los sistemas de aprendizaje automático *no supervisados* (es decir, no anotados), con especial énfasis en el uso de la Web. Explosión de datos en formato electrónico.
+
+
+## Tareas resueltas y problemas abiertos
+
+![Language Technologies](img/langtech-progress.png)
+
+
+## ¿Por qué es tan difícil el PLN?
+
+El lenguaje natural es eminentemente **ambiguo**: es la principal diferencia entre lenguas naturales y lenguajes artificiales.
+  
+Esta ambigüedad existe a varios niveles:
+
+- ambigüedad fonética y fonológica: *vaca/baca*, *casa/caza*, *has sido tú/has ido tú*
+
+- ambigüedad morfológica: *casa, beso, río*
+
+- ambigüedad sintáctica: *Ayer me encontré a tu padre corriendo* 
+
+- ambigüedad semántica: *banco*, *pie* 
+
+- ambigüedad de discurso: correferencia, resolución de anáforas
+
+
+## ¿Por qué es tan difícil el PLN?
+
+![Language Technologies](img/nlp-difficulties.png)
+
+
+## ¿Qué podemos aportar desde aquí?
+
+- Teorías y formalizaciones que permitan describir fenómenos lingüísticos.
+
+- Diseño y construcciones de recursos, en especial en lenguas minorizadas.
+
+- Sistemas híbridos: aproximaciones estadísticas y basadas en conocimiento.
+
+- PLN aplicado a mejorar los procesos de:
+
+    - aprendizaje de lenguas extranjeras.
+    - adquisición de lenguas.
+    - superación de patologías del lenguaje.
+    
 
 ## Aclaraciones finales
 
-[Procesamiento del Lenguaje Natural (PLN)](https://es.wikipedia.org/wiki/Procesamiento_de_lenguajes_naturales) $\not =$ [Programación neurolingüística (PNL)](https://es.wikipedia.org/wiki/Programaci%C3%B3n_neuroling%C3%BC%C3%ADstica)
+[Procesamiento del Lenguaje Natural (PLN)](https://es.wikipedia.org/wiki/Procesamiento_de_lenguajes_naturales) &ne; [Programación neurolingüística (PNL)](https://es.wikipedia.org/wiki/Programaci%C3%B3n_neuroling%C3%BC%C3%ADstica)
 
-[Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) $\not =$ [Neuro-Linguistic Programming (NLP)](https://en.wikipedia.org/wiki/Neuro-linguistic_programming)
-
+[Natural Language Processing (NLP)](https://en.wikipedia.org/wiki/Natural_language_processing) &ne; [Neuro-Linguistic Programming (NLP)](https://en.wikipedia.org/wiki/Neuro-linguistic_programming)
 
 Para evitar problemas, busquen por [\#NLProc](https://twitter.com/hashtag/nlproc?src=hash) :-)
+
+<br/>
 
 Presentación inspirada por [The Stupidity of Computers](https://nplusonemag.com/issue-13/essays/stupidity-of-computers/) de [\@AuerbachKeller](https://twitter.com/AuerbachKeller)
 
 
 
 ## ¡Muchas Gracias!
+
+<br/>
+
+<br/>
+
+<br/>
 
 <div class="centered">
 
