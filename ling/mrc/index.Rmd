@@ -61,3 +61,8 @@ output: html_document
     - [Prolog: Operaciones aritméticas](Prolog-Aritmetica.pdf) 
 
     - [Prolog: Más listas](Prolog-Listas2.pdf) 
+    
+    
+5. Representación del Conocimiento Lingüístico
+
+
