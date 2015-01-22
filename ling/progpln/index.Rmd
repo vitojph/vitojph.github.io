@@ -36,15 +36,10 @@ output: html_document
     
     - [Shell de Unix: gestión de ficheros y directorios](ShellUnix.pdf)
     
-    - Práctica 1: [Gestión de ficheros en Unix](progpln-practica1-enunciado.html) &rarr; antes del 27/10/2014
-    
     - [Shell de Unix: procesamiento de texto](ShellUnix-proc-text.pdf)
     
-    - Práctica 2: [Herramientas de procesamiento de texto en Unix](progpln-practica2-enunciado.html) &rarr; antes del 3/10/2014
-
     - [Expresiones regulares](Regexes.pdf)
 
-    - Práctica 3: [Expresiones regulares en Unix](progpln-practica3-enunciado.html) &rarr; antes del 16/10/2014
 
 
 3. **Procesamiento del Lenguaje Natural en Python**
@@ -60,6 +55,11 @@ output: html_document
     
 4. **Herramientas de PLN en Python**    
     
-    - [Resumen NLTK: Acceso a corpus de texto y recursos léxicos](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/5-nltk-corpus.ipynb)
+    - [NLTK: Acceso a corpus de texto y recursos léxicos](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/5-nltk-corpus.ipynb)
+    - [NLTK: Etiquetado morfológico](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/6-nltk-pos.ipynb)
+    - [NLTK: Análisis sintáctico](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/7-nltk-analyzers.ipynb)
+    - [`pattern.en` y `pattern.es`: procesamiento del lenguaje en inglés y español](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/8-pattern-en-es.ipynb)
+    - [`pattern.web`: accediendo a buscadores, Wikipedia y Twitter](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/9-pattern-web.ipynb)
+    - [TextBlob: Herramientas de procesamiento de texto](http://nbviewer.ipython.org/github/vitojph/2014progpln/blob/master/10-textblob.ipynb)
     
-    
+*Última modificación: 22/01/2015*

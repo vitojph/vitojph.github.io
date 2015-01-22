@@ -65,4 +65,11 @@ output: html_document
     
 5. Representación del Conocimiento Lingüístico
 
+    - Farfar & Langendown. "A linguistic ontology for the semantic web". 2003.
+    - Shi & Mihalcea. "Putting Pieces Together: Combining FrameNet, VerbNet and WordNet for Robust Semantic Parsing". 2005.
+    - Chiarcos *et al.* "Towards Open Data for Linguistics: Linguistic Linked Data". 2013.
+    - [Linguistic Linked Open Data cloud](http://linguistics.okfn.org/resources/llod/)
+    
+    
+*Última modificación: 22/01/2015*
 
