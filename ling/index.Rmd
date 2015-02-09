@@ -26,7 +26,7 @@ Soy responsable de estas asignaturas de grado presenciales:
 
 - [Modelos de Representación del Conocimiento](http://vitojph.github.io/ling/mrc/) (Grado en Lingüística y Lenguas Aplicadas, 1er cuatrimestre)
 
-- [Lenguajes de Marcado](http://vitojph.github.io/ling/lm/) (Grado en Lingüística y Lenguas Aplicadas, 2º cuatrimestre)
+- [Lenguajes de Marcado y Tecnologías Web](http://vitojph.github.io/ling/lmweb/) (Grado en Lingüística y Lenguas Aplicadas, 2º cuatrimestre)
 
 
 Si eres alumno de la antigua Licenciatura de Lingüística y estás matriculado en alguna de las antiguas asignaturas sin docencia asignadas a mí, [contacta conmigo](mailto:v.peinado@filol.ucm.es?subject=Asignaturas sin docencia) cuanto antes.

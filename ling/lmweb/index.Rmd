@@ -5,5 +5,22 @@ output: html_document
 
 <br/>
 
+<br/>
+
+
+### Información General
+
+- Profesor: [Víctor Peinado](mailto:v.peinado@filol.ucm.es)
+
+<!-- - [Ficha de la asignatura: curso 2014-3015](ficha-RepresentacionConocimiento.pdf) -->
+
+- Horario: 2º semestre, MX de 12h30 a 14h30
+
+- Tutorías: MX, de 15h00 a 18h00
+
+<br/>
+
+
+### Materiales
 
 Próximamente...
