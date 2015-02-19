@@ -12,7 +12,7 @@ output: html_document
 
 - Profesor: [Víctor Peinado](mailto:v.peinado@filol.ucm.es)
 
-<!-- - [Ficha de la asignatura: curso 2014-3015](ficha-RepresentacionConocimiento.pdf) -->
+- [Ficha de la asignatura: curso 2014-3015](ficha-LMWeb.pdf)
 
 - Horario: 2º semestre, MX de 12h30 a 14h30
 
@@ -23,4 +23,31 @@ output: html_document
 
 ### Materiales
 
-Próximamente...
+1. Introducción: la información en formato digital
+
+    - [Tipos de Información](TiposInformación.pdf)
+
+
+<!--
+1. Introducción: la información en formato digital
+ Tipos de información: texto, audio, imagen, vídeo
+ Qué es el hipertexto: hiperenlaces.
+ Formatos de audio.
+ Formatos de imagen.
+ Formatos de vídeo.
+2. Texto sin estructura y texto estructurado .
+ Independencia entre contenido y presentación
+ Lenguajes de marcas ligeros: mediawiki y markdown.
+ Formateo de documentos en LaTeX.
+ LaTeX para lingüistas.
+3. HTML
+ Introducción a HTML.
+ Herramientas de edición, validación y visualización.
+ Hojas de estilo CSS
+4. Lenguajes XML
+ Introducción a las tecnologías XML.
+Herramientas de edición, validación y visualización.
+Especificación de lenguajes XML: DTDs y XMLSchema
+Hojas de estilo CSS y XSLT
+Otros lenguajes de marcado: TEI, DocBook
+-->
