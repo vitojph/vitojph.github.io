@@ -25,7 +25,15 @@ output: html_document
 
 1. Introducción: la información en formato digital
 
-    - [Tipos de Información](TiposInformación.pdf)
+    - [Tipos de Información](TiposInformacion.pdf)
+
+<br/>
+
+2. Texto sin estructura y texto estructurado
+
+    - [Editores de texto](EditoresTexto.pdf)
+
+    - [Lenguajes de Marcas Ligeros: Wiki Markup](LenguajesMarcasLigeros-WikiMarkup.pdf)
 
 
 <!--
