@@ -20,6 +20,12 @@ output: html_document
 
 <br/>
 
+### Herramientas web
+
+Además del [campus virtual de la asignatura](https://cv4.ucm.es/moodle/course/view.php?id=56691), tenemos un [wiki en GitHub](https://github.com/vitojph/2015lmweb/wiki), un [blog en WordPress](https://2015lmweb.wordpress.com/) y un [chat público en Gitter](https://gitter.im/vitojph/2015lmweb).
+
+
+<br/>
 
 ### Materiales
 
