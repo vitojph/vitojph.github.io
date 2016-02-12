@@ -16,9 +16,7 @@ output: html_document
 
 <br/>
 
-## Docencia durante 2014-2015
-
-Durante este curso, mis horarios de tutorías y de atención a los alumnos son los jueves y viernes de 15h00 a 18h00. Si quieres pasar a verme, por favor avísame antes [enviándome un mensaje de correo](mailto:v.peinado@filol.ucm.es?subject=Tutoría).
+## Docencia durante 2015-2016
 
 Soy responsable de estas asignaturas de grado presenciales:
 
@@ -34,6 +32,16 @@ Si eres alumno de la antigua Licenciatura de Lingüística y estás matriculado 
 <br/>
 
 ## Docencia en años anteriores
+
+### Curso 2014-2015
+
+- [Programación para el Procesamiento del Lenguaje Natural](http://vitojph.github.io/ling/progpln/) (Grado en Lingüística y Lenguas Aplicadas, 1er cuatrimestre)
+
+- [Modelos de Representación del Conocimiento](http://vitojph.github.io/ling/mrc/) (Grado en Lingüística y Lenguas Aplicadas, 1er cuatrimestre)
+
+- [Lenguajes de Marcado y Tecnologías Web](http://vitojph.github.io/ling/lmweb/) (Grado en Lingüística y Lenguas Aplicadas, 2º cuatrimestre)
+
+<br/>
 
 ### Curso 2013-2014
 
