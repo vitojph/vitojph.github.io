@@ -35,11 +35,11 @@ Si eres alumno de la antigua Licenciatura de Lingüística y estás matriculado 
 
 ### Curso 2014-2015
 
-- [Programación para el Procesamiento del Lenguaje Natural](http://vitojph.github.io/ling/progpln/) (Grado en Lingüística y Lenguas Aplicadas, 1er cuatrimestre)
+- Programación para el Procesamiento del Lenguaje Natural (Grado en Lingüística y Lenguas Aplicadas, 1er cuatrimestre)
 
-- [Modelos de Representación del Conocimiento](http://vitojph.github.io/ling/mrc/) (Grado en Lingüística y Lenguas Aplicadas, 1er cuatrimestre)
+- Modelos de Representación del Conocimiento (Grado en Lingüística y Lenguas Aplicadas, 1er cuatrimestre)
 
-- [Lenguajes de Marcado y Tecnologías Web](http://vitojph.github.io/ling/lmweb/) (Grado en Lingüística y Lenguas Aplicadas, 2º cuatrimestre)
+- Lenguajes de Marcado y Tecnologías Web (Grado en Lingüística y Lenguas Aplicadas, 2º cuatrimestre)
 
 <br/>
 
