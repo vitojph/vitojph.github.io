@@ -1,0 +1,112 @@
+---
+title: "A great time to work on NLP"
+author: "Víctor Peinado"
+date: "March, 17 2016"
+output: ioslides_presentation
+---
+
+
+## A brief story
+
+- In the mid-80s, there was a little kid who played with Lego computers...
+
+- ... and pretended to speak foreign languages.
+
+- I wanted to talk to computers. I wanted computers to talk to me.
+
+- I want to help build Artifical Intelligence (AI).
+
+
+## Artificial Intelligence
+
+- AI implies Human-Computer Interaction (HCI).
+
+- HCI is far from perfect: people need to learn how to use machines.
+
+- Natural language seems still a miracle.
+
+- Natural Language Processing (NLP) can help AI to improve HCI.
+
+- Figuring out how to communicate with computers in order to understand how our mind works.
+
+- Great time for AI: Deep Learning
+
+
+## NLP Tasks
+
+- Machine Translation (MT).
+
+- Information Retrieval (IR).
+
+- Information Extraction (IE).
+
+- Virtual Assistants.
+
+
+## Teaching machines to act like humans
+
+- Machine Learning (ML).
+
+- Learn by examples: positive and negative cases.
+
+- Computers can review millions of examples, can learn patterns and generalize.
+
+- Once the computer has been trained, it can automatically classify a new example, never seen before.
+
+
+## What can linguists do here?
+
+- Encode linguistic knowledge and describe linguistic phenomena.
+
+- Build linguistic resources.
+
+- Test current systems and detect errors.
+
+
+
+## Annotate Data for ML
+
+- PoS tagging: grammatical categories and features.
+
+- Syntax: dependency parsing (heads and modifiers).
+
+- Semantic annotation: mentions, entities (types), co-reference chains.
+
+- Specialized search engines: shopping, images
+
+
+## Other tasks in which we participate
+
+- Annotation of specialized lexicons:
+
+    - weather
+
+    - sports
+
+    - flights
+
+    - events
+
+- Model different type of action types:
+
+    - reminders
+  
+    - communication actions
+
+
+## Unsupervised ML
+
+- When we cannot model of knowledge (or it isn't feasible to manually annotate the data).
+
+- Big data, analysis of raw data, *zillions* of unannotatede examples are processed.
+
+- Computers detect patterns, extract by themselves the model.
+
+- it works surprisingly well: it's (black) magic :-)
+
+- Smart algorithms, but the whole process is becoming a black box. 
+
+
+## 
+
+Any questions??
