@@ -14,7 +14,7 @@ output: ioslides_presentation
 
 - I wanted to talk to computers. I wanted computers to talk to me.
 
-- I want to help build Artifical Intelligence (AI).
+- I want to help build Artificial Intelligence (AI).
 
 
 ## Artificial Intelligence
@@ -27,7 +27,7 @@ output: ioslides_presentation
 
 - Natural Language Processing (NLP) can help AI to improve HCI.
 
-- Figuring out how to communicate with computers in order to understand how our mind works.
+- Figuring out how to communicate with computers can help us understand how our mind works.
 
 - Great time for AI: Deep Learning
 
@@ -40,27 +40,27 @@ output: ioslides_presentation
 
 - Information Extraction (IE).
 
-- Virtual Assistants.
+- Virtual Assistants: don't blame me, but I want a butler!! 
 
 
 ## Teaching machines to act like humans
 
-- Machine Learning (ML).
+- Most of NLP tasks currently rely on Machine Learning (ML).
 
 - Learn by examples: positive and negative cases.
 
-- Computers can review millions of examples, can learn patterns and generalize.
+- Computers can review millions of examples, can detect patterns and generalize.
 
 - Once the computer has been trained, it can automatically classify a new example, never seen before.
 
 
 ## What can linguists do here?
 
-- Encode linguistic knowledge and describe linguistic phenomena.
+- Annotation of data: encode linguistic knowledge and describe linguistic phenomena.
 
-- Build linguistic resources.
+- Build linguistic resources: controlled vocabularies, dictionaries, list of words.
 
-- Test current systems and detect errors.
+- Evaluate current systems, detect errors and suggest possible improvements.
 
 
 
@@ -75,7 +75,7 @@ output: ioslides_presentation
 - Specialized search engines: shopping, images
 
 
-## Other tasks in which we participate
+## Linguistic Resources
 
 - Annotation of specialized lexicons:
 
@@ -94,11 +94,20 @@ output: ioslides_presentation
     - communication actions
 
 
-## Unsupervised ML
+## Language Technology Systems Evaluation
+
+- quality of MT systems
+
+- quality of Text-to-Speech (TTS) systems 
+
+
+
+
+## Our main enemy: Unsupervised ML
 
 - When we cannot model of knowledge (or it isn't feasible to manually annotate the data).
 
-- Big data, analysis of raw data, *zillions* of unannotatede examples are processed.
+- Big data: analysis of raw data, *zillions* of un-annotated examples are processed.
 
 - Computers detect patterns, extract by themselves the model.
 
