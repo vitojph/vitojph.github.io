@@ -1,6 +1,6 @@
 ---
 title: "A great time to work on NLP"
-author: "Víctor Peinado"
+author: "Víctor Peinado (`vpeinado@`)"
 date: "March, 17 2016"
 output: ioslides_presentation
 ---
