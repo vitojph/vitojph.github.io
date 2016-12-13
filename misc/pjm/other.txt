@@ -1,0 +1,33 @@
+Parsing
+This document presents the conventions for performing the following tasks: tokenization verification, part-of-speech tagging (coarse and fine-grained tags) and dependency parsing annotations. We also provide some examples to illustrate the different tags/labels used, as well as a discussion of some difficult cases.
+
+SAFT
+The purpose of this task is to annotate and analyze entities in text. Entities are people, places, or things. They typically are referred to by nouns or noun phrases or pronouns. The SAFT annotation task includes clustering together separate references to the same entity; classification or tagging of each of those mentions; and classification or tagging of the entity itself. This goal of this document is to provide instructions about how to identify and annotate entities and how to analyze them.
+
+
+STA
+Short Text Analysis (go/saft-sta) aims to understand short text at a deeper level than the surface form. The goal of this task is to annotate the semantic head and modifier structure of queries to train and evaluate a STA system.
+
+This annotation will provide eval data to improve image search. We will annotate image search queries, identifying the thing that is searched for, as well as any of its modifiers.
+
+
+
+
+
+Actions
+Actions interpret user input (e.g. spoken; typed in the omnibar in chrome; or qsb in android), as requests for Google to perform actions on your behalf. Actions are like (SMS, call, navigate, email, etc). Currently they apply to Android, but the goal is to have actions on all entry points like desktop search, glass, iOS, etc.
+
+Domains in actions
+Planning : Set alarm, Calendar event, Reminder, Note to self etc.
+Communication: Call, SMS, Email etc ⇦ our target in this task.
+Media: Play music, Take a picture, Open apps/urls etc.
+Device: Turn on/off wifi, Find phone
+Third party: Search X on Y etc.
+Fitness: Start Biking / Running / Workout
+
+SAFT Named Entity Recognition
+Communication grammars use SAFT Named Entity Recognition (NER) to recognize the recipients of the communication actions. For example, when the user input is "send text message to John I will be there", "John" will be recognized as an entity of the type person.
+
+Goal
+The goal of this DEAR is to evaluate the current state of the Actions/Communications grammars, and the performance of the SAFT NER within this domain.
+

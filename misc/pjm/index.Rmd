@@ -1,0 +1,121 @@
+---
+title: "A great time to work on NLP"
+author: "Víctor Peinado (`vpeinado@`)"
+date: "March, 17 2016"
+output: ioslides_presentation
+---
+
+
+## A brief story
+
+- In the mid-80s, there was a little kid who played with Lego computers...
+
+- ... and pretended to speak foreign languages.
+
+- I wanted to talk to computers. I wanted computers to talk to me.
+
+- I want to help build Artificial Intelligence (AI).
+
+
+## Artificial Intelligence
+
+- AI implies Human-Computer Interaction (HCI).
+
+- HCI is far from perfect: people need to learn how to use machines.
+
+- Natural language seems still a miracle.
+
+- Natural Language Processing (NLP) can help AI to improve HCI.
+
+- Figuring out how to communicate with computers can help us understand how our mind works.
+
+- Great time for AI: Deep Learning
+
+
+## NLP Tasks
+
+- Machine Translation (MT).
+
+- Information Retrieval (IR).
+
+- Information Extraction (IE).
+
+- Virtual Assistants: don't blame me, but I want a butler!! 
+
+
+## Teaching machines to act like humans
+
+- Most of NLP tasks currently rely on Machine Learning (ML).
+
+- Learn by examples: positive and negative cases.
+
+- Computers can review millions of examples, can detect patterns and generalize.
+
+- Once the computer has been trained, it can automatically classify a new example, never seen before.
+
+
+## What can linguists do here?
+
+- Annotation of data: encode linguistic knowledge and describe linguistic phenomena.
+
+- Build linguistic resources: controlled vocabularies, dictionaries, list of words.
+
+- Evaluate current systems, detect errors and suggest possible improvements.
+
+
+
+## Annotate Data for ML
+
+- PoS tagging: grammatical categories and features.
+
+- Syntax: dependency parsing (heads and modifiers).
+
+- Semantic annotation: mentions, entities (types), co-reference chains.
+
+- Specialized search engines: shopping, images
+
+
+## Linguistic Resources
+
+- Annotation of specialized lexicons:
+
+    - weather
+
+    - sports
+
+    - flights
+
+    - events
+
+- Model different type of action types:
+
+    - reminders
+  
+    - communication actions
+
+
+## Language Technology Systems Evaluation
+
+- quality of MT systems
+
+- quality of Text-to-Speech (TTS) systems 
+
+
+
+
+## Our main enemy: Unsupervised ML
+
+- When we cannot model of knowledge (or it isn't feasible to manually annotate the data).
+
+- Big data: analysis of raw data, *zillions* of un-annotated examples are processed.
+
+- Computers detect patterns, extract by themselves the model.
+
+- it works surprisingly well: it's (black) magic :-)
+
+- Smart algorithms, but the whole process is becoming a black box. 
+
+
+## 
+
+Any questions??
