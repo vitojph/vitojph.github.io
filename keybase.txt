@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/vitojph
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vitojph.github.io
+  * I am vitojph (https://keybase.io/vitojph) on keybase.
+  * I have a public key with fingerprint 16AC 53D2 9144 5025 B3A3  66E2 FE42 74C2 E6C2 5218
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e0e1b039967b25593a3e45b53252508790a0e940a907df89effb02d7e08317820a",
+            "fingerprint": "16ac53d291445025b3a366e2fe4274c2e6c25218",
+            "host": "keybase.io",
+            "key_id": "fe4274c2e6c25218",
+            "kid": "01017e324211666fd09cc59291aedcd02b67bcb9c13b6e17f484311f940ca68155640a",
+            "uid": "5e54c23069a37fb67e267692c622a719",
+            "username": "vitojph"
+        },
+        "service": {
+            "hostname": "vitojph.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1481656079,
+    "expire_in": 157680000,
+    "prev": "f5aec72c06276e95563a6d017afecc67618e683dc7ca90ea02565a36920bc589",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUmtQVGUYXtCFAQz2D8RFJ+eYCcOq537ZgcYLJgzSiChF03A8l++wh8s56+5h
+gVEoYAYncAbSUpuJUhLGRG5pYivgxDAEQbShNA1paZEbpZhdjAKz71D+aKbvzzff
++z3P877P+75Njy2zhAc962+9VXw/9lrQ2KxoeX7n9qf2I6IuVyCO/UgRWLpAsQw8
+Bl+kyogDQTEcBSjARJTgOJoRcYriCIEAJCVSBE7hFMoyHCqggCNRgUMZWWE5oCgi
+issMQFkCY1gcFRA7oqhaAXC73KpmQFmMFiSKkHEOI0kKxSkRatI0wBVA4gwp4YCW
+oDjGQqJT95gMWJwoeMAGVYcx+OCXyvsf/KO6UYwBBE7iGEbTtCKjnCRRHEwoAFmS
+UVyEZiSRkzBCpAHGKCRLEhimQBuSQLMYRdHkUt2lS3IUoGAWAqU5gWAUyAU4zdAc
+LtE4LjAYZwI9wK0JJQCivaqhF7qcSKUdgUGvKgGzr6aR/wI2FKiGs1T8x5PLrRu6
+pBfDb6dhuDwOk25UuEx8GRD5f5V4UdVk2EvI8AK3R9U1xIFBpGSopjRGshhN0SjD
+2RFQ7lLdgFdNBMXQLAqPmQd4zc5RwotAYnAJpXGGBhw0TAi0DLsmKECSoDuMBTRL
+yBIjwcECAU6JpuCUOBwVJYo1LXvAPk1HHDCVIRRATY9aoAlGqRsgleGvBK9cbgkK
+t4RYg80ts4SH2R6t3t7BqIfuLc7jGd+/3D6de2Tb4unplf0f+taDAxlNCXvEMxkx
+EbtiO3/Bz7yArMuzbbn8bUXOZnJs0pkCfgwUJ5yd6dV6mo42R3QmTsVip75Mv1vW
+1Te5ODz/Sdf46tD86Vd7Wh21eIDY/ebiqneGtdSs8Nw3jp+MiPeFLV9IuJ1QXHji
+WG+1P8d+PnS+UTtVUtuQpP3wacuBNf22Q3ntDWe/cdCrK921ndH37DtOjyTb4kOs
+clK/PuDvC61BIx9fkd/qsMfdSXu7Nugt3ybl9UBz1NFzH+fvGmJ+i/0rM6lr3mja
+fvH2dW3C+dLvjmMLRdlbyzdb185WTd1Jdo76M58r7dduXhy/FJVqezoVlE2WXEhc
+05t/5V78jWy+PBi/WR2Y7pJiyh7MJ4VWe9Y1PFHNDzwYfK+udzjLot+VbgSXu7SS
+wT/Wn2+45KjquJZy+Epjm6u+oi1mNulq8mE2tbFo7iv+/ZZ3Wy40eX3pr11fFtsS
+93lc/kSjPW/Pvu5AbqKfnw+ptq5q3fFB/SbnIX6kWUwfH61EZ8bXytarak3Wih7b
+rW0HpY6Daan369vqlMC5wqbd1m5A+vwR0X2RNQtK62dxPn4s4Gqfy4pL23ry66Hv
+Ij96ZiqKStiZ/euJnKqH3sv27OawmKKIn3/K6tnLjzoG5jL/7IxxT3RvjNY7hkY2
+PvkFXzeT8jc=
+=KZ2g
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vitojph
+
+==================================================================
+
