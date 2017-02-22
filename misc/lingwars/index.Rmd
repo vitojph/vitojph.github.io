@@ -3,28 +3,26 @@ title: 'Cómo hacerse una carrera en #NLProc'
 author: "Víctor Peinado | @vitojph | vitojph.github.io"
 date: "22/2/2017"
 output: ioslides_presentation
-font-import: http://fonts.googleapis.com/css?family=Risque
-font-family: 'Risque'
 ---
 
 
 ## Índice
 
-- ¿Qué es el Procesamiento de Lenguaje Natural?
+- ¿Qué es el Procesamiento de Lenguaje Natural (PLN)?
 
-- Habilidades para trabajar en PLN
+- Habilidades y competencias del NLPer ideal
 
-- Grupos de PLN en Madrid
+- Grupos de Procesamiento del Lenguaje en España
 
-- Grupos de PLN en España
+- Grupos de Procesamiento del Lenguaje en Europa
 
-- Grupos de PLN en Europa
+- Grupos de Procesamiento del Lenguaje en EEUU
 
-- Grupos de PLN en EEUU
+- MOOCs y cursos online
 
-- Cursos y materiales
+- Otros cursos presenciales y formación fuera de la universidad
 
-- Libros y lecturas
+- Otras lecturas
 
 
 ## ¿Qué es el PLN?
@@ -91,12 +89,13 @@ Es la disciplina relacionada con el desarrollo de herramientas y soluciones que 
 
 - A partir de esa década, irrumplen las aproximaciones estadísticas basadas en sistemas de **aprendizaje automático**, que requieren grandes colecciones de datos anotados manualmente. Desarrollo paralelo al aumento de potencia de los ordenadores.
 
-- Actualmente, vivimos un auge de los sistemas de aprendizaje automático, con especial énfasis en el uso de la Web. 
+- Actualmente, vivimos un auge de los sistemas de aprendizaje automático *no supervisados* (es decir, no anotados), con especial énfasis en el uso de la Web. Explosión de datos en formato electrónico.
 
-- Y en los últimos años hemos visto el resurgir de los sistemas que utilizan **redes neuronales** para modelar conocimiento a partir de ingentes cantidades de datos no anotados (*deep learning*).
+- En la década de los 2010s hemos visto el resurgir de los sistemas que utilizando **redes neuronales**.
 
 
 ## Tareas resueltas y problemas abiertos
+
 
 ![Language Technologies](img/langtech-progress.png)
 
@@ -104,6 +103,7 @@ Es la disciplina relacionada con el desarrollo de herramientas y soluciones que 
 ## ¿Por qué es tan difícil el PLN?
 
 El lenguaje natural es eminentemente **ambiguo**: es la principal diferencia entre lenguas naturales y lenguajes artificiales.
+
 
 Y esta ambigüedad existe a varios niveles:
 
@@ -141,7 +141,7 @@ Herramientas para el día a día, trabajar en equipo, compartir y reutilizar có
 
 - línea de comandos de Unix, bash y herramientas de procesamiento de texto, `git` y [GitHub](https://github.com/).
 
-- librerías para tareas de PLN: [NLTK](http://www.nltk.org/), [GATE](https://gate.ac.uk/), [Tensorflow](https://www.tensorflow.org), [IBM Watson](https://developer.ibm.com/watson/), [FreeLing](http://nlp.cs.upc.edu/freeling/), [pattern](http://www.clips.ua.ac.be/pattern)... [awesome-nlp](https://github.com/keon/awesome-nlp).
+- librerías para tareas de PLN: [NLTK](http://www.nltk.org/), [GATE](https://gate.ac.uk/), [Tensorflow](https://www.tensorflow.org), [FreeLing](http://nlp.cs.upc.edu/freeling/), [pattern](http://www.clips.ua.ac.be/pattern).
 
 - Computación en la nube: [Google Cloud Platform](https://cloud.google.com/), [Amazon AWS](https://aws.amazon.com/es/), [Heroku](https://www.heroku.com/).
 
@@ -191,6 +191,8 @@ En la Comunidad Valenciana:
 
 
 En Andalucía:
+
+  - **UCA**: [Lenguaje, Computación, Conocimiento](http://hum571.uca.es/).
 
   - **UJaén**: [SINAI](http://sinai.ujaen.es/en/).
 
