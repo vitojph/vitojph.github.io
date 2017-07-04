@@ -16,7 +16,7 @@ output: html_document
 
 <br/>
 
-## Curso 2015-2016
+## Curso 2016-2017
 
 Soy responsable de las siguientes asignaturas de grado presenciales:
 
