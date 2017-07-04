@@ -16,9 +16,21 @@ output: html_document
 
 <br/>
 
-## Docencia durante 2015-2016
+## Curso 2015-2016
 
-Soy responsable de estas asignaturas de grado presenciales:
+Soy responsable de las siguientes asignaturas de grado presenciales:
+
+- [Programación para el Procesamiento del Lenguaje Natural](https://github.com/vitojph/2016progpln/) (Grado en Lingüística y Lenguas Aplicadas, 1er cuatrimestre)
+
+Si eres alumno de la antigua Licenciatura de Lingüística y estás matriculado en alguna de las antiguas asignaturas sin docencia asignadas a mí, [contacta conmigo](mailto:v.peinado@filol.ucm.es?subject=Asignaturas sin docencia) cuanto antes.
+
+<br/>
+
+
+## Docencia en años anteriores
+
+
+### Curso 2015-2016
 
 - [Programación para el Procesamiento del Lenguaje Natural](http://vitojph.github.io/ling/progpln/) (Grado en Lingüística y Lenguas Aplicadas, 1er cuatrimestre)
 
@@ -26,12 +38,6 @@ Soy responsable de estas asignaturas de grado presenciales:
 
 - [Lenguajes de Marcado y Tecnologías Web](http://vitojph.github.io/ling/lmweb/) (Grado en Lingüística y Lenguas Aplicadas, 2º cuatrimestre)
 
-
-Si eres alumno de la antigua Licenciatura de Lingüística y estás matriculado en alguna de las antiguas asignaturas sin docencia asignadas a mí, [contacta conmigo](mailto:v.peinado@filol.ucm.es?subject=Asignaturas sin docencia) cuanto antes.
-
-<br/>
-
-## Docencia en años anteriores
 
 ### Curso 2014-2015
 
