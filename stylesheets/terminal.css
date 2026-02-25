@@ -1,0 +1,277 @@
+/* === Modern Terminal Theme === */
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+:root {
+  --bg: #0d1117;
+  --bg-light: #161b22;
+  --border: #30363d;
+  --text: #c9d1d9;
+  --text-muted: #8b949e;
+  --green: #7ee787;
+  --blue: #79c0ff;
+  --purple: #d2a8ff;
+  --orange: #ffa657;
+  --red: #ff7b72;
+  --yellow: #e3b341;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
+  font-size: 14px;
+  line-height: 1.7;
+  min-height: 100vh;
+  padding: 2rem 1rem;
+}
+
+/* Terminal window */
+.terminal {
+  max-width: 780px;
+  margin: 0 auto;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--bg-light);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+/* Title bar */
+.terminal-titlebar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 16px;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  user-select: none;
+}
+
+.terminal-dots {
+  display: flex;
+  gap: 6px;
+}
+
+.terminal-dots span {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+.terminal-dots span:nth-child(1) { background: var(--red); }
+.terminal-dots span:nth-child(2) { background: var(--yellow); }
+.terminal-dots span:nth-child(3) { background: var(--green); }
+
+.terminal-title {
+  flex: 1;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 12px;
+}
+
+/* Terminal body */
+.terminal-body {
+  padding: 1.5rem;
+}
+
+/* Prompt */
+.prompt {
+  color: var(--green);
+  margin-bottom: 0.25rem;
+}
+
+.prompt::before {
+  content: '$ ';
+  color: var(--purple);
+}
+
+/* Neofetch card */
+.neofetch {
+  display: flex;
+  gap: 2rem;
+  margin: 1rem 0 2rem;
+  padding: 1rem 0;
+}
+
+.neofetch-ascii {
+  color: var(--blue);
+  font-size: 11px;
+  line-height: 1.2;
+  white-space: pre;
+  flex-shrink: 0;
+}
+
+.neofetch-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  min-width: 0;
+}
+
+.neofetch-separator {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 0.4rem 0;
+}
+
+.info-key {
+  color: var(--purple);
+  font-weight: 700;
+}
+
+.info-val {
+  color: var(--text);
+}
+
+.info-link {
+  color: var(--blue);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.info-link:hover {
+  color: var(--green);
+  text-shadow: 0 0 6px rgba(126, 231, 135, 0.3);
+}
+
+/* Section headings as prompts */
+.section {
+  margin-top: 1.5rem;
+}
+
+.section-prompt {
+  color: var(--green);
+  margin-bottom: 0.75rem;
+}
+
+.section-prompt::before {
+  content: '$ ';
+  color: var(--purple);
+}
+
+.section-content {
+  color: var(--text);
+  padding-left: 0.5rem;
+  border-left: 2px solid var(--border);
+  margin-left: 0.25rem;
+  margin-bottom: 1rem;
+}
+
+.section-content p {
+  margin-bottom: 0.75rem;
+}
+
+.section-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* Links in content */
+.section-content a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px dashed var(--border);
+  transition: all 0.2s;
+}
+
+.section-content a:hover {
+  color: var(--green);
+  border-bottom-color: var(--green);
+}
+
+/* Links list */
+.links-list {
+  list-style: none;
+  padding-left: 0.5rem;
+  border-left: 2px solid var(--border);
+  margin-left: 0.25rem;
+}
+
+.links-list li {
+  margin-bottom: 0.3rem;
+}
+
+.links-list li::before {
+  content: '-> ';
+  color: var(--orange);
+}
+
+.links-list a {
+  color: var(--blue);
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.links-list a:hover {
+  color: var(--green);
+  text-shadow: 0 0 6px rgba(126, 231, 135, 0.3);
+}
+
+.link-label {
+  color: var(--text-muted);
+  font-size: 0.9em;
+}
+
+/* Blinking cursor */
+.cursor {
+  display: inline-block;
+  margin-top: 1.5rem;
+  color: var(--green);
+  animation: blink 1s step-end infinite;
+}
+
+.cursor::before {
+  content: '$ ';
+  color: var(--purple);
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+/* Color palette dots */
+.color-palette {
+  display: flex;
+  gap: 4px;
+  margin-top: 0.5rem;
+}
+
+.color-palette span {
+  display: inline-block;
+  width: 24px;
+  height: 8px;
+  border-radius: 2px;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  body {
+    padding: 0.5rem;
+    font-size: 13px;
+  }
+
+  .terminal {
+    border-radius: 6px;
+  }
+
+  .terminal-body {
+    padding: 1rem;
+  }
+
+  .neofetch {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .neofetch-ascii {
+    font-size: 9px;
+    text-align: center;
+  }
+}
