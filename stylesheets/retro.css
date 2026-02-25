@@ -1,0 +1,179 @@
+/* === 8-bit Retro Terminal Theme === */
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+:root {
+  --green: #33ff33;
+  --green-dim: #1a9f1a;
+  --green-dark: #0d5e0d;
+  --bg: #0a0a0a;
+  --cyan: #00ffff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg);
+  color: var(--green);
+  font-family: 'Courier New', 'Lucida Console', monospace;
+  font-size: 16px;
+  line-height: 1.8;
+  min-height: 100vh;
+}
+
+/* CRT container */
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  position: relative;
+  animation: flicker 8s infinite;
+}
+
+/* Scanline overlay */
+.container::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.15) 0px,
+    rgba(0, 0, 0, 0.15) 1px,
+    transparent 1px,
+    transparent 3px
+  );
+  pointer-events: none;
+  z-index: 999;
+}
+
+@keyframes flicker {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.98; }
+  75% { opacity: 0.97; }
+  92% { opacity: 1; }
+  95% { opacity: 0.96; }
+}
+
+/* ASCII header */
+.ascii-header {
+  color: var(--green);
+  font-family: 'Courier New', monospace;
+  font-size: 14px;
+  line-height: 1.2;
+  text-align: center;
+  margin-bottom: 2rem;
+  text-shadow: 0 0 8px var(--green-dim);
+  overflow-x: auto;
+}
+
+/* Headings */
+h2 {
+  font-family: 'Press Start 2P', monospace;
+  font-size: 16px;
+  color: var(--green);
+  text-shadow: 0 0 10px var(--green-dim), 0 0 20px var(--green-dark);
+  margin: 2rem 0 1rem;
+  padding: 0.5rem 0;
+  border-bottom: 2px dashed var(--green-dim);
+}
+
+h2::before {
+  content: '> ';
+  color: var(--green-dim);
+}
+
+/* Paragraphs */
+p {
+  margin-bottom: 1rem;
+  text-shadow: 0 0 5px var(--green-dark);
+}
+
+/* Links */
+a {
+  color: var(--green);
+  text-decoration: none;
+  border-bottom: 1px dashed var(--green-dim);
+  transition: all 0.2s;
+}
+
+a:hover {
+  color: var(--cyan);
+  border-bottom-color: var(--cyan);
+  text-shadow: 0 0 8px var(--cyan);
+}
+
+/* Code */
+code {
+  color: #55ff55;
+  background: rgba(51, 255, 51, 0.07);
+  border: 1px solid var(--green-dim);
+  padding: 0.1em 0.4em;
+  font-family: 'Courier New', monospace;
+  font-size: 0.95em;
+}
+
+/* Emphasis */
+em {
+  color: var(--green);
+  font-style: italic;
+  text-shadow: 0 0 6px var(--green-dim);
+}
+
+/* Section borders using box-drawing chars */
+#main_content {
+  border: 1px solid var(--green-dim);
+  padding: 1.5rem;
+  position: relative;
+}
+
+#main_content::before {
+  content: '╔══════════════════════════════════════════╗';
+  display: block;
+  color: var(--green-dim);
+  font-family: 'Courier New', monospace;
+  font-size: 12px;
+  text-align: center;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+#main_content::after {
+  content: '╚══════════════════════════════════════════╝';
+  display: block;
+  color: var(--green-dim);
+  font-family: 'Courier New', monospace;
+  font-size: 12px;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+/* Blinking cursor */
+.cursor {
+  animation: blink 1s step-end infinite;
+  color: var(--green);
+  font-weight: bold;
+  text-shadow: 0 0 8px var(--green);
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  body { font-size: 14px; }
+  h2 { font-size: 12px; }
+  .ascii-header { font-size: 8px; }
+  .container { padding: 1rem; }
+  #main_content { padding: 1rem; }
+  #main_content::before,
+  #main_content::after { font-size: 8px; }
+}
