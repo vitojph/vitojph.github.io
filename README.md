@@ -1,4 +1,5 @@
 vitojph.github.io
 =================
 
-My personal pages
+This repo contains my personal pages. 
+
