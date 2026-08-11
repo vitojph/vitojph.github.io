@@ -1,0 +1,35 @@
+# Víctor Peinado (vitojph)
+
+> Personal website of Víctor Peinado, a software engineer specializing in machine learning, natural language processing, search, ranking, LLM systems, and evaluation.
+
+Víctor builds AI products that simulate human reasoning and behavior using modern AI agents and large language models. His career has focused on applying machine learning, search, and data science to natural language processing. He was born and raised in Madrid and lives in the New York City area.
+
+## Current work
+
+Víctor is a Software Engineer at Kustomer, where he designs, evaluates, and ships AI features for an omnichannel SaaS CRM for enterprise customer service.
+
+## Previous work
+
+His prior experience includes teaching machine learning, deep learning, and NLP at KSchool; leading machine learning engineers at Reply.ai; consulting on AI at Minsait/INDRA; building natural-language products at Google; teaching computational linguistics and NLP at Universidad Complutense de Madrid; and conducting cross-language NLP and information-retrieval research at UNED.
+
+## Areas of expertise
+
+- Artificial intelligence and AI agents
+- Large language models and evaluation
+- Machine learning and data science
+- Natural language processing
+- Search and ranking
+- Production ML systems
+
+## Languages and technologies
+
+- Human languages: Spanish, English, Italian
+- Programming languages: Python, Go, JavaScript
+
+## Links
+
+- [Website](https://vitojph.github.io/): Canonical personal homepage
+- [GitHub](https://github.com/vitojph): Public code and projects
+- [LinkedIn](https://www.linkedin.com/in/victorpeinado/): Professional profile
+- [X](https://x.com/vitojph): Social profile
+- [Keybase](https://keybase.io/vitojph): Identity and cryptographic profile
